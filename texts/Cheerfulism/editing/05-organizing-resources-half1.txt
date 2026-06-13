@@ -1,0 +1,410 @@
+5.- Thoughts on the ideal society, part 2: On organizing resources plus the potential influence of Cheerfulism and new tech on it.
+
+The key on the resource organization dilemma resides in, you might have heard this in some economics class, satisfying unlimited desires with limited resources. Humans have invented lots of protocols which usually end in -ism as an attempt to manage the resources as best as possible to create the best outcome. But what is the best outcome? The best society? I define that as follows:
+
+`` A society where everyone has survival statistically granted and is as happy as they can be. And, for that, each individual has enough tools to imagine and pursue a way of finding its peak of happiness. ``
+
+To keep understanding the problem we will need to define all the key points in the spectrum of resource management protocols we will be discussing: anarchism, libertarianism, socialism and communism.
+
+Before defining them, please note that the way I will define these -isms is different from the nowadays social perception of them. And incorrect or incomplete compared to the academic versions of them.
+
+I do not care, I’ve never been satisfied with any of the explanations I’ve heard on the analysis of the resource management problem. Whether I was listening to actual academic professionals on each “-ism” or to normal people in the street, I felt something was missing, I felt there were always things, regardless of the “-ism”, which were non-sense or vague or unnecessarily complex or some combination of these.
+
+In previous versions of this book, I wrote in more detail on these nonsensical things. But I decided this is quite a useless spending of my time and effort and deleted it from the book. Basically, because if I were to critique them, even if I’m directionally right in my critique, it will be useless and vague unless I’m an expert on the -ism I critique.
+
+As of my current thoughts, I think what makes me reject academic or social definitions is that they do not clearly state from the beginning that they are actually analyzing a spectrum. And most of them present themselves as an independent, completely different approach from one another.
+
+They are not. Most of the -isms are not fundamentally different from one another, they just differ in gray areas, and then they invent some anti-natural axioms to justify their individuality when some clever argumentation against its individuality is presented.
+
+Later, as the discussion goes on and on, these anti-natural axioms are used over and over again, confusing everything and making all an intellectual mess, an honest one, yet a mess.  Leading to books of hundreds and hundreds of pages to avoid admitting that they are actually  not that unique.
+
+It kind of feels natural and ergonomic though. If someone married to an -ism admits all of this, they would have to think so much again and untangle the mess. That is a lot of effort. Or even worse, destroy everything and start from 0, even more effort.
+
+However, I encourage you to learn more about them on your own. Even if from time to time they all argue stuff with anti-natural statements, that does not take away that there is some useful element of truth to extract from each one of them. Furthermore it is a nice mental exercise to be exposed to other people’s framing ideas.
+
+So please do not think the following definitions represent the ideologies as per current academic or social consensus. They are just a part of what people imply when naming them. The ideologies have way larger and more nuanced definitions in other contexts. Depending on who you ask even, some definitions change. I hate that, it is confusing, so to not be confused, I made my own, which funnily enough just creates another definition to confuse others.
+
+My definitions were crafted trying to extract the element of truth, trying to logically deduce what all the definitions had in common, those defining traits which are actually useful and clear for the analysis of the problem.
+
+The following, as said, is just the useful part of them when analyzing the resource management dilemma of human societies, a.k.a. economics.
+
+I will define them from a “capability of arranging resources through money” point of view. This means who can or can not manage resources with money.
+
+Say no more here they are:
+
+- Anarchism: an anarchist society does not have a State, understood as a body with the monopolistic use of violence to enforce a law. There might or might not be public or private money. And the capability of using it is limited by rules agreed in the group instead of laws enforced by a State.
+
+- Libertarianism: a libertarian society is the next centralization step from an anarchist society. In a libertarian society there is public money yet this is kept to the minimum amount required to fund a public army that forces people to abide by the law. People have private money and can spend it to organize resources as long as they do not break the law. And the law is minimal, in the sense that it conflicts with the least intensity possible with the population desires and needs.
+
+- Socialism: a socialist society is the next centralization step. If there is public money and it is used for creating more public services rather than just an army to enforce the law, that defines socialism. As in libertarianism, people still have private money which they can spend to organize any resource as long as they do not break the law. If the law is not minimal that also defines socialism.
+
+- Communism: a communist society has no private money. Indeed it has no money at all. All power resides in the government who organizes resources with the power of its own authority. Government says, people obey, resources get moved.
+
+You can visually think of all this text as follows:
+
+
+Let me now define clearly a key term I used defining libertarianism: minimal law. As said, it is a penal code (set of laws) that conflicts with the least intensity possible with the population's desires and needs. That intensity is defined by the number of constraints a law defines and the number of desires and needs that are actually suppressed inside a population due to those constraints. As we will understand soon, this is an impossible measurement as per our current capabilities, but this is its definition.
+
+For the sake of clarity, here are the logic gates that define the -isms, if you are not a computer scientist I encourage you to research what this means:
+
+notState = anarchism
+
+State AND publicMoneyOnlyInArmy AND MinimalLaw = libertarianism
+
+State AND (notPublicMoneyOnlyInArmy OR NotMinimalLaw) = Socialism
+
+State AND noMoneyOnlyStateCommands = Communism
+
+I will finish the beginning of this chapter with a bet. Then, while exploring the core problems of distributing resources, you will understand the reasons behind this bet and why it is not something assured, but a bet.
+
+The bet:
+
+If people become Cheerful, societies will become libertarian and socialism or any unnecessary centralization of power will eventually disappear.
+
+After this long we finally understand how happiness works and we can conclude that for an individual to be happy it needs to: have enough money, relationships and health to be entertained plus basic biological survival needs covered and enough opportunities to pursue all of these things it might be lacking.
+
+Thanks to all the technological advancement a lot of us can be less worried about the survival part. But what about the rest? How can we organize society so everyone can try to be happy and succeed in their mission?
+
+Well, it’s all statistics and it might be, sometimes, quite impossible.
+
+5.1.- The 2 core problems when distributing resources and the implications of Cheerfulism, AI and blockchain on them.
+
+5.1.2.- The first core problem: too much variables.
+
+There are multiple variables affecting this problem in this system. For example some variables are how many resources we consume and how many each of us needs to satisfy our desires.
+
+Consider the current estimated global population: with over 8 billion individuals (8.000.000.000 = 8 * 10^9), each person with its unique desires and needs, the number of variables quickly becomes of astronomical magnitude. If we, very conservatively, estimate that each person has at least one unique desire, we're already dealing with 16 billion variables. Furthermore, these desires can change at varying rates, adding another layer of complexity.
+
+So we got ourselves 8 * (10^9) humans, times 8 * (10^9) desires-at-least * some-rate-of-change. This is at least 64 * (10^18) variables, and we are being very conservative.
+
+There are a lot of variables that influence needs and desires, merely by generally defining them we already get such enormous numbers. This is the first core issue on organizing resources in our societies, its mere complexity due to the amount of variables involved.
+
+How do we get rid of this issue, in other words, how do we solve this problem. Or at least, how do we minimize its negative impacts?
+
+In order to ease our initial understanding about the problem of efficient resource management, let’s start assuming that there are enough resources in the first place to keep us all alive, we will revisit this assumption, this fixed variable, later.
+
+Now we know that our brains can solve problems by breaking them down, by using the fixed-variable resolution technique, processing definitions from experiencing reality and playing around using logic around those definitions to react. We are multiple of these beings playing a ping pong information game with one another. We might shoot the ball in our turn faster or slower, with a special effect or not, and then the other will react to our actions, after processing himself the information.
+
+In recent history, we became astonishingly good at this. Humans have invented lots of technologies that made this process faster.
+
+With engines we got physically faster, and our messengers could transport information faster. Then, after intellectually taming the flow of electrons, electricity, and after a good bunch of years of cleverness, we made them become our main messengers. Then, we wired the whole world with fancy metals, rails for electrons, we encoded meaning in them and unlocked the quickest highway of information flow, a highway with a speed limit close to the speed of light, the internet.
+
+Fast forward more decades and we got ourselves more advancements in the incredibly creative and fancy ways we make these electrons dance, getting ourselves AI. Or for the technical people reading this, Large Language Models (LLMs).
+
+And here I stop with this fancy, quite poetic description on how humans have developed faster ways of transmitting and processing information. Which ultimately, at the deepest base of our natural workings, it is the way in which we take decisions and decide how to manage the resources.
+
+We have way better technology, therefore we can make good, and bad decisions, faster. But, could we solely rely on technology?
+
+Let’s tackle the latest of technologies, AI. Because AI is what mostly resembles a brain and what ultimately can actually be used to take decisions. Internet is just the highway over which we drive electrons to communicate decisions to each other, transports like cars and planes are another type of information highway too, but AI is the only groundbreaking innovation that can arrange information in such a way that describes a decision.
+
+Therefore, it is not that crazy to ask ourselves, can we delegate all our resource managements to AI? Here are my conclusions.
+
+Modern AI, even the most advanced models, are not solely defined by their neuron count. The quality and quantity of data they're trained on are crucial too. While it's true that the largest AI models as of writing this have around the order of 175 * (10^12) parameters, this doesn't directly correlate to perfectly managing 1 parameter to 1 human desire or human life or societal structure. Even in that unreal super powerful case of 1 parameter to 1 need correlation, we would still be short as the number of parameters must increase by:
+
+(minimum number of variables) – (current number of parameters) = (parameters we still need for an unreal and conservative scenario)
+
+(64*10^18) – (175*10^12) = 6.4 * (10^19), a.k.a. still a lot even while being incredibly optimistic and simplistic.
+
+Furthermore, as said, AI is not just about the number of neurons and parameters, it’s about quantity and quality of data too. So we must take into account that historically, we've struggled to yet fully solve the following challenges at global scales: hunger, sustainable happiness and wars. Training an AI with our current data might result in a model that inherits our limitations and biases. Thus completely relying on AI to manage our society is astronomically far from the current capabilities.
+
+The problem is too big to just face it with current technologies.
+
+But as explained in Chapter 3… All complex systems can be managed by humans when broken down in smaller parts. So, how do we break down such a big problem?
+
+Well, as always, by defining fixed variables, definitions that create rules, instructions that lead to the establishment of an order, a protocol, an algorithm that we later execute. The most famous of them have been mentioned in earlier sections: anarchism, libertarianism, socialism, communism.
+
+Theoretically, libertarianism solves the resource management problem pretty gracefully and that is the main problem that socialism and communism have, they are not as graceful as libertarianism. What do I mean by graceful? I will explain later.
+
+Theoretically, in the realm of ideas, by limits on their design, these 2 more centralized protocols will never be as efficient as libertarianism at global scales or at relatively medium and big scales. I will explain later.
+
+However, what about in the realm of application? In that case, our current history seems to point in this direction too. In recent history societies that followed these more centralized protocols compared to those societies that followed more decentralized ones have obtained more poverty, or less wealth.
+
+But why? Is this a rule? Are we in some historically biased context?
+
+Let’s keep analyzing more concepts to understand all of this.
+
+5.1.2.2.- How new technologies will help to deal with the first core problem of too much variables.
+
+Regardless of the resource management protocol of choice, the technologies mentioned so far will be key on each and everyone’s future. As they are key to efficient information management which is ultimately what resource allocation is all about.
+
+These will be, and already are, their influences:
+
+- Internet: faster and cheaper access to information.
+
+- AI: helps to search for information and digest (understand) it very rapidly due to its incredibly high and fast capabilities of analyzing big chunks of data.
+
+- CDNs (Consensus-based database networks, popularly known as blockchains): all the recent cryptography advancements like zero-knowledge cryptography, networks and protocols that this technique is using, creating, and improving, will and currently allow humans to force to be private whatever data they need, and force to be public whatever data should be. This data is also unalterable thus creates promises that, if ever broken, will immediately be detected. Some promises are even unbreakable. All this curiously leads to more trust on different parties cooperating or associating with each other, precisely because of the minimization, or disappearance, of trust-needing factors. A revolution in how sophisticated is our trust, which is executed via showing or hiding information.
+
+These technologies have and will have these roles but, which resource management protocol will prevail? I’ve tried to answer this question but it is impossible to, at least for me, 100% assure which protocol will be the predominating one in future Cheerful societies. Why can’t I? Too much variables. I think that Cheerful individuals will be able to adapt and change the protocol of choice according to their context throughout history. Yet if I had to bet on one, as said before, I tend to believe that libertarian Cheerful societies will prevail.
+
+Regardless of the protocol, one thing is clear. We have to be able to handle more variables more efficiently, with the help of machines and in our own. That is the way to the most brilliant solution to the resource management dilemma, whether that ends up being anarchist or communist. Cheerfulism promotes a factor essential for this scenario, the maximization of intelligence.
+
+We can’t precisely know what the future looks like, yet what we can do for sure is get more intelligent with the engineers’ way of thinking and also develop our technology to improve even more our variable handling capabilities.
+
+Then, regardless of who ends up holding the power to distribute resources and punish actions, they will do it way more intelligently than if technology was not as advanced. And way more intelligently than if they did not analyze systems as well as an engineer.
+
+5.1.5.- The second core problem: parasitism behavior, abuse.
+
+Another key thing to notice is that no matter which system you choose, someone can take advantage of others in one way or another. Abusing their ignorance or intelligence like parasites that take advantages of other bodies to survive. Luckily, us humans, are not parasites because we don’t ultimately depend on parasitism to survive. We can learn to change our lifestyle to a sustainable one using cooperation instead of parasitism. That is the second core problem, parasitism, abuse.
+
+You might be thinking about it, and indeed, this can be seen as a consequence of the first core problem. As there are too much variables, the inefficiencies of some humans solving them can be exploited by others.
+
+So yeah, people can take advantage of others. The real question is not only how to arrange the value and manage resources but also how to manage a key resource, each one’s own intelligence.
+
+So how do you avoid abuse? Shortly and generally for now, the keys for optimizing happiness and cooperation, thus reducing abuse, are intelligence, empathy, and efficiency.
+
+The key is finding an efficient path to maximize change using intelligence. While minimizing trauma using empathy towards others and oneself.
+
+Trauma is caused by an unexpected change made too quickly. This can be seen as a consequence of some sort of abuse. But what is abuse really? Let’s delve deeper on abuse so we can understand better how to minimize it.
+
+5.1.5.1.- When abuse happens, symptoms of a sick society.
+
+Let’s “assert“ something that might trigger some of you: socialism is a symptom of a sick society. Later I will prove this wrong but bear with me.
+
+What do I mean by sick society? I mean by it a society whose individuals have too much of some of these negative traits:
+
+- Laziness.
+- Weakness.
+- Dumbness.
+- Ignorance.
+- “Un-empathetic”: lack of empathy.
+- Egoism.
+
+These 6 traits create the reasons for when and why a human can abuse another, thus creating a potential need for a policeman (a State) to regulate the humans’ lives.
+
+I define abuse as:
+
+Purposefully harming another being to benefit yourself.
+
+This is how abuse emerges from these traits:
+
+- A lazy human won’t work and would like the work to be done for them by others: a boss in a small business that forces workers to work more, or a lazy person who doesn’t wanna work and wanna live from public aid and taxes. In both abuses, a third party can (and probably will) appear to decide who gets punished.
+
+- A weak human is someone who is not able to physically carry out a task. Some people are not just lazy but they really can’t do stuff. Like safely lifting 65kg in some construction working area. Weak humans can not defend themselves physically from less weak humans, thus allowing someone else to abuse them by physical threats or actions.
+
+- A dumb human is a human that, due to biological reasons, is unable to be over the average intelligence. It is easier for these people to fall into scams or be fooled. In any way, this trait also leads to people messing around with each others’ lives and probably requiring a third party with power to decide who is not abused.
+
+- An ignorant is different from someone dumb in the sense that ignorance has a solution, studying and thinking. And the problem with ignorance, again as an example, is that it can lead to getting scammed. Thus another abuse that can require a third party deciding who is punished. In this book, I will use the word ignorant and stupid as synonyms for someone who has not studied enough.
+
+- An un-empathetic individual is the one who can’t understand how other people think and feel situations. Thus the definition of empathy is someone who is capable of understanding how people think and feel situations. Notice that for helping others you need to be aware of their situation, that is why the more you know each other the easier for a more effective empathy to arise. Then, un-empathetic individuals, as they don’t know what the other considers harmful or wants (good and evil), they can accidentally end up abusing with their actions.
+
+- An egoistic individual is the one who sees the opportunities of abuse and takes advantage of them instead of just doing nothing or, if possible, helping the victim to become better and avoid potential future abuses. This differs from un-empathy in that un-empathetic individuals can not discern they are creating an abuse, yet egoistic individuals are aware and choose to abuse or let others be abused.
+
+The less abuse the more efficient (better if you please) a society will tend to be. The point can be seen way clearer if we reduced the size of a society to 3 people.
+
+Let’s say 2 citizens and 1 policeman. Clearly and ideally, if instead of 2 citizens producing and a policeman making surveillance, we had the 3 of them working together without dispute, we could optimize and increase the amount and variety of output we produce so as to make us happy.
+
+Thus I must conclude we shouldn’t be proud of needing a State (the policeman) even though it is necessary. We must aim to have citizens comfortable with the smallest State possible.
+
+Because that will mean they fear as less as possible abuse from their neighbors. Thus then they can dedicate their time to a productive seek and maintenance of happiness. And, the need for less policemen will mean that those previous policemen are now citizens also in the seek of productive happiness-generating activities.
+
+Socialism is necessary, we must not reject it for now, but we should not be proud of needing it. We should aim to safely get rid of it.
+
+As a metaphor/parallelism, socialism is like a pill to lower down the blood pressure of fat people. Sure it can help to mitigate the pain for some time but the underlying cause of the problem won’t disappear, the overweight, and pain will happen again. What we should do instead is not taking pills, but rather slowly leaving them behind as we get a more healthy life that allows us to function while working on getting a healthy weight.
+
+We should not reject socialism for now, sometimes the quickness of centralization can help you promote a quick advancement in certain essential productive areas, furthermore, if there is people abusing others they should be stopped somehow, but we should be aware that the real and prosperous solution comes through education, studying and empathy. Rather than regulating which eventually means wasting resources with avoidable policemen, reflecting the existence of societal conflict and distrust. Whether this conflict is internal or external with other nations.
+
+Therefore, in more or less direct ways, socialism is a symptom of abuse, the only exception I can think of, proving wrong the above statement as always true, is the already mentioned case where a centralized command requires quick action for an essential resource management.
+
+Summing all up, abuse is the second core problem: laziness, weakness, ignorance, dumbness, lack of empathy and egoism allow abuse to happen. These are the 6 fundamental sources of abuse which I’ve derived from logical principles.
+
+First, the clear distinction between capability of acting and actually acting. Someone can be dumb and literally not be able to solve a problem, or someone can be intelligent enough yet just ignorant. Thus these 6 traits can be seen as 3 pairs of action quality and capability of action:
+
+- (Quality of action, Capability of action)
+1.- (Ignorance, Dumbness)
+2.- (Egoism, Un-empathy)
+3.- (Laziness, Weakness)
+
+And these 3 pairs have also been logically derived from the 3 parts of problem solving. First realizing you have a problem (empathy’s pair), then using intelligence (ignorance’s pair) and muscle to solve it (weakness’ pair).
+
+Thus I confidently assert any other abuse related adjective or action can be decomposed and explained from all these 6 traits. Thus to solve all abuse, we must actually manage properly these 6 traits.
+
+We can also understand this issue from the reversed perspective: A lack of intelligence fails to combat ignorance, a lack of drive for efficiency, which arises from intelligence, allows laziness and egoism to reduce productivity, and a lack of empathy makes it harder to prevent the exploitation of the dumb and weak.
+This is why I wrote earlier:
+
+The key is finding an efficient path to maximize (efficiency so not laziness) positive change using intelligence (minimizing ignorance) while minimizing trauma (abuse) using empathy towards others and oneself. (to avoid egoism and respect, even help, the dumb and weak)
+
+With all explained in this section, I have almost all ready so you understand the bet I made at the beginning of the chapter. However, I still need to write another section. Let’s visit it.
+
+5.1.1.- The quickest way to coordinate desires and needs: money and market prices.
+
+The last concepts to understand before clarifying my initial bet are money and prices.
+
+Money is essentially a tool for coordinating social agreement on how valuable things are.
+
+Before money there was trade of assets, 2 sheep for 20 apples, 1 wooden spoon for 3kg of wheat etc etc. As humans learned to use resources more efficiently and in greater abundance, the size of societies grew. And as we have seen, the complexity of the social matters grew even faster.
+
+It started to no longer be a pragmatic thing to execute trades on very specific asset pairs, like sheep per apples, wheat per sword etc To do barter. Thus, we needed an abstract way to measure value in order to estimate as best as possible who should do what and for how long.
+
+We needed a single thing to pair with any product or service to simplify the graph of possible trades and make it more interconnected. That thing was money. Therefore we would get the following pairs: (sheep, currency), (apples, currency), (sword, currency) etc This way, all pairs become comparable, as they share an element, currency, associated by definition with the other element in the pair.
+
+Another factor that led to the invention of money was the early monopoly of violence kings were. Some of them started giving away signed papers saying stuff like: To whoever holds this the king will grant him 20kg of wheat in the future. Or any other useful material. And then people started exchanging them trusting the king will be honest about that claim or use its force to make it true.
+
+There are multiple historical reasons related to our social dynamics that led us to use this abstract measurement unit of value we call money. Research on your own if you want more details on what actually came first etc.
+
+The historical reasons are not that relevant. What is truly relevant is to understand intuitively and exactly why money is useful and how it makes trading easier. Which is the underlying reason why we did not come back to the old barter.
+
+Money is ultimately used for that: a tool for generating a socially agreed unit for value. Which can be used to judge quickly whether to make a trade or not.
+
+Without money, if I need apples, and the one who needs apples wanted a sheep, but I don’t have a sheep yet I have an iron spoon. I could not get apples unless I find someone willing to change a sheep for an iron spoon. Because the apple seller does not care at all about an iron spoon, so somehow I need to get what he wants, a sheep. Therefore, if I only have an iron spoon, I must find someone willing to trade the pair of an iron spoon for a sheep.
+
+This is clunky, even if there was someone who wants my iron spoon, if he has no sheep I do not care because I need sheep for my apples.
+
+It was a very inefficient way of functioning. You required a very specific chain of desires to appear in order to get what you want. A chain of linked desires that not always appeared.
+
+However with money, once we all agree to use it, I only have to worry about the abstract number the guy selling apples wants because we all accept similar compatible pairs.
+
+If you are more of a visual person, think of it like said before, the asset pairs are nodes in a graph, and the edges only appear if the pairs coincide in 1 element, wherever there is a connection we call that a trade, a barter some will call it. This creates a complete graph, all nodes are suddenly connected and we all have a common barter element, currency.
+
+And now, instead of only being capable of selling my iron spoon to someone with sheep, I can sell it to anyone who wants it. So, if I need 10 units of money for the apples, I will try to sell the iron spoon to anyone for that amount of money. And as I know the apple’s vendor also accepts money. The likelihood of chaining our needs to make the trade is way larger.
+
+One because I now am sure the vendor will accept it, and second, because the amount of people I can sell whatever product I want to sell, in this case it was an iron spoon, has increased dramatically as now the very limiting requirement of needing a sheep has been deleted.
+
+Now, if the sheep seller sells it at 10 units of value, the apple vendor will only accept selling its apples at at least 10 units, because he wants to later buy the sheep. Therefore, he puts the price of 10 to the apples. And now, I do not need to know anything at all about his desires, or the prices of his desires, I just need to focus on gathering 10 units.
+
+Or maybe even less, if I manage to bargain. Or… if there are other apple vendors that can sell it cheaper, because their needs and desires are less expensive than the apple vendor which needs sheep. This is what it is usually known as the offer side. Me wanting apples is the demand side.
+
+Money translates our desires and needs to the same language so we can trade more efficiently. Before you could only get apples if you spoke the sheep owner language. Now, you just need to speak money so you communicate and agree with the apple seller.
+
+This creates other benefits like, before money, the apple seller can only sell apples to a very limited amount of people who had what he needs or desires. Now it can sell it to anyone because he knows that what he will receive will be accepted by others who have the capability to satisfy his needs or desires.
+
+Because we all now speak the same language for describing value, communication is more useful and we are able to do more stuff with each other.
+
+As you might have seen, the amount of money which we agree to sell a product or service is called the price. In other words, the value with which the offer and demand sides agree upon.
+
+And the number at which that a trade for a product or service is made on a place where lots of people participate, it is called the market price. Which throughout history has been measured with different techniques and technologies and used as a reference when deciding for how much to sell or buy something.
+
+Eventually, because it made things more comfortable, instead of agreeing in each trade about a price, we created specific locations where people met to trade and determine prices: the  exchanges.
+
+They gathered very useful numbers that measured the overall social unit of value something was worth based on lots of offers and demands.
+
+Earlier there was literally a venue for it, but after the invention of the internet, you can participate in exchanges that are almost anywhere, as long as you are legally allowed to, that became the only limitation.
+
+And now, the velocity of measurements of how worthy things are is as quick as the speed of electricity on the internet, almost the speed of light.
+
+We created the fastest way to trade and agree on social coordination of labor and effort based on what moves us to do that precise labor and effort, value.
+
+We will see why this knowledge is important in a bit.
+
+But before finishing this section I must warn that price being an agreement is an ideal. In real life coercion can also play a role, people can abuse each other. For example in the monopolies of essential resources.
+
+Do not fall into the incoherence of thinking market prices are perfect in the sense of a beautiful world where everyone agreed. Some of them are clearly influenced by abusive behavior like forced child labor, tariffs to make people in other nations less profitable etc
+
+The market is not perfect in the sense of no abuse, but in the sense of minimal abuse given power constraints. As a small note, the free market does not exist, because it is made by humans. And humans are not free, we are limited by and limit the society that we live in. The market might be free only in the sense that, especially given current technological advancement, everyone has a voice.
+
+However, some people can scream way louder, some can buy speakers and megaphones, and others only have their voice. Even if we all can participate, especially thanks to CDNs, we will all be constrained by our traits, our capabilities, our power to do things.
+
+In that sense, the market is not free. And this is vital to remember, especially for people like me with libertarian tendencies, because if we ignore it, we will be ignoring a clear source of abuse we should aim to minimize.
+
+5.1.4.- Clarifying my bet.
+
+Remember the bet at the beginning of section 5.2? Well now I can finally complete and display all the reasoning that led me to that conclusion.
+
+Why libertarianism?
+
+Because, by definition, it is the one who represents a society where abuse is the minimal.
+
+A libertarian society has minimal laws as there is minimal need for regulation, this is because the static and dynamic nature of humans is aligned as much as possible. This just means, that if you or a group of people want to do something due to your natural needs and desires, which you will perceive as good, the also needed static reference of human nature will not prohibit it.
+
+Under the assumption that not having a State is impossible, if the paragraph above is given, this reaches our initial goal as realistically as possible: satisfy unlimited desires with limited resources.
+
+As said, this is because the static part, the law, must not get in the way of the dynamic part that produces our needs and desires.
+
+Therefore, the minimization of abuse is the most effective way to reach the goal. As abuse is harming (doing bad) to others to benefit yourself (receiving good). If we aim for everyone to satisfy their needs and desires (good), that must only come from no abuse, however that is unrealistically unlikely, therefore, the only realistic way is, the minimization of abuse.
+
+As we can not control the dynamic influences due to too much variables, we can only manage them better with the maximization of intelligence, the only thing left to do after that is tackling the static part so it gets as less as possible in the way.
+
+For that there are 2 options:
+
+1.- Have the minimal law.
+2.- Have a law for every single possibility, present and future, of desires and needs clashing.
+
+Due to too much variables and our limitations in information processing capabilities that we have already explored, the second one is impossible. And, as a brief spoiler, this is why communism is impossible too, but I will explain this later.
+
+Therefore, a requisite to satisfy as efficiently as possible unlimited desires with limited resources being honest to human nature is to have minimal law. In a way, minimize the “size of the State”. Understood as the amount of interference it produces in the private flow of money.
+
+For these reasons I think libertarianism will be the end result if societies become Cheerful.
+
+However, we might never know if we reached libertarianism, because as seen, measuring the intensity of law is currently impossible due to too much variables. Precisely too because of that I used the word bet. We, as of now, can not agree if we reached libertarianism, however, that does not obstruct the fact that we can and we should use it as a guide and an aim.
+
+Why not socialism?
+
+The abuse sources will be reduced to its unavoidable minimum by Cheerful individuals who are efficient due to having maximized intelligence and are empathetic due to optimizing and being gathered around the natural goal of happiness.
+
+Phrasing it in socialist terms: Cheerful individuals will make the abuse by the capitalist class to the working class as minimum as possible, perhaps, even none sometimes. Obliterating the root cause that originated socialism in the first place.
+
+Nevertheless Cheerful individuals do not reject socialism.
+
+First because Cheerfulism is agnostic to any protocol of resource management as it is based on the purest principles that determine human happiness. Principles that, given survival, they guide individuals, yet as a group, to their optimal happiness, whether that ends up implying more or less freedom for them, more or less State intervention.
+
+Second. Even though Cheerfulism is not really against socialism and, if it is needed, it will be used by Cheerful people, I do think in the long term Cheerfulism will minimize to its minimum all abuse sources making socialism a residual phenomenon. Deleting as much as possible the reasons for a State and socialism to exist in the first place. But that is the catch, as much as possible, it might be that the minimum size is not limited to just a State in charge of controlling the army. This is why the statement was a bet.
+
+I think that with Cheerful individuals socialism is not a logical conclusion in the long-term yet it can make sense to use it during a transition at short and medium terms.
+
+Maybe socialism can be understood as a natural part of human nature, arising as a counter-force to the double-edge sword of libertarianism with its freedom for some but not really for others. Some kind of natural phenomena to balance rapid spread of bad abusive actions taken under the high speeds of libertarian methodologies, at the speeds of the “free” market.
+
+Another natural cause where socialism can arise from is the fact that not everyone is intelligent enough to handle certain amounts of freedom. Thus it appears as a way of guidance where a few rule over others who can’t rule themselves.
+
+I think these two causes are actually tied together. The fast pace of change that sometimes happens leads to some people to be left behind and unable to adapt as fast to that change. Thus then requiring this third party guidance. At the same time due to slow adaptation, some faster people might abuse them fostering the need for State intervention, hell, even the State can be the abusive one, as they are no more and no less than just other humans.
+
+It is a natural rule of humans, if you get freedom but abuse it too much, someone or some people will get you controlled right after. This works very well inside one nation but…
+
+Another reason for socialism to exist is the lack of a world government. In the real world, a nation is surrounded by lots of other diverse nations with diverse protocols. If two nations have similar needs and desires yet the market only has room for one, then it feels natural that, under a context without a monopoly of violence enforcing any law, the one who plays dirty wins. And the game becomes one of trust, where no abuse will be made (for example tariffs) and no socialism will be required, as long as you trust the other is being honest. However, due to too much variables, you can never be sure if the other will keep being trust worthy forever, therefore it makes sense to cheat a bit to make sure you never suddenly find yourself being fooled. These are the same dynamics of the security dilemma of armies explained in the previous chapter.
+
+As of nowadays society, I think most of us are not ready to get rid of socialism for multiple reasons.
+
+Just to name one, in the first 20 years of the 21st century the feeling of loneliness is rising a lot according to studies and personal groups’ experiences. If people feel lonely how are they gonna be able to coordinate and communicate as friends and neighbors?
+
+Additionally lack of intelligence arising from intellectual laziness is the other reason. Which combined with loneliness are the essential reasons for why I think nowadays people need and crave socialism. Yet they should aim to transition away from it.
+
+Summing up my bet and to conclude the previously asked question of: why not socialism?.  Because at its deepest core, the main reasons of it existence stem from the usage of abusive traits, whether from the citizens towards themselves, from the State towards them or from a nation to another.
+
+That is why, even if it will be useful and necessary in certain contexts, I do not think we should aim for socialism as the guide and why I think, eventually, Cheerful societies will be libertarian.
+
+There is one more reason against socialism. Which is that public companies tend to be less efficient than private ones.
+
+The fundamental reason for this is because public companies do not play by the same rules as private ones. The management of them depends more directly on the government. And, governments are only accountable for their actions every time there are elections. In some cases, if there are not elections, then, every time there are significant revolts.
+
+This process of feedback about abusive behavior that people demand to be corrected is slower than in the private market. Therefore, the quality of the products it tends to create depends a lot on how dynamic and how linked to the consumer the law creation mechanics are. This is not a resource management dilemma anymore but also a power dynamics one.
+
+Yet, even in the most democratic and dynamic law creation system, its adaptation won’t be as fast as the price mechanism private markets have. Because people can not vote on everything and every time a public company makes a decision, this is because our cognitive abilities are limited and we can not pay attention to every detail of every public action every time. Therefore, even in the most realistic democratic protocol, the efficiency will always be smaller than the efficiency of price. Which as seen in a previous section, it is a very simple tool to use and to understand which signals and coordinates agreements of needs and desires really fast.
+
+We all can and adjust needs, preferences and demands based on prices very quick. But we can not do the same based on a decent amount of micro-management decisions every public company makes. For this reason, socialism is always less efficient than libertarianism.
+
+And, even if we sometimes need it for the reasons explained, we should aim not to need it. We should internalize it as a temporary solution and not the final goal.
+
+Why not anarchism?
+
+Abuse is intrinsic to human kind. And from time to time, if there is no superior statist force, a bunch of humans with the abuse trait will be born and will organize to create the need for a centralized predominant mafia (State), agreed or not by the people.
+
+This is the conclusion we can take looking at history so far. Humans always end up having extreme discrepancies with each other and can not in practice just not to abuse too much in order to not need a State. As a curious thought, if someone manages to prove that abusive tendencies in society follow a power law, an ever lasting anarchism would be proven impossible.
+
+All this may eventually arise from the complexity of our societies escalating so quickly. Which would make the chances of us never having a strong argument with each other, to the point of frequent physical violence, unrealistically low.
+
+So, unless there is a way to delete this trait from humans yet to be born, because of futuristic advanced genetic modifications, I do not think anarchism will really prevail. Even in that case, should we? What if the impossibility of zero abuse is a core trait that made us survive all this time and then if we delete it we get extinguished? What if small abuses are a natural and needed signal used to inform others the limits of your preferences and self balance the group to its ever dynamic change of needs and desires, like personal desires or new individuals born, so to make it adaptive and responsive, evolve?
+
+The only way to safely reach anarchism, maybe, just maybe, is making the education process of new humans so perfect that the likelihood of an abusive group being created is negligible. Still, I think we have a long way to go to get there too and lots of intermediate steps must be taken to slowly transition there.
+
+So, as of today, from time to time, this perfect storm of abusive conditions will emerge from new or probably already existing humans. And it will do so in such an amount that requires the need for a State.
+
+I think the most “anarchist” power dynamics system we can aim for with current technology is, do not worry if you do not understand some technical terms, looks something like:
+
+Any new law and modification must be voted by everyone, yet decision making is automated by AI based on each citizen’s personal data.
+
+All the data remains accessible but private in zero-knowledge cryptography based blockchains with a public transparent and decentralized global one where final decisions are settled and where people submit their votes. Similar to what Ethereum is today. Anyone can opt-in and decide to vote for themselves instead of their personalized AI. Furthermore the personal data can be self-hosted instead of residing in the public selectively-private blockchain network.
+
+All AIs will be connected to each other and suggest what to vote for based on the data, they will be able to coordinate through this private blockchains but not reveal private data of other citizens thanks to cheap fully homomorphic encryption mixed with zero-knowledge cryptography. The thing that the blockchain network of AIs will optimize for is happiness long term based on the personal input of each citizen about their desires and needs.
+
+And, to help adapt to fast changing laws, an AI companion, with private data, goes always with you and warns you if you are going to do something that suddenly became illegal. To prevent sudden criminal acts, a delay between when laws become effective after a successful voting can also be implemented. However these details are more implementation specific nuances. The overall dynamic is above.
+
+Eventually, the monopoly of violence, if even needed, will be no human, just robots that punish and monitor based on the laws voted by humans or their AIs. So, we will all be the violence, no monopoly technically, a free market and a very liquid democracy where everyone participates on everything.
+
+During a necessary very slow transition period, in the State, there will be humans too, with their own AI companions as any other citizen has.
+
+These are the blueprints on how I imagine the closest thing to anarchism we can aim for in the following century looks like.
+
+Why not communism? 
+
+Due to too much variables assigned to the little amounts of people who hold power. As explained, this is not necessarily a consequence, it is just the likely thing to happen given our current intelligence, technology and society’s sizes.
+
+Furthermore, in a State completely managed by power and no money, the effective coordination of desires and needs becomes impossible. The people in the State would have to become infinitely capable barter machines, which is just impossible. Again, under our current technological limitations. However, it really looks like it will be like this for centuries.

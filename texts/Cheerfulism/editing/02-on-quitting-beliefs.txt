@@ -1,0 +1,364 @@
+2.- On quitting beliefs: What is intelligence?
+
+2.1.- Introduction: A very efficient way of thinking, thinking like an engineer.
+
+This section is meant for you to know the secret to maximizing your brain capabilities. By explaining how the smartest think about the most complex of systems.
+
+As we mentioned at the beginning, this text aims to find a way of thinking about life that maximizes an individual’s happiness long term. A sort of philosophical doctrine based on science to guide humans to the best possible society where everyone is as happy as they can be. But for that you need to intelligently analyze your specific life’s situation and with time and constant effort improve it.
+
+Situations can be incredibly diverse, the economy of your country, your gender, your height, the predominant religion near you etc affect the specific steps you have to take in order to optimize your happiness through life.
+
+With this being said it starts to make sense if we understand each life situation as a system with different modules conforming it. Just like engineers see their creations, everyone should know how to analyze complex systems so they can analyze their life and optimize its happiness in the best way they can. 
+
+In this doctrine it is key for everyone to learn how to “think like an engineer” about technical and more abstract topics in life. More on how to do this later.
+
+This analysis method is the one the smartest people use, but it takes time due to iterations of trial and error. This is the reason why your effort needs to be continuous, life is a really complex system and you will need a bunch of iterations of trial and error to get to your optimal point. For some it will be harder than for others but, no matter what, its complexity will make it time consuming and probably exhausting. This is why I recommend taking this approach to life along with your closer ones, to support each other when the steps you have to take become quite steep. More on this later.
+
+It is impossible for me to give specific instructions for each situation thus here I’m just going to lay out the general rules anyone should follow. I hope that people reading this apply this thinking to their specific situations and later share how it worked out for them. This way we can have a wide resource of real-life examples in the current and following human history for the specific steps to take in each individual’s nuances. Like a useful big database of specific examples where these steps were applied. Who knows, if we create this database maybe we can train an AI with the data that helps us to be happier. Alright let’s stop speculating for now, and let’s come back to defining and understanding.
+
+The main takeaway from this chapter is what intelligence is, the idea of the fixed variable resolution technique and how it relates to your biology, intelligence, freedom and thinking like an engineer.
+
+The fixed variable resolution technique:
+
+Sometimes in math, if a function depends on more than one variable like f(x, y), it comes handy to fix the value of one variable to figure out the value of the other one and then solve the problem. 
+
+A real and metaphorical example of math problems can be found at the end of this section to illustrate better what I mean. Please wait for it and keep reading.
+
+2.2.- The impact of beliefs.
+
+Now why is the title of this chapter related to beliefs? Because they put limits on your actions thus your freedom, your boredom and overall they are correlated with your happiness. 
+
+These limits can be understood as a natural reaction from your brain to fix some variables while it solves others. This is a key biological technique to face and adapt to our reality. The way that this technique helps us with reality is basically to allow the brain to rationally, yet slowly, process all information. That is why some information has to remain fixed and other variable.
+
+Reality throws at us high amounts of information which we can receive at the same or in very small lapses of time, but can’t rationally process in those same periods of time. So we must slowly digest, somehow, all of that if we want to be able to properly respond and also adapt to our world. That somehow, is the previously mentioned fixed-variable resolution technique, were believes are fixed variables and rational thinking the ones who are not fixed.
+
+If we were not able to do this, too much information would flow in our brains and they would overheat.
+
+Before a detailed explanation on how to “think like an engineer” and what is intelligence, which is tightly linked to the fixed-variable resolution technique, I find useful to understand how we use beliefs and how they relate and cooperate with rational thinking. For that, let’s talk about the summit of beliefs, religion.
+
+2.3.- Religion: its benefits, downsides and alternatives.
+
+The clear manifestation of beliefs are religions. Now, what is a belief? What is a religion? Well let’s start vaguely saying that religions are “a thing” that brings happiness and stability to a lot of lives. How do religions bring happiness? There are 3 core benefits of a religion in life:
+
+    1. It helps people to give meaning to their lives.
+    2. It satisfies people’s natural need of belonging to a community.
+    3. In case of loneliness or danger or a mix of both, generally speaking, in case of a position of weakness, the figure of a god, or some religious belief, can help people to feel more hope for a better future.
+
+We can understand the relation between religion and happiness as a way to create and coordinate a community while answering questions. Notice, as discussed in the happiness chapter, the community satisfies the survival need and also the boredom one. As it gives a wide variety of patterns to execute. In this case religions help in executing the pattern of understanding and answering questions about human existence and proper ways of living plus, actually carrying them out.
+
+Now those are the benefits of religions, but they also have downsides. Religions are based on beliefs which create limits to people’s actions. These are not general enough to properly adapt to all followers of the religion. Of course life is always a probability matter and each individual will have different responses. Some will be happy enough with the beliefs of their religion and others might be unhappy.
+
+All these being said this is how I define belief:
+
+``Belief is a fixed rule a human follows that hardly ever changes because it is never questioned or doubted upon.``
+
+Now that is a key difference between religion and science: science might not be 100% certain, but it can be questioned and changes over time fairly quickly. Whereas religion does not, or it takes a bunch of generations, thus lots of time, to do so. So, in the time-frame of a human’s life, religions can be considered a static force. Even though they do change, really slowly compared to the more dynamic science, yet change it is.
+
+Thus for a better chance of being happy in your life, and to keep understanding how humans work, leveraging its adaptable nature here I propose and discuss scientific alternatives for the 2 first benefits of religion, and a complement for the third one.
+
+2.3.1.-  A substitute to the first benefit of religion: don’t get too bored.
+
+Now, a pretty generalized pattern that humans execute is trying to answer the most metaphysical of questions in search for meaning. As said, religions offer an answer, but, how does a scientific thought answer these questions?
+
+1.- Why are we here?
+
+Because we are a specific molecule configuration capable of reproducing similar copies of itself while promoting pattern discovery, creation, analysis, repetition and experiencing. 
+
+2.- How are we here?
+
+Due to a physical phenomena that occurred long long time ago that created an incredibly long cause-consequence chain of reactions. Which eventually created this special molecule pattern configuration we call ourselves humans.
+
+And the most important question:
+
+3.- What are we supposed to do? What’s our meaning?
+
+Our bodies are biologically programmed to try to survive and feel happiness executing patterns. We are meant to do exactly that.
+
+So if survival is statistically granted like in lots of nowadays societies, and you find enough patterns to execute without getting bored of them, happiness will occur in you and you will feel realized. Which is basically, one of the needs religions satisfy. Therefore, to adopt a more flexible and potentially happier life, don’t get too bored.
+
+2.3.1.1.- The answer of religions to the third question: Good and evil.
+
+Now lets mention that religions generally answer to the what are we supposed to do question with: We are supposed to do good and not bad. Now you might be wondering how you define good and bad without being based on beliefs or subjective ethics? Here is what I propose as a neutral definition:
+
+``Good and bad are those things that have seemed to grant this better or worse likelihood of survival and happiness according to an individual or a group of people’s personalities and their nature around them.``
+
+Thus you can conclude that: good is the adjective chosen to describe those pattern executions that are perceived to increase the likelihood of survival and happiness, and bad is vice-versa, the adjective used in those patterns which are perceived to decrease that likelihood. It is important to highlight the word perceive because, sometimes, what people perceive as the how something works is the complete opposite way of how that something actually works.
+
+See also that the needs of human communities vary a lot because they depend on a lot of factors, variables. Like the nature surrounding them: weather, fauna, flora, day light available, water available… It also varies with each individual’s personality in the community, which is a constant change as new humans are born and others die.
+
+Keep in mind something interesting too. Which is that if we understand and embrace this unavoidable constant changes, specially the individual’s personality one, we can better arrange our desires so everyone’s needs are satisfied. Thus an individual journey on quitting (or adapting) beliefs can be beneficial for the greater community if done intelligently. More on this later.
+
+All the ideas and definitions displayed in this section will come handy later in the book. I’m just naming them so you start getting familiar with this wording.
+
+Let’s continue with the scientific alternatives that bring to people’s lives the same benefits as religions do.
+
+2.3.2.-  A substitute to the second benefit of religion: find communities of pattern enjoyers (hobbies).
+
+Regarding to the second core benefit of religion, the need of belonging to a community, I recommend finding people who execute patterns you like, if possible, with a freer approach to dogma, belief. This could be joining meetings of people that do activities you like.
+
+Examples of communities that interact with each other experiencing patterns they like without turning to strict beliefs are: social dancing encounters for the dancing pattern lovers, book clubs for the reading pattern lovers, couple swinger places for people who enjoy the sex pattern and so on.
+
+Of course, each community will have some beliefs, you can actually understand as a belief the rules of a sport. The key is to safely distance yourself from beliefs that do not fit you, and find the ones that fit you the most. This is an individual journey each one of us has to take and I will keep insisting, together with friends it gets easier. This is the power of friendship, might sound corny, but it is the purest of reality since we had to survive as cavemen all together.
+
+Some beliefs clearly put limits to the freedom on your explorations, therefore they can limit your chances of being happy. Yet it’s vital to remember that I’m not talking about a given process that provides assured results. I’m talking about how to optimize the chances of a goal, in this case, the goal of living a happier life.
+
+It is all about likelihood and personal scenarios, you might need more freedom than others, or maybe less, less beliefs than others, or maybe more.
+
+Anyway, the substitute for the second benefit can be summarized with this sentence: Explore hobbies and share them with people.
+
+2.3.3.-  A complement for the third benefit of religion: get literally stronger and scientifically wiser.
+
+When people find themselves in vulnerable situations, the figure of a god or a religious belief can help them feel more hope for a better future.
+
+In this situation where they are not strong enough to understand or act upon a problem, it makes sense to cling onto even the most non rational hopes. It is probably some kind of natural instinct to not give up and keep trying, keep surviving.
+
+I do not think this benefit can be really substituted in all of the cases. That is why I said that the following is a complement.
+
+There is always a big enough amount of fear when in weak positions, regardless of where the fear comes from, towards loneliness or extreme physical danger for example, that will trigger in you some of these 3 survival instincts: paralyze, fight or flight. And in any case, the idea of some super-powerful belief supporting you can help with carrying out these actions better.
+
+If you are lucky enough to not find yourself in an extreme situation, doing the following, if you fancy like so, can help you to limit your dependence on this source of beliefs: 
+
+- Training body (exercise and nutrition) and mind (psychology and philosophy) in a healthy way.
+
+- Reinforce your knowledge and your learning skills. The more you know and the more topics you decide to tackle and feel comfortable understanding, the stronger will be your attitude towards the unknown. Because you will have already been in that unknown space or feeling before with different kinds of knowledge. More on this in next chapter.
+
+So, to complement the third benefit of religions: get stronger mentally, get stronger physically and get more intelligent.
+
+2.4.- Rationality and faith, 2 faces of the same coin.
+
+Aren’t religions against human adaptable nature then? Why do they exist?
+
+If religion is so against this intrinsic adapt-to-change behavior of human nature… why has it been so useful and influential? My answer is: because its benefits created more good than the intrinsic bad brought by their slow change.
+
+This is possible because, even though beliefs are against quick adaptable change, other parts of religion are actually intrinsic to humans.
+
+First, the belonging-to-a-community feeling that it creates is actually aligned to human nature. Probably leading in some cases to create a positive weight in the community which could counter the negative weight of their beliefs.
+
+And, as contradictory as it might result at first, beliefs are not really against change. They are actually part of an intrinsic human technique to solve problems, the above mentioned: fixed variable resolution technique. Change will always be intrinsic to humans and beliefs are just, lets say it that way, the rate of change. They can accelerate change or slow it down, but never stop it. Thus they are actually not against change, but part of the engines of change, part of what creates the forces of change.
+
+An analogy for the physicists reading this. Newton said that force is equal to mass times acceleration.
+
+F = m*a
+
+Then, in the equation of the force-of-change we would read the symbols as:
+
+- m = human biological body.
+- a = beliefs and rational thinking.
+- F = the capability of processing information to later carry out tasks, work.
+
+As said, a human faces and processes lots of information, religion might be very helpful to fix answers to some questions while finding answers to others like: What would be the healthiest cookie to eat today? Is there a healthy cookie in the first place? Where am I going to find people who like the same cookies as me?
+
+Being in a religion would allow you to explore the world without worrying about answering by yourself complex metaphysical questions, or other questions like doubting upon your sexuality and other potentially time consuming topics.
+
+This leads to the realization of: rationality and belief are 2 sides of the same coin, a human problem solving technique. Where thinking is the science that explores and allows improvement via adaptation, and meanwhile belief, hopefully, creates a controlled environment that allows the creation of a more peaceful place to think so to later have better results.
+
+And this is why there is and there will always be beliefs. Yet they are not essentially something bad, but something that should be understood and addressed via intelligent rational thinking if necessary (a.k.a. if it gets in the way of your happiness or survival). I must add that if the change can be carried out pacifically and progressively, it is likely better for long term happiness and prosperity.
+ 
+Some might argue that being religious is a sign of being dumb because of not being capable of adapting or changing as fast. But it is actually false. Rather, the only thing that can be concluded with just that information is that the religious person probably has chosen to prioritize solving some variables first while fixing others. What makes you intelligent is not which variables you chose to solve and fix but…
+
+2.5.- On intelligence.
+
+We have mentioned during this chapter the “doing things intelligently”, but what is that?
+
+Whether or not a religion, or anything in general, is good for you will depend on what patterns provides you and how they affect your happiness. You have to be able to use your intelligence for handling those patterns. When handling a pattern I mean discovering them, understanding its influence on you (limits they create), and practice them so as to figure out if they are a good optimizer of your happiness at your current state.
+
+So, finally here it is, this is how I define intelligence:
+
+``Intelligence is the ability to handle patterns in such a way that uses work to reach some goal along time. The longer the time it is reached for, the more intelligence is needed.``
+
+And this is how I define human intelligence, understood as the intelligence to maintain humans’ biological goals of survival and happiness:
+
+``Human intelligence is the ability to handle patterns in such a way that maintains survival and later happiness along time. The longer the time that it is maintained for, the more intelligence is needed.``
+
+2.5.1.- Are you dumb or are you intelligent?
+
+For example, in my personal life my conclusion is: I dislike to apply religion to my life because I’m capable enough of handling and adjusting better on my own the variables religion would do for me. This doesn’t mean I’m smart nor dumb, nor intelligent or stupid. This just means I’ve solved some variables on my own first while fixing others.
+
+Notice that, even if it’s undeniable that some religions create limits to exploration and searching, therefore making it more difficult for more intelligent individuals to be happy, following a religion doesn’t conclude your lack of intelligence or presence of dumbness.
+
+Believing does not necessarily make you dumb or stupid. I repeat again, I see it as a converting variables to constants in order to explore other variables in life. What variables you decide to turn into constants do not make you straight up less intelligent.
+
+What makes you more intelligent is the ability of sustaining your survival and later happiness along time, and the longer you can sustain it for, the more intelligent you are. As it takes more effort, it is a harder problem to solve, to adapt for longer periods of time.
+
+Someone who punches harder is stronger, someone who adapts for longer is intelligent-er.
+
+A clear example is that there are professions where a clear amount of intelligence is required, in the sense that hey have to handle a lot of patterns to carry out their work, their goal, like doctors, lawyers, engineers etc, and still there are believers among them. They are clearly not stupid but for different reasons they decided to fix some variables through religion.
+
+Some examples on why would they do it can be: because that religion’s limitations are enough for their happiness, because maybe they never pondered alternatives, because they did ponder alternatives and found out they did not work for them etc etc. Belief does not entail stupidity, in the same way, freedom does not entail intelligence.
+
+Free individuals can act in stupid ways and end up worse than before, or they can act intelligently and end up better than before. The same way a believer can act as it preaches and be better of that way, or maybe, worse off.
+
+I understand an individual’s intelligence as its capability to survive and find the patterns to enjoy its life. And the more long term sustainable your patterns are, the more intelligent you are.
+
+This definition and understanding is based on biological principles and aligns with common knowledge and experiences like, yeah, drugs make you happy, but it is not very intelligent to abuse drugs. Why? Because it is not long term sustainable.
+
+Yes, highly educated people can still be believers and can still be intelligent. Because intelligence is not determined by the variables you fix, but by how well you achieve your goal and for how long.
+
+This definition also explains why some people seem to be very intelligent for some stuff and very dumb for other stuff. Because intelligence is goal agnostic, as seen in this definition, some person might have perfectly handled the variables or patterns to fix and the ones not to fix for a goal, yet completely messed up which ones to fix or not to fix on another goal that can be depending on completely different variables.
+
+For example, imagine someone rich with people who cook for him that handles really well the variable of running fast and has achieved a really complex goal, being the fastest on earth let’s say. He will know all about running fast, the exact interconnections of muscle fibers that trigger every step he makes, the chemicals involved on that, the psychological tricks to trigger those responses more efficiently etc etc A seemingly simple endeavor on the outside yet requiring intelligence. However handling really well lots of variables for running fast can be really useless when cooking, so he might be a really stupid, awkward looking person when he cooks. Because he has not learn to properly handle the variables on cooking.
+
+Way later in the book, in part 3, there is more analysis of common knowledge and stigmas analyzed via this definition, like: does it mean someone depressed is not intelligent because he is not successfully being happy? If you are curious about the answer I would first encourage to finish this part 1 and 2 of the book in order to properly understand my answer to that question.
+
+So, I hope that now all readers are better equipped to try answering the question on this section’s tittle: Are you dumb or are you intelligent?
+
+And after defining and exploring all this, it is time to continue learning in order to be Cheerful.
+
+2.6.- The math examples as analogies.
+
+Alright, after reading so far I finally think you might already have a sort of feeling and understanding of what I mean by the fixed variable resolution technique and how it relates to thinking and intelligence.
+
+But, to make it as clear as math, let’s showcase it applying it to two problems, one realistic and another one filled with analogies.
+
+To understand this you need to understand what a variable is, and what a function is, in math. I’m going to explain the first problem with a good bunch of detail for those of you who know very little about math. I hope everyone finds these examples useful.
+
+2.6.1.- A realistic first problem: The carpenter problem.
+
+You own a small workshop that manufactures wooden chairs and tables.
+
+- X will be any number that represents the amount of chairs you have crafted.
+- Y will be any number that represents the amount of tables you have crafted.
+
+- Each chair (X) requires 3 planks of wood.
+- Each table (Y) requires 5 planks of wood.
+- You have a stock of 40 planks of wood.
+
+Given the constraint of 40 planks of wood and given that you've already promised a customer that you'd make him 5 chairs, you would like to know how many tables you can still craft after spending that 5 chairs’ wood. This is so next time the client comes asking you to craft some tables you are well informed and ready to make a decision on whether you have enough wood left. So now the question becomes, how much tables can you craft given that you have 40 planks yet some of them are reserved for 5 chairs?
+
+Understanding the problem:
+
+Now, just see that this function represents our problem, don’t worry if you don’t understand it yet:
+
+f(x,y) = 3 * X + 5 * Y
+( * → this symbol means multiplication)
+
+This function is used to calculate the total number of planks we have consumed given the production of some tables and chairs.
+
+You can read this function as:
+
+- f(x,y) => ‘f’ stands for function. Its value is any number that results from doing the operation written on the right side of the equal sign ( = ) after giving fixed values to the variables involved. X and Y are the variables in this case. So if, for any reason, we fix the variable X = 1 and Y = 2, so they are not anymore a variable number but a very specific one, then:
+
+f(x,y) = 3 * X + 5 * Y = 3 * 1 + 5 * 2 → Here we wrote X as 1 and Y as 2
+
+f( x=1, y=2 ) = 3 * 1 + 5 * 2 = 3 + 10 = 13 →  Here we did the math operations
+
+f(1, 2) = 13
+
+Now that you know what the elements of the equation mean. Let’s see what they represent:
+
+- 3 * X : This means, for each chair (X) we multiply that times 3, which is the amount of planks of wood required to make a chair. So the result of this operation is the total amount of wood consumed by all the chairs we have produced. If we make X = 2, this means we have produced 2 chairs, and each chair consumes 3 planks, the total planks consumed is 3 * 2 = 6.
+
+- 5 * Y : This means the same but for tables.
+
+- (3*X) + (5*Y): This, therefore, is the sum of all the wood consumed by chairs and tables. Which as we can see we say it is equal ( = ) to f(x,y). So f(x,y) = Total Sum Of Wood Consumed.
+
+This is why this function represents the total wood used in terms of the number of chairs (X) and tables (Y) produced.
+
+Solving the Problem:
+
+You have already promised to make 5 chairs, so you have some wood quantity already reserved for use, that quantity is:
+
+3 * X =  3 planks per chair * 5 chairs = 15 planks of wood
+
+Using this value in the overall f(x,y) that represents our total production:
+
+(3*X now is = 3 * 5 = 15)
+
+f(x, y) = 3 * X + 5 * Y = 15 + 5 * Y 
+
+Now we know that our wood planks can’t exceed 40 as we only have 40. So the total wood consumed, f(x,y), can’t be higher than 40.
+
+f(x,y) <= 40
+
+The sign <= means smaller or equal.
+
+15 + 5 * Y <= 40
+
+In this case to solve the equation you have to make the same operations at both sides of the equal sign. Until the only thing left on one side is the variable (Y in this case) plus only a number is left on the other side.
+
+Solving the equation we see that:
+15 + 5 * Y <= 40
+
+We subtract 15 from both sides
+
+15 – 15 + 5 * Y <= 40 – 15
+5 * Y <= 25
+
+Now we divide by 5 on both sides:
+
+5Y / 5 <= 25 / 5
+Y <= 5
+
+This means that Y, the amount of tables we can produce is at most 5, given the limitation of 40 planks of wood and having a bunch of it reserved for the chairs. 
+
+So next time someone comes asking for tables we can say, I can only make 5 tables as much.
+
+Notice we fixed the X variable when promising something to the costumer and then we solved the problem. Fixed variable resolution technique.
+
+2.6.2.- A metaphoric problem: The happiness production problem.
+
+You are a human that uses energy to do stuff to try to survive and then be happy. And thanks to society and technological advancements you don’t have to worry about survival now so you are just trying to be happy.
+
+- X and Y will be any activity that you carry out to be happy.
+- The numbers multiplying them will be the amount of energy required to carry out the activities.
+
+- Activity X requires 3 units of energy.
+- Activity Y requires 5 units of energy.
+- You have a total of 40 units of energy.
+
+Notice that in real life each person has different amounts of energy and the same activity consumes different amounts of energy for different people.
+
+Maybe for someone else activity X only requires 2 units of energy because they are naturally build for it. Let’s use the activity of playing basketball to give a sense of what I mean: If you are taller you will likely spend less energy scoring points, because you will nail most of the shots due to being closer to the basket.
+
+Given the constraint of 40 energy units, and given that you have already done activity X. Now you ponder how much times you can do another activity Y to keep being happy given the energy you have left.
+
+Notice that the amount of energy that consumes something also depends on your beliefs. If your beliefs do not let you eat during the whole day and in that day you have to run, that run will be more exhausting for you. You can understand this as a variable inside the X variable, or maybe as another different variable Z.
+
+Notice that this is starting to get more complex. And notice again, we have put away survival from the equation at the beginning, that is another variable conformed of other variables, drinking, eating etc.
+
+And this is it, that is life described as a math problem.
+
+But as explained, in life there are not just X and Y, there are more variables than letters in the English alphabet and that is why solving the equations turns out to be way much more difficult even for the smartest mathematicians.
+
+This is also why solving some problems with just math and technology, for now, seems impossible too. We do not have such an advanced technology capable of solving that many variables in a realistic time. 
+
+So, with time, trial and error, trying to solve or optimize the equations, fixing some variables from time to time and figuring out others, it is how we can manage to optimize the value returned by our happiness function.
+
+X.- Conclusion: Chapter-2.
+
+Happiness clearly depends on intelligence and the limits (beliefs) you put yourself when executing the fixed variable resolution technique.
+
+This technique is intrinsically defined and used in the “engineers’ way of thinking” where you fix stuff with definitions and then explore. And the engineers’ way of thinking is for now the most intelligent way of thinking for humans, thus understanding its roots is essential to be proficient at human thinking.
+
+And, we have also seen how being very intelligent is a core need if we want to sustain the biological human goal of happiness long term. So from there arises the need of maximizing intelligence in order to be as happy as we possibly can.
+
+Furthermore, this technique is just the biological, chemical, natural way in which our brain rationally processes information received from reality.
+
+Now that you know this way of defining intelligence, what parts conform it (rationality and belief) and how this relates to and individual’s happiness and nature. It is finally time to explain the “engineers’ way of thinking”.
+
+But first, here I leave a simple step by step guide on how to optimize your happiness. Iterative actions that will tend to result, sooner or later, in you being happy:
+
+1.- If you are unhappy: Find your patterns, explore. If it is with friends, the better. If you are alone, don’t worry friends can come along the way. I’m aware some humans don’t even have this basic capability of exploring, in those cases, bravery, perseverance, conviction and acting alone or together with others for a better future is the key for success. Good luck to all, specially to those with the hardest positions.
+
+2.- You found the patterns? Good, enjoy them and find ways of sharing them with other people who likes them too. This step helps satisfy the natural need for a community.
+
+3.- Getting bored? Explore and execute other patterns. (Back to point 1) But this time, maybe, the new friends found while exploring can go along with you.
+
+Tip: Ponder more about, or be extra cautious, executing patterns or joining a community that would limit your exploring capabilities. As this exploring capability is what allows you to adapt against expected or unexpected changes in the future.
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+
+Transition from chapter 2 to chapter 3.
+
+Let’s explain the “engineers’ way of thinking” and how they use the fixed variable resolution technique to analyze and solve complex problems. 
+
+This technique is also very useful nowadays as a means to achieve intellectual strength, which serves as a complement to the third benefit of religion I mentioned in the previous chapter.
+
+It is also very useful for analyzing your own life, a complex problem with lots of variables by nature as explained previously, and try to optimize your happiness while living it.
+
+This might be the hardest and most important part of this whole part 1 of the book. Read it, reflect, and research on it as much as you want until you understand it and it makes sense.
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+

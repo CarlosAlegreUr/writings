@@ -1,0 +1,289 @@
+3.- How to analyze complex systems: The engineers’ way of thinking
+
+If you are an engineer or already know this technique, congratulations, keep doing it and  keep getting better at it. If you have never heard of it, please keep in mind that this is a skill. This is not a technique that you will learn and instantly be good at.
+
+It is like playing football. You won’t be good at it just because someone explains the rules to you and tells you how to kick a ball. You need time to consciously practice, to kick the ball, which mixed with the knowledge will eventually make you be good at it. With time, you will get better and it will get easier.
+
+Just like sports and physical exercise train the body, engineer’s thinking trains the mind. And they follow similar behaviors, the same way the body has to rest after the physical activity, the mind has to rest too after practicing this skill of thinking like an engineer.
+
+Learning to think effectively and efficiently requires similar processes and challenges to the ones faced when becoming good at any physical activity. If you already know how to train and practice a sport, learning to train the mind should eventually feel familiar.
+
+For this is that I recommend to follow similar principles that are used in physical training. At the end of the day, the analysis and understanding of systems is an uncomfortable energy expensive activity but for the brain.
+
+So, as small first advises, in the same way you have to overcome the laziness when you begin your physical training journey, you have to overcome that very same laziness when you start your intelligence training journey.
+
+The principle of progressive overload also applies. When you aim for a physical goal, you do not train that same goal, but easier versions, and with time you slowly increase the difficulty until you reached the goal. It is very clear in weight lifting, first you might lift just 5kg, after a week then you try 5.5kg, as you slowly improve you increase the load and eventually you will hit the goal of lifting 50kg let’s say. Same applies for the mind, do not try to fully and deeply understand complex topics from the start, let’s say quantum physics as an example, but first try to understand simpler ones, get your mind used to the analysis and learning activity, and then progressively tackle more complex knowledge.
+
+For people unfamiliar with this technique I would also recommend focusing on learning one topic, like mathematics, and then going to an “opposite” topic, like literature. Diversity, combined with deeply learning various topics, will make your brain get used to this method. And eventually you will be able to apply it to every kind of question in life.
+
+Personally, I’m a computer scientist/software engineer, so I have experience with this thinking process, and it has been useful during my whole life. I was lucky to figure this process out around the age of 7. Yet it wasn’t until the age of 20 that I became really conscious of what I was truly doing. The realization occurred watching a video I came across with. Which magically explained how I had been learning stuff my whole life. It turned out to be one of the best, if not the best, ways of learning according to some experts. One of them from renowned universities like Stanford. Names on the acknowledgments section.
+
+Stepping away from personal anecdotes, due to its strong alignment with how human brains process information, I do think it is the best method.
+
+I will do my best to explain this learning process, let’s begin.
+
+3.1.- The steps of thinking like an engineer.
+
+You can generally define the process in these 10 steps. Later, I will show specific examples on how to apply it to different areas of knowledge.
+
+With “a system”, I refer to basically anything. A system is “something that is conformed of other things that work together to create a result”. A computer is a system, mathematics is a system, social behavior is a system, religions are systems, every single person is a system…
+
+These are the steps, but before explaining them let me clarify that you have to rest. As with all effort, executing this steps is energy consuming. You can not do this forever and it takes time precisely because of the actual energy and effort the steps require. That said.
+
+Steps of thinking like an engineer:
+
+    1. Choose a system.
+       
+    2. Define what the system is with the information you have so far. If you know nothing about it, use your imagination.
+       
+    3. Write down “what you are trying to achieve” by analyzing the system.
+       
+    4. Divide the system into sub-modules with each having a different functionality or definition. If you had to use your imagination to define the system, then research a bit about how people define the system. Then create a more accurate definition before dividing the system into sub-modules.
+       
+    5. Choose one module and analyze it by executing steps 2 to 4 but for the module. Indeed, the sub-modules are just smaller systems.
+       
+    6. Check and redefine the system’s definition if necessary according to the new insights the analysis of the module gave you. Then update the “what are you trying to achieve”, if necessary.
+       
+    7. Write down in a list any interesting thing you have learned or noticed so far.
+       
+    8. Choose and analyze another module, this just means repeating steps 5-8 for that module. Yet this time, in step 6, you have to check if you need to alter or redefine not only the system's general understanding, but also the one of the modules previously analyzed.
+       
+    9. Repeat all these steps until you have analyzed all the system or the desired amount of it.
+       
+    10. Read and process any conclusions you have arrived at during the process to consolidate the learning.
+I said write down but do as you please: writing, highlighting, drawing diagrams or figures, or any mix of the previously mentioned. Use and experiment with the most comfortable way for your brain to understand and represent information.
+
+That's why mastering this technique requires time too. Individuals tend to adopt distinct approaches and strategies when applying these principles. Changing little details on their analysis based on comfort and preference.
+
+For instance, some might opt to delve into unfamiliar modules within a system first, finding that the unknown promotes their analytical skills more effectively. In contrast, others may prefer modules they're already familiar with, easing themselves into the analytical process.
+
+Additionally, it takes time to discern which form of information representation enhances your comprehension: diagrams, texts, colors, a combination thereof, etc.
+
+The choice of tools also requires time to analyze and experience, whether you process information better through handwriting, digital diagrams, or graphical software on computers, etc.
+
+Ultimately, it's about exploring and embracing the methods that resonate with you. Plus applying the steps explained above, constantly, through time and different topics. Then you will be bestowed the mastery of the method.
+
+3.2.- Examples.
+
+The following examples are from different branches of human experience and their purpose is not to teach you the topic they are about. Their purpose is to give you a sense on how to ask questions, how to modularize the information, and how to go back-and-forth within systems.
+
+3.2.1.- Example 1: Solving a first-degree math equation.
+
+You found yourself with this equation:
+
+78x + (34/2) = 88 – log(3^x)
+
+And for some reason, you want or need to solve it. But you only know the numbers, the equal sign and basic operations. You don’t even know what that “x” is and what that “log” means.
+
+In that case this is a pretty complex thing you got in front of you, but, how would you start tackling the problem?
+
+First define it. You have yourself a system here which can be called “An Equation”. Furthermore you have to “solve” the equation, but you don’t know what that means. This what means to solve question can be understood as a sub-module to analyze within the “An Equation” system.
+
+You might have an idea of the final goal and you have heard the word “solve” before in other contexts. So now you can try to define yourself what solving means. You decide to define it as: It means finding a solution to a problem. Now you might realize that in this case we are handling stuff with numbers, so that solution might be a number. At this point you got yourself a definition of the problem, even if you knew nothing you should try to define it so to promote creativity and then, it’s time to research. Let’s research to see what solving an equation means.
+
+After your research you find out that solving an equation means something like: 
+
+Finding the value(s) of the variable(s) that make the equation true. It involves performing the same operations on both sides of the equation to maintain equality. The solution is verified when substituting the value back into the equation balances it.
+
+Then you will probably be a bit confused and have more stuff to learn and define. Keep track of it taking notes, or any comfortable format, on the stuff you are defining and understanding so you don’t get lost. Systems can get pretty complex real quick.
+
+You realize in the answer found that the concept of “a variable” appears, and that is something you don’t know. Now you can do 2 things, try do define the concepts you don’t understand in the new information found, like variable, or go back to your main system to divide it into more parts and analyze them.
+
+Let’s just go back and find more parts. Now you kinda have a feeling of what solving is, but there is another thing catching your attention, what is that “x”? So you research about it. 
+
+Fortunately this research should take you to the concept of variable and you would accidentally join two modules of the system together, making it simpler for you to grasp your head around it.
+
+So once you understand what that “x” is, you have already divided the system “an equation” into 2 sub-modules, a module about “what solve means”, and module of “what is x?”. Luckily they were a bit related to each other and the questions you had to keep asking got narrowed down. But notice that this does not always happen. Usually the system gets more complex and, as said before, this is why you should keep track of stuff in some kind of notes.
+
+Or maybe, keep track of part of it in your own memory to go faster. But don’t put too much in memory, you should be able to recall, to remember perfectly and efficiently, what you put there.
+
+So, we just defined a system, “An Equation”, we defined sub-modules that define that system. But the key part I really want to highlight is that, after the definition, you could either keep getting deeper into the understanding of each part or go back-and-forth with the other modules. Both options keep improving your understanding and learning of the system.
+
+What is the best option? It depends a lot. Sometimes going back instead of getting as deep as possible results in a more efficient and easy learning. And sometimes it jut doesn’t.
+
+Notice, if we focused on analyzing a different sub-module we could have gone down the path of “what is a log?”. Then the answer would have been more complex and we would have felt confusion for a longer period of time. But eventually you would step back and go through the other simpler parts. Parts that, in one way or another, also contribute to your understanding of this harder “log” sub-module we just defined. As knowing what a variable is helps understanding what is a “log”.
+
+This “go back-and-forth” part is something you gotta master and that takes time. Choosing the wisest option to efficiently analyze systems has no go-to answer. It is just something you will get a feeling for and get better and better at the more you practice.
+
+With time you will develop some kind of intuition for it, if something seems too complex and needs to be broken down even more, while at the same time there are other parts in the system that might be less complex, most of the times it is better to retreat and come back to the complex topic later. This is because sometimes, as with the “x” example, the parts of the system correlate and you learn simple stuff that conforms other more complex modules. So later, when you tackle that module, it will feel easier. Or who knows, maybe you are more familiar with the topics on the complex module and delving into it first just feels better.
+
+Choosing to delve deeper or go back depends on your knowledge, on what you are trying to achieve etc etc This dependence on such unique variables makes it so there is no go to answer as we said.
+
+Optimizing how to efficiently tackle a system based on your knowledge is a complex thing, or a system on itself if you like. Then, because we are so many people and so different from each other in small aspects like these ones, all these logical and methodical decisions curiously converge into part of this method being a an art. There is no perfect answer. Like a painter that gets better by painting whatever he wants through time, yet also following some rules on how to paint shapes, shadows etc.
+
+So, when analyzing systems, despite of the art part on it, if you pay attention everything comes down to: divide, define, ask, answer and go back-and-forth. With this, sooner or later, you will eventually become a master on whatever you want.
+
+See a visual representation of what explained in the next page.
+
+
+
+3.2.2.- Example two: Understanding the literature of a Spanish author, Federico García Lorca.
+
+I myself know almost nothing about this one. I’m just going to show my thought process and how I would define and analyze this system to later conclude with its broader implications.
+
+Okay so we know that this guy is a person, a person has feelings, literature implies writing, writing is an art and thus can express feelings. Maybe “understanding” is being able to express what the author meant in his books, which is correlated to his feelings.
+
+So now that I have a feeling of what understanding an author could be, then I would start researching: what does it mean to understand an author? After that, let’s say I discover that the different parts of the “understanding an author” process are something like: knowing his historical context, feelings, personality and why he took the artistic choices he did. I would start researching about those, going back-and-forth and so on.
+
+You can use the previous visual representations yet this time instead of the math related names use the Federico García Lorca related ones. Like sub-module of personality, sub-module of the feelings… and so on and so forth.
+
+3.2.3.- End of the examples, their broader implications in any kind of human system.
+
+Notice that the second example was like understanding a person, indeed he is a person. When you try to understand someone you can modularize it in different ways. A way would be, just as one example of many:
+
+	- Personality: how extroverted is he, how does he react against some scenarios… what does extroversion mean in the first place though?
+
+	- Environment: does he live in a country at war or at peace, what’s the main religion there, what do they do in their free time, what economical system do they use?
+
+	- His family, his relations, his desires, and so on.
+
+Define them, go back-and-forth. And eventually if you analyze someone, and then the ones next to them, and keep going back-and-forth finding definitions in common, you will end up defining what is known as a culture. And, as with the previous math example, sometimes some answers will overlap. And there you got yourself more knowledge or unexpected links in information, which enrich and facilitate yourself the mastery of other parts of human knowledge.
+
+Of course, this person being analyzed can be, and must be at some point, you analyzing yourself. Go and analyze efficiently like an engineer everything, what you feel, wat you want or need to understand, your friends, your beliefs, your passions, your happiness…
+
+This will make you, sooner or later, understand the world.
+
+3.3.- A glimpse into the current situation of thinking in society.
+
+This is what is called understanding, and, at least in my society and current world, people don’t seem to understand things enough or, sometimes, they don’t even seem capable of analyzing them in the fist place. It’s an art that takes time to master and to apply to big, complex systems. Mastering analysis is neither easy neither fast to do. Sure some people will be naturally gifted, but that is the great minority.
+
+Just like in physical exercise, some people are naturally better at some tasks or sports. Like tall people in basketball. Yet, everyone can train to have better accuracy throwing a ball regardless of their height.
+
+A good bunch of the people lack proficiency in the ability of understanding because they have never been trained for it. They are usually trained to memorize information, copy-paste, eat information and vomit it on a sheet of paper. This leads to way more simpler, less capable of understanding and reasoning, individuals.
+
+Of course memorization is also important yet, at least nowadays, it has been given to much attention. A useful case of memorization has been shown above: when analyzing a system, instead of taking notes that consume time, you can memorize and move on with your understanding journey.
+
+The engineers’ way of thinking can be applied to anything, thus allowing you to understand and reason about anything. Whether the system is mathematics, literature, economy, or you as a person and your loved ones. If we keep focusing education in simple copy-paste, action-reaction, we inherit the risks that ignorance and lack of intellectual flexibility carry with them. I don’t think these are risks we should keep long term.
+
+So, because today’s educational systems will not prepare you enough, I encourage you to start defining stuff, research about its current definition, break it down, define the parts and keep doing it until you are satisfied. Find something you would like to understand and thus control better. Maybe it’s your personal physical health, maybe your financial situation, maybe your own psychological well being, whatever, go and master it. Leverage technology as much as you can for this.
+
+But keep in mind you will have to dare to redefine old previous concepts you had. And preferably, in a way they sustain your happiness in the longest-term possible for you.
+
+As explained in chapter 2, achieving this is what I define as an intelligent human. Thinking like an engineer can help a lot with this. First because life is a complex system. And second because this method, on its core, it’s applying the also explained in chapter 2, fixed-variable-resolution technique. You imagine and/or define stuff, a.k.a. form beliefs, a.k.a. fixing variables. And then you re-think about them if necessary, quitting beliefs, making them variable again.
+
+Specially due to this tight and natural connection with human nature, I think thinking like an engineer is the way to go for the purest truth and happiness in a long-term lasting manner.
+
+It is intrinsically uncomfortable and you will need to be hard-working and brave. This is because redefining certain concepts will imply big or small changes in your life, and changes require spending energy, getting tired.
+
+Sometimes it might be better to delay changes in order to be happier long-term, and sometimes it won’t. Indeed it’s complex. Now it’s your turn to analyze your situation, your system, in the way an engineer would.
+
+Use static assumed truths or definitions on concepts because they are necessary, but treat them as dynamically as you can. Don’t take one definition for granted forever. Learn, explore, adapt. Don’t fall into dogmas too frequently, be a scientist against everything, question even the most awkward or unpleasant questions. I know it’s not easy, I’m just telling you that with time and effort, trial and error, you will eventually feel more and more strong. And it will likely lead you to tackle the questions that you thought you would never defy. Technical and moral ones. The more strength you gather the lesser the discomfort, or the more bearable it becomes.
+
+This sounds very similar to what your trainer would tell you to motivate you into going to the gym, because it is. As mentioned, what I’m describing is just the training of the brain.
+
+We could say that the current situation of thinking in our society is that of, as an analogy with physical training, very muscular people capable of lifting heavy weights very quick but that ignored training the running and flexibility, thus they can not even run a kilometer or scratch their backs when itchy. Now we need to get used to train in complementary ways and be complete functional humans.
+
+In case the analogies are not clear, the strength training would be the over-focus on memorization, and the ability to run and be flexible would be the thinking like an engineer ability.
+
+I wish everyone good luck. It is not easy to get used to training when you have never done it so, but it is always worth it.
+
+3.4.- A glimpse into the role that nowadays technology has in thinking.
+
+Currently society is very bad at using the engineers’ method but… good news! This method today is as efficient as it has never been. Specially thanks to the tecnology we have recently developed.
+
+Previously it made sense to memorize more than analyze because we didn’t have computers to easily compute and store information, now we do. And even more recently we had powerful AI which is capable of digesting information in incredibly useful and astonishingly quick ways.
+
+Thanks to these advancements the process of research has accelerated dramatically, thus our capabilities for understanding systems have ben strengthen dramatically too. It wouldn’t surprise me if my future grandson at 15 years old, with proper training in the engineers’ way of thinking, plus the aid of the new tech, would be smarter that all current 20 years old. The same way as me, thanks to the internet and the flow of information, I’m wiser and more intelligent than my parents at my age. This is a big part of what we call prosperity.
+
+Due to lack of proper technology, it wouldn’t have been possible in the past for everyone to apply this technique very efficiently. Thus you could have eventually concluded that this is not the best way of thinking, or at least not the only one needed. You could have concluded that you needed intelligent engineers but also wise middle-man-memorizers to store information. But we do now have the technology, thus it is now, the best way of thinking. The one we should all master.
+
+That is why I truly think the better we get at analyzing problems with this dynamic method, the better we will get at solving even the hardest ones like world hunger, wars, and moral dilemmas.
+
+This technique is specially meant for this moment, and the future. It is designed and complies with our deepest nature, our boredom, our exploration, our happiness. Furthermore, it is perfectly in sync with the current state of technology.
+
+If we thrive, the future will be Cheerful, whether people realize it or not, whether they call it this way I do or not. And if we do not thrive, well we will be dead.
+
+X.- Conclusion: Chapter-3 till 3.4.
+
+Summing up, this chapter was meant to show how we should think of problems in the modern world, how we should analyze them to truly understand them. Making the most of our brain and technology in order to facilitate the search for happiness.
+
+From here I encourage you to go out there and use this to analyze anything: how can I bake this tasty lemon pie? Why are these 2 countries at war? How can I cure this disease? Why do objects fall to the ground? How did my baker bake that lemon pie? Oh my god it was so tasty. Why do I love this person? What is love? Baby don’t hurt me, don’t hurt me, no more Etc etc (last phrase was a reference to a song, you see? I’m Cheerful, Charles Cheerful. :D)
+
+The more systems you analyze, the better you will get at it and the closer to the truth you will be in each step you take. Combine this with:
+
+- Starting at a young age so we can manage through life better as adults.
+
+- Learning not always alone but along others too.
+
+And I truly think this is the way to go for having the most prosperous human kind we ever had.
+
+Furthermore, because of the natural benefits of cooperation and learning with others, and because the average human is capable of seeing them, I do think that if everyone masters this learning process the result will be the minimization of all abuses that arise from the extreme individualism and tribalism that our current world has. More on later chapters.
+
+3.5.- So… what is Cheerfulism?
+
+I asked an AI (Artificial Intelligence), it was ChatGPT, and it said: Cheerfulism is a practical philosophy for life, centered on the pursuit of long-term happiness through a thoughtful and scientific understanding of the factors that contribute to it. At its core, Cheerfulism is about optimizing happiness in a sustainable way, ensuring that it endures through the inevitable changes and challenges that life presents.
+The philosophy of Cheerfulism is built on the foundation of continuous learning, analytical thinking, and community building around those areas. It encourages individuals to analyze their circumstances, understand the underlying patterns that influence their happiness, and make informed decisions that enhance their well-being and those surrounding them. This approach is not just about seeking pleasure or avoiding pain but about cultivating a deep, resilient state of happiness that can adapt and thrive in various conditions.
+Enough AI, back to my words, in very simple terms Cheerfulism says:
+Mate just think deeply as fuck about everything that annoys you until you understand it and see if you can do something about it. In the meanwhile share those lessons and worries with others, maybe they know better or you help them know better. Oh and by the way, this is what happiness is (Chapter 1) and this other thing (Chapter 3) is the most efficient way of thinking deeply, use it wisely for your happiness. :D
+Or in even simpler ones, I define Cheerfulism as:
+
+Maximize your intelligence to pursuit your optimal happiness.
+
+Understanding as optimal happiness the one obtained by prioritizing the execution of patterns according to the natural constraints of human nature. This means, prioritizing those patterns that make you happy and make other humans you must coexist with as less unhappy as possible.
+
+The “as possible” refers to the fact that you can not always pick the one who creates less unhappy people because of the complexity of the choice, however, refining your process of prioritization is a problem that you will get better at and you should tackle when maximizing your intelligence.
+
+Logical and natural, simple yet deep, rational yet artistic, individual yet collective as it is truly shared by all of us. Happiness, as a shared goal we all can guide our thoughts towards, a philosophy we all can share.
+
+If you feel like, give it a try, it won’t be easy, better do it with someone. Create friends, a sort of community please, it is way much better than going alone like I did. I strongly recommend this specially for those with the hardest starting points. I’m aware mine is not the hardest, not even close. You might be faster alone, but together you will get further, and sometimes, even faster.
+
+My understanding of happiness and critical thinking thanks to complex system analysis and its application through the years, has lead me to a safe and sustainable state that seems to be applicable to any human. Due to its natural roots, I’m so sure it is. This is the main reason why I’m writing this text with such confidence.
+
+To conclude, these are the 3 basic super simple lines of action that Cheerfulism promotes:
+
+1. Always learn and, when in discomfort, question.
+
+2. Explore as response to discomfort. Sometimes alone and sometimes with people.
+
+3. All being peaceful but being able to defend yourself if necessary. Physically and psychologically. Use violence only in imminent life or death situations.
+
+These are the main ideas I hope people take with them after reading this intricate book. All other chapters are just explanations on how I think all this can transform our current world. I truly think this understanding of happiness, intelligence and thinking can cultivate the most prosperous humanity ever.
+
+Good luck to everyone whatever you decide to do and I wish you a great cheerful life.
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+
+Transition from Chapter 3 to the following chapters.
+
+So far I’ve explained how to tackle and manage life in the most efficient way possible at an individual level. In the following chapters I will explore the possible consequences of this behavior if a majority of us adopt this way of thinking and get good at it.
+
+1.- Cheerfulism is actually just the first 3 chapters.
+
+Thus now it comes a part of the text which is more speculative, you can see the following chapters as a way of making sense of society from a Cheerful perspective.
+
+I’ve been thinking and analyzing society based on the principles already explained and these have been my conclusions so far. Of course, as an engineer, I’m applying its way of thinking and changes in the explanations can be carried out in the future as new experiences and hypothesis prove me wrong. But that is the beauty of this philosophy, being able to guide yourself towards the truth without fearing the acceptance of being wrong.
+
+With this being said, here are my thoughts on societies and how, “the perfect society” would look like. I don’t aim for this text to be filled with theory, I’m going to propose individual, collective and specific changes based on Cheerfulism. I believe if we all do these changes together and helping each other, they will bring us as closer as possible to an utopia.
+
+Please remember, a real world problem can have different solutions and maybe some of them can be deducted from the same principles. The following parts are my thoughts on real world stuff, Cheerfulism is the building block to reason about and around these thoughts. The following is not what Cheerfulism thinks about these topics. It’s just what me, trying to apply its principles, has come to conclude. 
+
+Different authors have concluded different things along history being based on the same philosophies. Ones having better results than others. Don’t take what you read as the summit of truth when applying the Cheerful philosophy. Again it’s just what its creator concluded.
+
+And just because I’m the creator, in the way of putting its pieces together, it doesn’t mean I’m right, as you should have already noticed if you think like a Cheerful person.
+
+2.- Person who applies Cheerfulism == Cheerful.
+
+Yes, here I declare that someone who faces life with Cheerfulism can self-identify himself or herself as Cheerful.
+
+I’m aware problems are not cheerful, indeed they can be the complete opposite, intricate serious life or death situations where the word Cheerful might seem like an idiot’s choice. Yet I chose it as a glare of hope, which hopefully, serves as a little little bright light at the end of the tunnel for those who are facing the toughest situations.
+
+3.- Why do you call this Cheerfulism?
+
+I am Spanish, and one of my last names means cheerful.
+
+Carlos Alegre == Charles Cheerful
+
+And I’m the one writing and thinking this, so why not. Furthermore, those who have this flexibility in life, try, fail, get up, talk to people, cooperate, and never stop living tend to be happy. Happiness creates smiles, smiles define a cheerful person. My last name being that one was just a happy, or cheerful, accident. It adds some romance to it, doesn’t it?
+
+Am I Joy Boy from One Piece, whatever that means? Don’t think so, but at least I’m a bit of it I guess. If you haven’t read the series One Piece and do not understand what I’m writing now, don’t worry, I’m just recommending it to you.
+
+Now, without further ado, let’s explain my Cheerful perspective on the essential topics that build and shape human societies.
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+

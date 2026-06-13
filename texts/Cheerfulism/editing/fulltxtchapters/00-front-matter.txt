@@ -1,0 +1,197 @@
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+
+----------------------------------------------------------------------------------------------------------------------
+
+ Cheerfulism / v.0.0.5
+
+A reflection of existence on itself.
+
+----------------------------------------------------------------------------------------------------------------------
+
+General Index:
+
+	0.- The purpose of this text.
+
+ [ Part 1: The philosophy of Cheerfulism. ]
+
+	1.- Happiness.
+
+	2.- On quitting beliefs: What is intelligence?
+
+	3.- How to analyze complex systems: The engineers’ way of 			thinking.
+
+[ Part 2: A Cheerful understanding of human societies. ]
+
+	4.- Thoughts on the ideal society, part 1: On power dynamics plus the potential influence of Cheerfulism and new tech on it.
+
+	5.- Thoughts on the ideal society, part 2: On organizing resources plus the potential influence of Cheerfulism and new tech on it.
+
+	6.- Thoughts on the ideal society, part 3: On the feasibility of world peace, where organizing resources and power dynamics meet, plus the potential influence of Cheerfulism and new tech on it.
+
+	7.- Thoughts on the ideal society, part 4: On education plus the potential influence of Cheerfulism and new tech on it.
+
+	8.- Thoughts on the ideal society, final part: On how to transition to an utopia, putting it all together.
+
+[ Part 3: Boring Cheerful details about this book. ]
+
+	9.- Cheerfulism created itself. On the evolution of the philosophy and its natural roots.
+
+	10.- About understanding metaphysics. Is there anything real? Is there anything not real?
+
+	11.- Facing the question I delayed. Is Cheerfulism applicable to other beings?
+
+	12.- FAQ: Boring details on definitions, alternatives and extreme cases.
+
+[ Part 4: That is it folks. ]
+
+	13.- My absurd desires.
+
+	14.- Acknowledgments.
+
+	15.- Conclusion.
+
+----------------------------------------------------------------------------------------------------------------------
+
+Full Index: todo:reviese new sections added
+
+0.- The purpose of this text.
+	0.1.- The structure of the book.
+
+1.- Happiness.
+	1.1.- Conditions to be happy.
+	1.2.- The relation between happiness and freedom.
+
+2.- On Quitting Beliefs: What is Intelligence?
+	2.1.- Introduction: A very efficient way of thinking, thinking like an engineer.
+	2.2.- The impact of beliefs.
+	2.3.- Religion: Its benefits, downsides, and alternatives.
+		2.3.1.-  A substitute to the first benefit of religion: don’t get too bored.
+			2.3.1.1.- The answer of religions to the third question: Good and evil.
+		2.3.2.- A substitute to the second benefit of religion: find communities of 			pattern enjoyers (hobbies).
+		2.3.3.- A complement for the third benefit of religion: get literally stronger and 			scientifically wiser.
+	2.4.- Rationality and faith, two faces of the same coin.
+	2.5. On intelligence.
+		2.5.1. Are you dumb or are you intelligent?
+	2.6. The math examples as analogies.
+		2.6.1.- A realistic first problem: The carpenter problem.
+		2.6.2.- A metaphoric problem: The happiness production problem.
+
+3. How to analyze complex systems: The engineers’ way of thinking.
+	3.1.- The steps of thinking like an engineer.
+	3.2.- Examples.
+		3.2.1.- Example 1: Solving a first-degree math equation.
+		3.2.2.- Example 2: Understanding the literature of a Spanish author,
+			Federico García Lorca.
+		3.2.3.- End of the examples, their broader implications in any kind of human 			system.
+	3.3.- A glimpse into the current situation of thinking in society.
+	3.4.- A glimpse into the role that nowadays technology has in thinking.
+	3.5.- So… what is Cheerfulism?
+
+4.- Thoughts on the ideal society, part 1: On power dynamics plus the influence of Cheerfulism and new tech on it.
+	4.1.- On power dynamics.
+		4.1.1.- The static-dynamic dilemma of good and evil and its role in power 				dynamics.
+			4.1.1.1- Clarifying the meaning of ethics and moral.
+		4.1.2.- The static-dynamic dilemma on large societies: democracy, the balanced 			method, and anarchism, the complex method.
+			4.1.2.1.- A graph theory understanding on the complexity of anarchism.
+		4.1.3.- The information management role in power dynamics.
+			4.1.3.1.- Emotions, its biological nature and its role in power dynamics.
+		4.1.4.- What we now know, what we did, and the way forward to optimize power      		           dynamics.
+		4.1.5.- On nationalism.
+			4.1.5.1.- Thoughts on a substitute for nationalism: language and law.
+			4.1.5.2.- What will shape big nations if not nationalism?	
+			4.1.5.3.- How Cheerful individuals will change borders peacefully?
+			4.1.5.4.-  Adapting to law and language: Progressive asymmetrical  					    statistical gauge of law.
+	4.2.-  Going deeper in Cheerfulism and new tech on power dynamics.
+		4.2.1.- First, regarding the dichotomization of society.
+		4.2.2.- Second, regarding democracy and raw power dynamics.
+		4.2.3.- Third, regarding nationalism and army redistribution.
+			4.2.3.1.- Understanding armies redistribution with the prisoner’s
+				   dilemma.
+
+5.- Thoughts on the ideal society, part 2: On organizing resources plus the potential influence of Cheerfulism and new tech on it.
+	5.1.- Politicians, citizens, and their mistakes.
+		5.1.1.- A solution for the citizens.
+		5.1.2.- A solution for the powerful.
+		5.1.3- A general solution.
+	5.2.- The 2 core problems when distributing resources and the implications of 		        Cheerfulism, AI and blockchain on them.
+		5.2.1.- Beginning of the analysis.
+		5.2.2.- The first core problem: too much variables.
+			5.2.2.1.- Why socialism or communism can’t handle these variables?
+			             Allegedly.
+			5.2.2.2.-Why does libertarianism handle this issue way much more 					 gracefully?
+			5.2.2.3.- A simple mathematical model to understand a society’s 					  capability to distribute resources effectively.
+			5.2.2.4.- A naive critique to libertarianism.
+				5.2.2.4.1.- Why happiness over freedom?
+		5.2.3.- How new technologies will help to deal with the first core problem of too 			much variables.
+		5.2.4.- Clarifying my bet.
+		5.2.5.- The second core problem: parasitism behavior, abuse.
+			5.2.5.1.- When abuse happens, symptoms of a sick society.
+		5.2.6.- Interesting cases of statist resource management despite its implied 				abuse.
+			5.2.6.1.- Nordic countries, the happy socialists.
+			5.2.6.2-  Patents, an image of distrust.
+			5.2.6.3.- Public funding of inefficient or even useless activities.
+
+6.- Thoughts on the ideal society, part 3: On the feasibility of world peace, where organizing resources and power dynamics meet, plus the potential influence of Cheerfulism and new tech on it.
+	6.1.- How minimizing abuse via Cheerfulism will create world peace in the current			world.
+		6.1.1- The assumption of little dumbness.
+		6.1.2.- Optimistic reasons for world peace, a matter of resources, power and 			intelligence.
+	6.2.- The hardest problem transitioning to world peace. The vicious cycle of hate, 			blame and revenge.
+		6.2.1.- An idea to promote the third way of ending cycles of hate: Temporary				clearly pretended ignorance.
+
+7.- Thoughts on the ideal society, part 4: On education plus the potential influence of Cheerfulism and new tech on it.
+	7.1.- The problems of education so far and the direction of the next steps.
+		7.1.0.1.- This text could be simpler. But I’m an engineer.
+		7.1.1.1.- Analyzing the problem to solve for perfect education: receiving useful			   information.
+	7.2.- The common limitations in our current educational systems and how to break free 		from them.
+		7.2.1.- First intuitive liberation steps.
+	7.3.- How do the educational systems limit our adaptive nature and what to do about 		it.
+	7.4.- Finland‘s educational system, a living Cheerful proof?
+		7.4.1.- The core principles of the Finnish educational system.
+			7.4.1.1.- Another proof for the Finnish being in the good direction: My 				   own education.
+		7.4.2.- The basic curriculum of the Finnish system.
+	7.5.- Mixing all together: EBTAA. My specific proposal for the perfect educational
+		system.
+		7.5.1.- Explanation of the EBTAA educational-system: Education Based on Trust, 			Accountability and Adaptation.
+			7.5.1.1.- Over-age learning: The building stage.
+				7.5.1.1.1.- The key reason of why now is the time to do this, our 					      new technologies.
+				7.5.1.1.2.- The criteria for choosing a good teacher.
+			7.5.1.2.- Under-age learning: The base stage.
+				7.5.1.2.1- The basic curriculum.
+
+8.- Thoughts on the ideal society, final part: On how to transition to an utopia, putting it all together.
+	8.1.- The axioms, or essence, of human existence.
+		8.1.1.- Another example of the human existence’s axioms. The different ways of 			living love.
+			8.1.1.1.- The capitalist hate on monogamy. And the socialist one. Same 				   reality, different fixed variables, successful coordination.
+		8.1.2.- A more modern version of good and evil, of left and right.
+			8.1.2.1.- A key difference, correct and incorrect answers are not the
+                                              same as good and bad answers.
+			8.1.2.2.- The new left and right, a two dimensional and natural approach.
+	8.2.- Patterns on answers and why democracy, for now.
+		8.2.1.- On how to create a democratic system.
+	8.3.- The best way forward I can think of: CDL.
+		8.3.1.- How to transition to CDL.
+		8.3.2.- A factor is missing in the name: Education.
+		8.3.3.- CDL applied to Spain.
+
+9.- Cheerfulism created itself. On the evolution of the philosophy and its natural roots.
+	9.1.- Nature created instincts and a society, and those created Cheerfulism.
+	9.2.- Chronological view on the progress so far.
+
+10.- About understanding metaphysics. Is there anything real? Is there anything not real?
+	10.1.- Friends discussing religion ends up in metaphysics. How I deal with the latter.
+		10.1.1.- Dealing with metaphysics.
+
+11.- Facing the question I delayed. Is Cheerfulism applicable to other beings?
+
+12.- FAQ: Boring details on definitions, alternatives and extreme cases.
+	12.1.- Details on: Part 1.
+		
+13.- My absurd desires.
+
+14.- Acknowledgments.
+
+15.- Conclusion.
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------

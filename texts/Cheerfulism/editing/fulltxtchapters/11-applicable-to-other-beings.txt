@@ -1,0 +1,100 @@
+11.- Facing the question I delayed. Is Cheerfulism applicable to other beings?
+
+This is me after writing the chapter. Spoiler, I reached no crazy conclusions.
+
+This chapter is only useful as another example of curiosity and research powered by mind, internet and AI. It is a clear example of what we should do with the stuff that we need to learn or with the stuff we are curious about.
+
+I’ve clearly done it with economics, politics, education etc etc Should I add this chapter? It feels kinda boring and repetitive for me, anyway this part 3 are boring details no? I will keep it.
+
+Sorry if it was not interesting enough due to the lack of useful answers, I hope at least, I created useful questions.
+
+Let’s start thinking like engineers. Lets fix some variables and define stuff. So first we must define what counts as a being.
+
+I will think of it as something that replicates itself with small variations to properly adapt through time against the chaos of the physical reality.
+
+This will include us, but also modern AIs that train themselves and improve slightly. Some of you after reading this might be tempted then to think if AI actually feels stuff like we do. But that is not what this chapter is about, it is about trying to figure out, or at least guide a starting point to discover, what are the axioms, the principles that helps “stuff”, “beings”, keep existing through time.
+
+It looks like the core thing is to replicate itself in slightly different ways. Living beings do so reducing the local entropy, non-living beings like AI systems do so increasing it.
+
+But what is entropy you might ask. And so I do ask myself because I don’t fully know. Let’s keep this as a sub-module we will explore later.
+
+Wait, I think I need the definition now to keep thinking. Let’s explore it then. I will define it on my own and then use AI to guide myself into further understanding, I’m so lucky to be writing this now and not when I started and initially had these questions, as now, thanks to AI I can process information and look for it much faster.
+
+Alright here is the definition of entropy I will be using: Entropy is grade of disorder in a system. Reducing it means making a system be more ordered. And being ordered is just making it have a configuration of its parts that is less statistically likely.
+
+I’ve asked AI how physically correct, as per physics, this definition is. AI said:
+
+That’s fundamentally correct.
+It’s basically how physicists explain it too:
+    • Entropy = statistical likelihood of a system's configuration.
+    • More entropy = more possible ways it can be arranged (disorder).
+    • Less entropy = fewer possible arrangements (order).
+This is especially spot-on:
+"Being ordered is just making it have a configuration of its parts that is less statistically likely."
+That’s thermodynamic poetry, honestly.
+End of AI sayings.
+Cool, looks like all the science Youtube videos I’ve seen throughout my life made some impact in my intuition.
+
+Okay now I wonder, physics defines stuff mathematically, agnostic to any kind of to be or not to be, maybe, so it looks like current measurable universe is based on this pattern of: Stuff that creates more chaos, a.k.a. less measurable stuff, and stuff that creates more order, more measurable stuff.
+
+And it looks like statistically, a.k.a. the tendency, is for stuff to be more chaotic, which just means harder for us to measure. So, what is the Cheerfulism of stuff that makes stuff easier to measure?
+
+Mmmm… Wait what is Cheerfulism to humans in the first place. I feel we need to explore this other question, sub-module, before diving deeper into physics parallelisms to draw conclusions.
+
+Alright. We know Cheerfulism is a philosophy for humans, a philosophy is just a train of thoughts, a collection of thought axioms to eventually guide actions. In this case, human actions based on human biological existence. So now we can say we are looking for a guide of axioms to guide systems’ actions that almost self-replicate, some of then reducing entropy and others increasing it.
+
+Oh, I can see, this should be broken down in order to easily analyze, let’s dive into this statement but excluding systems that do increase entropy. So we are excluding AIs or rocks or planets. Planets do not reproduce with each other but they do exist and seem like as there are various of them similar to each other sometimes, somehow and form time to time planets start existing, are born sort of, and the mother is some law of physics that procreates with the atoms.
+
+Planets are beings in the sense that they exist, they can be named, they keep appearing like alive beings do, and let’s stop there because where are asymptotically close to metaphysics.
+
+Planets are not alive but they share some similarities with living beings. Thus rocks too, non biological matter too. They all follow this laws of physics. Interesting, this might be useful in conclusions about this system. Let’s go back to analyzing locally reducing entropy systems.
+
+By the way do you see it? I’m going back and forth between modules, writing down information, in this case as a text, comparing it to previous knowledge, re-thinking previous knowledge if necessary, just like the steps on chapter 3, and I’m not even thinking about the steps, which you might have to do at the beginning of learning the technique, it just comes naturally at this point, I’ve been doing it instinctually all my life.
+
+Alright. So what is the set of axioms that helps guide self-replicating locally entropy decreasing beings through its existence?
+
+Mmmm wait, while analyzing the sub-module of the self-replicating meaning it looks like it does not make sense. Some living beings do self replicate exactly, I mean cells do if no mutation is given, but humans do not. So what would be a better more fitting term? Let’s call it quasi or fully self-replicating beings for now.
+
+And because it is a really long thing to write lets use acronyms:
+
+QFSRLDES = Quasi or Fully Self Replicating Locally Decreasing Entropy Stuff.
+
+Alright, let’s think about those axioms for QFSRLDES.
+
+What makes them keep doing what they do?
+
+That property has to be encapsulated in the smallest part, a cell. I’m going to ask AI again, which part of the cell exactly, and how, reduces entropy?
+
+I’ve found out that increasing heat of the external world is produced by entropy. Okay heat is just moving stuff from colder to warmer, making particles moves faster. So it is like a process trying to make all particles move equally. To equalize and fix its velocity.
+
+Fixed variable resolution technique? Making all vary at the same time until you finds the answer and it becomes fixed? Is the universe a being of infinite intelligence, trying to fix all variables and it is just taking lots of time?
+
+Are our biological processes just a way of slowing down the universe trying to solve himself? 
+
+At this point it looks like trying to answer what is the Cheerfulism that applies to other beings turns out to just become the 3rd rule of thermodynamics.
+
+So what QFSRLDES should try to do is to have chemical systems that replicate themselves as best as possible while emitting heat to any external system?
+
+Heat would be their happiness and the how well they organize so to replicate would be their intelligence? Then the most general Cheerfulism would sound like:
+
+Maximize the quasi-replicative organization capabilities so to optimize for heat emitted to the exterior system. That is how things are Cheerful?
+
+I will stop here, it starts to sound like someone who smoked a joint and is trying to understand physics without ever finishing nor starting even a physics course.
+
+I was curious though, I sill am, maybe I tackle this back on the future but having learnt physics so to better frame my questions, to fix better the definitions and vary the rest in more efficient ways. Maybe I find an intelligent answers in 25 years? Time will tell.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Transition from chapter 11 to 12.
+
+Alright after this intense display of how to think like an engineer on a complex, uncharted to me topic. Let me clarify some stuff I’ve written on the book.
+
+In chapter 10 I’ve done all live, sort of saying, not filtering the conclusions and then explaining the reasoning behind it, showing all, the starting point, reasoning process, tools used, when I used them and then the conclusions.
+
+You already know the conclusions of all previous chapters and the reasons behind. But you don’t know what lead me to the specific wording of those conclusions. Let me highlight some of them so you don’t just see the conclusion and “final-truth”, but also some of the potential things that could have been written but eventually were discarded, and why they were discarded.
+
+Welcome to chapter 11.
+
+-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+

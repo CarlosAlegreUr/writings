@@ -1,0 +1,859 @@
+
+Transition from chapter 6 to 7.
+
+Hello again, this time, we are going to finally tackle education. As we have seen along the book, it is vital, not only to maintain utopias, but also to transition to them.
+
+Without further ado, let’s go.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7.- Thoughts on the ideal society, part 4: On education plus the potential influence of Cheerfulism and new tech on it.
+
+Within a species point of view, close to worthless is not inherited knowledge, so education plays a crucial role on utopian creations.
+
+It does not matter how efficient are our power dynamics and resource management protocols if we do not teach our children how to keep following them, or even keep improving them.
+
+The biological rule of each being trying to continue its legacy is one we must not ignore if we aim to have the most efficient life optimized for intelligent happiness.
+
+Lasting utopias are not just build, they have to be maintained, just like species on the natural evolution game.
+
+So, how do we make our children ready to build or maintain utopias? Education.
+
+If you want you can understand education as another piece in the puzzle of organizing resources. This is the piece of organizing the future organization.
+
+Education is:
+
+Teaching someone something. Helping someone learn something. That someone can be yourself.
+
+And the optimal goal, species-wise, is to teach someone good patterns, and to teach them how to get rid of or reduce bad patterns and also to even improve the good ones even more.
+
+How do we do this then? Wait a second for this answer.
+
+Now just notice that someone being educated, someone being taught something, involves a transition process, a change. Thus education is a key factor not only in maintaining utopias, but also in creating them, in transitioning to them.
+
+Okay but, how then do we transition to an utopia? How do we educate ourselves towards an utopia? Maintaining and improving good habits and reducing or eliminating bad ones, then if repeating this through time, we should eventually get there.
+
+How long must we repeat this process for? Wait a second for this answer.
+
+Now just notice, change, maintain or improve good patterns, delete or reduce bad ones, does it sound familiar? What if say it this way: fix good, vary the bad, vary the good again if so. Here it is again, the fixed variable resolution technique.
+
+Can then Cheerfulism be the key to understanding the transition to an utopia? The key to understanding education? Is Cheerfulism naturally build around the biological principles to better educate people so to carry out this transition? I do think so.
+
+In this chapter we will explore the current state of education, propose improvements and analyze how all this can be done through Cheerfulism and the new technologies we have recently developed.
+
+But wait, some might have wondered, okay but what is to learn?
+
+Learning is:
+
+The transition from not being able to execute a pattern to later being able to execute it. Understanding execute as the previously mentioned: any combination of discovering, creating, analyzing, repeating or experiencing a pattern.
+
+Enough definitions for now. Let’s explore how to achieve the perfect education.
+
+
+7.1.- The problems of education so far and the direction of the next steps.
+
+If we want to create and transition to the perfect educational mechanics, we must first understand what education is, in order to imagine what a perfect education can look like, and we must also know what our current education looks like, in order to imagine a transition.
+
+We just saw what education is. It is a way of applying the fixed variable resolution technique, a way of processing information so to other being ends up processing that information in the same or a similar way.
+
+Cool, that is education, but what is the perfect education we are striving for? The one who will lead us to an utopian society. From the previous section, we saw that, species-wise, the way to an utopian society is by maintaining or improving good patterns and reducing bad patterns.
+
+So okay, that is what we are aiming for. We are aiming to efficiently use the fixed variable resolution technique in order to get to that goal. What can go wrong in this process? What can be seen as problematic in this education action and this perfect education goal?
+
+Let’s discover this by analyzing all possible paths of information flow in this education action, in this system.
+
+There are 2 actors in the education pattern, let’s call them, the teacher and the student. Both can be yourself by the way, or they can just be 2 different beings. And the teacher can even be a non-living being. Imagine you see a volcano erupt and you do not know what volcanoes are, then a mountain would be teaching you that some mountains are dangerous and can spit lava.
+
+If we get fancy and general, the student can also be anything. Can it? This deeper questions will be explored in the part 3 of the book. For now let’s just stick to the ones who are directly useful, and easier to understand, when creating and maintaining utopias. So.
+
+The teacher is the one guiding the student to learn. And the student is the one learning. Easy so far.
+
+The information can be sent or not sent, and received or not received. So there are 4 plausible scenarios:
+
+1.- Not sent and not received. We will not analyze this one because it is not education. If no information is sent, no information will be received. Logically useless. A teacher and a student just staring at each other is absurd, we all know that we must do something. I’m just adding this because it is a plausible logical combination, because I’m thinking like an engineer, defining all possible sub-modules and seeing where that leads, to see if that helps with my understanding of the system.
+
+2.- Sending and not receiving. This is realistic, a teacher is transmitting information yet the student is not receiving the information for any reason. We will explore this.
+
+3.- Sending and receiving. This is realistic again, we will explore it later.
+
+4.- Not sending and receiving. This one makes no sense, if nothing ever was sent, nothing ever can be received. Thus we will not analyze it. Let’s fix this variable and assume it’s illogical. Will we ever revisit it and unfix it? I don’t think so. However truth means never say never.
+
+Well so far, but we are not just trying to foresee problems in education, but problems that can arise on the perfect education. The one where education has a goal, so we get ourselves another variable arising from the goal: goal achieved, goal not achieved. What is the goal of a perfect education then?
+
+The goal is to maintain or improve the good patterns, and reduce the bad ones. If the information is received but useless, there would be a problem too. We are trying to achieve the goal, not not-to-achieve the goal. So from the plausible scenarios that we got earlier, numbers 2 and 3, we will not take into account the variable’s value of not-achieved goal, because we just do not want that.
+
+It is true that sometimes, knowing where not to go is useful for discovering where to maybe go instead. Yet for this chapter, because I’m the one making it, out of my own intuition, out of the artistic part of thinking like an engineer, I will keep exploring through this path to reach a conclusion. Because I feel it will be faster and it will lead to less complexity.
+
+So the system combinations to finally analyze are:
+
+1.- Sending and not receiving and reaching the goal. Notice that this is useless to examine. As the only way we can deem if the information was useful is if it reached the student in the first place. So we are left only with one path to analyze. Thus, we will start the analysis like this, with the assumption that the information is sent, and it is received. Other combinations fall out of the logical scope of perfect education, as if nothing is received, nothing can ever reach the goal.
+
+2.- Sending and receiving and reaching the goal.
+
+Look, by exploring one path we got a simplification of the system, one of the paths is useless. So I might as well start taking into account what I decided to move away from for now, that was the not-reaching-goal variable. So okay, let’s add this plausible scenario to our understanding and so we get:
+
+1.- Sending and receiving and reaching the goal.
+2.- Sending and receiving and not reaching the goal.
+
+So, now we understand better the parts of the system, their relations and the desired states that can be useful for our goal.
+
+Note that we made assumptions, because we fixed some variables, because we chose to focus on only the sub-module that made logical sense. Yet in more complex systems, like the analysis of an ideology, where logic initially will not be enough, being aware of your assumptions is critical to reach deeper truths.
+
+Now, let’s start analyzing these 2 useful system states as of nowadays society in order to understand the problems we face and how to solve them.
+
+7.1.0.1.- This text could be simpler. But I’m an engineer.
+
+This could have been shortened, and I could have just told you hey to get here we just need to analyze these 2 states of the system. But then I would have missed the chance of displaying in real time once more how to apply what learned, or what taught, in Chapter 3.
+
+All the steps described in that chapter are here too, imagine, define, analyze, simplify if so, follow the intuition, revisit the paths if so, with a goal, slowly understanding. Not fixing forever, yet maybe for long times, even the most illogical paths.
+
+I started trying to understand what was, or were, the problems we can face to get a perfect education. Then via logical deduction from definitions I figured out what we have to analyze in our context. And now that I have a deeper understanding of it, I can try to solve it in different ways, which some of them might even result in being the best way. And if they turn out not to be, I will just go back and forth, unfixing the variables and thinking again.
+
+Don’t worry, from section 6.2 and forward in this chapter there will not be such a detailed engineers thought processes.
+
+7.1.1.- Analyzing the problem to solve for perfect education: receiving useful information.
+
+So, from the previous section we know that we must focus on the system when:
+
+- Sending and receiving information and reaching the goal.
+- Sending and receiving information and not reaching the goal.
+
+And reaching or not the goal depends on if the information was useful. So, when simplifying redundant stuff that we already understand the final question becomes:
+
+How do we transmit useful information? Also known as: How do we transmit information which improves and maintains good patterns and reduces bad ones?
+
+And, my friends, it has been in front of us all along. As seen, maintaining good patterns, reducing bad ones… it is just another way of saying: fixed variable resolution technique!
+
+So, the question ultimately metamorphoses into:
+
+How do we transmit useful information? → How do we transmit information which improves and maintains good patterns and reduces bad ones? → How do we transmit information effectively with the fixed variable resolution technique?
+
+So, again, sorry for the repetition. How do we transmit useful information? Via educating based on an effective usage of the fixed variable resolution technique. Via mastering the technique. Which is just, the learning process, the discovering process. The natural urge of humans to explore which has kept us alive for lots of years.
+
+That is how we solve this problem.
+
+We must then optimize our educational mechanisms to make the best use possible of the fixed variable resolution technique.
+
+Then we can start analyzing:
+
+1.- Are we doing this nowadays?
+2.- How to do it if not?
+3.- How to maintain it or improve it if we are already doing it?
+
+I will not get into detailed engineer-like explanations on all the answers to the last questions. They just are:
+
+1.- Yes, we are currently using the technique.
+2.- We are already using it, no need to explain how to start then.
+3.- Here is the key, how to improve it. Welcome to the next sections.
+
+7.2.- The common limitations in our current educational systems and how to break free from them.
+
+These are, in no special order, the main approaches our educational systems have which I’ve noticed that make the fixed variable resolution technique be less effective.
+
+1.- Primarily relying on memorization, we should rather emphasize better the analysis and understanding of systems.
+
+2.- Primarily prioritizing learning useless knowledge, we should emphasize not only greater analysis of systems but also seeking the analysis of useful ones.
+
+3.- Ineffective emphasis on teamwork. All above should be complemented with a stronger emphasis on genuine teamwork, while still valuing an individual’s capability to be and work alone when necessary.
+
+4.- Slow adoption of new technologies for information management. At the end of the day, education is transmitting information as we saw, using outdated tools leads to outdated results.
+
+5.- Depending on artificial tests, so-called exams, when they are not based on “natural” challenges anymore.
+
+These are the core limitations we must address in our educational systems which greatly limit our biologically intrinsic adaptive nature that makes us, and made us, thrive.
+
+However, addressing and implementing a change, no matter of which kind, requires careful planning. To avoid causing unnecessary stress or trauma, these changes should be introduced gradually. Yet, the pace shouldn't be too slow either, especially if there's an imminent threat or challenge.
+
+I will dive deeper into all theses problematic approaches and how to solve them all the way until the end of this chapter.
+
+But first, let’s deviate for a small bit to a more chill section in order to rest and also lay out some useful context for later explanations.
+
+7.2.1.- First intuitive liberation steps.
+
+Before diving deeper into how to specifically solve this educational mess we have. Let me lay out some intuition guided basic actions that will help.
+
+For example here I'd like to propose certain fundamental school subjects that are often overlooked but are crucial for a modern prosperous society:
+
+- Nutrition and Exercise: Understanding how to maintain or manipulate our body in a healthy way.
+
+- Goal Planning: An overview of setting and achieving objectives short, medium and long-term. Often requiring the latter ones a necessary focus on the engineers’ way of thinking due to their complexity.
+
+- Personal Financial Planning: Grasping personal finance, understanding money's mechanics, and familiarizing oneself with local taxation laws, saving, spending and investing.
+
+- Power Dynamics: Delving into the essence of politics and understanding the constant fight for power, irrespective of the resource management protocol in place. Understanding different techniques for aggregating power like the empty signifier, the simplification of opposing concepts, happiness etc.
+
+- Philosophical Foundations: Grasping the philosophical principles that build the society an individual lives in. Promote inside this subject the understanding of other philosophical approaches that other societies might work upon. Specially the neighboring ones so as to foster understanding and international diplomacy.
+
+- Mastery of statistics: In this era, mathematics, specially statistics, are essential so to understand the big data we are exposed to and that all studies we carry out are based on. Misinterpretations on statistical concepts are often a source for sensationalism which affects on the acknowledgment of illogical conclusions. Thus we must minimize their appearances.
+
+- Technology usage and understanding: In this subject people learn to use useful tools for everyday live. Kitchen tooling, information management tooling like multiple software such as artificial intelligences. In general, tools, useful technology to make life easier. How to use it properly and even have a feeling, a basic understanding, of how it logically works under the hood.
+
+- Play and rest: Learning to rest properly and then be ready to keep facing live and to keep enjoying life. I understand art as a play, so here we would include the practice of any art for the sake of art, not for the sake of its mastery. Learning to rest while listening to your body’s biological signals, so to be creative just by naturally existing and playing.
+
+- Survival skills: Yes, learning ancient methods for survival. Just in case. Humans strive for both, guaranteed survival and happiness, never forget the base.
+
+- Cheerfulism: And how can I say otherwise? I also recommend the study and analysis of Cheerfulism. :) Understanding scientifically the nature of happiness and intelligence in order to make everyone fully equipped to fulfill their desires and needs.
+
+From my perspective, which is influenced by the Spanish public educational system from the years 2002-2015, these subjects are often left as optional or they do not exist at all. In contrast, they should be as central to the curriculum as learning how to speak.
+
+To ensure a thriving society, there should be a greater emphasis on these areas of knowledge. Critical thinking should be at the forefront of educational assessments.
+
+Don’t dismiss memorization, it is also useful and necessary yet its main influence must be reduced. An example of a good use of memorization was given at the very beginning of the book, the engineers’ way  of thinking can be carried out quicker with some optimizations based on memorization.
+
+To integrate these changes into the educational system, I propose a phased approach. Once the new evaluation methods are designed, they can be introduced gradually. For instance, the presence of these new concepts and techniques could increase by 10% each year. This gradual increase ensures that students can adapt without feeling overwhelmed.
+
+While I said a 10% increase, it's essential to note that different age groups might have varying levels of adaptability. Experts, familiar with the intricacies of human minds’ learning, should determine the appropriate rate of change for each age group. The overarching principle is to balance the pace of change for each nation's demographics and capabilities.
+
+Lastly, for adults keen on changing, which are the population that can struggle with change the most, it would be beneficial to offer free tutorials tailored to their age, psychological profile, and cultural background. These resources can guide them in embracing this new approach to life and allow them to make a greater impact on the construction of this better society.
+
+You don’t need to wait for someone else to create these resources. If you feel like it and have the time to create these resources on your own, like a video, a book, a meeting on your neighborhood etc Tailored to the age group you represent, or to the life-situations you might be familiar with etc Whatever you can come up with, what are you waiting for? This is a mission in which we all can put our little grain of sand to build a mountain. I encourage you to do so. I’m personally doing it, I will start making social media videos to spread Cheerfulism and give free access to all the useful knowledge I’ve gathered so far.
+
+And indeed, this is what will eventually bring Cheerful people to this world, a great big common goal created and made reality by our small combined strengths. This goal being to achieve long term sustainable happiness for everyone. Based on principles abstracted away from any ideology, any religion, any gender, any skin color, any belief, just based on what makes all of us truly happy humans.
+
+With these resources, and the power of internet to reach any corner of the world. Cheerful individuals will slowly emerge and influence their people around them. They will probably also meet with other Cheerful people every now and then, so not to feel isolated in a world that guides itself by principles who tend to undermine parts of human nature. Slowly but surely, creating a community, with members slowly appearing and growing all around the world.
+
+This is how we will start our final steps to the utopia. A decentralized network of Cheerful teachers, spreading to those humans around them, not by enforcement, but just leading by example. A natural sustainable growth of a phenomena based on human nature too.
+
+Now, let’s get into the deeper explanations and details on how to understand and improve all the current educational messes.
+
+7.3.- How do the educational systems limit our adaptive nature and what to do about it.
+
+I already mentioned some sections ago the 5 main weak spots. Let’s understand how they hinder effective progress paired with some initial solutions proposals. A comprehensive and detailed educational system proposal will be explained right after this section. Let’s keep laying out knowledge to fully understand what I will later propose.
+
+7.3.1.- Addressing the weak spots with alternatives.
+
+1.- Too much memorization.
+
+Why is there so much emphasis on memorization? An explanation commonly heard, and which I’ve briefly mentioned in previous chapters, is that in an era previous to the internet, like in the industrial revolution, having quickly access to information via storing it in biological databases, a.k.a. our brains, was a really useful and efficient technique.
+
+Yet, internet now exists, and it is very solid and robust, its existence is reliable. It is not like the library of Alexandria, like if it could just one day be burn and thousands of years of solidified knowledge could be lost. The databases, the computers that store all internet data, are spread through the world and with redundancy. This means that the same information is stored in multiple places, so it does not matter if one burns.
+
+This makes our current capabilities for accessing and storing information way more efficient than 100 years ago. Thus the emphasis on memorization is not anymore such an useful technique.
+
+Fortunately, because it is a natural problem solving process, people are realizing that. Yet it is painfully slowly changing.
+
+More assignments in school now require an interdisciplinary application of different areas of knowledge, which promotes critical thinking and development of analytical capabilities. Yet, its insertion is painfully slow.
+
+This is obviously seen with the young population non-stop complaining about how useless the skills learn are in nowadays jobs, and it is also reflected on how hard it is to find a job if you only study in the traditional path and the traditional knowledge.
+
+Anyway, I’m not an expert in education, so the very specific details on how to orientate educational changes so to promote critical thinking are out of the scope of my knowledge, for now at least.
+
+A thing I know is clear, most exams should not be based on memorization. Students must have all information available to them at exam time, they must have access to internet. It is unrealistic, saying it in a pretty way, otherwise I would say stupid, to prohibit access to the internet, nowadays that is just a non realistic scenario.
+
+That would be a true reflection of reality which would truly prepare them for life. Yet we need another vital detail.
+
+For these exams successful completion, you will need to do real time research, real time learning. Literally an exam which part of it is to successfully learn something new on that precise moment. And, let’s say, that for that learning experience, you needed some basis of knowledge, which would be impossible to learn in the time given for the exam completion. Thus you must have memorized it or have previously learned these basics to successfully complete the exam, yet at the same time you are showing how good you adapt because the exam requires you to learn something new.
+
+Maybe this is not applicable to very simple knowledge or humans with still limited cognitive capabilities, like children from 7-9 years old. This is why I say I’m not an education expert, yet I’m very sure about the overarching principles we must follow. Somehow, children must also be encouraged to learn on the fly while leveraging previous knowledge.
+
+This is my personal idea on how to better approach examination to resemble real life challenges. While still preserving all natural parts of the natural fixed variable resolution technique and furthermore, being aligned with our new safe and robust technologies.
+
+This is the direction to follow when getting rid of too much memorization.
+
+2.- Learning useless knowledge.
+
+We defined useless stuff as stuff that does not satisfy a goal. We already explored how the knowledge and skills young people get nowadays are very useless for current modern societal needs.
+
+So we just need to intelligently focus on learning the ones who are useful. How do we figure out which ones are?
+
+Or, the inverse approach, how do we figure out which ones are not?
+
+These are on themselves very complex questions, because answering them requires ample knowledge on the current needs and desires of societies and the current state of technology. The answer is ever changing as they do the two variables just mentioned.
+
+Riding a horse was very useful until cars got easily manufactured. Memorizing knowledge was very useful until internet was invented, now it is just less useful. Candle manufacturing was very useful before electricity was invented. Junior software developers were very useful until AI was improved, now they are just less useful. Books were way more useful before videos were invented. Hoes were very useful before tractors were invented. And so on and so forth.
+
+So, what do we do? How do we answer complex questions? Wait, that sounds familiar. The engineers way of thinking! So then, one, analyze your life, your societie’s needs, and think about it, find useful knowledge to satisfy that. Not easy, but this is the answer.
+
+I think a great part on why we are nowadays living in an era of useless knowledge on traditional paths is greatly influenced by point number 1, too much memorization. Too much memorization is eventually linked to fixed variables, and if you fix them for too long, you create a tendency for lack of innovation, exploration, research.
+
+Massively indoctrinating every single human for years every day, since childhood, to rely on memorization, has significantly, and I would dare to say, dangerously, affected their ability to create, research and explore. Precisely what you need to find useful knowledge. To thrive, to just do an essential part of what your body is naturally made to do.
+
+I would dare to say that the rise of lots of psychological problems ultimately stem from this too.
+
+I want to encourage every reader to see that there is hope. You can clearly be more intelligent, it is just you have been literally tamed for years, day after day, since your childhood.
+
+People can change, it is written in our adaptive biology. For some it will take longer, specially with the older people which are experiencing biological decline and that have been already indoctrinated for lots of years. Yet we all can do it with effort. And I think, we, the youth, have a very important role in helping our elders to achieve this.
+
+So, no easy fix for this one, just learn to think and apply it to detect useful knowledge. Go read chapter 3 again if you want.
+
+3.- Little team work.
+
+This is more something I felt rather than something I’ve thought.
+
+We have an individuality problem. We focus too much on it. Results tend to be tied to the individual result, not the group.
+
+We put the individual as the holy grail, yet nothing on this life depends on an individual. There is always a team. Some individuals might be crucial for executing some tasks, maybe even unique and irreplaceable. But them alone, are never enough, not in complex nowadays societies. Well, not even in simple ones, go try survive in the amazon forest for 1 year completely alone and starting naked.
+
+We make an emphasis in being the best one, improving yourself, non-stop. But there are just places you won’t be able to go unless your neighbors help you. Thus making sure your neighbors are also as good as they can be, is a crucial, yet little mentioned part.
+
+Don’t get me wrong, we need both, individuality, but also selfless teaching, selfless help. Sacrifice for the community. Balancing these two variables is, again, really complex.
+
+The Finnish educational system has a concept that I like very much, educational equity. It is understood as:
+
+“The equal possibility for each individual to access enough resources to maximize their intellectual potential.”
+
+A very Cheerful-like principle. More on the finish educational system later.
+
+Both, society and individual, are human nature. Just do not forget it. Improve one one time, the other another time. I just feel like nowadays, teamwork is the one with less development.
+
+So let’s all think on this Cheerfully. Let’s maximize our intellect while becoming as selfless teachers as possible. At least I will do so.
+
+Let the information flow to solve this problem, because it is pretty clear that the solution did not arrive so far.
+
+4.- Slow adoption of new technologies for information management.
+
+Oh boy, here we go again. This is just another result of lack of adaptation, lack of craving change. Yes, I also think this stems from the over-focalization on memorization inherited by industrial necessities.
+
+The solution? Use the engineers’ way of thinking to learn to use the new technologies. Then use it again to learn or create a way to use them on whatever task or management that you want to improve.
+
+Like when accounting software was invented and people learned to use it so not to use calculators and manual labor of tens of people anymore.
+
+5.- Dependence on artificial exams.
+
+Nowadays tests are just not natural. A secretary needed to quickly remember lots of data from a company so the boss can make decisions quicker. But not anymore.
+
+So the current most common format of, question, fact-like memorized answer is outdated. We could say it is even anti-natural as of the context of nowadays state of societies.
+
+Obviously it is not anti-natural at a human nature level. But it is at our current modern technological-societal level.
+
+What is the solution for more natural, less artificial, more useful exams? I explained it actually in the section before this one. An exam in which you need to know some facts to quickly figure out things and then learn something new on the fly to pass it.
+
+X.- Conclusion: 7.3.1.
+
+As you can see, all the common weak spots and pain points have a common solution, learning to learn efficiently and using new technologies do so. Then implement the solutions deducted from the learning.
+
+So basing myself on my philosophy, which lead to the analysis and creation of all these ideas and thoughts, and inspired too by the Finish educational system. Here I will propose the future of education.
+
+But first, so everyone understands better the context this proposed system rose from, let me explain some stuff about Finland.
+
+7.4.- Finland‘s educational system, a living Cheerful proof?
+
+My main goal when writing the next iteration of Cheeruflism from v0.0.3, this is the current v0.0.4, was to get a better understanding of educating humans so I could propose more specific solutions.
+
+This lead me to not just think on my own about it, but this time I decided it would be helpful to read other people’s thoughts and scientific discoveries about it. So I started reading about raising children, development of cognitive capabilities etc etc And in some of the books Finland was always mentioned as a reference as a good adaptive educational system. So I read about it, could it be that Finland is following Cheerfulism’s principles? I had to explore, it looked like it.
+
+It turned out that the Finnish educational system is not just an incredibly interesting system. But the underlying reasons of why it works are too. It is a mix of all I’ve thought so far in the whole book, it just seems to fit perfectly if I’m not missing something.
+
+So let’s explain some of the key principles of the Finnish educational system and how they relate to anything I’ve written in the book so far.
+
+By the way, my knowledge of the Finnish system is based on conversations with the AI ChatGPT and based on reading a book written by a very experienced Finnish teacher called Pasi Sahlberg, his books is: Finnish Lessons 3.0, what can the world learn from educational change in Finland?
+
+I’m not just going to explain what I read and learned, I disagree with the author in some stuff. Yet I recommend everyone to read this book, just like I recommended reading the series One Piece.
+
+Anyway let’s explain stuff which is also explained in the book, but I diverge a bit on the explanations given by the author on why the Finnish system works, so it will be slightly different. I also have different ideas in some details on why the Finnish system is working less well in the last five years.
+
+7.4.1.- The core principles of the Finnish educational system.
+
+What makes the Finnish system so unique is that it mixes centralized and decentralized principles, trying to leverage the best of both worlds from statist-oriented and freedom-oriented systems.
+
+They are based in the core ideas of equity, understood as explained in a previous section, as the right of every person to reach its maximum intellectual potential. And the core idea that any child can learn the basics if given enough attention and care.
+
+They also believe in technocracy in a way, as they think teachers are the best people to decide what to teach, and how to teach it. They believe they should have maximum freedom, they plan their own classes and teaching techniques and they even decide what to evaluate in exams. Of course there is a limit at a statist level, but it is a wide one and teachers are given a lot of freedom to innovate.
+
+They believe that for anyone to reach its maximum potential they need to leave professionals do their job and they need to form them as best as possible. For that they do use a very classic and centralized system of requiring teachers to have university degrees, masters and all to become a teacher. This makes people don’t even hesitate wether teachers will do their job correctly, as it is a really competitive market with little positions open, only the best become teachers. Culturally teachers are also viewed as really intelligent, not like in other countries where people think that if you are a teacher it is because you were not good enough to work as whatever you studied, so then you went to the “easy-teaching-route”.
+
+In Spain we do have this thinking, we say: Quien vale vale y quien no pa profe. Translated: The one who is worth, it is worth it, and the one who is not goes to become a teacher.
+
+And even if a bad teacher somehow passes the Finnish filter, the freedom everyone has once in makes them help one another and the bad or just less good teachers eventually become way better. As teachers teaching each other is also promoted at a cultural level.
+Furthermore, because the government regulates how many people will become teachers, they can make sure there is never a need to compete with one another in abusive ways but just help each other as teachers to improve and research with each other.
+
+Even though this can seem special to centralized systems, in a totally free system teachers would also tend to cooperate, and then compete against other groups of teachers to get more students. So it is not really that statism is the only way for non-abusive competition leading to cooperation, yet, it is a way, the Finnish way this time.
+
+Somehow, the Finnish educational system is based on the premise of a social consensus of freedom.
+
+There is a social belief that anyone should have the resources to maximize their intellect, and there is also a social belief that only the best should be teachers and they should be let really free because they know better.
+
+It is said that schools should function as small-scale democracies. This also describes really well this social consensus for freedom. In a democracy people vote on what is and is not allowed to do, so everyone can be as free as possible yet under the shared freedom limitations of a centralized consensus.
+
+All this is really aligned too with what I said in a previous chapter section 5.2.6.1, the happy socialist. Where I explained that maybe, in nordic countries, because of their small size and high intelligence, socialism does not work that bad. Because they are relatively close to each other and just being intelligent can be enough to control their chaos.
+
+So, why did it work so well for Finnish? I think it is because their ways were very aligned with their population’s human nature on an individual level and then on a societal level. Adding to this that they renovated their system as per an honest analysis of the historical context they found themselves into.
+
+They think education is critical for a person to have a thriving and fulfilling life. And it is. As seen in Cheerfulism we all strive to be happy, and to do it as successfully as we can we must improve our intelligence to maximum levels. Just as their principle of equity.
+
+And then, at a societal level they use socialism, a very natural resource management protocol as explained earlier, yet leveraged with libertarian technocratic traits like letting teachers explore a lot so they can successfully reach the equity goal. Balancing out and trying to leverage the best of both worlds. And they did manage to be successful, at least way better than other nations during some years.
+
+However today, in the second decade of the twenty first century, the Finnish educational system is facing challenges that structurally threat all its system.
+
+I think the system is starting to fail because it was well designed for the context Finland found itself around the 1980s, 1990s and early 2000s. Now, that context has changed, and their system is not that well designed for this new one we found ourselves in.
+
+The world is changing, and in times of change, such a centralized-statist-socialist system as the Finnish will likely not adapt fast enough to keep the quality. In fact, Finnish quality would have never existed if it wasn’t for foreign ideas and research that they took from more decentralized freedom based nations. They are aware of it.
+
+Lots of the successful teaching principles and techniques that the good teachers of Finland use have origins, among others, in the United States’ research, the land of freedom, allegedly. But indeed one of the most free countries on Earth as of today.
+
+Finland’s socialism would have never discovered this techniques, but the Finnish government was really intelligent to chose to study them scientifically and implement them. This is what reality really looks like, principles opposed to each other but that can cooperate with each other. Reality is not the dichotomies of libertarian vs socialist, black vs white that nowadays people buy.
+
+We have a saying in Spain that showcases this very well: Ni los buenos son tan buenos, ni los malos son tan malos. Translated: The good ones are not always that good, and the bad ones are not always that bad either.
+
+There is a phrase on the book that highlights all this very well:
+
+“System wide actions and rules should not undermine complex natural interaction between its parts.”
+
+This basically means, okay you should be socialist, but not too much. Acknowledging the natural too-much-variables issue explained in the previous chapter.
+
+This is also reflects what I’ve explained all along but at a national or state level. Because the United States had the answers, but even in their freedom, they did not use them properly.
+
+And Finnish, even with less freedom, did use them properly.
+
+Just like the example given in chapter 2 explaining freedom and happiness. Just like, at an individual level, even if someone is really intelligent, like a doctor, using his freedom or knowledge about its very own health, can still fall into dug abuse. And someone not that intelligent, let’s say a teenager, which is still controlled by his parents, might opt to not use drugs and do exercise.
+
+Dragging the analogy to a international and state level and in the context of the educational system, the United States would be doctor that became drug addict and the healthy controlled teenager would be Finland.
+
+We can conclude this poetic statements:
+
+In free market oriented economies, the State can get corrupted and create monopolies or oligopolies, leading to perverse incentives for enslaving of the consumer. And in statist slavery oriented economies, it can bless with freedom to maintain good habits.
+
+But does it improve them? Does it do it fast enough?
+
+Do not think of the State as a devil, or a god. It can be both, depending on how it wakes up that morning.
+
+In the mobile phone industry something similar happened. The Finnish government had a good decision creating the Finnish Nokia but later it got purchased and outdated too, yet did something really right and was incredibly successful for a while. Socialism really seems not that good for sustainable innovation.
+
+This is a living proof so far of my reasoning probably being right. And if we want to be the best we can be, we must think, not fight over simplified, thus wrong, dichotomies.
+
+Now, not in such a general way, the Finnish educational system has other traits that make it pretty unique. Like the lack of standardized tests until someone reaches around 17 years old, the freedom of students to choose when to do a test during the school year, the focus on playing rather than teaching on early stages of child development…
+
+The lack of standardized test or even tests at all in some cases, eliminates incorrect incentives which leads the system overall to prioritizing the needs of the students. For example prioritizing playing when students are still children.
+
+With incorrect incentives I refer to those who can lead to the contrary results of the ones who were meant to incentive. Imagine a system where if students well perform the teacher gets paid more. This is with the hope that teachers will teach better to get more money. Yet then that incentive would incentivize dishonesty too from the teacher by just saying: Yeah my guys, you all have the maximum grade! You are so smart! Yet they aren’t. More details on tests and exams later. Incentives design is a complex task.
+
+As you can see, in some aspects they give lots of freedom and decentralization of decision making. As we have seen in previous chapters, decentralization is a good thing given intelligent individuals. And the educational system of Finland is a great proof of this. Intelligent teachers given freedom through decentralization, raising high-performing and satisfied children for decades.
+
+By being honest with human nature they thrived the most. The ones who somehow betrayed it were not as thriving. Highly performing countries like Asian ones were not as satisfied, and satisfied students countries were not as high performing.
+
+When I talk about this I’m talking based on data of the OCED group. Which is not perfect and doesn’t fully measure students’ intelligence or competence. But it can be useful to draw conclusions. If you are interested in the details about this please read the book mentioned at the beginning.
+
+Furthermore, the satisfaction measure does not really mean happiness I think. First because I doubt most of people of today’s world know what happiness is, because they are not Cheerful. Yet they are not that far away from the stuff that leads to happiness so it kinda can work as a reference for now. The thing is that nowadays data, for now, seems kinda constant and proving the Finnish system right, and by extension, Cheerfulism’s human principles.
+
+It is true that now Finnish people are facing issues with student’s motivation and overall fulfillment and satisfaction, but it all seems to arise from global trends, like the over-usage of social media, and, the quickly outdated system and “stuff” taught in their schools.
+
+All stemming from the global trend of revolutionary technologies invented which are requiring us to re-organize our economies to massive shifts.
+
+So this doesn’t really seem to be linked to the decentralization and freedom of their system. But rather from the freedom and innovation of the biggest system, the whole human race and knowledge developing new tech that allows new modern and more comfortable ways of living.
+
+The Finnish author of the book seems to have noticed their socialism or statism is hinging on progress, as it points the blame of the decline of their system, between other stuff, to the excessive bureaucracy. And they are likely right to be honest, that is what my gut tells me with the information I have so far. That is the fixed believe, the fixed variable I define as part of the issue. The lots of static centralized fixed variables slowing dow adaptation. All them should be researched further, like an engineer.
+
+7.4.1.1.- Another proof for the Finnish being in the good direction: My own education.
+
+I’m considered, “objectively” as per cultural beliefs, a very successful human. I’m earning more than 99% of my country just at 22 years old coming from a lower-middle class family, I’m happy, I have a stable loving family, I have friends all over the world etc etc And curiously enough, my parents accidentally raised me in a really Finnish way too.
+
+They gave me complete freedom, yet with clear limits. As I proved to be intelligent enough to handle them, they let them even freer. Slowly but surely creating a compounding vicious cycle of trust.
+
+One limit or requirement was: you have to study and pass the course, as long as you do that, we do not care. I was the classic stereotype of that guy who studies literally the day before the test yet after the exam he lands at the top or around the top of the class. So my parents always gave me as much freedom as I desired. And because I only had to study the day before, I had lots of free time until I became 17.
+
+I even knew the credit card passwords since I was around 8 years old, yet I knew that if I spent without permission I was going to make my parents angry. And it worked, I never spent anything without permission. I was intelligent enough and cared about my parents feelings enough so as to not misbehave. They were slowly giving me more and more freedom. Further down the line, my family even trusted me to invest and manage our family’s money.
+
+I was intelligent enough to care about my future too. My parents explained me: hey if you do well in school, later in life, you will be able to do what you like and work as you like. So I tried to do well at school, and I was good at it, so not only my parents gave me full freedom but also due to my capabilities that freedom was also maximized.
+
+Yet, they also forced me to work at the family business for some summers, a bar. So I knew better what working with your body long hours feels like.
+
+I was raised with a dance between duty and freedom.
+
+A happy intelligent individual who was under some fixed variables set by an authority. Slowly being granted freedom as he proved himself worthy. This ended up with himself thriving more than anyone around him, even the authority itself. Just like a Finnish teacher or student in their educational system compared to other nations.
+
+Freedom that does not lead to chaos thanks to being based on proven trust, and on love, seems to work. Really similar to the way the Finnish society trusts their teachers’ freedom.
+
+7.4.2.- The basic curriculum of the Finnish system.
+
+As mentioned at the beginning, another of the Finnish system’s principles was that anybody is capable of learning the basic curriculum.
+
+The list of intuitive subjects I think we all should be taught overlaps quite nicely with the Finnish basic curriculum too, which is:
+
+- Think and learn how to learn. (Very related to the engineer’s way of thinking)
+
+- Interaction, self expression and cultural understanding. (Empathy, emotional intelligence, cultural awareness etc)
+
+- Life skills and taking care of oneself. (Independent humans)
+
+- Multi-literacy and technological literacy. (Allows for better and modern adaptation)
+
+- Participation and influencing. (This means giving the students capability of feedback on how to improve their surroundings, on how to influence the rules applied to them etc)
+
+As we can see, the first competence is at the core of human biological needs and the others are very useful skills on our modern world. This further solidifies why the Finish system was so successful during years. Not only it was very aligned to human nature but to modern needs.
+
+Yet AI and blockchain will massively shift how the world works, what the world really needs, thus the Finnish system is starting to see the cracks on its inability to change quickly.
+
+Along the late 20th century the Finnish government took good decisions orienting the system towards the next decades and the new modern technological era, yet those decades are over and a new era is approaching.
+
+Thus that is what the last section is about, how to face it, the most perfect educational system I could craft, based on human nature and data, though as said, distrust the data, it just adds an optimistic feeling and a starting guidance point, not solid truth, for now. Still, it makes a lot of sense.
+
+7.5.- Mixing all together: EBTAA. My specific proposal for the perfect educational system.
+
+Let’s build up the perfect educational system based on all said.
+
+As with an individual’s path to happiness, transitioning to the goal of the perfect educational system is also an individual task for each society. As you will see, maybe Finland now is the closest one to what I will describe, maybe they should try it out first.
+
+In general, societies seem to transform in a stepwise periods of education and imagination, create-explore, fix-solve in a wise manner. Just like the current Finnish system needs, yet, in a deeper way, just like the philosophy of Cheerfulism teaches you to do so. And we all can have this perfect system or something really similar because we are all drive by the same biology.
+
+Now let’s remember the definition of the goal, perfect education:
+
+A system, methods, mechanisms that teach people to improve and maintain good patterns and to reduce or remove bad patterns.
+
+Then, logically deducted, that just means being very good at solving problems, at adapting, using the fixed variable resolution technique. So we must optimize for that, we must optimize for intelligence.
+
+So, to handle these variable patterns in the successful way we need to use our information processing capabilities wisely, which that is: the fixed variable resolution technique. And the protocol to achieve that is thinking like an engineer.
+
+By aligning the system as best as we can today to the nature of human problem solving, this system should prepare our children to have a full, satisfying and thriving life.
+
+The system mentioned is pretty much like the Finnish, but with some changes to make it more efficient without losing its principles. Which again, they are very aligned with human nature.
+
+7.5.1.- Explanation of the EBTAA educational-system: Education Based on Trust, Accountability and Adaptation.
+
+The main structure is composed of the following learning stages:
+
+1.- Under-age learning stage. (A.k.a. : Base stage)
+2.- Over-age learning stage. (A.k.a. : Building stage)
+
+Briefly explained, under-age learning is an epoch in a human’s education when he learns the basic curriculum which will equip him with the tools and knowledge to help him thrive independently in life and cooperate with his neighbors. Everyone is expected to accomplish this. In the following sections I will give a detailed explanation on the skills and knowledge that must be learn, yet for now, as a reference, you can imagine something similar to the subjects mentioned in a previous section: 6.2.1.- First intuitive liberation steps.
+
+The over-age learning would be, optionally, learning anything deeper after the basic curriculum. To draw an analogy with current systems, this would be getting a degree on physics or whatever other subject. Specializations on knowledge and skills that are not essential, this means that are not an indispensable need, for utopian modern societies.
+
+7.5.1.1.- Over-age learning: The building stage.
+
+This is the simpler stage to explain.
+
+Because it will be carried out by students who have completed the basic curriculum. Thus they will already be able to effectively pursue their goals, understand them and coordinate and cooperate with their peers to achieve them.
+
+It will start around 19 years old, more on why later.
+
+In this stage the student will chose to master any kind of knowledge and skills, or just start working. Or maybe both at the same time. Whatever, the student will be completely free to forge his life. So far it sounds the same as the current systems.
+
+Being free does not mean he will be alone by the way, in his freedom, he can seek help from peers or other people who already mastered whatever he wants to master. Just like now students go to universities to study and seek guidance on the teachers.
+
+Now here it comes an important catch.
+
+There are 2 reasons on why to learn more specific knowledge. One is out of pure curiosity and the other one is so to get a job from that. Or both at the same time.
+
+If curiosity is the one the student is driven by, no problem, there is nothing to really solve in the current systems to improve your learning. You can just go there and hunt that knowledge through the internet, AI, talking to experts etc. You do not really need a certification from any university to proof anyone anything, you just want to learn stuff. So this already works in our current systems, no need of changing anything due to this reason.
+
+The wanting to get a job from that knowledge and skills is the tricky one. That is where our educational systems are clearly failing nowadays. Because it is not producing actually formed professionals which would be actually employable. They are verifying skills and knowledge which is not enough or not even needed.
+
+Degrees and diplomas are, ideally, a proof to society and employers of your knowledge and skills by a trusted third party. This offloads verification work from employers. For many different reasons, they have become useless, and mainly it is because the things they teach are useless. They can be useless for 3 reasons:
+
+- Because no-one cares about those skills and knowledge.
+- Because the demand for them is actually filled or close to full capacity.
+- Because the skills and knowledge are useful but not useful enough.
+
+We then can see that universities are struggling to teach proper useful knowledge and skills.
+
+Fortunately there are different measures we can take to make this verification process more effective.
+
+For example via the complete decentralization of universities. What I truly mean is the complete decentralization of knowledge and skill verification issuers. No centralized state-permissions to get licenses to teach, or to get licenses to become a university. This is only slowing down and making more expensive the amount of resources we consume. And also slowing down the rate at which you are allowed to innovate and change the curriculum to teach useful stuff.
+
+Again centralization is giving too much variables to politicians who regulate the adaptive capabilities of educational entities. Education, as mentioned, is another resource, the resource of teaching to organize future resources, and as learned on the previous chapter, the same consequences of handling too much variables to centralized entities also applies here.
+
+So, to improve the system, we should make it so:
+
+Any group of professional or any group of X citizens should be able to handle this permissions. With the capability of punishing the teacher if proven a scammer. X should be a number small enough so the scammer would have to co-live with the one who voted him.
+
+Here is a clear explanation on the current limitations of our centralized educational systems.
+
+Imagine that a new specialization on a specific organ surgery is needed due to a flue or whatever illness that appeared. Now, to create a specialist for that new specification, in a big nation, a State would first need to realize the need. Then slowly create and pick teachers, give them licenses, open a university specialization path for it etc etc At the end of the day, some stuff would have to pass through a centralized entity with limited variable handling capabilities.
+
+Imagine you do not need just to open 1 more specialization formation, but for whatever life chaotic or natural reason you need 500. Also imagine you do not need 7 other old formations and you now need to do bureaucracy to delete them and make sure no one wastes time in this old fashioned stuff. Well, we have been seeing it all along, too much variables for a small amount of people in power in big nations with dynamic complex needs and desires.
+
+But, do not be dogmatic, the solution is not just to give people the freedom mentioned, because we still have the risks of scammers.
+
+To be honest we always had this risk, corrupted politicians and teachers who keep useless universities degrees running just to assure the vote of the teachers teaching that already happens. So the risk of scammers never disappeared. The improvement now is that the detection and deletion (I don’t mean killing them) of the scammers can be quicker because it is not centralized into a body who can easily be over-saturated with variables.
+
+A scammer, for example, would be a teacher that says: Hey study this with me and literally in 1 year after finishing you get a X bitcoin/year job. And then if you clearly don’t, then it is a scammer. A teacher should clearly present what you will get and what you will potentially get if studying with him. Then propose that and get enough votes and approvals from their community or specialist on the matter.
+
+Well so how do we prevent scammers in this decentralized scenario. First, you will need the favoring vote of neighbors, only your neighbors can vote for you to have the permission. And if you are a scammer, you will walk in your hood with the shame of it after it gets detected. Maybe they even throw tomatoes at your house. No one makes crimes in front of the police, no one would scam multiple people they see everyday. And if they do, well, you will quickly pay the price.
+
+Pretty surely some legal limits will have to be put by the State to the social retaliation to scammers. Like, as an arbitrary example of law:
+
+Hey, no killing or beating up scammers, but tomato throwing to his house every Sunday is totally acceptable, or puncturing the wheels of his vehicle once a month, or whatever, just anything as long as it is not physical damage.
+
+Ideally the state must not take away the capability of the hood from punishing the scammer with an annoying punishment.
+
+In case the scammer was approved by professionals, these professionals should be marked as scammers too. Losing credibility and probably job opportunities.
+
+Of course, this needs more details. For example: What if the scammer just moves away from the neighborhood after scamming? Should they have mobility restrictions?
+
+Then each nation will need to define theirs specific measurements to address this edge-cases.
+
+Yet all should follow the overarching principle that makes any decentralized system conformed by members with maybe opposing goals survive and adapt:
+
+Having, the power giver agent, the ability to trust yet also annihilate the power taker. Only annihilating when power is abused.
+
+What this principle states is that if I have the capability of giving you power, I also have the capability of taking it away from you. This assures the tendency for power not to be abused.
+
+In this case communities of citizens or professionals would be giving someone the power to handle reliable knowledge and skills certifications.
+
+This principle is really present when designing democratic systems. And also aligns pretty well with the Finnish idea of that schools should work as small scale democracies.
+
+So for example, in Finland, following what I proposed could make them abandon their mainly centralized management, yet it will still align with the principle of small scales democracies they already had.
+
+Also note that, a decentralized and freer educational system is not incompatible with another more centralized management in other areas of public management. You can have, let’s say, a very centralized public transport system but a very decentralized educational system. At the end of the day, as seen, giving freedom to people is good if the people are intelligent enough to handle it, and, maybe your society is really stupid making trains but very intelligent being teachers.
+
+Another principle Finnish have is that every kid should be able to just go the nearest public school and be able to get all he needs to fulfill himself. Well, this is also respected in this decentralized system, as the hood itself can determine, if desired, who can and can not be the teacher there. And, given the already involved live Finnish parents have in the early stages of education, they will naturally already do that by cultural tradition. So giving the power to chose teachers to them should not feel like giving a gun to a monkey. Note that in other societies it might be.
+
+Anyway, if all of a society is educated on the basic curriculum I will present in a bit, this system will not be like giving a gun to a monkey. Some societies, like Finnish one, will likely be able to just transition to what I’m explaining as the next step. Yet others might not. For those I think the best way to go is to, in a centralized way, teach the basic curriculum. And when those children grow up and have mastered the basic curriculum, then start decentralizing the system.
+
+Decentralizing variable handling capabilities, making the State have less job to do and making adaptations way quicker and aligned with the needs of society. All while not looking away from the negative risks that freedom brings with it and embracing the positive ones.
+
+7.5.1.1.1.- The key reason of why now is the time to do this, our new technologies.
+
+And guess what, we didn’t even mentioned technology. A decentralized network of agents that agree on stuff and coordinate? That is a blockchain.
+
+Blockchains are the perfect tool to coordinate and create this decentralized certifications. Mixing it with a technology called Zero-Knowledge proofs, we could organize educational system’s certifications on a cheap and secure way. I won’t delve deeper into the technical details on how to implement these, even though it is my expertise, I just want to highlight it.
+
+Not only these are cheap and efficient ways to do it, but also transparent and public as long as someone has an internet connection, which is a pretty much assured thing these days.
+
+With a blockchain you can create public identities that can be updated any time without tampering to reflect decisions. Imagine that a teacher becomes corrupted, then a good bunch of verified hood citizens could just send a cryptocurrency to the account of the scammer. Then, this crypto could be called ScammerDetectionToken, and if a teacher address has them, it means people have agreed on him being a scammer and should be punished or avoided. All instantly and verified, no one can fake being a citizen when they are not, or a teacher when they are not.
+
+Again, there are more details on how to implement this properly, and I could explain them as it is my expertise, but this part of the book is to make people understand, and then, after understanding, being Cheerful, explore and find out by themselves all doubts and curiosities they have.
+
+Anyway the thing is that AI and blockchain being improved at the same time is a beautiful coincidence we must not ignore and we must leverage. Just like AI, blockchain comes in a critical and beautiful point which will be super helpful to us for optimizing our variable handling capabilities. Wether in centralized more socialist nations or more freedom seeker ones. We all can use it intelligently to optimize our management, as per the example given above on the public transport and public educational system.
+
+Furthermore, on top of using blockchains and Zero-Knowledge technologies to efficiently coordinate decentralized networks of teachers tied to the society they work for, we can add to that AI personalized tutors, used by this independent intelligent humans which will make the resources needed to form professionals way cheaper and accessible.
+
+Now, 1 university teacher, with the help of 1 AI tutor per student, can help maximize learning for, instead of let’s say 10 students, 20 of them. Not only generating more professionals, but better ones too.
+
+Cheap access to these technologies is crucial as they play key roles in making the use of the fixed variable resolution technique way, way, way more efficient. And thus, by extension and coming back to the main topic of this chapter, making the educational system way more cost effective.
+
+Finally, given the social trust reliance yet with a responsibility based nature of these new certification actors, their certificates will be naturally accepted by the private sector, or any sector in society. As the one who receives them puts his name, income, and social life, on the line.
+
+So with this I conclude the explanation of the over-age stage. It is really similar to how it works nowadays, yet with maximum freedom leveraging new technologies and decentralized systems’ principles. In order to make it more adaptive and thus useful yet without losing control as we can still punish a bad actor in case it appears.
+
+We can understand this stage the same way we understand the current system, but with a little key change that grants us the ultimate responsible-freedom efficiency usage that decentralize systems unlock to us.
+
+This change is the before mentioned, as a reference yet not complete example:
+
+Any group of professionals or any group of X citizens should be able to handle this  permissions to educate. With the capability of punishing the teacher if proven a scammer. X should be a number small enough so the scammer would have to co-live with the ones who voted him.
+
+7.5.1.1.2.- The criteria for choosing a good teacher.
+
+As seen, if the access to teaching is widen, there will be more competition. And teachers will also have to adapt their skill set to remain competitive and useful. Yet not only because of the new competitors which will naturally learn more stuff so to make themselves a place in the industry, but also because the current skills a standard teacher has are not enough for future needs.
+
+Their average skills have become way less useful for modern needs, sometimes even useless, it is just that the people have not noticed yet. Sooner or later they will have to face reality, adapt or die. Dying, not like literally, but just in the sense of finding another job.
+
+These are the skills you should look forward on your teachers, and, if you are a teacher, the ones who will increase your likelihood of being employed and useful for the students:
+
+- Having deep specialty in at least one area of knowledge.
+
+- Being in constant contact with companies and people working as what you teach. For example having monthly meetings with company workers and directors.
+
+- Mastery of information processing tooling usage. AI, internet etc
+
+- Mastery of displaying information in multiple shapes: schema, text, graphs, videos… So no matter the preference of the student you can just show him the information to learn.
+
+- Mastery of the basic curriculum presented in the following sections.
+
+- Extensive practice on critical thinking and the engineers’ way of thinking.
+
+7.5.1.2.- Under-age learning: The base stage.
+
+As explained, under-age learning consists in making all citizens learn the basic curriculum, which will be described in detail later, yet it is very similar to the one mentioned in a previous sections.
+
+This must be a mandatory feat. I personally would just strongly encourage it and, in an ideal world, every family and group of friends would make sure oneself and each other knows it with not forced State intervention. Yet at the current stage of the world, probably requires a mandatory State intervention to make sure everyone learns the basics is the only realistic idea. Yet, not necessarily via centralized public schools, but only with public detectives that make sure everyone is learning this, whether that is attending public schools or private schools.
+
+Due to this being the basis of the pyramid that holds the utopia. It must be achieved. Thus relying on decentralized systems might be a bit too chaotic for current modern human’s intelligence. But after a big portion of the population masters this curriculum, it will likely not be chaotic to decentralize the system.
+
+Over-age learning stage will not be as successful or successful at all if we all do not get the basics right.
+
+Again, each nations will have to choose how to transition to this and all those details, wether having a more decentralized approach or not etc. Yet here are the overall principles and things that must be followed. The main principle is inspired by the one of Finnish equity:
+
+The basic curriculum must be learn as best as possible by all students.
+
+It should last from ages 6 to (6+X) years old. Being X the average time needed to learn the basic curriculum. I estimate, arbitrarily, that it could take around 13 years. That would result in the first stage of education starting at 6 and finishing at around 19 years old.
+
+Yet this is an estimate, no one should stop learning until reached an understanding of the basic curriculum or until proven too biologically dumb to be able to get it. In that case, the student must also be taught and helped to learn as much as possible.
+
+Inversely, if a student completes the curriculum earlier than expected, he will be able to chose stop attending the under-age learning stage to pass to the next stage of over-age learning.
+
+In these cases, we must make sure that these geniuses still socialize with peers, older peers, same age peers and younger peers. To avoid any lack of human social skills development due to their high learning capabilities natural gift. Yet at the same time giving them the freedom, under proven intelligence, to keep progressing. An easy and brute way of doing that is forcing geniuses to attend schools until they are 17, yet a more intelligent and decentralized way would just be making it part of the culture. In a similar way of the earlier mentioned enforcement of studying, friends and family would make sure their geniuses get enough diverse social interactions even without going to base-stage school.
+
+By the way, diverse social interactions is also a goal in Finnish education. Children from poor people socializing with rich people ones, different skin colors etc etc This is necessary so to realize since a young age that we all are humans, and we are all here together to live and feel together, that deep down no-one is really “the other”, regardless of anything. Except in scenarios of food and water scarcity or security scarcity, when survival is not statistically granted, as explained in Chapter 1.
+
+This is the end goal, nowadays ethnic tensions or social class tensions might make dangerous in some places of the world to mix too much children together. So a gradual approach is recommended. But again, we must remain united for the end goal, even if our paths to reach it are slightly different in pace.
+
+Regarding the age of 6 as a start. It is marked due to biological cognitive reasons. At the age of 7, on average, children start to get capabilities of actually learning math and of discerning between good work and bad work. If you say to a 7 years old that his drawing is beautiful, but you are lying, they can start to, or actually do, detect your lie. So, 1 year earlier than that is advised so to prepare some children in playing with others away from parents and teaching them basic words so to ease their entry into their cognitive skills increase appearance. Notice that these are averages, maybe one kid develops at 5 and other at 8, but overall, significant development appears at 7.
+
+Before age 6, any kid should just socialize and play. Scientifically it is proven to be the best thing for a healthy development. Even though, playing should never disappear in any human’s life. Its presence might be needed to be reduced as we age, but never forgotten nor vanished. And if so, we must aim to find an intelligent way to get it back.
+
+And, thanks to technological advancement which makes information to flow so freely and cheaply, the need for exams might be reduced to zero. As long as a teacher or group of them deem that the student has actually learned what is is meant to, it should be enough. It should actually be a group of teachers to reduce the likelihood of bullying or abuse from one single teacher to one single student.
+
+Exams are often used to label people’s capability so they get priority in using expensive resources. Like a university teacher’s time. But we do not have scarcity of that anymore, thanks the combination of different technologies: internet and AI.
+
+So a big reason on why to have exams has disappeared as now we have the capability of having a personalized cheap AI teacher with us all the time.
+
+Removing exams would make the system align even better with human natural challenges. And the ultimate test, actually real as per having natural mechanics, would be to get a job.
+
+Regarding the mentioned bullying, how to address it, wether from teacher to student, student to teacher or student to student or teacher to teacher is left to each nation to decide. I’m not an expert and I didn’t think yet about how to best handle it.
+
+The existence of exams is of the same nature, left to each nation to handle. Yet, I do think it is better not to have them and just leave a group of teachers decide if the student is capable or not.
+
+Another thing I leave for each nation to decide is the existence of homework. Ideally I think it should be let to the teacher to decide. As some parts of the curriculum might benefit from it and others even be damaged by it.
+
+Work-life balance, in this specific case, work-rearing balance is also left to decide the way in which to manage it. There are lots of ways, your boss helping you, your family, your friends, the State etc etc
+
+The last thing to address is student’s failure. There will be people, specially while transitioning to the utopia, that will just not want to study and learn. What to do with them is also left to each one to decide. My take is just to let them free and friendly remind them and encourage them to try to teach them slowly the basic curriculum stuff.
+
+All these are the basic principal to guide the learning of the basic curriculum on the under-age learning stage. And, finally, the piece that joins all together.
+
+7.5.1.2.1- The basic curriculum.
+
+And finally, here it is, the basic curriculum:
+
+- Nutrition and Exercise.
+- Goal Planning.
+- Personal Financial Planning.
+- Power Dynamics.
+- Philosophical Foundations.
+- Mastery of statistics.
+- Technology usage and understanding.
+- Play and rest.
+- Survival skills.
+- Learning.
+- Language.
+
+Now I will explain the basic goals all subjects must achieve.
+
+Again, the methodologies to teach them are left to choose to each nation. I tend to more decentralized solutions as you might have seen, but again, it should be deemed and be specific to each nation’s current state. The goals though, are non-negotiable.
+
+Basic competences everyone must learn:
+
+Nutrition and Exercise.
+
+- Knowing how to compute your personal maintenance kcal.
+- Knowing what is body composition and how it relates to health.
+- Knowing how caloric intake alterations, healthy and unhealthy ones, can be used to shape your body composition to a desired one.
+- Awareness of the damages caused via unhealthy caloric alterations.
+- Knowledge of the minimum diversity of nutrients required, and how to get them, so as to create a complete diet.
+- Knowing how to plan a strength training session, flexibility training session and a resistance training session.
+- Knowing the mechanics of resting and how it repairs and affects the body.
+- Knowing different planning techniques to adapt exercise to your routine.
+- Awareness of the dangers of drugs usage to alter your body composition.
+- Have practiced, not necessarily to an expert level, just at a friendly play level is enough, one or various physical sports.
+
+Goal planning.
+
+- Understanding and practice in breaking down complex goals into smaller ones.
+- Understanding and knowing to listen to use your emotions and rationality to plan goals.
+- Capability to plan a schedule with tasks related to the accomplishment of a goal. Schedules durations that must be mastered are: 1 week, 1 month and 1 year.
+- Setting a personal goal, requiring more than 1000 hours of effort, and achieving it during school hours.
+- After the personal goal, setting and achieving a group goal requiring 350 hours of combined effort. This means, around 350 hours of individual effort per group member.
+
+As long as the goals take that much time, these can be related to other tasks in the basic curriculum.
+
+Personal Financial Planning.
+
+- Learning the fundamentals of economics. What money is, what can it be used for.
+- Understand the 3 uses of money: saving, investing and spending.
+- Understanding of price mechanics. Why and how prices can move. This leads to the understanding of the offer and demand principle, inflation phenomena, deflation phenomena etc.
+- Learn to understand financial products: bonds, stocks, cryptocurrency and fiat currency, mutual funds, mortgages, savings accounts and borrowing and lending.
+- Learning basic investment strategies and saving strategies.
+- Learning to classify spending decisions in: needs and desires and then break them down in short term, medium term, long term. The combinations are like follows: Long term need, medium term need, short term need. And the same but with desires: Long term desire, medium term desire and short term desire.
+- Knowledge about your local taxation laws and study and analysis of how those taxes gathered are spent.
+
+Power Dynamics.
+
+- Understand human nature and what drives the need or desire for power.
+- Participate in small controlled groups, simulated societies. Each student will hold power sometimes and will be temped to different power dynamics it can arise: bribery, betrayal, revolt…
+- Knowledge about the different techniques to acquire power: confrontation on conflicting resolution techniques or by improving happiness levels.
+- Understanding of the current national system of power dynamics.
+- Understanding of the neighboring nations’ systems on power dynamics.
+- Understanding of at least 1 power dynamics system far away in the globe.
+
+In democratic societies:
+- Have participated in a simulation of elections. Student will simulate like they were going to vote in the next elections of their country, based on real situations analyze the options and pick one. Write an essay on why the student picked what he picked.
+- When the previous point is done a second time, the student must include a reflection on if he would chose differently if he could go back in time.
+- Design of a campaign for elections
+
+Philosophical Foundations.
+
+- Understanding of the philosophical foundations of the nation.
+- Understanding of the philosophical foundations of neighboring nations.
+- Understanding of the philosophical foundations of a far away nation.
+- Understanding, thinking and criticizing Cheerfulism.
+- Understanding how to create a frame for thought and create your own philosophy. It does not need to be useful, but it should be created.
+
+Mastery of statistics.
+
+- All students should master an almost university degree level on statistics.
+- Being able to explain and interpret statistical results of data and draw logically correct conclusions from them.
+- Knowing all basic math required to understand statistics to that level.
+
+Technology usage and understanding.
+
+- Mastery of useful technologies. Currently these are: internet, AI, blockchain, cars, air conditioner…
+- Understanding at a high level their internal workings.
+
+Biotechnological technologies can also be included into the understanding section.
+
+Play and rest.
+
+- Learning to enjoy and play alone.
+- Learning to enjoy and play with others. The more diverse the others are the better, yet without forcing it.
+- Practice at least one art of personal interest, just for the sake of doing it, not to necessarily master it.
+
+Through play and art, emotions handling capabilities should be increased. That is why I did not reference any psychological help techniques on the curriculum. They should naturally emerge in humans that seek for intelligence, explore, think, play, and make art together.
+
+However, a subject for psychological emotional management is not discouraged.
+
+Survival skills.
+
+This subject must be added at some point, yet it is understandable, due to the unlikely usage of their teachings, its delay in the curriculum implementation.
+
+- Learn hunting techniques. No need to practice them, but at least knowing them.
+- Learn crops harvesting techniques.
+- Learn basic hut building techniques. Using wood, branches, mud, stones...
+- Learning to make fire.
+- Learning safe exploration techniques.
+
+Learning.
+
+- Full understanding of the engineers’ way of thinking.
+- Understanding of different learning techniques and strategies.
+- Understanding, at a high level, of the biological reactions that affect human behavior and cognition.
+- Having learned something requiring 200 hours of focused effort. This has to be in something you do not like. To cultivate resilience in case life requires you to specialize in unexpected stuff.
+
+Language.
+
+- Mastery speaking in the nation’s language and a common world-wide used language. Like English.
+- Mastery of writing on the languages previously mentioned.
+- Mastery of reading on the languages mentioned.
+
+All these are the basic curriculum everyone should know and have gone through. This should lead, based on the reasons explained all along, to raising independent and cooperating citizens.
+
+Not following this curriculum will just increase the likelihood of scams on higher levels of education and just trhough life.
+
+Finally and again, how to teach it, with more centralized systems, more decentralized, homework, not homework etc will depend on each nation current situation.
+
+Of crouse, I prefer the ideas mentioned earlier, where decentralized small amounts of population and professionals can pick teachers and create schools easily with trust and responsibility, all leveraged with new technologies and filtering for the qualities of the good teacher explained previously.
+
+Regardless of that, the key principles stated and the basic curriculum are essential. And probably you have noticed, part of them are explained and explored in this book.
+
+Now, if you do not know well enough any of these things on the basic curriculum, what are you waiting for? Let’s start learning them. Even if it is just 1 afternoon every week.
+
+And what about you and a friend? He learns one part, you learn the other, and then you teach each other. If you do so, good luck! If not, good luck too! :)
+
+X.-Conclusion: Chapter 7.
+
+We have explored what education is and what would be a perfect one.
+
+Then we explored the current challenges our system faces to become one. During that we saw an example of a modern nation that had great success on the educational field Finland.
+
+And finishing the chapter, after gathering the understanding and analyzing real world examples, I drew similarities and reached conclusions so as to create a new structure for a system aimed to achieve the goal of perfect education.
+
+All based on current realistic means according to our technological advantage.
+
+What are you waiting for again? Go learn the basic curriculum, go tech it, let’s start consciously building the utopia.
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+
+Transition from chapter 7 to chapter 8.
+
+We will now transition to the last part of this Part 2 of the book.
+
+The next chapter aims to highlight what all these chapters had in common, what humans, at a societal level have in common.
+
+Furthermore I will also propose the ultimate group of ideas I’ve came to conclude that can lead us to get to an utopia. I will also explain the why I think it makes sense and how I concluded it, it should be of no surprise that they are based on all I’ve explained all along Part 2.
+
+There is nothing really new on this chapter, I just tried to put all together more nicely. I just tried to make it all click, for me and the reader.
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+

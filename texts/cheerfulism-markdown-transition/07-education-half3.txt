@@ -1,0 +1,287 @@
+Then each nation will need to define theirs specific measurements to address this edge-cases.
+
+Yet all should follow the overarching principle that makes any decentralized system conformed by members with maybe opposing goals survive and adapt:
+
+Having, the power giver agent, the ability to trust yet also annihilate the power taker. Only annihilating when power is abused.
+
+What this principle states is that if I have the capability of giving you power, I also have the capability of taking it away from you. This assures the tendency for power not to be abused.
+
+In this case communities of citizens or professionals would be giving someone the power to handle reliable knowledge and skills certifications.
+
+This principle is really present when designing democratic systems. And also aligns pretty well with the Finnish idea of that schools should work as small scale democracies.
+
+So for example, in Finland, following what I proposed could make them abandon their mainly centralized management, yet it will still align with the principle of small scales democracies they already had.
+
+Also note that, a decentralized and freer educational system is not incompatible with another more centralized management in other areas of public management. You can have, let’s say, a very centralized public transport system but a very decentralized educational system. At the end of the day, as seen, giving freedom to people is good if the people are intelligent enough to handle it, and, maybe your society is really stupid making trains but very intelligent being teachers.
+
+Another principle Finnish have is that every kid should be able to just go the nearest public school and be able to get all he needs to fulfill himself. Well, this is also respected in this decentralized system, as the hood itself can determine, if desired, who can and can not be the teacher there. And, given the already involved live Finnish parents have in the early stages of education, they will naturally already do that by cultural tradition. So giving the power to chose teachers to them should not feel like giving a gun to a monkey. Note that in other societies it might be.
+
+Anyway, if all of a society is educated on the basic curriculum I will present in a bit, this system will not be like giving a gun to a monkey. Some societies, like Finnish one, will likely be able to just transition to what I’m explaining as the next step. Yet others might not. For those I think the best way to go is to, in a centralized way, teach the basic curriculum. And when those children grow up and have mastered the basic curriculum, then start decentralizing the system.
+
+Decentralizing variable handling capabilities, making the State have less job to do and making adaptations way quicker and aligned with the needs of society. All while not looking away from the negative risks that freedom brings with it and embracing the positive ones.
+
+7.5.1.1.1.- The key reason of why now is the time to do this, our new technologies.
+
+And guess what, we didn’t even mentioned technology. A decentralized network of agents that agree on stuff and coordinate? That is a blockchain.
+
+Blockchains are the perfect tool to coordinate and create this decentralized certifications. Mixing it with a technology called Zero-Knowledge proofs, we could organize educational system’s certifications on a cheap and secure way. I won’t delve deeper into the technical details on how to implement these, even though it is my expertise, I just want to highlight it.
+
+Not only these are cheap and efficient ways to do it, but also transparent and public as long as someone has an internet connection, which is a pretty much assured thing these days.
+
+With a blockchain you can create public identities that can be updated any time without tampering to reflect decisions. Imagine that a teacher becomes corrupted, then a good bunch of verified hood citizens could just send a cryptocurrency to the account of the scammer. Then, this crypto could be called ScammerDetectionToken, and if a teacher address has them, it means people have agreed on him being a scammer and should be punished or avoided. All instantly and verified, no one can fake being a citizen when they are not, or a teacher when they are not.
+
+Again, there are more details on how to implement this properly, and I could explain them as it is my expertise, but this part of the book is to make people understand, and then, after understanding, being Cheerful, explore and find out by themselves all doubts and curiosities they have.
+
+Anyway the thing is that AI and blockchain being improved at the same time is a beautiful coincidence we must not ignore and we must leverage. Just like AI, blockchain comes in a critical and beautiful point which will be super helpful to us for optimizing our variable handling capabilities. Wether in centralized more socialist nations or more freedom seeker ones. We all can use it intelligently to optimize our management, as per the example given above on the public transport and public educational system.
+
+Furthermore, on top of using blockchains and Zero-Knowledge technologies to efficiently coordinate decentralized networks of teachers tied to the society they work for, we can add to that AI personalized tutors, used by this independent intelligent humans which will make the resources needed to form professionals way cheaper and accessible.
+
+Now, 1 university teacher, with the help of 1 AI tutor per student, can help maximize learning for, instead of let’s say 10 students, 20 of them. Not only generating more professionals, but better ones too.
+
+Cheap access to these technologies is crucial as they play key roles in making the use of the fixed variable resolution technique way, way, way more efficient. And thus, by extension and coming back to the main topic of this chapter, making the educational system way more cost effective.
+
+Finally, given the social trust reliance yet with a responsibility based nature of these new certification actors, their certificates will be naturally accepted by the private sector, or any sector in society. As the one who receives them puts his name, income, and social life, on the line.
+
+So with this I conclude the explanation of the over-age stage. It is really similar to how it works nowadays, yet with maximum freedom leveraging new technologies and decentralized systems’ principles. In order to make it more adaptive and thus useful yet without losing control as we can still punish a bad actor in case it appears.
+
+We can understand this stage the same way we understand the current system, but with a little key change that grants us the ultimate responsible-freedom efficiency usage that decentralize systems unlock to us.
+
+This change is the before mentioned, as a reference yet not complete example:
+
+Any group of professionals or any group of X citizens should be able to handle this  permissions to educate. With the capability of punishing the teacher if proven a scammer. X should be a number small enough so the scammer would have to co-live with the ones who voted him.
+
+7.5.1.1.2.- The criteria for choosing a good teacher.
+
+As seen, if the access to teaching is widen, there will be more competition. And teachers will also have to adapt their skill set to remain competitive and useful. Yet not only because of the new competitors which will naturally learn more stuff so to make themselves a place in the industry, but also because the current skills a standard teacher has are not enough for future needs.
+
+Their average skills have become way less useful for modern needs, sometimes even useless, it is just that the people have not noticed yet. Sooner or later they will have to face reality, adapt or die. Dying, not like literally, but just in the sense of finding another job.
+
+These are the skills you should look forward on your teachers, and, if you are a teacher, the ones who will increase your likelihood of being employed and useful for the students:
+
+- Having deep specialty in at least one area of knowledge.
+
+- Being in constant contact with companies and people working as what you teach. For example having monthly meetings with company workers and directors.
+
+- Mastery of information processing tooling usage. AI, internet etc
+
+- Mastery of displaying information in multiple shapes: schema, text, graphs, videos… So no matter the preference of the student you can just show him the information to learn.
+
+- Mastery of the basic curriculum presented in the following sections.
+
+- Extensive practice on critical thinking and the engineers’ way of thinking.
+
+7.5.1.2.- Under-age learning: The base stage.
+
+As explained, under-age learning consists in making all citizens learn the basic curriculum, which will be described in detail later, yet it is very similar to the one mentioned in a previous sections.
+
+This must be a mandatory feat. I personally would just strongly encourage it and, in an ideal world, every family and group of friends would make sure oneself and each other knows it with not forced State intervention. Yet at the current stage of the world, probably requires a mandatory State intervention to make sure everyone learns the basics is the only realistic idea. Yet, not necessarily via centralized public schools, but only with public detectives that make sure everyone is learning this, whether that is attending public schools or private schools.
+
+Due to this being the basis of the pyramid that holds the utopia. It must be achieved. Thus relying on decentralized systems might be a bit too chaotic for current modern human’s intelligence. But after a big portion of the population masters this curriculum, it will likely not be chaotic to decentralize the system.
+
+Over-age learning stage will not be as successful or successful at all if we all do not get the basics right.
+
+Again, each nations will have to choose how to transition to this and all those details, wether having a more decentralized approach or not etc. Yet here are the overall principles and things that must be followed. The main principle is inspired by the one of Finnish equity:
+
+The basic curriculum must be learn as best as possible by all students.
+
+It should last from ages 6 to (6+X) years old. Being X the average time needed to learn the basic curriculum. I estimate, arbitrarily, that it could take around 13 years. That would result in the first stage of education starting at 6 and finishing at around 19 years old.
+
+Yet this is an estimate, no one should stop learning until reached an understanding of the basic curriculum or until proven too biologically dumb to be able to get it. In that case, the student must also be taught and helped to learn as much as possible.
+
+Inversely, if a student completes the curriculum earlier than expected, he will be able to chose stop attending the under-age learning stage to pass to the next stage of over-age learning.
+
+In these cases, we must make sure that these geniuses still socialize with peers, older peers, same age peers and younger peers. To avoid any lack of human social skills development due to their high learning capabilities natural gift. Yet at the same time giving them the freedom, under proven intelligence, to keep progressing. An easy and brute way of doing that is forcing geniuses to attend schools until they are 17, yet a more intelligent and decentralized way would just be making it part of the culture. In a similar way of the earlier mentioned enforcement of studying, friends and family would make sure their geniuses get enough diverse social interactions even without going to base-stage school.
+
+By the way, diverse social interactions is also a goal in Finnish education. Children from poor people socializing with rich people ones, different skin colors etc etc This is necessary so to realize since a young age that we all are humans, and we are all here together to live and feel together, that deep down no-one is really “the other”, regardless of anything. Except in scenarios of food and water scarcity or security scarcity, when survival is not statistically granted, as explained in Chapter 1.
+
+This is the end goal, nowadays ethnic tensions or social class tensions might make dangerous in some places of the world to mix too much children together. So a gradual approach is recommended. But again, we must remain united for the end goal, even if our paths to reach it are slightly different in pace.
+
+Regarding the age of 6 as a start. It is marked due to biological cognitive reasons. At the age of 7, on average, children start to get capabilities of actually learning math and of discerning between good work and bad work. If you say to a 7 years old that his drawing is beautiful, but you are lying, they can start to, or actually do, detect your lie. So, 1 year earlier than that is advised so to prepare some children in playing with others away from parents and teaching them basic words so to ease their entry into their cognitive skills increase appearance. Notice that these are averages, maybe one kid develops at 5 and other at 8, but overall, significant development appears at 7.
+
+Before age 6, any kid should just socialize and play. Scientifically it is proven to be the best thing for a healthy development. Even though, playing should never disappear in any human’s life. Its presence might be needed to be reduced as we age, but never forgotten nor vanished. And if so, we must aim to find an intelligent way to get it back.
+
+And, thanks to technological advancement which makes information to flow so freely and cheaply, the need for exams might be reduced to zero. As long as a teacher or group of them deem that the student has actually learned what is is meant to, it should be enough. It should actually be a group of teachers to reduce the likelihood of bullying or abuse from one single teacher to one single student.
+
+Exams are often used to label people’s capability so they get priority in using expensive resources. Like a university teacher’s time. But we do not have scarcity of that anymore, thanks the combination of different technologies: internet and AI.
+
+So a big reason on why to have exams has disappeared as now we have the capability of having a personalized cheap AI teacher with us all the time.
+
+Removing exams would make the system align even better with human natural challenges. And the ultimate test, actually real as per having natural mechanics, would be to get a job.
+
+Regarding the mentioned bullying, how to address it, wether from teacher to student, student to teacher or student to student or teacher to teacher is left to each nation to decide. I’m not an expert and I didn’t think yet about how to best handle it.
+
+The existence of exams is of the same nature, left to each nation to handle. Yet, I do think it is better not to have them and just leave a group of teachers decide if the student is capable or not.
+
+Another thing I leave for each nation to decide is the existence of homework. Ideally I think it should be let to the teacher to decide. As some parts of the curriculum might benefit from it and others even be damaged by it.
+
+Work-life balance, in this specific case, work-rearing balance is also left to decide the way in which to manage it. There are lots of ways, your boss helping you, your family, your friends, the State etc etc
+
+The last thing to address is student’s failure. There will be people, specially while transitioning to the utopia, that will just not want to study and learn. What to do with them is also left to each one to decide. My take is just to let them free and friendly remind them and encourage them to try to teach them slowly the basic curriculum stuff.
+
+All these are the basic principal to guide the learning of the basic curriculum on the under-age learning stage. And, finally, the piece that joins all together.
+
+7.5.1.2.1- The basic curriculum.
+
+And finally, here it is, the basic curriculum:
+
+- Nutrition and Exercise.
+- Goal Planning.
+- Personal Financial Planning.
+- Power Dynamics.
+- Philosophical Foundations.
+- Mastery of statistics.
+- Technology usage and understanding.
+- Play and rest.
+- Survival skills.
+- Learning.
+- Language.
+
+Now I will explain the basic goals all subjects must achieve.
+
+Again, the methodologies to teach them are left to choose to each nation. I tend to more decentralized solutions as you might have seen, but again, it should be deemed and be specific to each nation’s current state. The goals though, are non-negotiable.
+
+Basic competences everyone must learn:
+
+Nutrition and Exercise.
+
+- Knowing how to compute your personal maintenance kcal.
+- Knowing what is body composition and how it relates to health.
+- Knowing how caloric intake alterations, healthy and unhealthy ones, can be used to shape your body composition to a desired one.
+- Awareness of the damages caused via unhealthy caloric alterations.
+- Knowledge of the minimum diversity of nutrients required, and how to get them, so as to create a complete diet.
+- Knowing how to plan a strength training session, flexibility training session and a resistance training session.
+- Knowing the mechanics of resting and how it repairs and affects the body.
+- Knowing different planning techniques to adapt exercise to your routine.
+- Awareness of the dangers of drugs usage to alter your body composition.
+- Have practiced, not necessarily to an expert level, just at a friendly play level is enough, one or various physical sports.
+
+Goal planning.
+
+- Understanding and practice in breaking down complex goals into smaller ones.
+- Understanding and knowing to listen to use your emotions and rationality to plan goals.
+- Capability to plan a schedule with tasks related to the accomplishment of a goal. Schedules durations that must be mastered are: 1 week, 1 month and 1 year.
+- Setting a personal goal, requiring more than 1000 hours of effort, and achieving it during school hours.
+- After the personal goal, setting and achieving a group goal requiring 350 hours of combined effort. This means, around 350 hours of individual effort per group member.
+
+As long as the goals take that much time, these can be related to other tasks in the basic curriculum.
+
+Personal Financial Planning.
+
+- Learning the fundamentals of economics. What money is, what can it be used for.
+- Understand the 3 uses of money: saving, investing and spending.
+- Understanding of price mechanics. Why and how prices can move. This leads to the understanding of the offer and demand principle, inflation phenomena, deflation phenomena etc.
+- Learn to understand financial products: bonds, stocks, cryptocurrency and fiat currency, mutual funds, mortgages, savings accounts and borrowing and lending.
+- Learning basic investment strategies and saving strategies.
+- Learning to classify spending decisions in: needs and desires and then break them down in short term, medium term, long term. The combinations are like follows: Long term need, medium term need, short term need. And the same but with desires: Long term desire, medium term desire and short term desire.
+- Knowledge about your local taxation laws and study and analysis of how those taxes gathered are spent.
+
+Power Dynamics.
+
+- Understand human nature and what drives the need or desire for power.
+- Participate in small controlled groups, simulated societies. Each student will hold power sometimes and will be temped to different power dynamics it can arise: bribery, betrayal, revolt…
+- Knowledge about the different techniques to acquire power: confrontation on conflicting resolution techniques or by improving happiness levels.
+- Understanding of the current national system of power dynamics.
+- Understanding of the neighboring nations’ systems on power dynamics.
+- Understanding of at least 1 power dynamics system far away in the globe.
+
+In democratic societies:
+- Have participated in a simulation of elections. Student will simulate like they were going to vote in the next elections of their country, based on real situations analyze the options and pick one. Write an essay on why the student picked what he picked.
+- When the previous point is done a second time, the student must include a reflection on if he would chose differently if he could go back in time.
+- Design of a campaign for elections
+
+Philosophical Foundations.
+
+- Understanding of the philosophical foundations of the nation.
+- Understanding of the philosophical foundations of neighboring nations.
+- Understanding of the philosophical foundations of a far away nation.
+- Understanding, thinking and criticizing Cheerfulism.
+- Understanding how to create a frame for thought and create your own philosophy. It does not need to be useful, but it should be created.
+
+Mastery of statistics.
+
+- All students should master an almost university degree level on statistics.
+- Being able to explain and interpret statistical results of data and draw logically correct conclusions from them.
+- Knowing all basic math required to understand statistics to that level.
+
+Technology usage and understanding.
+
+- Mastery of useful technologies. Currently these are: internet, AI, blockchain, cars, air conditioner…
+- Understanding at a high level their internal workings.
+
+Biotechnological technologies can also be included into the understanding section.
+
+Play and rest.
+
+- Learning to enjoy and play alone.
+- Learning to enjoy and play with others. The more diverse the others are the better, yet without forcing it.
+- Practice at least one art of personal interest, just for the sake of doing it, not to necessarily master it.
+
+Through play and art, emotions handling capabilities should be increased. That is why I did not reference any psychological help techniques on the curriculum. They should naturally emerge in humans that seek for intelligence, explore, think, play, and make art together.
+
+However, a subject for psychological emotional management is not discouraged.
+
+Survival skills.
+
+This subject must be added at some point, yet it is understandable, due to the unlikely usage of their teachings, its delay in the curriculum implementation.
+
+- Learn hunting techniques. No need to practice them, but at least knowing them.
+- Learn crops harvesting techniques.
+- Learn basic hut building techniques. Using wood, branches, mud, stones...
+- Learning to make fire.
+- Learning safe exploration techniques.
+
+Learning.
+
+- Full understanding of the engineers’ way of thinking.
+- Understanding of different learning techniques and strategies.
+- Understanding, at a high level, of the biological reactions that affect human behavior and cognition.
+- Having learned something requiring 200 hours of focused effort. This has to be in something you do not like. To cultivate resilience in case life requires you to specialize in unexpected stuff.
+
+Language.
+
+- Mastery speaking in the nation’s language and a common world-wide used language. Like English.
+- Mastery of writing on the languages previously mentioned.
+- Mastery of reading on the languages mentioned.
+
+All these are the basic curriculum everyone should know and have gone through. This should lead, based on the reasons explained all along, to raising independent and cooperating citizens.
+
+Not following this curriculum will just increase the likelihood of scams on higher levels of education and just trhough life.
+
+Finally and again, how to teach it, with more centralized systems, more decentralized, homework, not homework etc will depend on each nation current situation.
+
+Of crouse, I prefer the ideas mentioned earlier, where decentralized small amounts of population and professionals can pick teachers and create schools easily with trust and responsibility, all leveraged with new technologies and filtering for the qualities of the good teacher explained previously.
+
+Regardless of that, the key principles stated and the basic curriculum are essential. And probably you have noticed, part of them are explained and explored in this book.
+
+Now, if you do not know well enough any of these things on the basic curriculum, what are you waiting for? Let’s start learning them. Even if it is just 1 afternoon every week.
+
+And what about you and a friend? He learns one part, you learn the other, and then you teach each other. If you do so, good luck! If not, good luck too! :)
+
+X.-Conclusion: Chapter 7.
+
+We have explored what education is and what would be a perfect one.
+
+Then we explored the current challenges our system faces to become one. During that we saw an example of a modern nation that had great success on the educational field Finland.
+
+And finishing the chapter, after gathering the understanding and analyzing real world examples, I drew similarities and reached conclusions so as to create a new structure for a system aimed to achieve the goal of perfect education.
+
+All based on current realistic means according to our technological advantage.
+
+What are you waiting for again? Go learn the basic curriculum, go tech it, let’s start consciously building the utopia.
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+
+Transition from chapter 7 to chapter 8.
+
+We will now transition to the last part of this Part 2 of the book.
+
+The next chapter aims to highlight what all these chapters had in common, what humans, at a societal level have in common.
+
+Furthermore I will also propose the ultimate group of ideas I’ve came to conclude that can lead us to get to an utopia. I will also explain the why I think it makes sense and how I concluded it, it should be of no surprise that they are based on all I’ve explained all along Part 2.
+
+There is nothing really new on this chapter, I just tried to put all together more nicely. I just tried to make it all click, for me and the reader.
+
+----------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
+

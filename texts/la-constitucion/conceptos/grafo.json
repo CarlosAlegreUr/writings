@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "created": "2026-01-06",
+    "total_concepts": 42,
+    "last_updated": "2026-01-06",
+    "description": "Grafo de conceptos para 'La Constitución Democrática' - relaciones y dependencias"
+  },
+  "concepts": {
+    "soberania-popular": {
+      "title": "Soberanía Popular",
+      "level": "fundamental",
+      "dependencies": [],
+      "used_in_parts": [1, 2],
+      "related": ["jerarquia-legitimidad", "sufragio-universal"],
+      "source_notes": ["nota-0", "nota-6"]
+    },
+    "separacion-poderes": {
+      "title": "Separación de Poderes",
+      "level": "fundamental",
+      "dependencies": [],
+      "used_in_parts": [1, 2],
+      "related": ["autodestruccion-mutua", "financiacion-independiente-judicial"],
+      "source_notes": ["nota-1", "nota-2", "nota-6"]
+    },
+    "sufragio-universal": {
+      "title": "Sufragio Universal",
+      "level": "fundamental",
+      "dependencies": ["soberania-popular"],
+      "used_in_parts": [1, 2],
+      "related": ["representacion-responsable"],
+      "source_notes": ["nota-0", "nota-6"]
+    },
+    "jerarquia-legitimidad": {
+      "title": "Jerarquía de Legitimidad (Judicial < Legislativo < Popular)",
+      "level": "fundamental",
+      "dependencies": ["soberania-popular"],
+      "used_in_parts": [1, 2, 3],
+      "related": ["override-popular", "control-constitucional-capas"],
+      "source_notes": ["nota-5", "nota-6"]
+    },
+    "cosa-juzgada": {
+      "title": "Cosa Juzgada y Non Bis in Idem",
+      "level": "fundamental",
+      "dependencies": [],
+      "used_in_parts": [1, 2],
+      "related": ["jerarquia-judicial"],
+      "source_notes": ["nota-4", "nota-6"]
+    },
+    "derecho-reforma": {
+      "title": "Derecho de Reforma Constitucional",
+      "level": "fundamental",
+      "dependencies": ["soberania-popular"],
+      "used_in_parts": [1, 2],
+      "related": ["clausulas-petreas", "procedimiento-reforma-petreas"],
+      "source_notes": ["nota-4", "nota-6"]
+    },
+    "representacion-responsable": {
+      "title": "Representación Responsable y Revocable",
+      "level": "fundamental",
+      "dependencies": ["sufragio-universal"],
+      "used_in_parts": [1, 2],
+      "related": ["revocacion-umbral-75"],
+      "source_notes": ["nota-0", "nota-1"]
+    },
+    "financiacion-independiente-judicial": {
+      "title": "Financiación Independiente del Poder Judicial",
+      "level": "fundamental",
+      "dependencies": ["separacion-poderes"],
+      "used_in_parts": [1, 2, 3],
+      "related": ["nombramiento-judicial"],
+      "source_notes": ["nota-3", "nota-6"]
+    },
+    "revocacion-umbral-75": {
+      "title": "Revocación con Umbral Matemático del 75%",
+      "level": "mecanismo",
+      "dependencies": ["representacion-responsable"],
+      "used_in_parts": [1, 2, 3, 4],
+      "related": ["doble-vuelta-electoral"],
+      "source_notes": ["nota-0"]
+    },
+    "doble-vuelta-electoral": {
+      "title": "Doble Vuelta Electoral para Mayoría Real",
+      "level": "mecanismo",
+      "dependencies": ["sufragio-universal"],
+      "used_in_parts": [1, 3],
+      "related": ["revocacion-umbral-75"],
+      "source_notes": ["nota-0", "nota-1"]
+    },
+    "autodestruccion-mutua": {
+      "title": "Autodestrucción Mutua (Modelo Trevijano)",
+      "level": "mecanismo",
+      "dependencies": ["separacion-poderes"],
+      "used_in_parts": [1, 2, 3, 4],
+      "related": ["cooldown-autodestruccion-6-12", "semipresidencialismo"],
+      "source_notes": ["nota-1", "nota-2", "nota-6"]
+    },
+    "override-popular": {
+      "title": "Override Popular vía Blockchain",
+      "level": "mecanismo",
+      "dependencies": ["jerarquia-legitimidad", "control-constitucional-capas"],
+      "used_in_parts": [1, 2, 3, 4],
+      "related": ["transparencia-blockchain", "participacion-minima-override-40"],
+      "source_notes": ["nota-5", "nota-6"]
+    },
+    "bootstrap-democratico": {
+      "title": "Bootstrap Democrático (Primera Legislatura)",
+      "level": "mecanismo",
+      "dependencies": ["soberania-popular"],
+      "used_in_parts": [1, 2, 3, 4],
+      "related": ["override-75-bootstrap"],
+      "source_notes": ["nota-1", "nota-6"]
+    },
+    "override-75-bootstrap": {
+      "title": "Override 75% en Bootstrap (Discrepancia Invierte Voto)",
+      "level": "mecanismo",
+      "dependencies": ["bootstrap-democratico", "revocacion-umbral-75"],
+      "used_in_parts": [3, 4],
+      "related": [],
+      "source_notes": ["nota-6"]
+    },
+    "cooldowns-temporales": {
+      "title": "Cooldowns Temporales (Anti-Spam)",
+      "level": "mecanismo",
+      "dependencies": [],
+      "used_in_parts": [1, 3, 4],
+      "related": ["cooldown-autodestruccion-6-12", "cooldown-override-3-meses"],
+      "source_notes": ["nota-4", "nota-6"]
+    },
+    "presupuesto-anterior-default": {
+      "title": "Presupuesto Anterior por Defecto (Evita Shutdowns)",
+      "level": "mecanismo",
+      "dependencies": ["autodestruccion-mutua"],
+      "used_in_parts": [1, 3],
+      "related": [],
+      "source_notes": ["nota-2"]
+    },
+    "clausulas-petreas": {
+      "title": "Cláusulas Pétreas (Núcleo Intangible)",
+      "level": "mecanismo",
+      "dependencies": ["derecho-reforma"],
+      "used_in_parts": [1, 2, 3, 4],
+      "related": ["procedimiento-reforma-petreas"],
+      "source_notes": ["nota-4", "nota-6"]
+    },
+    "procedimiento-reforma-petreas": {
+      "title": "Procedimiento de Reforma de Cláusulas Pétreas (95%, 2 años, cooldown 20)",
+      "level": "mecanismo",
+      "dependencies": ["clausulas-petreas", "cooldowns-temporales"],
+      "used_in_parts": [3, 4],
+      "related": [],
+      "source_notes": ["nota-4", "nota-6"]
+    },
+    "jerarquia-judicial": {
+      "title": "Jerarquía Judicial (Primera Instancia → Supremo)",
+      "level": "mecanismo",
+      "dependencies": [],
+      "used_in_parts": [1, 2, 3],
+      "related": ["derecho-apelacion", "control-constitucional-capas"],
+      "source_notes": ["nota-3", "nota-4", "nota-6"]
+    },
+    "derecho-apelacion": {
+      "title": "Derecho de Apelación (Mínimo 1)",
+      "level": "mecanismo",
+      "dependencies": ["jerarquia-judicial"],
+      "used_in_parts": [1, 3],
+      "related": [],
+      "source_notes": ["nota-3", "nota-6"]
+    },
+    "control-constitucional-capas": {
+      "title": "Control Constitucional en Capas (Juez → Supremo → Override)",
+      "level": "mecanismo",
+      "dependencies": ["jerarquia-judicial", "jerarquia-legitimidad"],
+      "used_in_parts": [1, 3, 4],
+      "related": ["override-popular"],
+      "source_notes": ["nota-5", "nota-6"]
+    },
+    "estados-excepcion-limitados": {
+      "title": "Estados de Excepción con 7 Límites Constitucionales",
+      "level": "mecanismo",
+      "dependencies": [],
+      "used_in_parts": [1, 2, 3, 4],
+      "related": ["tres-tipos-excepcion", "nucleo-intangible-excepcion"],
+      "source_notes": ["nota-2", "nota-6"]
+    },
+    "optimizacion-distritos-corrupcion": {
+      "title": "Optimización de Distritos por Coste de Corrupción (Algoritmo P25)",
+      "level": "ejemplo",
+      "dependencies": ["representacion-responsable"],
+      "used_in_parts": [3, 4],
+      "related": ["actualizacion-distrital-21-anos"],
+      "source_notes": ["nota-0"]
+    },
+    "actualizacion-distrital-21-anos": {
+      "title": "Actualización Distrital cada 21 Años (Maduración Cerebral)",
+      "level": "detalle",
+      "dependencies": ["optimizacion-distritos-corrupcion"],
+      "used_in_parts": [3, 4],
+      "related": [],
+      "source_notes": ["nota-0", "nota-6"]
+    },
+    "semipresidencialismo": {
+      "title": "Semipresidencialismo (Presidente + Primer Ministro)",
+      "level": "ejemplo",
+      "dependencies": ["separacion-poderes"],
+      "used_in_parts": [3, 4],
+      "related": ["autodestruccion-mutua"],
+      "source_notes": ["nota-6"]
+    },
+    "cooldown-autodestruccion-6-12": {
+      "title": "Cooldown Autodestrucción 6-12 Meses",
+      "level": "detalle",
+      "dependencies": ["autodestruccion-mutua", "cooldowns-temporales"],
+      "used_in_parts": [3, 4],
+      "related": [],
+      "source_notes": ["nota-6"]
+    },
+    "ministerios-supermayoria-75": {
+      "title": "Ministerios Requieren 75% del Parlamento",
+      "level": "ejemplo",
+      "dependencies": ["separacion-poderes"],
+      "used_in_parts": [3, 4],
+      "related": ["limite-presupuestario-ejecutivo"],
+      "source_notes": ["nota-2"]
+    },
+    "limite-presupuestario-ejecutivo": {
+      "title": "Límite Presupuestario Ejecutivo (X% del PIB)",
+      "level": "ejemplo",
+      "dependencies": [],
+      "used_in_parts": [3, 4],
+      "related": ["ministerios-supermayoria-75"],
+      "source_notes": ["nota-2"]
+    },
+    "control-fuerzas-armadas": {
+      "title": "Control de Fuerzas Armadas (5 Mecanismos)",
+      "level": "ejemplo",
+      "dependencies": ["separacion-poderes"],
+      "used_in_parts": [3, 4],
+      "related": ["declaracion-guerra-85", "rendicion-cuentas-fisica"],
+      "source_notes": ["nota-1", "nota-2"]
+    },
+    "declaracion-guerra-85": {
+      "title": "Declaración de Guerra Requiere 85% Parlamento",
+      "level": "detalle",
+      "dependencies": ["control-fuerzas-armadas"],
+      "used_in_parts": [3, 4],
+      "related": [],
+      "source_notes": ["nota-2"]
+    },
+    "rendicion-cuentas-fisica": {
+      "title": "Rendición de Cuentas Física (Amputación por Operación Secreta)",
+      "level": "detalle",
+      "dependencies": ["control-fuerzas-armadas"],
+      "used_in_parts": [3, 4],
+      "related": [],
+      "source_notes": ["nota-2"]
+    },
+    "tres-tipos-excepcion": {
+      "title": "Tres Tipos de Estados de Excepción (Alarma, Excepción, Sitio)",
+      "level": "ejemplo",
+      "dependencies": ["estados-excepcion-limitados"],
+      "used_in_parts": [3],
+      "related": ["limite-temporal-excepcion-180"],
+      "source_notes": ["nota-2", "nota-6"]
+    },
+    "limite-temporal-excepcion-180": {
+      "title": "Límite Temporal Excepción 180 Días/Año con Mayorías Crecientes",
+      "level": "detalle",
+      "dependencies": ["tres-tipos-excepcion"],
+      "used_in_parts": [3, 4],
+      "related": [],
+      "source_notes": ["nota-6"]
+    },
+    "nucleo-intangible-excepcion": {
+      "title": "Núcleo Intangible en Excepción (Vida, No Tortura, Legalidad)",
+      "level": "ejemplo",
+      "dependencies": ["estados-excepcion-limitados"],
+      "used_in_parts": [3],
+      "related": [],
+      "source_notes": ["nota-6"]
+    },
+    "nombramiento-judicial": {
+      "title": "Nombramiento Judicial con Participación Popular",
+      "level": "ejemplo",
+      "dependencies": ["financiacion-independiente-judicial"],
+      "used_in_parts": [3, 4],
+      "related": ["mandato-supremo-12-anos"],
+      "source_notes": ["nota-3", "nota-6"]
+    },
+    "mandato-supremo-12-anos": {
+      "title": "Mandato Supremo 12 Años No Renovable",
+      "level": "detalle",
+      "dependencies": ["nombramiento-judicial"],
+      "used_in_parts": [3, 4],
+      "related": ["renovacion-escalonada"],
+      "source_notes": ["nota-6"]
+    },
+    "renovacion-escalonada": {
+      "title": "Renovación Escalonada de Jueces Supremos",
+      "level": "detalle",
+      "dependencies": ["mandato-supremo-12-anos"],
+      "used_in_parts": [3],
+      "related": [],
+      "source_notes": ["nota-6"]
+    },
+    "participacion-minima-override-40": {
+      "title": "Participación Mínima Override Popular 40%",
+      "level": "detalle",
+      "dependencies": ["override-popular"],
+      "used_in_parts": [3, 4],
+      "related": ["mayoria-cualificada-override-66"],
+      "source_notes": ["nota-5", "nota-6"]
+    },
+    "mayoria-cualificada-override-66": {
+      "title": "Mayoría Cualificada Override Popular 66%",
+      "level": "detalle",
+      "dependencies": ["override-popular"],
+      "used_in_parts": [3, 4],
+      "related": ["participacion-minima-override-40"],
+      "source_notes": ["nota-5", "nota-6"]
+    },
+    "cooldown-override-3-meses": {
+      "title": "Cooldown Override Popular 3 Meses tras Supremo",
+      "level": "detalle",
+      "dependencies": ["override-popular", "cooldowns-temporales"],
+      "used_in_parts": [3, 4],
+      "related": [],
+      "source_notes": ["nota-5", "nota-6"]
+    },
+    "stake-anti-spam": {
+      "title": "Stake Anti-Spam para Convocar Votación Blockchain",
+      "level": "detalle",
+      "dependencies": ["override-popular"],
+      "used_in_parts": [3, 4],
+      "related": ["transparencia-blockchain"],
+      "source_notes": ["nota-5", "nota-6"]
+    },
+    "transparencia-blockchain": {
+      "title": "Transparencia Blockchain (Presupuestos, Gastos, Votaciones)",
+      "level": "ejemplo",
+      "dependencies": [],
+      "used_in_parts": [3, 4],
+      "related": ["override-popular", "stake-anti-spam"],
+      "source_notes": ["nota-1", "nota-6"]
+    }
+  }
+}

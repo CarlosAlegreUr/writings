@@ -1,0 +1,286 @@
+
+Transition from chapter 6 to 7.
+
+Hello again, this time, we are going to finally tackle education. As we have seen along the book, it is vital, not only to maintain utopias, but also to transition to them.
+
+Without further ado, let’s go.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7.- Thoughts on the ideal society, part 4: On education plus the potential influence of Cheerfulism and new tech on it.
+
+Within a species point of view, close to worthless is not inherited knowledge, so education plays a crucial role on utopian creations.
+
+It does not matter how efficient are our power dynamics and resource management protocols if we do not teach our children how to keep following them, or even keep improving them.
+
+The biological rule of each being trying to continue its legacy is one we must not ignore if we aim to have the most efficient life optimized for intelligent happiness.
+
+Lasting utopias are not just build, they have to be maintained, just like species on the natural evolution game.
+
+So, how do we make our children ready to build or maintain utopias? Education.
+
+If you want you can understand education as another piece in the puzzle of organizing resources. This is the piece of organizing the future organization.
+
+Education is:
+
+Teaching someone something. Helping someone learn something. That someone can be yourself.
+
+And the optimal goal, species-wise, is to teach someone good patterns, and to teach them how to get rid of or reduce bad patterns and also to even improve the good ones even more.
+
+How do we do this then? Wait a second for this answer.
+
+Now just notice that someone being educated, someone being taught something, involves a transition process, a change. Thus education is a key factor not only in maintaining utopias, but also in creating them, in transitioning to them.
+
+Okay but, how then do we transition to an utopia? How do we educate ourselves towards an utopia? Maintaining and improving good habits and reducing or eliminating bad ones, then if repeating this through time, we should eventually get there.
+
+How long must we repeat this process for? Wait a second for this answer.
+
+Now just notice, change, maintain or improve good patterns, delete or reduce bad ones, does it sound familiar? What if say it this way: fix good, vary the bad, vary the good again if so. Here it is again, the fixed variable resolution technique.
+
+Can then Cheerfulism be the key to understanding the transition to an utopia? The key to understanding education? Is Cheerfulism naturally build around the biological principles to better educate people so to carry out this transition? I do think so.
+
+In this chapter we will explore the current state of education, propose improvements and analyze how all this can be done through Cheerfulism and the new technologies we have recently developed.
+
+But wait, some might have wondered, okay but what is to learn?
+
+Learning is:
+
+The transition from not being able to execute a pattern to later being able to execute it. Understanding execute as the previously mentioned: any combination of discovering, creating, analyzing, repeating or experiencing a pattern.
+
+Enough definitions for now. Let’s explore how to achieve the perfect education.
+
+
+7.1.- The problems of education so far and the direction of the next steps.
+
+If we want to create and transition to the perfect educational mechanics, we must first understand what education is, in order to imagine what a perfect education can look like, and we must also know what our current education looks like, in order to imagine a transition.
+
+We just saw what education is. It is a way of applying the fixed variable resolution technique, a way of processing information so to other being ends up processing that information in the same or a similar way.
+
+Cool, that is education, but what is the perfect education we are striving for? The one who will lead us to an utopian society. From the previous section, we saw that, species-wise, the way to an utopian society is by maintaining or improving good patterns and reducing bad patterns.
+
+So okay, that is what we are aiming for. We are aiming to efficiently use the fixed variable resolution technique in order to get to that goal. What can go wrong in this process? What can be seen as problematic in this education action and this perfect education goal?
+
+Let’s discover this by analyzing all possible paths of information flow in this education action, in this system.
+
+There are 2 actors in the education pattern, let’s call them, the teacher and the student. Both can be yourself by the way, or they can just be 2 different beings. And the teacher can even be a non-living being. Imagine you see a volcano erupt and you do not know what volcanoes are, then a mountain would be teaching you that some mountains are dangerous and can spit lava.
+
+If we get fancy and general, the student can also be anything. Can it? This deeper questions will be explored in the part 3 of the book. For now let’s just stick to the ones who are directly useful, and easier to understand, when creating and maintaining utopias. So.
+
+The teacher is the one guiding the student to learn. And the student is the one learning. Easy so far.
+
+The information can be sent or not sent, and received or not received. So there are 4 plausible scenarios:
+
+1.- Not sent and not received. We will not analyze this one because it is not education. If no information is sent, no information will be received. Logically useless. A teacher and a student just staring at each other is absurd, we all know that we must do something. I’m just adding this because it is a plausible logical combination, because I’m thinking like an engineer, defining all possible sub-modules and seeing where that leads, to see if that helps with my understanding of the system.
+
+2.- Sending and not receiving. This is realistic, a teacher is transmitting information yet the student is not receiving the information for any reason. We will explore this.
+
+3.- Sending and receiving. This is realistic again, we will explore it later.
+
+4.- Not sending and receiving. This one makes no sense, if nothing ever was sent, nothing ever can be received. Thus we will not analyze it. Let’s fix this variable and assume it’s illogical. Will we ever revisit it and unfix it? I don’t think so. However truth means never say never.
+
+Well so far, but we are not just trying to foresee problems in education, but problems that can arise on the perfect education. The one where education has a goal, so we get ourselves another variable arising from the goal: goal achieved, goal not achieved. What is the goal of a perfect education then?
+
+The goal is to maintain or improve the good patterns, and reduce the bad ones. If the information is received but useless, there would be a problem too. We are trying to achieve the goal, not not-to-achieve the goal. So from the plausible scenarios that we got earlier, numbers 2 and 3, we will not take into account the variable’s value of not-achieved goal, because we just do not want that.
+
+It is true that sometimes, knowing where not to go is useful for discovering where to maybe go instead. Yet for this chapter, because I’m the one making it, out of my own intuition, out of the artistic part of thinking like an engineer, I will keep exploring through this path to reach a conclusion. Because I feel it will be faster and it will lead to less complexity.
+
+So the system combinations to finally analyze are:
+
+1.- Sending and not receiving and reaching the goal. Notice that this is useless to examine. As the only way we can deem if the information was useful is if it reached the student in the first place. So we are left only with one path to analyze. Thus, we will start the analysis like this, with the assumption that the information is sent, and it is received. Other combinations fall out of the logical scope of perfect education, as if nothing is received, nothing can ever reach the goal.
+
+2.- Sending and receiving and reaching the goal.
+
+Look, by exploring one path we got a simplification of the system, one of the paths is useless. So I might as well start taking into account what I decided to move away from for now, that was the not-reaching-goal variable. So okay, let’s add this plausible scenario to our understanding and so we get:
+
+1.- Sending and receiving and reaching the goal.
+2.- Sending and receiving and not reaching the goal.
+
+So, now we understand better the parts of the system, their relations and the desired states that can be useful for our goal.
+
+Note that we made assumptions, because we fixed some variables, because we chose to focus on only the sub-module that made logical sense. Yet in more complex systems, like the analysis of an ideology, where logic initially will not be enough, being aware of your assumptions is critical to reach deeper truths.
+
+Now, let’s start analyzing these 2 useful system states as of nowadays society in order to understand the problems we face and how to solve them.
+
+7.1.0.1.- This text could be simpler. But I’m an engineer.
+
+This could have been shortened, and I could have just told you hey to get here we just need to analyze these 2 states of the system. But then I would have missed the chance of displaying in real time once more how to apply what learned, or what taught, in Chapter 3.
+
+All the steps described in that chapter are here too, imagine, define, analyze, simplify if so, follow the intuition, revisit the paths if so, with a goal, slowly understanding. Not fixing forever, yet maybe for long times, even the most illogical paths.
+
+I started trying to understand what was, or were, the problems we can face to get a perfect education. Then via logical deduction from definitions I figured out what we have to analyze in our context. And now that I have a deeper understanding of it, I can try to solve it in different ways, which some of them might even result in being the best way. And if they turn out not to be, I will just go back and forth, unfixing the variables and thinking again.
+
+Don’t worry, from section 6.2 and forward in this chapter there will not be such a detailed engineers thought processes.
+
+7.1.1.- Analyzing the problem to solve for perfect education: receiving useful information.
+
+So, from the previous section we know that we must focus on the system when:
+
+- Sending and receiving information and reaching the goal.
+- Sending and receiving information and not reaching the goal.
+
+And reaching or not the goal depends on if the information was useful. So, when simplifying redundant stuff that we already understand the final question becomes:
+
+How do we transmit useful information? Also known as: How do we transmit information which improves and maintains good patterns and reduces bad ones?
+
+And, my friends, it has been in front of us all along. As seen, maintaining good patterns, reducing bad ones… it is just another way of saying: fixed variable resolution technique!
+
+So, the question ultimately metamorphoses into:
+
+How do we transmit useful information? → How do we transmit information which improves and maintains good patterns and reduces bad ones? → How do we transmit information effectively with the fixed variable resolution technique?
+
+So, again, sorry for the repetition. How do we transmit useful information? Via educating based on an effective usage of the fixed variable resolution technique. Via mastering the technique. Which is just, the learning process, the discovering process. The natural urge of humans to explore which has kept us alive for lots of years.
+
+That is how we solve this problem.
+
+We must then optimize our educational mechanisms to make the best use possible of the fixed variable resolution technique.
+
+Then we can start analyzing:
+
+1.- Are we doing this nowadays?
+2.- How to do it if not?
+3.- How to maintain it or improve it if we are already doing it?
+
+I will not get into detailed engineer-like explanations on all the answers to the last questions. They just are:
+
+1.- Yes, we are currently using the technique.
+2.- We are already using it, no need to explain how to start then.
+3.- Here is the key, how to improve it. Welcome to the next sections.
+
+7.2.- The common limitations in our current educational systems and how to break free from them.
+
+These are, in no special order, the main approaches our educational systems have which I’ve noticed that make the fixed variable resolution technique be less effective.
+
+1.- Primarily relying on memorization, we should rather emphasize better the analysis and understanding of systems.
+
+2.- Primarily prioritizing learning useless knowledge, we should emphasize not only greater analysis of systems but also seeking the analysis of useful ones.
+
+3.- Ineffective emphasis on teamwork. All above should be complemented with a stronger emphasis on genuine teamwork, while still valuing an individual’s capability to be and work alone when necessary.
+
+4.- Slow adoption of new technologies for information management. At the end of the day, education is transmitting information as we saw, using outdated tools leads to outdated results.
+
+5.- Depending on artificial tests, so-called exams, when they are not based on “natural” challenges anymore.
+
+These are the core limitations we must address in our educational systems which greatly limit our biologically intrinsic adaptive nature that makes us, and made us, thrive.
+
+However, addressing and implementing a change, no matter of which kind, requires careful planning. To avoid causing unnecessary stress or trauma, these changes should be introduced gradually. Yet, the pace shouldn't be too slow either, especially if there's an imminent threat or challenge.
+
+I will dive deeper into all theses problematic approaches and how to solve them all the way until the end of this chapter.
+
+But first, let’s deviate for a small bit to a more chill section in order to rest and also lay out some useful context for later explanations.
+
+7.2.1.- First intuitive liberation steps.
+
+Before diving deeper into how to specifically solve this educational mess we have. Let me lay out some intuition guided basic actions that will help.
+
+For example here I'd like to propose certain fundamental school subjects that are often overlooked but are crucial for a modern prosperous society:
+
+- Nutrition and Exercise: Understanding how to maintain or manipulate our body in a healthy way.
+
+- Goal Planning: An overview of setting and achieving objectives short, medium and long-term. Often requiring the latter ones a necessary focus on the engineers’ way of thinking due to their complexity.
+
+- Personal Financial Planning: Grasping personal finance, understanding money's mechanics, and familiarizing oneself with local taxation laws, saving, spending and investing.
+
+- Power Dynamics: Delving into the essence of politics and understanding the constant fight for power, irrespective of the resource management protocol in place. Understanding different techniques for aggregating power like the empty signifier, the simplification of opposing concepts, happiness etc.
+
+- Philosophical Foundations: Grasping the philosophical principles that build the society an individual lives in. Promote inside this subject the understanding of other philosophical approaches that other societies might work upon. Specially the neighboring ones so as to foster understanding and international diplomacy.
+
+- Mastery of statistics: In this era, mathematics, specially statistics, are essential so to understand the big data we are exposed to and that all studies we carry out are based on. Misinterpretations on statistical concepts are often a source for sensationalism which affects on the acknowledgment of illogical conclusions. Thus we must minimize their appearances.
+
+- Technology usage and understanding: In this subject people learn to use useful tools for everyday live. Kitchen tooling, information management tooling like multiple software such as artificial intelligences. In general, tools, useful technology to make life easier. How to use it properly and even have a feeling, a basic understanding, of how it logically works under the hood.
+
+- Play and rest: Learning to rest properly and then be ready to keep facing live and to keep enjoying life. I understand art as a play, so here we would include the practice of any art for the sake of art, not for the sake of its mastery. Learning to rest while listening to your body’s biological signals, so to be creative just by naturally existing and playing.
+
+- Survival skills: Yes, learning ancient methods for survival. Just in case. Humans strive for both, guaranteed survival and happiness, never forget the base.
+
+- Cheerfulism: And how can I say otherwise? I also recommend the study and analysis of Cheerfulism. :) Understanding scientifically the nature of happiness and intelligence in order to make everyone fully equipped to fulfill their desires and needs.
+
+From my perspective, which is influenced by the Spanish public educational system from the years 2002-2015, these subjects are often left as optional or they do not exist at all. In contrast, they should be as central to the curriculum as learning how to speak.
+
+To ensure a thriving society, there should be a greater emphasis on these areas of knowledge. Critical thinking should be at the forefront of educational assessments.
+
+Don’t dismiss memorization, it is also useful and necessary yet its main influence must be reduced. An example of a good use of memorization was given at the very beginning of the book, the engineers’ way  of thinking can be carried out quicker with some optimizations based on memorization.
+
+To integrate these changes into the educational system, I propose a phased approach. Once the new evaluation methods are designed, they can be introduced gradually. For instance, the presence of these new concepts and techniques could increase by 10% each year. This gradual increase ensures that students can adapt without feeling overwhelmed.
+
+While I said a 10% increase, it's essential to note that different age groups might have varying levels of adaptability. Experts, familiar with the intricacies of human minds’ learning, should determine the appropriate rate of change for each age group. The overarching principle is to balance the pace of change for each nation's demographics and capabilities.
+
+Lastly, for adults keen on changing, which are the population that can struggle with change the most, it would be beneficial to offer free tutorials tailored to their age, psychological profile, and cultural background. These resources can guide them in embracing this new approach to life and allow them to make a greater impact on the construction of this better society.
+
+You don’t need to wait for someone else to create these resources. If you feel like it and have the time to create these resources on your own, like a video, a book, a meeting on your neighborhood etc Tailored to the age group you represent, or to the life-situations you might be familiar with etc Whatever you can come up with, what are you waiting for? This is a mission in which we all can put our little grain of sand to build a mountain. I encourage you to do so. I’m personally doing it, I will start making social media videos to spread Cheerfulism and give free access to all the useful knowledge I’ve gathered so far.
+
+And indeed, this is what will eventually bring Cheerful people to this world, a great big common goal created and made reality by our small combined strengths. This goal being to achieve long term sustainable happiness for everyone. Based on principles abstracted away from any ideology, any religion, any gender, any skin color, any belief, just based on what makes all of us truly happy humans.
+
+With these resources, and the power of internet to reach any corner of the world. Cheerful individuals will slowly emerge and influence their people around them. They will probably also meet with other Cheerful people every now and then, so not to feel isolated in a world that guides itself by principles who tend to undermine parts of human nature. Slowly but surely, creating a community, with members slowly appearing and growing all around the world.
+
+This is how we will start our final steps to the utopia. A decentralized network of Cheerful teachers, spreading to those humans around them, not by enforcement, but just leading by example. A natural sustainable growth of a phenomena based on human nature too.
+
+Now, let’s get into the deeper explanations and details on how to understand and improve all the current educational messes.
+
+7.3.- How do the educational systems limit our adaptive nature and what to do about it.
+
+I already mentioned some sections ago the 5 main weak spots. Let’s understand how they hinder effective progress paired with some initial solutions proposals. A comprehensive and detailed educational system proposal will be explained right after this section. Let’s keep laying out knowledge to fully understand what I will later propose.
+
+7.3.1.- Addressing the weak spots with alternatives.
+
+1.- Too much memorization.
+
+Why is there so much emphasis on memorization? An explanation commonly heard, and which I’ve briefly mentioned in previous chapters, is that in an era previous to the internet, like in the industrial revolution, having quickly access to information via storing it in biological databases, a.k.a. our brains, was a really useful and efficient technique.
+
+Yet, internet now exists, and it is very solid and robust, its existence is reliable. It is not like the library of Alexandria, like if it could just one day be burn and thousands of years of solidified knowledge could be lost. The databases, the computers that store all internet data, are spread through the world and with redundancy. This means that the same information is stored in multiple places, so it does not matter if one burns.
+
+This makes our current capabilities for accessing and storing information way more efficient than 100 years ago. Thus the emphasis on memorization is not anymore such an useful technique.
+
+Fortunately, because it is a natural problem solving process, people are realizing that. Yet it is painfully slowly changing.
+
+More assignments in school now require an interdisciplinary application of different areas of knowledge, which promotes critical thinking and development of analytical capabilities. Yet, its insertion is painfully slow.
+
+This is obviously seen with the young population non-stop complaining about how useless the skills learn are in nowadays jobs, and it is also reflected on how hard it is to find a job if you only study in the traditional path and the traditional knowledge.
+
+Anyway, I’m not an expert in education, so the very specific details on how to orientate educational changes so to promote critical thinking are out of the scope of my knowledge, for now at least.
+
+A thing I know is clear, most exams should not be based on memorization. Students must have all information available to them at exam time, they must have access to internet. It is unrealistic, saying it in a pretty way, otherwise I would say stupid, to prohibit access to the internet, nowadays that is just a non realistic scenario.
+
+That would be a true reflection of reality which would truly prepare them for life. Yet we need another vital detail.
+
+For these exams successful completion, you will need to do real time research, real time learning. Literally an exam which part of it is to successfully learn something new on that precise moment. And, let’s say, that for that learning experience, you needed some basis of knowledge, which would be impossible to learn in the time given for the exam completion. Thus you must have memorized it or have previously learned these basics to successfully complete the exam, yet at the same time you are showing how good you adapt because the exam requires you to learn something new.
+
+Maybe this is not applicable to very simple knowledge or humans with still limited cognitive capabilities, like children from 7-9 years old. This is why I say I’m not an education expert, yet I’m very sure about the overarching principles we must follow. Somehow, children must also be encouraged to learn on the fly while leveraging previous knowledge.
+
+This is my personal idea on how to better approach examination to resemble real life challenges. While still preserving all natural parts of the natural fixed variable resolution technique and furthermore, being aligned with our new safe and robust technologies.
+
+This is the direction to follow when getting rid of too much memorization.
+
+2.- Learning useless knowledge.
+
+We defined useless stuff as stuff that does not satisfy a goal. We already explored how the knowledge and skills young people get nowadays are very useless for current modern societal needs.
+
+So we just need to intelligently focus on learning the ones who are useful. How do we figure out which ones are?
+
+Or, the inverse approach, how do we figure out which ones are not?
+
+These are on themselves very complex questions, because answering them requires ample knowledge on the current needs and desires of societies and the current state of technology. The answer is ever changing as they do the two variables just mentioned.
+
+Riding a horse was very useful until cars got easily manufactured. Memorizing knowledge was very useful until internet was invented, now it is just less useful. Candle manufacturing was very useful before electricity was invented. Junior software developers were very useful until AI was improved, now they are just less useful. Books were way more useful before videos were invented. Hoes were very useful before tractors were invented. And so on and so forth.
+
+So, what do we do? How do we answer complex questions? Wait, that sounds familiar. The engineers way of thinking! So then, one, analyze your life, your societie’s needs, and think about it, find useful knowledge to satisfy that. Not easy, but this is the answer.
+
+I think a great part on why we are nowadays living in an era of useless knowledge on traditional paths is greatly influenced by point number 1, too much memorization. Too much memorization is eventually linked to fixed variables, and if you fix them for too long, you create a tendency for lack of innovation, exploration, research.
+
+Massively indoctrinating every single human for years every day, since childhood, to rely on memorization, has significantly, and I would dare to say, dangerously, affected their ability to create, research and explore. Precisely what you need to find useful knowledge. To thrive, to just do an essential part of what your body is naturally made to do.
+
+I would dare to say that the rise of lots of psychological problems ultimately stem from this too.
+
+I want to encourage every reader to see that there is hope. You can clearly be more intelligent, it is just you have been literally tamed for years, day after day, since your childhood.
+
+People can change, it is written in our adaptive biology. For some it will take longer, specially with the older people which are experiencing biological decline and that have been already indoctrinated for lots of years. Yet we all can do it with effort. And I think, we, the youth, have a very important role in helping our elders to achieve this.
+
+So, no easy fix for this one, just learn to think and apply it to detect useful knowledge. Go read chapter 3 again if you want.
+
+3.- Little team work.
+
+This is more something I felt rather than something I’ve thought.
+
+We have an individuality problem. We focus too much on it. Results tend to be tied to the individual result, not the group.
+
+We put the individual as the holy grail, yet nothing on this life depends on an individual. There is always a team. Some individuals might be crucial for executing some tasks, maybe even unique and irreplaceable. But them alone, are never enough, not in complex nowadays societies. Well, not even in simple ones, go try survive in the amazon forest for 1 year completely alone and starting naked.
+

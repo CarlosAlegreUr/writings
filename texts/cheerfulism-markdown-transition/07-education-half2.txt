@@ -1,0 +1,286 @@
+We make an emphasis in being the best one, improving yourself, non-stop. But there are just places you won’t be able to go unless your neighbors help you. Thus making sure your neighbors are also as good as they can be, is a crucial, yet little mentioned part.
+
+Don’t get me wrong, we need both, individuality, but also selfless teaching, selfless help. Sacrifice for the community. Balancing these two variables is, again, really complex.
+
+The Finnish educational system has a concept that I like very much, educational equity. It is understood as:
+
+“The equal possibility for each individual to access enough resources to maximize their intellectual potential.”
+
+A very Cheerful-like principle. More on the finish educational system later.
+
+Both, society and individual, are human nature. Just do not forget it. Improve one one time, the other another time. I just feel like nowadays, teamwork is the one with less development.
+
+So let’s all think on this Cheerfully. Let’s maximize our intellect while becoming as selfless teachers as possible. At least I will do so.
+
+Let the information flow to solve this problem, because it is pretty clear that the solution did not arrive so far.
+
+4.- Slow adoption of new technologies for information management.
+
+Oh boy, here we go again. This is just another result of lack of adaptation, lack of craving change. Yes, I also think this stems from the over-focalization on memorization inherited by industrial necessities.
+
+The solution? Use the engineers’ way of thinking to learn to use the new technologies. Then use it again to learn or create a way to use them on whatever task or management that you want to improve.
+
+Like when accounting software was invented and people learned to use it so not to use calculators and manual labor of tens of people anymore.
+
+5.- Dependence on artificial exams.
+
+Nowadays tests are just not natural. A secretary needed to quickly remember lots of data from a company so the boss can make decisions quicker. But not anymore.
+
+So the current most common format of, question, fact-like memorized answer is outdated. We could say it is even anti-natural as of the context of nowadays state of societies.
+
+Obviously it is not anti-natural at a human nature level. But it is at our current modern technological-societal level.
+
+What is the solution for more natural, less artificial, more useful exams? I explained it actually in the section before this one. An exam in which you need to know some facts to quickly figure out things and then learn something new on the fly to pass it.
+
+X.- Conclusion: 7.3.1.
+
+As you can see, all the common weak spots and pain points have a common solution, learning to learn efficiently and using new technologies do so. Then implement the solutions deducted from the learning.
+
+So basing myself on my philosophy, which lead to the analysis and creation of all these ideas and thoughts, and inspired too by the Finish educational system. Here I will propose the future of education.
+
+But first, so everyone understands better the context this proposed system rose from, let me explain some stuff about Finland.
+
+7.4.- Finland‘s educational system, a living Cheerful proof?
+
+My main goal when writing the next iteration of Cheeruflism from v0.0.3, this is the current v0.0.4, was to get a better understanding of educating humans so I could propose more specific solutions.
+
+This lead me to not just think on my own about it, but this time I decided it would be helpful to read other people’s thoughts and scientific discoveries about it. So I started reading about raising children, development of cognitive capabilities etc etc And in some of the books Finland was always mentioned as a reference as a good adaptive educational system. So I read about it, could it be that Finland is following Cheerfulism’s principles? I had to explore, it looked like it.
+
+It turned out that the Finnish educational system is not just an incredibly interesting system. But the underlying reasons of why it works are too. It is a mix of all I’ve thought so far in the whole book, it just seems to fit perfectly if I’m not missing something.
+
+So let’s explain some of the key principles of the Finnish educational system and how they relate to anything I’ve written in the book so far.
+
+By the way, my knowledge of the Finnish system is based on conversations with the AI ChatGPT and based on reading a book written by a very experienced Finnish teacher called Pasi Sahlberg, his books is: Finnish Lessons 3.0, what can the world learn from educational change in Finland?
+
+I’m not just going to explain what I read and learned, I disagree with the author in some stuff. Yet I recommend everyone to read this book, just like I recommended reading the series One Piece.
+
+Anyway let’s explain stuff which is also explained in the book, but I diverge a bit on the explanations given by the author on why the Finnish system works, so it will be slightly different. I also have different ideas in some details on why the Finnish system is working less well in the last five years.
+
+7.4.1.- The core principles of the Finnish educational system.
+
+What makes the Finnish system so unique is that it mixes centralized and decentralized principles, trying to leverage the best of both worlds from statist-oriented and freedom-oriented systems.
+
+They are based in the core ideas of equity, understood as explained in a previous section, as the right of every person to reach its maximum intellectual potential. And the core idea that any child can learn the basics if given enough attention and care.
+
+They also believe in technocracy in a way, as they think teachers are the best people to decide what to teach, and how to teach it. They believe they should have maximum freedom, they plan their own classes and teaching techniques and they even decide what to evaluate in exams. Of course there is a limit at a statist level, but it is a wide one and teachers are given a lot of freedom to innovate.
+
+They believe that for anyone to reach its maximum potential they need to leave professionals do their job and they need to form them as best as possible. For that they do use a very classic and centralized system of requiring teachers to have university degrees, masters and all to become a teacher. This makes people don’t even hesitate wether teachers will do their job correctly, as it is a really competitive market with little positions open, only the best become teachers. Culturally teachers are also viewed as really intelligent, not like in other countries where people think that if you are a teacher it is because you were not good enough to work as whatever you studied, so then you went to the “easy-teaching-route”.
+
+In Spain we do have this thinking, we say: Quien vale vale y quien no pa profe. Translated: The one who is worth, it is worth it, and the one who is not goes to become a teacher.
+
+And even if a bad teacher somehow passes the Finnish filter, the freedom everyone has once in makes them help one another and the bad or just less good teachers eventually become way better. As teachers teaching each other is also promoted at a cultural level.
+Furthermore, because the government regulates how many people will become teachers, they can make sure there is never a need to compete with one another in abusive ways but just help each other as teachers to improve and research with each other.
+
+Even though this can seem special to centralized systems, in a totally free system teachers would also tend to cooperate, and then compete against other groups of teachers to get more students. So it is not really that statism is the only way for non-abusive competition leading to cooperation, yet, it is a way, the Finnish way this time.
+
+Somehow, the Finnish educational system is based on the premise of a social consensus of freedom.
+
+There is a social belief that anyone should have the resources to maximize their intellect, and there is also a social belief that only the best should be teachers and they should be let really free because they know better.
+
+It is said that schools should function as small-scale democracies. This also describes really well this social consensus for freedom. In a democracy people vote on what is and is not allowed to do, so everyone can be as free as possible yet under the shared freedom limitations of a centralized consensus.
+
+All this is really aligned too with what I said in a previous chapter section 5.2.6.1, the happy socialist. Where I explained that maybe, in nordic countries, because of their small size and high intelligence, socialism does not work that bad. Because they are relatively close to each other and just being intelligent can be enough to control their chaos.
+
+So, why did it work so well for Finnish? I think it is because their ways were very aligned with their population’s human nature on an individual level and then on a societal level. Adding to this that they renovated their system as per an honest analysis of the historical context they found themselves into.
+
+They think education is critical for a person to have a thriving and fulfilling life. And it is. As seen in Cheerfulism we all strive to be happy, and to do it as successfully as we can we must improve our intelligence to maximum levels. Just as their principle of equity.
+
+And then, at a societal level they use socialism, a very natural resource management protocol as explained earlier, yet leveraged with libertarian technocratic traits like letting teachers explore a lot so they can successfully reach the equity goal. Balancing out and trying to leverage the best of both worlds. And they did manage to be successful, at least way better than other nations during some years.
+
+However today, in the second decade of the twenty first century, the Finnish educational system is facing challenges that structurally threat all its system.
+
+I think the system is starting to fail because it was well designed for the context Finland found itself around the 1980s, 1990s and early 2000s. Now, that context has changed, and their system is not that well designed for this new one we found ourselves in.
+
+The world is changing, and in times of change, such a centralized-statist-socialist system as the Finnish will likely not adapt fast enough to keep the quality. In fact, Finnish quality would have never existed if it wasn’t for foreign ideas and research that they took from more decentralized freedom based nations. They are aware of it.
+
+Lots of the successful teaching principles and techniques that the good teachers of Finland use have origins, among others, in the United States’ research, the land of freedom, allegedly. But indeed one of the most free countries on Earth as of today.
+
+Finland’s socialism would have never discovered this techniques, but the Finnish government was really intelligent to chose to study them scientifically and implement them. This is what reality really looks like, principles opposed to each other but that can cooperate with each other. Reality is not the dichotomies of libertarian vs socialist, black vs white that nowadays people buy.
+
+We have a saying in Spain that showcases this very well: Ni los buenos son tan buenos, ni los malos son tan malos. Translated: The good ones are not always that good, and the bad ones are not always that bad either.
+
+There is a phrase on the book that highlights all this very well:
+
+“System wide actions and rules should not undermine complex natural interaction between its parts.”
+
+This basically means, okay you should be socialist, but not too much. Acknowledging the natural too-much-variables issue explained in the previous chapter.
+
+This is also reflects what I’ve explained all along but at a national or state level. Because the United States had the answers, but even in their freedom, they did not use them properly.
+
+And Finnish, even with less freedom, did use them properly.
+
+Just like the example given in chapter 2 explaining freedom and happiness. Just like, at an individual level, even if someone is really intelligent, like a doctor, using his freedom or knowledge about its very own health, can still fall into dug abuse. And someone not that intelligent, let’s say a teenager, which is still controlled by his parents, might opt to not use drugs and do exercise.
+
+Dragging the analogy to a international and state level and in the context of the educational system, the United States would be doctor that became drug addict and the healthy controlled teenager would be Finland.
+
+We can conclude this poetic statements:
+
+In free market oriented economies, the State can get corrupted and create monopolies or oligopolies, leading to perverse incentives for enslaving of the consumer. And in statist slavery oriented economies, it can bless with freedom to maintain good habits.
+
+But does it improve them? Does it do it fast enough?
+
+Do not think of the State as a devil, or a god. It can be both, depending on how it wakes up that morning.
+
+In the mobile phone industry something similar happened. The Finnish government had a good decision creating the Finnish Nokia but later it got purchased and outdated too, yet did something really right and was incredibly successful for a while. Socialism really seems not that good for sustainable innovation.
+
+This is a living proof so far of my reasoning probably being right. And if we want to be the best we can be, we must think, not fight over simplified, thus wrong, dichotomies.
+
+Now, not in such a general way, the Finnish educational system has other traits that make it pretty unique. Like the lack of standardized tests until someone reaches around 17 years old, the freedom of students to choose when to do a test during the school year, the focus on playing rather than teaching on early stages of child development…
+
+The lack of standardized test or even tests at all in some cases, eliminates incorrect incentives which leads the system overall to prioritizing the needs of the students. For example prioritizing playing when students are still children.
+
+With incorrect incentives I refer to those who can lead to the contrary results of the ones who were meant to incentive. Imagine a system where if students well perform the teacher gets paid more. This is with the hope that teachers will teach better to get more money. Yet then that incentive would incentivize dishonesty too from the teacher by just saying: Yeah my guys, you all have the maximum grade! You are so smart! Yet they aren’t. More details on tests and exams later. Incentives design is a complex task.
+
+As you can see, in some aspects they give lots of freedom and decentralization of decision making. As we have seen in previous chapters, decentralization is a good thing given intelligent individuals. And the educational system of Finland is a great proof of this. Intelligent teachers given freedom through decentralization, raising high-performing and satisfied children for decades.
+
+By being honest with human nature they thrived the most. The ones who somehow betrayed it were not as thriving. Highly performing countries like Asian ones were not as satisfied, and satisfied students countries were not as high performing.
+
+When I talk about this I’m talking based on data of the OCED group. Which is not perfect and doesn’t fully measure students’ intelligence or competence. But it can be useful to draw conclusions. If you are interested in the details about this please read the book mentioned at the beginning.
+
+Furthermore, the satisfaction measure does not really mean happiness I think. First because I doubt most of people of today’s world know what happiness is, because they are not Cheerful. Yet they are not that far away from the stuff that leads to happiness so it kinda can work as a reference for now. The thing is that nowadays data, for now, seems kinda constant and proving the Finnish system right, and by extension, Cheerfulism’s human principles.
+
+It is true that now Finnish people are facing issues with student’s motivation and overall fulfillment and satisfaction, but it all seems to arise from global trends, like the over-usage of social media, and, the quickly outdated system and “stuff” taught in their schools.
+
+All stemming from the global trend of revolutionary technologies invented which are requiring us to re-organize our economies to massive shifts.
+
+So this doesn’t really seem to be linked to the decentralization and freedom of their system. But rather from the freedom and innovation of the biggest system, the whole human race and knowledge developing new tech that allows new modern and more comfortable ways of living.
+
+The Finnish author of the book seems to have noticed their socialism or statism is hinging on progress, as it points the blame of the decline of their system, between other stuff, to the excessive bureaucracy. And they are likely right to be honest, that is what my gut tells me with the information I have so far. That is the fixed believe, the fixed variable I define as part of the issue. The lots of static centralized fixed variables slowing dow adaptation. All them should be researched further, like an engineer.
+
+7.4.1.1.- Another proof for the Finnish being in the good direction: My own education.
+
+I’m considered, “objectively” as per cultural beliefs, a very successful human. I’m earning more than 99% of my country just at 22 years old coming from a lower-middle class family, I’m happy, I have a stable loving family, I have friends all over the world etc etc And curiously enough, my parents accidentally raised me in a really Finnish way too.
+
+They gave me complete freedom, yet with clear limits. As I proved to be intelligent enough to handle them, they let them even freer. Slowly but surely creating a compounding vicious cycle of trust.
+
+One limit or requirement was: you have to study and pass the course, as long as you do that, we do not care. I was the classic stereotype of that guy who studies literally the day before the test yet after the exam he lands at the top or around the top of the class. So my parents always gave me as much freedom as I desired. And because I only had to study the day before, I had lots of free time until I became 17.
+
+I even knew the credit card passwords since I was around 8 years old, yet I knew that if I spent without permission I was going to make my parents angry. And it worked, I never spent anything without permission. I was intelligent enough and cared about my parents feelings enough so as to not misbehave. They were slowly giving me more and more freedom. Further down the line, my family even trusted me to invest and manage our family’s money.
+
+I was intelligent enough to care about my future too. My parents explained me: hey if you do well in school, later in life, you will be able to do what you like and work as you like. So I tried to do well at school, and I was good at it, so not only my parents gave me full freedom but also due to my capabilities that freedom was also maximized.
+
+Yet, they also forced me to work at the family business for some summers, a bar. So I knew better what working with your body long hours feels like.
+
+I was raised with a dance between duty and freedom.
+
+A happy intelligent individual who was under some fixed variables set by an authority. Slowly being granted freedom as he proved himself worthy. This ended up with himself thriving more than anyone around him, even the authority itself. Just like a Finnish teacher or student in their educational system compared to other nations.
+
+Freedom that does not lead to chaos thanks to being based on proven trust, and on love, seems to work. Really similar to the way the Finnish society trusts their teachers’ freedom.
+
+7.4.2.- The basic curriculum of the Finnish system.
+
+As mentioned at the beginning, another of the Finnish system’s principles was that anybody is capable of learning the basic curriculum.
+
+The list of intuitive subjects I think we all should be taught overlaps quite nicely with the Finnish basic curriculum too, which is:
+
+- Think and learn how to learn. (Very related to the engineer’s way of thinking)
+
+- Interaction, self expression and cultural understanding. (Empathy, emotional intelligence, cultural awareness etc)
+
+- Life skills and taking care of oneself. (Independent humans)
+
+- Multi-literacy and technological literacy. (Allows for better and modern adaptation)
+
+- Participation and influencing. (This means giving the students capability of feedback on how to improve their surroundings, on how to influence the rules applied to them etc)
+
+As we can see, the first competence is at the core of human biological needs and the others are very useful skills on our modern world. This further solidifies why the Finish system was so successful during years. Not only it was very aligned to human nature but to modern needs.
+
+Yet AI and blockchain will massively shift how the world works, what the world really needs, thus the Finnish system is starting to see the cracks on its inability to change quickly.
+
+Along the late 20th century the Finnish government took good decisions orienting the system towards the next decades and the new modern technological era, yet those decades are over and a new era is approaching.
+
+Thus that is what the last section is about, how to face it, the most perfect educational system I could craft, based on human nature and data, though as said, distrust the data, it just adds an optimistic feeling and a starting guidance point, not solid truth, for now. Still, it makes a lot of sense.
+
+7.5.- Mixing all together: EBTAA. My specific proposal for the perfect educational system.
+
+Let’s build up the perfect educational system based on all said.
+
+As with an individual’s path to happiness, transitioning to the goal of the perfect educational system is also an individual task for each society. As you will see, maybe Finland now is the closest one to what I will describe, maybe they should try it out first.
+
+In general, societies seem to transform in a stepwise periods of education and imagination, create-explore, fix-solve in a wise manner. Just like the current Finnish system needs, yet, in a deeper way, just like the philosophy of Cheerfulism teaches you to do so. And we all can have this perfect system or something really similar because we are all drive by the same biology.
+
+Now let’s remember the definition of the goal, perfect education:
+
+A system, methods, mechanisms that teach people to improve and maintain good patterns and to reduce or remove bad patterns.
+
+Then, logically deducted, that just means being very good at solving problems, at adapting, using the fixed variable resolution technique. So we must optimize for that, we must optimize for intelligence.
+
+So, to handle these variable patterns in the successful way we need to use our information processing capabilities wisely, which that is: the fixed variable resolution technique. And the protocol to achieve that is thinking like an engineer.
+
+By aligning the system as best as we can today to the nature of human problem solving, this system should prepare our children to have a full, satisfying and thriving life.
+
+The system mentioned is pretty much like the Finnish, but with some changes to make it more efficient without losing its principles. Which again, they are very aligned with human nature.
+
+7.5.1.- Explanation of the EBTAA educational-system: Education Based on Trust, Accountability and Adaptation.
+
+The main structure is composed of the following learning stages:
+
+1.- Under-age learning stage. (A.k.a. : Base stage)
+2.- Over-age learning stage. (A.k.a. : Building stage)
+
+Briefly explained, under-age learning is an epoch in a human’s education when he learns the basic curriculum which will equip him with the tools and knowledge to help him thrive independently in life and cooperate with his neighbors. Everyone is expected to accomplish this. In the following sections I will give a detailed explanation on the skills and knowledge that must be learn, yet for now, as a reference, you can imagine something similar to the subjects mentioned in a previous section: 6.2.1.- First intuitive liberation steps.
+
+The over-age learning would be, optionally, learning anything deeper after the basic curriculum. To draw an analogy with current systems, this would be getting a degree on physics or whatever other subject. Specializations on knowledge and skills that are not essential, this means that are not an indispensable need, for utopian modern societies.
+
+7.5.1.1.- Over-age learning: The building stage.
+
+This is the simpler stage to explain.
+
+Because it will be carried out by students who have completed the basic curriculum. Thus they will already be able to effectively pursue their goals, understand them and coordinate and cooperate with their peers to achieve them.
+
+It will start around 19 years old, more on why later.
+
+In this stage the student will chose to master any kind of knowledge and skills, or just start working. Or maybe both at the same time. Whatever, the student will be completely free to forge his life. So far it sounds the same as the current systems.
+
+Being free does not mean he will be alone by the way, in his freedom, he can seek help from peers or other people who already mastered whatever he wants to master. Just like now students go to universities to study and seek guidance on the teachers.
+
+Now here it comes an important catch.
+
+There are 2 reasons on why to learn more specific knowledge. One is out of pure curiosity and the other one is so to get a job from that. Or both at the same time.
+
+If curiosity is the one the student is driven by, no problem, there is nothing to really solve in the current systems to improve your learning. You can just go there and hunt that knowledge through the internet, AI, talking to experts etc. You do not really need a certification from any university to proof anyone anything, you just want to learn stuff. So this already works in our current systems, no need of changing anything due to this reason.
+
+The wanting to get a job from that knowledge and skills is the tricky one. That is where our educational systems are clearly failing nowadays. Because it is not producing actually formed professionals which would be actually employable. They are verifying skills and knowledge which is not enough or not even needed.
+
+Degrees and diplomas are, ideally, a proof to society and employers of your knowledge and skills by a trusted third party. This offloads verification work from employers. For many different reasons, they have become useless, and mainly it is because the things they teach are useless. They can be useless for 3 reasons:
+
+- Because no-one cares about those skills and knowledge.
+- Because the demand for them is actually filled or close to full capacity.
+- Because the skills and knowledge are useful but not useful enough.
+
+We then can see that universities are struggling to teach proper useful knowledge and skills.
+
+Fortunately there are different measures we can take to make this verification process more effective.
+
+For example via the complete decentralization of universities. What I truly mean is the complete decentralization of knowledge and skill verification issuers. No centralized state-permissions to get licenses to teach, or to get licenses to become a university. This is only slowing down and making more expensive the amount of resources we consume. And also slowing down the rate at which you are allowed to innovate and change the curriculum to teach useful stuff.
+
+Again centralization is giving too much variables to politicians who regulate the adaptive capabilities of educational entities. Education, as mentioned, is another resource, the resource of teaching to organize future resources, and as learned on the previous chapter, the same consequences of handling too much variables to centralized entities also applies here.
+
+So, to improve the system, we should make it so:
+
+Any group of professional or any group of X citizens should be able to handle this permissions. With the capability of punishing the teacher if proven a scammer. X should be a number small enough so the scammer would have to co-live with the one who voted him.
+
+Here is a clear explanation on the current limitations of our centralized educational systems.
+
+Imagine that a new specialization on a specific organ surgery is needed due to a flue or whatever illness that appeared. Now, to create a specialist for that new specification, in a big nation, a State would first need to realize the need. Then slowly create and pick teachers, give them licenses, open a university specialization path for it etc etc At the end of the day, some stuff would have to pass through a centralized entity with limited variable handling capabilities.
+
+Imagine you do not need just to open 1 more specialization formation, but for whatever life chaotic or natural reason you need 500. Also imagine you do not need 7 other old formations and you now need to do bureaucracy to delete them and make sure no one wastes time in this old fashioned stuff. Well, we have been seeing it all along, too much variables for a small amount of people in power in big nations with dynamic complex needs and desires.
+
+But, do not be dogmatic, the solution is not just to give people the freedom mentioned, because we still have the risks of scammers.
+
+To be honest we always had this risk, corrupted politicians and teachers who keep useless universities degrees running just to assure the vote of the teachers teaching that already happens. So the risk of scammers never disappeared. The improvement now is that the detection and deletion (I don’t mean killing them) of the scammers can be quicker because it is not centralized into a body who can easily be over-saturated with variables.
+
+A scammer, for example, would be a teacher that says: Hey study this with me and literally in 1 year after finishing you get a X bitcoin/year job. And then if you clearly don’t, then it is a scammer. A teacher should clearly present what you will get and what you will potentially get if studying with him. Then propose that and get enough votes and approvals from their community or specialist on the matter.
+
+Well so how do we prevent scammers in this decentralized scenario. First, you will need the favoring vote of neighbors, only your neighbors can vote for you to have the permission. And if you are a scammer, you will walk in your hood with the shame of it after it gets detected. Maybe they even throw tomatoes at your house. No one makes crimes in front of the police, no one would scam multiple people they see everyday. And if they do, well, you will quickly pay the price.
+
+Pretty surely some legal limits will have to be put by the State to the social retaliation to scammers. Like, as an arbitrary example of law:
+
+Hey, no killing or beating up scammers, but tomato throwing to his house every Sunday is totally acceptable, or puncturing the wheels of his vehicle once a month, or whatever, just anything as long as it is not physical damage.
+
+Ideally the state must not take away the capability of the hood from punishing the scammer with an annoying punishment.
+
+In case the scammer was approved by professionals, these professionals should be marked as scammers too. Losing credibility and probably job opportunities.
+
+Of course, this needs more details. For example: What if the scammer just moves away from the neighborhood after scamming? Should they have mobility restrictions?
+
