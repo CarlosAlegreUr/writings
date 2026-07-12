@@ -9,6 +9,8 @@
 
 - 🟡 **[La Constitución](./texts/la-constitucion)** — a political system applicable to any nation. Spanish and English versions.
 
+- 🟠 **[6H](./texts/6h)** — an analysis on how we could make a functional and prosperous society by working around as much 6h/day, 30h/week, 1620h/year.
+
 - 🟢 **[From Bit to Bitcoin](./texts/from-bit-to-bitcoin)** — bitcoin from first principles, building up bit by bit. Spanish and English versions.
 
 - 🟠 **[Pensando en España](./texts/pensando-en-espana)** — thoughts on Spain: where it stands, what shaped it, where it could go.
