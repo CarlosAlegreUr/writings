@@ -231,7 +231,7 @@ The district update period of 21 years may be modified by Level N5 consensus.
 
 ---
 
-### Article 16: Electoral Financing
+### Article 16: Electoral Financing and Advertising
 
 Public financing:
 If public financing for electoral campaigns exists, the amount must be identical for all candidates without exception. All public electoral financing is transparent and recorded in a publicly auditable system. Any citizen may verify the origin and destination of public electoral funds.

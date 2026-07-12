@@ -270,7 +270,7 @@ The district update period of 21 years may be modified by Level N5 consensus.
 
 ---
 
-### Article 16: Electoral Financing {.unnumbered}
+### Article 16: Electoral Financing and Advertising {.unnumbered}
 
 Public financing:
 If public financing for electoral campaigns exists, the amount must be identical for all candidates without exception. All public electoral financing is transparent and recorded in a publicly auditable system. Any citizen may verify the origin and destination of public electoral funds.
@@ -1330,7 +1330,7 @@ Thinking as an attacker: demographic engineering requires 21-year planning horiz
 
 The 21-year cycle is protected at N5: modifying it requires broad consensus because shortening or lengthening the cycle is a significant lever of electoral manipulation. Reduction during the Bootstrap Process is not permitted because the district cycle is a structural variable that must be stable from the Constitution's birth.
 
-### Article 16: Electoral Financing
+### Article 16: Electoral Financing and Advertising
 
 Private donations are limited to 10% of the national P25 per person, a single donation per electoral process, and only natural persons (legal entities are prohibited from donating). Why? Because unlimited financing turns elections into auctions to the highest bidder with the largest marketing budget, reducing the richness of the democratic feedback cycle. The Iron Law of Oligarchy (Michels) predicts that the concentration of resources produces concentration of power. Limiting financing is limiting oligarchy.
 

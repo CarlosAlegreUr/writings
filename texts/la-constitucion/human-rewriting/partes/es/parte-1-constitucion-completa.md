@@ -229,7 +229,7 @@ El periodo de actualización distrital de 21 años puede modificarse mediante co
 
 ---
 
-### Artículo 16: Financiación Electoral
+### Artículo 16: Financiación y Publicidad Electoral
 
 Financiación pública:
 Si existe financiación pública para campañas electorales, la cuantía debe ser idéntica para todos los candidatos sin excepción. Toda financiación electoral pública es transparente y se registra en un sistema público auditable. Cualquier ciudadano puede verificar el origen y destino de los fondos electorales públicos.

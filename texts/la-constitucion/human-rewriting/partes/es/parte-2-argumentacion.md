@@ -11,67 +11,85 @@
 
 ## El problema que resuelve esta Constitución
 
-La mayoría de las "democracias" actuales son oligarquías electivas disfrazadas de democracias. La apariencia existe: elecciones periódicas, parlamento, separación de funciones que pretende ser de poderes. El fondo no: los partidos controlan fuertemente o completamente la selección de candidatos, la financiación y los medios. En el peor de los casos, estos son controlados por grandes capitales extranjeros, privados o estatales, foráneos a la nación. El resultado es una ilusión de elección gestionada por élites que lleva a paises a realizar decisiones que claramente van en contra de su propio interés como nación, iniciar guerras por ejemplo. Esto pasa porque no siempre se alinean los deseos de la élite con los de la población.
+La mayoría de las "democracias" actuales son oligarquías electivas disfrazadas de democracias. La apariencia existe: elecciones periódicas, parlamento, separación de funciones que pretende ser de poderes. El fondo no: los partidos controlan fuertemente o completamente la selección de candidatos, la financiación y los medios. En el peor de los casos, estos son controlados por grandes capitales extranjeros, privados o estatales, foráneos a la nación. El resultado es una ilusión de elección gestionada por élites que lleva a paises a realizar decisiones que claramente van en contra del propio interés de su pueblo, iniciar guerras innecesarias por ejemplo. Esto pasa porque no siempre se alinean los deseos de la élite con los de la población.
 
-¿Acaso esto es bueno? ¿Acaso es malo? Lo analizaré más adelante. Lo que si que es es evitable, adoptando sistemas realmente democráticos que den al pueblo una capacidad real de decisión y acción.
+¿Acaso esto es bueno? ¿Acaso es malo? Lo analizaré más adelante. Lo que si que es es evitable, adoptando sistemas realmente democráticos que den al pueblo una capacidad mucho más real de decisión y acción.
 
-Las constituciones actuales son muchas y diversas: cada país tiene la suya, con sus propios principios, historia y compromisos. Intentar reformarlas una a una sería un esfuerzo titánico e interminable. Pero las dinámicas de poder no entienden de culturas específicas. La tendencia a concentrar poder, a corromper instituciones, a capturar mecanismos de control es una constante humana, no cultural. Aquí yo pensé, si el problema es universal, la solución también debería serlo. Esta Constitución busca ser esa solución: un marco de referencia agnóstico a cualquier contexto histórico o cultural, basado únicamente en cómo funciona el poder entre seres humanos. Para que, si un pueblo lo desee, empiece a transicionar hacia unas dinámicas de poder realmente democráticas.
+Las constituciones actuales son muchas y diversas: cada país tiene la suya, con sus propios principios, historia y compromisos. Intentar reformarlas una a una sería un esfuerzo titánico e interminable. Pero las dinámicas de poder no entienden de culturas específicas. La tendencia a concentrar poder, a corromper instituciones, a capturar mecanismos de control es una constante humana, no cultural. Aquí es cuando se me ocurrió que, si el problema es universal, la solución también debería serlo. Esta Constitución busca ser esa solución: un marco de referencia agnóstico a cualquier contexto histórico o cultural, basado únicamente en cómo funciona el poder entre seres humanos. Para que, si un pueblo lo desee, empiece a transicionar hacia unas dinámicas de poder realmente democráticas.
 
 ## Diseño con mentalidad defensiva
 
-Esta Constitución no asume buena voluntad. Asume el peor caso: un actor con recursos ilimitados intentando capturar el sistema. Cada mecanismo está diseñado para que ese peor caso sea lo más caro, difícil y arriesgado posible. Es una auditoría de seguridad sobre el concepto de democracia.
+Esta Constitución no asume la buena voluntad. Asume el peor caso: un actor con recursos ilimitados intentando capturar el sistema. Cada mecanismo está diseñado para que ese peor caso sea lo más caro, difícil y arriesgado posible. Esta obra es una auditoría de seguridad sobre el concepto de democracia.
 
-El diseño ha sido creado utilizando la mentalidad de un hacker de sombrero blanco, es decir, preguntando "¿cómo podría romperse esto? ¿si se rompe, cómo minimizamos el daño y cómo lo reparamos lo mejor y más rápido posible?". Cada mecanismo se somete a las preguntas: ¿cuál es el vector de ataque? ¿Cuánto cuesta aprovecharlo? ¿Cómo se detecta el abuso o el ataque?
+El diseño ha sido creado utilizando la mentalidad de un hacker de sombrero blanco, es decir, preguntando "¿cómo podría romperse esto? ¿si se rompe, cómo minimizamos el daño y cómo lo reparamos lo mejor y más rápido posible?". Cada mecanismo se somete a las preguntas: ¿cuál es el vector de ataque? ¿Cuánto cuesta aprovecharlo? ¿Cómo se detecta el abuso ó el ataque?
 
-El ejemplo más claro de esto reside en el AOCD (Algoritmo de Optimización del Coste de Corrupción). Donde se utiliza una medida objetiva aproximada para elevar el coste de corromper el resultado en las elecciones distritales de los representantes. Como el percentil 25 de renta (P25) de la población con capacidad de acción en esa decisión.
+El ejemplo más claro de esto reside en el AOCD (Algoritmo de Optimización del Coste de Corrupción de Distritos). Donde se utiliza una medida objetiva aproximada para elevar el coste de corromper el resultado en las elecciones distritales de los representantes. Como el percentil 25 de renta (P25) de la población con capacidad de acción.
 
-// TODO: por aqui iba, continuar
-Un principio general derivado de esta mentialidad es abstraerse de la ética y de las apariencias. Asumir que si algo puede ir mal, en algún momento, irá mal. El diseño debe maximizar ese precio. No se moraliza sobre si la gente se corrompe o no; se asume que puede ser comprada y se diseña para que el coste de comprarla sea lo más alto posible dentro de los límites naturales y sociales del ser humano.
-
-## Trilema democrático
-
-Análogo al trilema de blockchain (descentralización, seguridad, escalabilidad), la democracia enfrenta: Democracia ↔ Eficiencia ↔ Estabilidad. No se pueden maximizar las tres. Esta Constitución elige:
-
-1. Maximizar democracia (el control popular es la fuente última de legitimidad).
-2. Después eficiencia (los representantes gestionan el día a día).
-3. Después estabilidad (se puede sacrificar rapidez por robustez).
+Un principio general derivado de esta mentialidad es abstraerse de la ética. Asumir que si algo puede ir mal, en algún momento, irá mal. El diseño debe maximizar ese precio a pagar por intentar romper el sistema fuera de las normas marcadas. No se moraliza sobre si la gente se corrompe o no; se asume que puede ser comprada y se diseña para que el coste de comprarla sea lo más alto posible dentro de los límites naturales y sociales del ser humano.
 
 ## Influencias teóricas conscientes
 
-- Antonio García Trevijano: distritos uninominales, doble vuelta, revocabilidad, autodestrucción mutua, no financiación de partidos. Esta Constitución adopta en gran medida su marco y añade detalles específicos para completarlo.
+Cualquier coincidencia entre los principios de esta Constitución y los de otros pensadores no mencionados aquí es exactamente eso: coincidencia. Mis disculpas si no los he nombrado, simplemente no soy consciente de ellos.
+
+- Antonio García Trevijano: distritos uninominales, doble vuelta, revocabilidad, autodestrucción mutua, diversos límites a la financiación de partidos. Esta Constitución adopta en gran medida su marco y añade detalles específicos para completarlo.
 
 - Robert Michels: Ley de Hierro de las Oligarquías. Toda organización tiende a concentrar el poder. Se diseña contra esto.
 
 - Diseño de sistemas descentralizados: el autor es ingeniero de software y hacker de blockchain. La mentalidad de diseño de esta Constitución proviene en gran medida de la ingeniería de sistemas distribuidos y resistentes a ataques: tolerancia a fallos bizantinos (el sistema funciona aunque algunos nodos sean maliciosos), eliminación de puntos únicos de fallo (ningún órgano concentra todo el poder), mecanismos de consenso con umbrales variables (los niveles N1-N6), auditoría pública y verificabilidad (transparencia presupuestaria, voto verificable), e inmutabilidad probabilística de reglas fundamentales. Además, ciertas ideas de sistemas operativos como un proceso de arranque (bootstrap) también provienen de esta influencia.
 
-- Alegrismo (Cheerfulism): filosofía propia del autor. Su tesis central es que la felicidad —no la libertad— es el motor más profundo del comportamiento humano, y que el abuso tiene seis fuentes naturales (ignorancia, egoísmo, pereza y sus contrapartes de capacidad). El marco del coste de corrupción, el argumento de la complejidad siempre creciente de la sabiduría humana, y la conclusión de que la democracia es el destino natural de las dinámicas de poder provienen de esta obra.
-
-Cualquier coincidencia entre los principios de esta Constitución y los de otros pensadores, filósofos o teóricos políticos no mencionados aquí es exactamente eso: coincidencia. Disculpa si no los he nombrado, simplemente no soy consciente de ellos.
-
-El diseño parte de primeros principios (cómo funciona el poder, cómo se ataca un sistema, cuánto cuesta corromperlo) y no de la lectura extensiva de marcos teóricos preexistentes.
-
-Que las conclusiones converjan con las de otros pensadores no invalida ni valida el diseño; simplemente sugiere que los problemas fundamentales del poder tienden a producir soluciones similares cuando se analizan con rigor.
+- Alegrismo (Cheerfulism): obra filosífica y de análisis de la existencia humana propia del autor. Su tesis central es que la felicidad es el motor y objetivo más profundo del comportamiento humano una vez la supervivencia está asegurada. Las siguientes ideas de la complejidad siempre creciente de la sabiduría humana, y la conclusión de que la democracia es el destino natural de las dinámicas de poder en civilizaciones prósperas provienen de esta obra.
 
 ---
 ---
 
 # QUÉ ES DEMOCRACIA Y POR QUÉ UNA DEMOCRACIA
 
-Antes de entrar a explicar cada decisión de diseño de esta Constitución, conviene que lector y escritor compartamos un mismo punto de partida: qué entendemos por democracia, por qué apostar por ella y cuáles son sus límites reales.
+Antes de entrar a explicar cada decisión de diseño de esta Constitución, conviene que el lector y el escritor compartamos un mismo punto de partida: qué entendemos por democracia, por qué apostar por ella y cuáles son sus límites reales.
 
 ## Definición
 
 La palabra democracia viene del griego: demos (pueblo) y kratos (poder). Poder del pueblo. Pero esta etimología es insuficiente como definición operativa. "El poder reside en el pueblo" es una declaración bonita que no dice nada sobre cómo funciona exactamente el sistema.
 
-Una definición operativa de democracia requiere tres elementos:
+Es más, por motivos tan fundamentales como la física que explicaré más adelante, la democracia perfecta, aquella en la que todo el poder reside en el pueblo, no existe. En realidad, lo que existe es la cualidad de lo democrático, es decir, cuan democrático un sistema es, es decir, una medida o estimación referente a cuanto poder ostenta el pueblo.
 
-**1. Competencia abierta por el poder.** Cualquier grupo de ciudadanos, por el mero hecho de serlo, puede organizarse para aspirar a gestionar el Estado. No se necesita aprobación de los grupos existentes, ni seguir estructuras internas predeterminadas. El único requisito es ser ciudadanos. Esto es análogo a la competencia perfecta en economía: cualquiera que sepa fabricar un producto mejor puede acceder a los medios para crearlo. En democracia, cualquiera que tenga una visión para su sociedad puede crear un grupo para reflejarla y mostrarla a sus vecinos.
+Contra menos poder ostenta el pueblo, o de la misma forma, contra más poder ostenta una minoría, menos democrático el sistema es, tras traspasar ciero umbra, se convierte en oligarquía, y tras transpasar otro umbral, en dictadura.
 
-**2. Separación real de poderes.** El Estado tiene tres funciones naturales: legislar (crear las reglas), ejecutar (aplicarlas) y juzgar (resolver conflictos cuando las reglas se rompen). En democracia, estas tres funciones son ejercidas por órganos independientes entre sí, con independencia de nombramiento y de financiación. Sin esta separación, la democracia colapsa en oligarquía: un grupo que legisla, ejecuta y juzga simultáneamente no tiene límite a lo que puede hacer. Quizá colapse en una oligarquía plutocrática, o tecnocrática, o ambas a la vez, independientemente del sistema, en oligarquía, o incluso dictadura, colapsa.
+La definición clara y precisa de estos umbrales es muy debatida. En mi caso, he llegado a concluir que estos son los tres umbrales los cuales deben cumplirse para empezar a considerar y llamar a un sistema una democracia:
 
-**3. Representación real con rendición de cuentas.** En sociedades grandes, la democracia directa es inviable para la gestión diaria. Se necesitan representantes. Pero la representación solo es democrática si cumple dos condiciones: el representante es elegido directamente por una comunidad lo suficientemente pequeña como para conocerle (distritos uninominales), y esa comunidad puede despedirle en cualquier momento si no cumple (revocabilidad). Sin estas dos condiciones, el representante sirve al partido que le puso en la lista, no al ciudadano que le votó. Pues el poder sería transferido y no delegado, extrayendo así el kratos (poder) del demos (pueblo).
+// TODO: habia un error en mi pensamiento, la estrucutra interna predeterminada si importa, la de financiación. Seguramente esto esté mal explicado en Alegrismo. Y quizá en alguna parte de aquí más abajo. Also, lo de pacíficamente... No es necesario pero si útil. quiza añadirlo a alegrismo tambien y ver que pongo aqui al respecto. quiza una: nota curiosa.
 
-En términos más técnicos: la democracia es un protocolo de coordinación de dinámicas de poder cuyo resultado es la partición más óptima posible de los poderes dentro del Estado. Es decir, el protocolo que minimiza la centralización de poder en cualquier actor individual o grupos y maximiza la dinamicidad del funcionamiento de la estructura del poder.
+**1. Competencia abierta por el poder.** Cualquier ciudadano ó grupo de ciudadanos, por el mero hecho de serlo, puede organizarse pacíficamente para aspirar a gestionar el Estado. Sin necesitar la aprobación de los grupos existentes. Sin embargo, si debe seguir las normas de financiación y publicidad democráticas, ya que sin ellas, la competencia en la práctica solo estaría abierta a los grupos con mayor riqueza, eventualmente creando una oligarquía. Estas normas se encuentran en el Artículo 16. Esto aspira a crear un entorno análogo a la idea de la prosperidad a base de competencia perfecta en economía: que cualquiera que sepa fabricar un producto mejor pueda acceder a los medios para crearlo. En democracia, cualquiera que tenga una visión para su sociedad puede crear un grupo para reflejarla y mostrarla a sus vecinos en la mayor igualdad de condiciones posible.
+
+**2. Separación real de poderes.** El Estado tiene tres funciones naturales: legislar (crear las reglas), ejecutar (aplicarlas) y juzgar (resolver conflictos cuando las reglas se incumplen). En democracia, estas tres funciones son ejercidas por órganos independientes entre sí, con independencia de nombramiento y de financiación. Sin esta separación, la democracia, otra vez, colapsa en oligarquía: un grupo que legisla, ejecuta y juzga simultáneamente no tiene casi límites a lo que puede hacer. Quizá colapse en una oligarquía plutocrática, o tecnocrática, o ambas a la vez; independientemente del sistema en el que colapse, oligarquía o incluso dictadura; sin este requisito, la democracia acaba colapsando.
+
+**3. Representación real con rendición de cuentas.** En sociedades grandes, la democracia directa es inviable para la gestión diaria. Se necesitan representantes. Pero la representación solo es democrática si cumple dos condiciones: que el representante sea elegido directamente por una comunidad lo suficientemente pequeña como para conocerle (distritos uninominales), y que esa comunidad pueda despedirle en cualquier momento si no cumple (revocabilidad). Sin estas dos condiciones, el representante acaba sirviendo al partido que le puso en la lista ó al mejor postor, no al ciudadano que le votó. Pues el poder sería completamente transferido y no delegado, extrayendo así el kratos (poder) del demos (pueblo). No ostentas poder sobre aquello que no puedes afectar. Un mero humano desnudo no tiene poder sobre la nube encima de tu cabeza, porque no la puede alcanzar. 
+
+Cuando estos tres puntos se cumplen, entonces, considero al sistema democrático.
+
+## El trilema democrático
+
+Durante la lectura de esta Constitución seguramente hayas notado que algunas reglas no son todo lo democráticas que podrían ser. Como ya he mencionado, la democracia es un punto que determina un umbral en un espectro, y una vez dadas las tres condiciones de arriba, el resto de decisiones, podrán ser más o menos democrácticas, pero democráticas serán.
+
+Esto proviene de los límites físicos de nuestra existencia. Análogo al trilema de blockchain (descentralización, seguridad, escalabilidad), la democracia enfrenta: Descentralización ↔ Estabilidad ↔ Eficiencia. No se pueden maximizar las tres.
+
+La descentralización hace referencia a cuanto el pueblo puede influir y ejercer su voluntad. Es decir, en cuantas cuestiones puede influir y cuan relevantes estas son.
+
+La estabilidad hace referencia a cuanto el sistema es capaz de procesar cambios internos sin romperse, ya sea porque el sistema desaparezca ó sea disfuncional. Con desaparecer me refiero a degradarse a una oligarquía u otro sistema más centralizado. Y en cuanto a disfuncional me refiero a que, si la ley cambiara a cada hora, aún por muy democrático que haya sido el medio para lograr tal hecho, el sistema se rompería pues un ser humano no puede estar adaptando su comportamiento de manera tan fundamental a cada hora, se volvería loco.
+
+Y la eficiencia hace referencia a cuanto el sistema puede tomar decisiones rápidas y efectivas. La eficiencia del cambio es un arma de doble filo, es preferible que los cambios que sí sean democráticos ó deseados ocurran lo más rápido posible, sin embargo, estos mismos mecanismos también, fácilmente, pueden abrir las puertas a que aquellos cambios que no sean democráticos ó deseados ocurran.
+
+Si maximizas eficiencia, te cargas la estabilidad del sistema pues primero habrían muchos cambios, y segundo, un atacante podría aprovechar la confusión de la velicidad para poco a poco integrar cambios maliciosos en el sistema.
+
+Si maximizas estabilidad el sistema colapsaría a medio y largo plazo pues no sería capaz de adaptarse en el día a día a los cambios que siempre acaban ocurriendo en la sociedad, ya sean morales ó tecnológicos. Una alta estabilidad requiere forzosamente de una baja eficiencia.
+
+Si maximizas descentralización, el caos sería tal que cualquier decisión no unánime no se llevaría a cabo, cargándote la estabilidad.
+
+Las razones fundamentales detrás de estos límites son las siguientes.
+
+// TODO: por aquí lo deje, continuar mañana
+La primera razón, aumentar el grado de democracia también aumenta la carga cognitiva del miembro del grupo, pues este ya no solo tendrá que preocuparse de su vida individual sino también de cuestiones extras relacionadas a las cuestiones de organizar el grupo, la burocracia. Y, en la práctica, tenemos un limitado "ancho de banda" cerebral, por lo que, tenemos un límite sobre la cantidad de decisiones en las que podemos físicamente participar en el día a día.
+
+La segunda es que en situaciones dinámicas y complejas, como la interacción con otros grupos, que un grupo tenga la capacidad de tomar acción rápidamente es crucial. Para ello es requerido el mando por parte de un solo individuo, o del menor número de individuos posible. Ya que las discrepancias internas, ó simplemente el tiempo que se tarda en comunicar información para tomar la decisión, incluso si se está de acuerdo en cual debería ser esa decisión, es fricción y retardo de acción que el otro gurpo puede, teórica y prácticamente aprovechar.
 
 ## Argumentos a favor y en contra de la democracia
 
@@ -357,7 +375,7 @@ Pensando como atacante: la ingeniería demográfica requiere horizontes de plani
 
 El ciclo de 21 años está protegido a N5: modificarlo requiere un consenso amplio porque acortar o alargar el ciclo es una palanca de manipulación electoral significativa. No se permite reducción durante el Proceso de Arranque porque el ciclo distrital es una variable estructural que debe ser estable desde el nacimiento de la Constitución.
 
-## Artículo 16: Financiación Electoral
+## Artículo 16: Financiación y Publicidad Electoral
 
 Las donaciones privadas están limitadas al 10% del P25 nacional por persona, una sola donación por proceso electoral, y solo personas físicas (las jurídicas tienen prohibido donar). ¿Por qué? Porque la financiación ilimitada convierte las elecciones en subastas al mejor postor con mayor presupuesto de marketing, reduciendo la riqueza del ciclo de retroalimentación democrática. La Ley de Hierro de las Oligarquías (Michels) predice que la concentración de recursos produce concentración de poder. Limitar la financiación es limitar la oligarquía.
 

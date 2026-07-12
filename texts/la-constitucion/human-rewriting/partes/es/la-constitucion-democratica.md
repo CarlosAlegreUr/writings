@@ -274,7 +274,7 @@ El periodo de actualización distrital de 21 años puede modificarse mediante co
 
 ---
 
-### Artículo 16: Financiación Electoral {.unnumbered}
+### Artículo 16: Financiación y Publicidad Electoral {.unnumbered}
 
 Financiación pública:
 Si existe financiación pública para campañas electorales, la cuantía debe ser idéntica para todos los candidatos sin excepción. Toda financiación electoral pública es transparente y se registra en un sistema público auditable. Cualquier ciudadano puede verificar el origen y destino de los fondos electorales públicos.
@@ -1410,7 +1410,7 @@ Pensando como atacante: la ingeniería demográfica requiere horizontes de plani
 
 El ciclo de 21 años está protegido a N5: modificarlo requiere un consenso amplio porque acortar o alargar el ciclo es una palanca de manipulación electoral significativa. No se permite reducción durante el Proceso de Arranque porque el ciclo distrital es una variable estructural que debe ser estable desde el nacimiento de la Constitución.
 
-### Artículo 16: Financiación Electoral {.unnumbered}
+### Artículo 16: Financiación y Publicidad Electoral {.unnumbered}
 
 Las donaciones privadas están limitadas al 10% del P25 nacional por persona, una sola donación por proceso electoral, y solo personas físicas (las jurídicas tienen prohibido donar). ¿Por qué? Porque la financiación ilimitada convierte las elecciones en subastas al mejor postor con mayor presupuesto de marketing, reduciendo la riqueza del ciclo de retroalimentación democrática. La Ley de Hierro de las Oligarquías (Michels) predice que la concentración de recursos produce concentración de poder. Limitar la financiación es limitar la oligarquía.
 
