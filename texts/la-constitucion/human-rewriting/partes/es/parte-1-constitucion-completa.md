@@ -32,7 +32,7 @@
 
 ### Artículo 1: Soberanía Popular y Jerarquía de Legitimidad
 
-La soberanía reside en el pueblo. El pueblo ejerce su soberanía mediante los mecanismos directos e indirectos establecidos en esta Constitución.
+El pueblo nunca pierde su soberanía y la ejerce mediante los mecanismos establecidos en esta Constitución.
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
@@ -229,7 +229,7 @@ El periodo de actualización distrital de 21 años puede modificarse mediante co
 
 ---
 
-### Artículo 16: Financiación y Publicidad Electoral
+### Artículo 16: Financiación Electoral
 
 Financiación pública:
 Si existe financiación pública para campañas electorales, la cuantía debe ser idéntica para todos los candidatos sin excepción. Toda financiación electoral pública es transparente y se registra en un sistema público auditable. Cualquier ciudadano puede verificar el origen y destino de los fondos electorales públicos.
