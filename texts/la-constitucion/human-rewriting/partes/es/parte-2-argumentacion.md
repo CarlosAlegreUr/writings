@@ -227,6 +227,8 @@ Su debilidad principal —darle una pistola a un mono— no se resuelve con meno
 
 La democracia es, en última instancia, un destino: no porque sea inevitable en cada momento y lugar, sino porque la dirección natural de la complejidad humana en sociedades prósperas apunta hacia ella y la acaba requiriendo. Las sociedades que no lleguen a ella sufrirán más presión, más fricción y más violencia que las que sí lo hagan. Entre todos los protocolos de poder disponibles, este es el que menos mal funciona a largo plazo.
 
+// TODO: estudiar los motivos, desde aquí y Cheerfulism, y describirlo todo más claro entonces.
+
 ---
 ---
 ---
@@ -238,11 +240,9 @@ Ahora con esta definición, estos argumentos y estas limitaciones en mente, es h
 
 ## Artículo 1: Soberanía Popular y Jerarquía de Legitimidad
 
-//TODO: seguir aquí
-
 Cabe destacar en el primer artículo como el poder del pueblo, no es absoluto, pues debe tener límites por los motivos explicados anteriormente del trilema democrático. Un sistema que puede cambiar cuando sea a lo que sea es disfuncional. Sin embargo, aun sin ser absoluto, en cierta forma es sobreano, pues siempre debe tener caminos para anular directamente decisiones de cualquier otro poder. Esos caminos son los que se nombran en este artículo y se describen en los siguientes.
 
-Además de por las cuestiones nombradas anteriormente sobre la naturaleza humana, es necesario también declarar los límites entre los otros poderes, los poderes del Estado, deben ser específicos y calibrados. Pues, aunque en democracia son iguales e independientes, teóricamente, en la realidad, por su naturaleza, no son iguales entre sí. Y por ello se necesitan unas normal fundamentales que los equiparen en la medida de lo posible. Debido a que cada participante tiene naturalezas diversas pero definibles, no podemos conformarnos con dejar los límites más fundamentales entre estas arbitrarios a una mera legislación y debemos definirlos en la Constitución.
+Además de por las cuestiones nombradas anteriormente sobre la naturaleza humana, es necesario también declarar los límites entre los otros poderes, los poderes del Estado, deben ser específicos y calibrados. Pues, aunque en democracia son iguales e independientes, teóricamente, en la realidad, por su naturaleza, no son iguales entre sí. Y por ello se necesitan unas normas fundamentales que los equiparen en la medida de lo posible. Debido a que cada participante tiene naturalezas diversas pero definibles, no podemos conformarnos con dejar los límites más fundamentales entre estas arbitrarios a una mera legislación y debemos definirlos en la Constitución.
 
 Es relativamente fácil entender por qué los poderes no son iguales entre sí en su estado más puro, más natural. Pues el ejecutivo tiene al ejército, y si alguien tiene una pistola, o un ejército de gente con pistolas, es claramente más fuerte que tú. Por ende, si su voluntad lo ansía, y si su inteligencia le permite coordinar a su ejército, podrá ejercer su voluntad contra la tuya. Este es por ejemplo un límite físico y real el cual, a día de hoy, es inevitable y lo único que podemos hacer es limitarlo mediante acuerdos sociales, normas escritas estructurales y seguidas al pie de la letra, con una religiosidad cual mandamiento, para establecer un orden y un funcionamiento social lo más democrático posible.
 
@@ -250,19 +250,28 @@ Esos límites son los que se describen a lo largo de esta Constitución y se ref
 
 Así resumiría la razón de ser de este artículo: reconocer que existen límites físicos inaludibles en la realidad que se oponen al ideal demócrata, pero a su vez, definir cuál es ese ideal. Pues como seres humanos, aunque no podamos lograr la perfección, encontramos la prosperidad en el arduo y recompensante camino que nos acerca a ella.
 
-// TODO, incorporar arriba lo siguiente
+// TODO, incorporar arriba lo siguiente ó quizá cuando lleguen los otros artículos
 Los principios básicos que describen estos mecanismos de control entre los participantes del sistema democrático, que son las tres funciones delegadas y el pueblo, están basados en la siguiente idea. La idea de que un castigo lo suficientemente grande ante la violación de tus responsabilidades, detectado y consolidado por una capacidad de autodestrucción mutua entre los participantes de un sistema, genera los incentivos necesarios para que dicho sistema funcione conforme a lo esperado en la mayoría de los casos. Y en aquellos en los que no funcione, que se autocorrija. Al igual que en los algoritmos de consenso en las modernas redes blockchain.
 
 Al igual que en el trilema de las blockchain, estos límites generan el trilema democrático anteriormente mencionado. En algunos casos se opta por maximizar una de las tres opciones, en otros casos, otra, los porqué serán analizados conforme vayan apareciendo.
 
 ## Artículo 2: Niveles de Consenso
 
-Los seis niveles de consenso son la herramienta operativa de toda la Constitución. Cada nivel representa un grado distinto de acuerdo social, desde la mayoría simple hasta el consenso casi unánime. En terminología clásica: N1 (51%) es mayoría simple, N2 (60%) mayoría reforzada, N3 (66%) mayoría cualificada, N4 (75%) supermayoría, N5 (85%) supermayoría reforzada y N6 (95%) cuasi-unanimidad. El texto constitucional usa exclusivamente el porcentaje como definición formal, sin etiquetas descriptivas, para evitar ambigüedades como la que existiría entre "dos tercios" (66,67%) y "66%". La idea es que decisiones más trascendentales requieran acuerdos más amplios: cambiar una ley ordinaria necesita N1, pero modificar una cláusula pétrea necesita N6. La definición formal en un artículo propio evita ambigüedades: cada vez que la Constitución dice "consenso de Nivel N3", el significado es exacto y no depende de interpretación.
+Los seis niveles de consenso son la herramienta operativa de toda la Constitución. Cada nivel representa un grado distinto de acuerdo social, desde la mayoría simple hasta el consenso casi unánime. Usando una terminología más clásica: N1 (51%) es mayoría simple, N2 (60%) mayoría reforzada, N3 (66%) mayoría cualificada, N4 (75%) supermayoría, N5 (85%) supermayoría reforzada y N6 (95%) cuasi-unanimidad.
 
-Los parámetros protegidos a N6 son aquellos que definen la estructura fundamental del sistema electoral y los mecanismos de control democrático directo: cómo se elige, cómo se revoca y cómo se cesa. Modificar estos parámetros altera el equilibrio de poder entre el pueblo y sus representantes, por lo que requieren cuasi-unanimidad. Los parámetros protegidos a N5 son estructurales pero no electorales: composición judicial, requisitos de acceso a cargos judiciales, ciclos constitucionales. El resto de parámetros se rige por el procedimiento de reforma ordinaria (N4, artículo 68).
+El texto constitucional usa exclusivamente el porcentaje como definición formal, sin etiquetas descriptivas, para evitar ambigüedades como la que existiría con "dos tercios", que podría ser 66,66% si truncas los decimales, ó 66,67% si redondeas. Este artículo define de manera modular, cual software, una referencia que será utilizada a lo largo del texto, haciendo a este más legible y fácil de modificar sin liar los artículos y romper el sistema. Siguiendo dos principios del buen desarrollo de software, el llamado SoC (Separation of Concerns), separación de preocupaciones, en español y el llamado DRY (Don't Repeat Yourself), no te repitas, en español. La idea es que si se quiere cambiar el porcentaje de consenso necesario para un artículo, solo se cambia aquí y no en cada artículo que lo requiera. Estos principios se ven en la decisión de crear este artículo, pero se repiten a lo largo de toda la Constitución. Pues al fin y al cabo, esto es un código legal, y como buen código, aunque no sea software, se le pueden aplicar los mismos principios arquitectónicos de diseño y desarrollo.
+
+La idea detrás de estos porcentajes es que decisiones más trascendentales requieran acuerdos más amplios: cambiar una ley ordinaria necesita N1, pero modificar una cláusula pétrea necesita N6.
+
+Los parámetros protegidos a N6 son aquellos que definen la estructura fundamental del sistema electoral y los mecanismos de control democrático directo: cómo se elige, cómo se revoca y cómo se cesa. Modificar estos parámetros altera de la forma más fundamental el equilibrio de poder entre el pueblo y sus representantes, por lo que requieren cuasi-unanimidad. Sin embargo, ninguno es sí es de por sí inamovible. Pues, al fin y al cabo si la mayoría lo desea lo suficiente, la democracia debería ser capaz de aceptar su final. Esta decisión se basa en confiar en que respetar la naturaleza humana es mejor que pretender inventarla. Como seres humanos, no siempre necesitamos tomar decisiones con consensos sociales amplios, nuestra naturaleza deja lugar a diferentes formas de organización, y por ello, nuestra Constitución debería representarla. Pues un sistema que es fiel a su realidad, se adapta mejor a ella.
+
+Los parámetros protegidos con un nivel más bajo, N5, son estructurales pero no electorales: composición judicial, requisitos de acceso a cargos judiciales, ciclos constitucionales.
+
+El resto de parámetros a ajustar, ó artículos a modificar, se rigen por el procedimiento de reforma ordinaria descrito más adelante en el artículo 68.
 
 ## Artículo 3: Sujetos Constitucionales
 
+//TODO: seguir aquí
 La Constitución necesita un vocabulario preciso para sus sujetos, igual que un programa necesita tipos bien definidos. Sin esta definición, cada artículo que dice "ciudadano" es ambiguo: ¿incluye a un turista? ¿A un menor? ¿A un residente sin nacionalidad? La ambigüedad terminológica es un vector de ataque interpretativo: un tribunal creativo puede expandir o restringir el alcance de un derecho según cómo interprete "ciudadano".
 
 Las tres categorías (persona, ciudadano, ciudadano con derecho a voto) son inclusivas en cascada: todo votante es ciudadano, todo ciudadano es persona, pero no al revés. Esto permite que derechos como la integridad personal apliquen a toda persona (incluidos turistas, refugiados, residentes sin nacionalidad), mientras que capacidades políticas como votar o iniciar revocaciones se reserven a ciudadanos con derecho a voto.
