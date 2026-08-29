@@ -30,8 +30,9 @@
 
 # TÍTULO I: PRINCIPIOS FUNDAMENTALES
 
-### Artículo 1: Soberanía Popular y Jerarquía de Legitimidad
-
+### ARTÍCULO 1: Soberanía Popular y Jerarquía de Legitimidad
+<!-- TODO: conforme al art6, quiza esto deberia ser: el pueblo nunca es privado de su derecho a su soberanía. Pq ó hago que el art6 no solo garantice sino defina, ó esto es una contradicción. Todo esto depende de la pregunta: ¿Debería tener el pueblo descrito un procedimiento de anulación legislativa a nivel Constitucional? Sé que hay uno Judicial, debería haber uno Legislativo? Técnicamente ya hay uno, el proceso de anticonstitucionalidad, debería haber uno directo para anular leyes constitucionales? 
+Ahora todo este fraseo tambien abre el debate sobre los límites y alcances de la anulación popular: ¿qué significa anular una decisión directa del ejecutivo? ¿puede la gente simplemente entrar en una prision y sacar a alguien dentro? No deberia. Igual lo de directo en el ejecutivo no aplica, obviamente, por algo he puesto mecanismos establecidos en esta constitucion, pero eso, igual aclarar que el ejecutivo es controlado indirectamente via legislativo y judicial y penas de abuso de poder a nivel legislativo ordinario? -->
 El pueblo nunca pierde su soberanía y la ejerce mediante los mecanismos establecidos en esta Constitución.
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
@@ -76,29 +77,41 @@ Los ciudadanos conservan todos los derechos establecidos para personas independi
 
 ---
 
-### Artículo 4: Sufragio Universal
+### ARTÍCULO 4: Sufragio Universal
 
 Todo ciudadano que alcance la edad de voto tiene derecho al sufragio. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse salvo dentro de los límites de edad establecidos en este artículo.
 
-La edad de voto es de 18 años por defecto. Este valor puede ajustarse entre 18 y 23 años mediante consenso de Nivel N5 del Poder Legislativo. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 67.
+La edad de voto es de 18 años por defecto. Este valor puede ajustarse entre 18 y 25 años mediante consenso de Nivel N5 del Poder Legislativo. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 67.
 
 ---
 
-### Artículo 5: Secreto y Verificabilidad del Voto
+### ARTÍCULO 5: Propiedades Obligatorias del Voto
 
-El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 23. Ninguna persona, salvo el propio ciudadano que lo emitió, puede conocer el sentido del voto. El voto es indelegable: no puede venderse, delegarse ni transferirse. El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable por cualquier ciudadano con derecho a voto.
+Estas propiedades deben garantizarse en todo proceso electoral mencionado en esta constitución. Y solamente podrán incumplirse bajo las condiciones establecidas expresamente en esta misma constitución.
 
-Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III.
+Cuando un voto cumple los requisitos aquí establecidos, se le considera válido.
+
+El voto es secreto por defecto, salvo las votaciones del Poder Legislativo, que son públicas conforme al artículo 23. Ninguna persona, salvo el propio ciudadano que lo emitió, puede dar a conocer el sentido del voto.
+
+El voto es indelegable: no puede venderse, delegarse ni transferirse.
+
+El voto es verificable: cada votante puede comprobar que su voto fue contabilizado correctamente. El proceso electoral debe ser auditable por cualquier ciudadano con derecho a voto.
+
+El voto puede ejercerse remotamente mediante un sistema que garantice las propiedades mencionadas en este artículo: secreto, indelegable y verificable.
+
+Esta Constitución no prescribe una tecnología específica: lo que importa son las garantías del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas independientemente de la tecnología empleada. Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III.
 
 Si un proceso de votación incumplió las garantías establecidas en este artículo, cualquier ciudadano con derecho a voto puede instar su nulidad ante el Poder Judicial. Si el número de votos afectados es suficiente para haber alterado el resultado, el juez declarará la votación nula y esta debe repetirse. Los responsables quedarán sujetos en todo caso a las consecuencias penales que establezca la legislación ordinaria.
 
 ---
 
-### Artículo 6: Garantía de Anulación Popular
-
+### ARTÍCULO 6: Garantía de Anulación Popular Legislativa
+<!-- TODO: osea, garantiza que pueda existir, no que exista. Pero el art1 dice que el pueblo siempre tiene un mecanismo directo para anular decisiones de poderes... -->
 Esta Constitución garantiza permanentemente el derecho a crear mecanismos de anulación popular directa de decisiones legislativas. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá prohibir la creación ni el funcionamiento de tales mecanismos.
 
-Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso mínimo requerido para dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% del censo nacional, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en el artículo 2. Como excepción, la legislación que desarrolle los supuestos concretos de los estados de excepción conforme al artículo 56 podrá ser anulada mediante apoyo del 51% del censo nacional, independientemente del nivel de consenso legislativo con el que fue aprobada. Todo proceso de anulación popular deberá cumplir las garantías de secreto, verificabilidad y auditoría pública establecidas en los artículos 5 y 17.
+Si se implementa un mecanismo de anulación popular, el nivel de apoyo ciudadano requerido para anular una decisión corresponderá al nivel de consenso mínimo requerido para dicha decisión: las decisiones de Nivel N1 podrán ser anuladas con apoyo del 51% del censo nacional, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles de consenso N1 a N6 establecidos en el artículo 2.
+
+Como excepción, la legislación que desarrolle los supuestos concretos de los estados de excepción conforme al artículo 56 podrá ser anulada mediante apoyo del 51% del censo nacional, independientemente del nivel de consenso legislativo con el que fue aprobada.
 
 ---
 
@@ -110,7 +123,7 @@ La ley podrá establecer requisitos y condiciones para el proceso de independenc
 
 ---
 
-### Artículo 8: Igualdad ante la Ley y Responsabilidad Pública
+### ARTÍCULO 8: Igualdad ante la Ley y Responsabilidad Pública
 
 Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo. Todos son ciudadanos sujetos a las mismas leyes que cualquier otro ciudadano. El procesamiento penal de cualquier cargo público no requiere autorización previa del poder al que pertenezca ni de ningún otro órgano.
 
@@ -120,7 +133,7 @@ Toda persona que pierda un cargo público por condena penal firme queda inhabili
 
 ---
 
-### Artículo 9: Lengua Oficial
+### ARTÍCULO 9: Lengua Oficial
 
 El Estado tiene al menos una lengua oficial. La lengua oficial es la lengua en la que se redactan las leyes, se conducen los procedimientos judiciales, se ejerce la administración pública y se garantiza la enseñanza obligatoria. En caso de conflicto de interpretación entre versiones lingüísticas de una norma, prevalece la versión en lengua oficial.
 
@@ -250,7 +263,8 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ---
 
-### Artículo 17: Voto Remoto Verificable
+<!-- NOTE: remove, Merged with article 5 -->
+<!-- ### Artículo 17: Voto Remoto Verificable
 
 El voto puede ejercerse remotamente mediante un sistema que garantice simultáneamente:
 
@@ -258,7 +272,7 @@ El voto puede ejercerse remotamente mediante un sistema que garantice simultáne
 2. Verificabilidad individual: cada votante puede comprobar que su voto fue contado.
 3. Auditoría pública: cualquier ciudadano con derecho a voto puede verificar la integridad del proceso.
 
-Esta Constitución no prescribe una tecnología específica: lo que importa son las garantías del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas en el artículo 5 independientemente de la tecnología empleada.
+Esta Constitución no prescribe una tecnología específica: lo que importa son las garantías del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas en el artículo 5 independientemente de la tecnología empleada. -->
 
 ---
 
@@ -301,7 +315,7 @@ Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante
 
 # TÍTULO IV: SEPARACIÓN Y CONTRAPESOS DE LOS PODERES
 
-### Artículo 20: Separación de Poderes
+### ARTÍCULO 20: Separación de Poderes
 
 Los poderes Legislativo, Ejecutivo y Judicial deberán ser independientes entre sí. Ningún poder puede ejercer funciones constitucionalmente asignadas a otro. Esta separación es material, no meramente formal: cada poder debe contar con independencia de nombramiento y mecanismos de financiación económica que garanticen su autonomía efectiva.
 
@@ -529,7 +543,7 @@ En caso de vacante antes de la expiración del mandato, el sustituto es nombrado
 
 ## SUBTÍTULO 4: EQUILIBRIO ENTRE PODERES
 
-### Artículo 39: Autodestrucción Mutua - Mecanismo
+### ARTÍCULO 39: Autodestrucción Mutua - Mecanismo
 
 El Legislativo puede cesar al Presidente mediante votación de consenso N1. El Presidente puede disolver el Legislativo. Ambas acciones conllevan automáticamente la convocatoria de nuevas elecciones simultáneas del Legislativo (artículo 13) y del Presidente (artículo 24) en un plazo mínimo de 7 días y máximo de 30 días.
 
@@ -582,7 +596,7 @@ Si el Tribunal Supremo declara el incumplimiento grave mediante resolución firm
 
 ## SUBTÍTULO 5: CONTROL DE LEGITIMIDAD JUDICIAL
 
-### Artículo 42: Supremacía Constitucional
+### ARTÍCULO 42: Supremacía Constitucional
 
 Esta Constitución es la norma suprema del ordenamiento jurídico. Toda ley, reglamento, acto administrativo o decisión judicial que contravenga esta Constitución es nula de pleno derecho. El control de constitucionalidad es difuso: todo juez, en cualquier instancia, puede declarar la inaplicabilidad de una norma en el caso concreto si la considera contraria a esta Constitución. Esta declaración de inaplicabilidad puede ser recurrida conforme al sistema en capas establecido en el artículo 43.
 
@@ -883,7 +897,7 @@ La finalización no requiere acto positivo adicional: opera automáticamente. Tr
 ---
 
 # TÍTULO V: REFORMA Y PROTECCIÓN CONSTITUCIONAL
-
+<!-- TODO: no sé si he escrito cosas para evitar el expandir, añadir, el numero de articulos. Es peligroso ya que podrian ser contradictorios con existentes y demás, pensar si deberia añadir la capacidad de añadir articulos, ó simplemente negarla. -->
 ### Artículo 66: Cláusulas Pétreas - Núcleo Intangible
 
 Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 68 y 69. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 67:
@@ -903,7 +917,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 
 ---
 
-### Artículo 67: Procedimiento de Reforma de Cláusulas Pétreas
+### ARTÍCULO 67: Procedimiento de Reforma de Cláusulas Pétreas
 
 La reforma de cualquiera de las cláusulas pétreas establecidas en el artículo 66 requiere aprobación mediante referéndum popular con consenso de Nivel N5 de votos válidos favorables y participación mínima del 75% del censo nacional. El referéndum puede convocarse por dos vías:
 
@@ -921,7 +935,8 @@ La reforma requiere dos votaciones separadas:
 Si la segunda votación no alcanza las mayorías requeridas, la propuesta de reforma caduca y no puede presentarse de nuevo hasta transcurrido el periodo de espera.
 
 Periodo de espera:
-
+<!-- ISSUE 2: Si al final se aprueba, el cooldown no deberia ser 21 años, pues una mala decision deberia ser cambiable en 2 años. No 21. El 21 es para castigar a quien comienza un cambio sin tener consenso social. Quizá, reducirlo, 21 años quiza es demasiado, pensar. -->
+<!-- ISSUE 1: El cooldown se deberia activar por via, no general, pq sino el legislativo falla a proposito y deja al pueblo sin poder empezarlo. -->
 Una vez completado el procedimiento de reforma de una cláusula pétrea, independientemente de si la reforma es aprobada o rechazada, esa misma cláusula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 años desde la última votación del procedimiento.
 
 Protección de parámetros:
@@ -930,7 +945,7 @@ Los parámetros de este artículo pueden modificarse mediante los procedimientos
 
 ---
 
-### Artículo 68: Derecho de Reforma Ordinaria
+### ARTÍCULO 68: Derecho de Reforma Ordinaria
 
 Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 66, puede reformarse mediante el siguiente procedimiento:
 
@@ -943,7 +958,7 @@ La reforma ordinaria entra en vigor transcurrida 1 semana desde la aprobación.
 
 ---
 
-### Artículo 69: Iniciativa de Reforma Ordinaria
+### ARTÍCULO 69: Iniciativa de Reforma Ordinaria
 
 La iniciativa para proponer reformas ordinarias conforme al artículo 68 puede provenir de:
 
@@ -972,7 +987,7 @@ Las restricciones de derechos derivadas de condena penal firme se rigen por la l
 
 # TÍTULO VI: DERECHOS Y PROTECCIONES
 
-### Artículo 71: Derechos Fundamentales del Sistema Democrático
+### ARTÍCULO 71: Derechos Fundamentales del Sistema Democrático
 
 Los siguientes derechos son condiciones necesarias para el funcionamiento de los mecanismos democráticos establecidos en esta Constitución. Estos derechos aplican en tanto en cuanto garanticen el funcionamiento de dichos mecanismos, y bajo ningún concepto pueden utilizarse para alterar, bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución tal como se describe en el artículo 70.
 
