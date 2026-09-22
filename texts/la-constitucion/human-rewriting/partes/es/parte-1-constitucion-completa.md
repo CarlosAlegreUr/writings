@@ -137,7 +137,7 @@ Toda persona que pierda un cargo público por condena penal firme queda inhabili
 
 ### ARTÍCULO 9: Lengua Oficial
 
-El Estado tiene al menos una lengua oficial. La lengua oficial es la lengua en la que se redactan las leyes, se conducen los procedimientos judiciales, se ejerce la administración pública y se garantiza la enseñanza obligatoria. En caso de conflicto de interpretación entre versiones lingüísticas de una norma, prevalece la versión en lengua oficial.
+El Estado tiene una única lengua oficial. La lengua oficial es la lengua en la que se redactan las leyes, se conducen los procedimientos judiciales, se ejerce la administración pública y se garantiza la enseñanza obligatoria. En caso de conflicto de interpretación entre versiones lingüísticas de una norma, prevalece la versión en lengua oficial.
 
 Por defecto, la lengua oficial es aquella que ostentaba dicha condición en el régimen anterior a la entrada en vigor de esta Constitución. Durante el Proceso de Arranque conforme al Título III, el Poder Legislativo puede confirmar o modificar la lengua oficial mediante consenso de Nivel N4.
 

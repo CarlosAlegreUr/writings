@@ -14,3 +14,7 @@ Es un parámetro electoral puro un nivel por debajo del resto de "cómo se elige
 Vector de gerrymandering: con N5 se puede bajar a 2 años y redibujar distritos constantemente, ó subirlo a 200 y congelarlos mientras la demografía se mueve debajo.
 Subirlo a N6? Ó ponerle rango con los límites cerrados por el art. 67, como la edad de voto del art. 4? (p.ej. 15-30 años)
 
+## 4
+
+En procesos de independencia, quien puede iniciar una declaración fomral? Cualquiera? No. Quiza aunque la constitucion proteja el derecho, mediante legislacion ordinaria en la practica se restringe con limites arbitrarios de yo que se, 10 millones de personas y cosas asi. Si no se me ocurre como solucionarlo habría que aclarar este vector de ataque en la argumentación de la parte 2.
+
