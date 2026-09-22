@@ -119,12 +119,14 @@ Como excepción, la legislación que desarrolle los supuestos concretos de los e
 
 Queda prohibido impedir por ley a cualquier territorio el ejercicio del derecho a la autodeterminación. El proceso de independencia territorial debe regularse por ley, pero bajo ninguna circunstancia puede prohibirse ni suprimirse.
 
-La ley podrá establecer requisitos y condiciones para el proceso de independencia. Estos requisitos podrán ser exigentes, pero estarán limitados por las siguientes condiciones: la duración mínima de un proceso de independencia, desde su declaración formal hasta su resolución definitiva, ya sea aprobación o rechazo, es de 21 años; la duración máxima es de 42 años.
+La ley podrá establecer requisitos y condiciones para el proceso de independencia. Estos requisitos podrán ser exigentes, pero estarán limitados por las siguientes condiciones: la duración mínima de un proceso de independencia, desde su declaración formal hasta su resolución definitiva, es de 21 años; la duración máxima es de 63 años.
+
+Un proceso de independencia queda resuelto cuando es aprobado; cuando es rechazado por no alcanzar el umbral de votos requerido; cuando incumple de forma definitiva alguna de las condiciones establecidas por la ley; o cuando alcanza la duración máxima sin haber sido aprobado. Una vez resuelto un proceso, independientemente de su resultado, ese mismo territorio no podrá iniciar uno nuevo hasta transcurridos 21 años desde la fecha de su resolución.
 
 ---
 
 ### ARTÍCULO 8: Igualdad ante la Ley y Responsabilidad Pública
-
+<!-- en todo caso, se les aplicara una legislación más restrictiva. -->
 Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo. Todos son ciudadanos sujetos a las mismas leyes que cualquier otro ciudadano. El procesamiento penal de cualquier cargo público no requiere autorización previa del poder al que pertenezca ni de ningún otro órgano.
 
 Los procedimientos penales contra cargos públicos podrán tramitarse con carácter preferente respecto de los procedimientos contra ciudadanos comunes. Esta Constitución no establece el método de priorización, pero garantiza que dicho mecanismo pueda existir y no sea suprimido por ley ordinaria.
