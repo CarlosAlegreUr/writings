@@ -176,7 +176,7 @@ Los representantes del Poder Legislativo serán siempre revocables directamente 
 ---
 
 ### Artículo 12: Procedimiento de Revocación
-<!-- todo: pensar, es valido el voto del representate mientras esto pasa, cuando las firmas esta recogidas, todas las votaciones hechas mientras el proceso estaba abierto, seran re-votadas por el nuevo representante si es que se elige uno nuevo. Si esto cambia la decision legistaltiva, que la cambie, y aunque no la cambie, que se registre como oficial el cambio de representante y voto final. Esto es para que gente no compre representatnes, ó los ataque físicamente para que venga el que tienen comprado etc y mientras la gente vota a otros, lo que sea que vote el vendido a la corrupcion se de como válido -->
+<!-- todo: pensar, es valido el voto del representate mientras esto pasa, cuando las firmas esta recogidas, todas las votaciones hechas mientras el proceso estaba abierto, seran re-votadas por el nuevo representante si es que se elige uno nuevo. Si esto cambia la decision legistaltiva, que la cambie, y aunque no la cambie, que se registre como oficial el cambio de representante y voto final. Esto es para que gente no compre representatnes, ó los ataque físicamente para que venga el que tienen comprado etc y mientras la gente vota a otros, lo que sea que vote el vendido a la corrupcion se de como válido. ||| mas mitigación, restriccion de vivienda para los representantes, que no se muden tras revocar con millones y tal -->
 Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 11.
 
 Iniciativa:
