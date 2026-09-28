@@ -394,15 +394,15 @@ La cooficialidad por legislación ordinaria permite adaptar el sistema a realida
 
 # TÍTULO II: SISTEMA ELECTORAL
 
-## Artículo 10: Distritos Uninominales
+## Artículo 10: Representación por Distritos
 
-La representación uninominal (un distrito, un representante) proviene del modelo de Trevijano. ¿Por qué no listas de partido? Porque las listas convierten al representante en servidor del partido, no del electorado. En un sistema de listas, el votante elige un partido; en un sistema uninominal, elige a una persona concreta a la que puede exigir cuentas directamente.
+La representación uninominal (un distrito, un representante) proviene del modelo de Trevijano. ¿Por qué no listas de partido? Porque las listas convierten al representante en servidor del partido y de la burocracia que ahí le hizo llegar, no del electorado. En un sistema de listas, el votante elige un partido; en un sistema uninominal, elige a una persona concreta a la que puede exigir cuentas mucho más directa y fácilmente.
 
-La revocación (artículos 11-12) solo funciona con representación uninominal: no puedes revocar a un partido, pero sí a un individuo. Además, castigar o exigir cuentas a un grupo es inherentemente más complejo y ambiguo que hacerlo a un individuo: la responsabilidad se diluye, las culpas se reparten, los culpables se cubren los unos a los otros, y el resultado tiende a errores e impunidad. La delegación más eficaz, eficiente y controlable es la que se realiza en una sola persona.
+La revocación (artículos 11-12) solo funciona con un representación uninominal: no puedes revocar a un partido sin establecer mucha burocracia de por medio, otro de los factores que promueven la generación de oligarquías, pero sí a un individuo. Además, castigar o exigir cuentas a un grupo es inherentemente más complejo y ambiguo que hacerlo a un individuo: la responsabilidad se diluye, las culpas se reparten, los culpables se cubren los unos a los otros, y el resultado tiende a errores e impunidad. La delegación más eficaz, eficiente y controlable es la que se realiza en una sola persona.
 
-Esta es la diferencia entre poder delegado y poder transferido. En un sistema de listas, el ciudadano transfiere su poder al partido: una vez entregado, no lo recupera hasta la siguiente elección. En un sistema uninominal con revocabilidad, el ciudadano delega su poder a un individuo concreto y puede retirárselo. El poder delegado permanece en el demos; el poder transferido sale de él. Sin distritos uninominales, la revocabilidad es imposible o ineficaz, y el poder se transfiere en lugar de delegarse.
+Esta es la diferencia entre poder delegado y poder transferido. En un sistema de listas, el ciudadano transfiere su poder al partido: una vez entregado, no lo recupera, quizá sí en el mundo de las ideas y la teoría, pero no en la práctica, hasta la siguiente elección. En un sistema uninominal con revocabilidad, el ciudadano delega su poder en un individuo concreto y puede retirárselo. El poder delegado permanece en el demos; el poder transferido sale de él. Sin distritos uninominales, la revocabilidad es imposible o ineficaz, y el poder se transfiere en lugar de delegarse.
 
-Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad de representación tras una revocación. Los detalles del sistema de suplentes se definen mediante ley ordinaria.
+Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad de representación tras una revocación, aunque este detalle menor no requiere de fijar la cantidad, si que requiere de un límite máximo. Pues, si un grupo de interés controla los siguientes suplentes, quizá se atente contra el representante para que quede inhabilitado, quizá físicamente, y así poder tener el siguiente representante deseado. Un accidente es fácil de disimular, dos ya no, y la población empezará a sospechar.
 
 ## Artículos 11-12: Revocabilidad y el umbral del 75%
 

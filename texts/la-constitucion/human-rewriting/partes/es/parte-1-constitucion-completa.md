@@ -159,26 +159,24 @@ La designación de una lengua oficial no prohíbe el uso de otras lenguas en el 
 
 # TÍTULO II: SISTEMA ELECTORAL
 
-### Artículo 10: Representación por Distritos Territoriales
+### Artículo 10: Representación por Distritos
 
 Los representantes del Poder Legislativo son elegidos por distritos territoriales mediante elección uninominal. Cada distrito elige un representante.
 
-Los distritos pueden contar con un sistema de suplentes para garantizar la continuidad de representación, con un mínimo de 0 y un máximo de 2 suplentes por distrito. Cuando un distrito queda sin representante ni suplentes disponibles, se convoca nueva elección conforme al artículo 13.
+Los distritos pueden contar con un sistema de suplentes para garantizar la continuidad de representación, con un mínimo de 0 y un máximo de 2 suplentes por distrito. Cuando un distrito queda sin representante ni suplentes disponibles, se convoca una nueva elección conforme al artículo 13.
 
-El número de suplentes por distrito puede modificarse mediante consenso de Nivel N4, ya sea a nivel nacional (decisión del Legislativo aplicable a todos los distritos) o a nivel distrital (decisión del distrito aplicable solo a ese distrito), según procedimientos establecidos por ley ordinaria.
-
-El poder popular a nivel distrital prevalece sobre el Legislativo nacional únicamente en los casos establecidos explícitamente en esta Constitución. Fuera de estos casos, el poder popular distrital no puede anular decisiones del Legislativo nacional.
+El número de suplentes por distrito puede modificarse mediante consenso de Nivel N4, ya sea a nivel nacional (decisión del Legislativo aplicable a todos los distritos) o a nivel distrital (decisión del distrito aplicable solo a ese distrito), según procedimientos establecidos por ley ordinaria. Si el número de suplentes elegido por el distrito es diferente al número por defecto elegido por el Legislativo, prevalece la decisión del distrito.
 
 ---
 
 ### Artículo 11: Revocabilidad de Representantes
-
+<!-- la segunda frase no es redunante? -->
 Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió. Este mecanismo se aplica exclusivamente a representantes legislativos en su distrito de elección. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá suprimir este derecho.
 
 ---
 
 ### Artículo 12: Procedimiento de Revocación
-
+<!-- todo: pensar, es valido el voto del representate mientras esto pasa, cuando las firmas esta recogidas, todas las votaciones hechas mientras el proceso estaba abierto, seran re-votadas por el nuevo representante si es que se elige uno nuevo. Si esto cambia la decision legistaltiva, que la cambie, y aunque no la cambie, que se registre como oficial el cambio de representante y voto final. Esto es para que gente no compre representatnes, ó los ataque físicamente para que venga el que tienen comprado etc y mientras la gente vota a otros, lo que sea que vote el vendido a la corrupcion se de como válido -->
 Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 11.
 
 Iniciativa:
