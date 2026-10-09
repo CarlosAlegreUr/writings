@@ -167,34 +167,41 @@ Los distritos pueden contar con un sistema de suplentes para garantizar la conti
 
 El número de suplentes por distrito puede modificarse mediante consenso de Nivel N4, ya sea a nivel nacional (decisión del Legislativo aplicable a todos los distritos) o a nivel distrital (decisión del distrito aplicable solo a ese distrito), según procedimientos establecidos por ley ordinaria. Si el número de suplentes elegido por el distrito es diferente al número por defecto elegido por el Legislativo, prevalece la decisión del distrito.
 
+El procedimiento de elección de los suplentes es el mismo que el del representante, descrito en el artículo 13.
+
 ---
 
 ### Artículo 11: Revocabilidad de Representantes
-<!-- la segunda frase no es redunante? -->
-Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió. Este mecanismo se aplica exclusivamente a representantes legislativos en su distrito de elección. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá suprimir este derecho.
+
+Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá suprimir este derecho.
 
 ---
 
 ### Artículo 12: Procedimiento de Revocación
-<!-- todo: pensar, es valido el voto del representate mientras esto pasa, cuando las firmas esta recogidas, todas las votaciones hechas mientras el proceso estaba abierto, seran re-votadas por el nuevo representante si es que se elige uno nuevo. Si esto cambia la decision legistaltiva, que la cambie, y aunque no la cambie, que se registre como oficial el cambio de representante y voto final. Esto es para que gente no compre representatnes, ó los ataque físicamente para que venga el que tienen comprado etc y mientras la gente vota a otros, lo que sea que vote el vendido a la corrupcion se de como válido. ||| mas mitigación, restriccion de vivienda para los representantes, que no se muden tras revocar con millones y tal -->
+
 Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 11.
 
-Iniciativa:
+- Iniciativa:
 Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede iniciar un procedimiento de revocación. Esta capacidad de iniciativa individual solo puede modificarse mediante consenso de nivel N6.
 
-Convocatoria:
-Requiere la recogida de firmas del 10% del censo del distrito en un plazo máximo de 31 días.
+- Convocatoria:
+La recogida de firmas se anuncia oficialmente ante la autoridad competente del distrito: por defecto, cualquier juez local, ó en su ausencia, el cuerpo policial del distrito. El objetivo es reunir las firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
-Votación:
+La autoridad debe tramitar el anuncio en menos de un día. Incumplir esta obligación conlleva sentencia penal: un año de prisión por defecto y dos como máximo. La única excepción es la siguiente fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+
+- Votación:
 Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es necesario para que la votación sea válida. El proceso completo de revocación, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
 
-Efecto:
+- Efecto:
 Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
 
-Periodo de Reflexión:
+- Periodo de Reflexión:
 No puede convocarse nueva revocación contra el sucesor antes de haber transcurrido 4 meses desde su elección.
 
-Configurabilidad:
+- Revisión de Votos:
+Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el representante revocado emitió en el Poder Legislativo desde la convocatoria formal de la votación de revocación hasta la toma de posesión del sucesor. Si el nuevo voto altera el resultado de una decisión legislativa, prevalece el resultado nuevo. En todo caso, el cambio de representante y el voto final quedan registrados conforme al artículo 23.
+
+- Configurabilidad:
 Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, Nivel N4 requerido para revocación exitosa, 7 días máximo para convocar nueva elección tras revocación, 4 meses de periodo de reflexión antes de nueva revocación, 2 semanas máximo de duración total del proceso, 25% de participación mínima del censo del distrito y 2 años mínimo censado en el distrito para poder votar en revocación.
 
 Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N2, pero el mecanismo de revocación en sí no puede eliminarse. Los detalles del Proceso de Arranque se establecen en el Título III de esta Constitución.
@@ -203,7 +210,7 @@ Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse 
 
 ### Artículo 13: Sistema de Doble Vuelta Electoral en Distritos
 
-Este artículo aplica a las elecciones de representantes del Poder Legislativo por distrito.
+Este artículo aplica a las elecciones de representantes por distrito que conformarán el Poder Legislativo.
 
 En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra una segunda vuelta entre los dos candidatos más votados en un plazo máximo de 7 días. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
 
@@ -211,9 +218,17 @@ Un mínimo de participación del 25% del censo del distrito es necesario para qu
 
 Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 25% de participación mínima del censo del distrito, 7 días máximo entre primera y segunda vuelta y 7 días máximo para repetir la elección si no se alcanza la participación mínima.
 
+### Artículo 14: Elección del Representante y de los Suplentes
+
+Todos los cargos electos del distrito, el representante y sus suplentes si los hay, se eligen mediante el sistema establecido en el artículo 13, de forma simultánea y en la misma elección.
+
+Una misma persona no podrá ocupar más de un cargo electo del distrito a la vez. Si resulta elegida para varios, ocupa el de mayor importancia, en este orden: representante, primer suplente, segundo suplente. El cargo que quede vacante por esta causa se vuelve a elegir mediante el mismo proceso del artículo 13. A esa repetición solo pueden presentarse personas que no ocupen ya un cargo electo del distrito.
+
+En los distritos con uno ó más suplentes puede ser necesaria una elección para cubrir únicamente la vacante de un suplente, sin que afecte al representante ni a ningún otro cargo ya ganado conforme a los umbrales del artículo 13.
+
 ---
 
-### Artículo 14: Tamaño de Distritos
+### Artículo 15: Tamaño de Distritos
 
 El tamaño de cada distrito es de 95.000 a 120.000 habitantes. La cifra exacta se determina mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD), cuyas especificaciones completas son las siguientes:
 
@@ -234,9 +249,9 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ---
 
-### Artículo 15: Actualización Distrital Periódica
+### Artículo 16: Actualización Distrital Periódica
 
-Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD) conforme al artículo 14. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado por el Poder Legislativo mediante consenso de Nivel N1.
+Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD) conforme al artículo 15. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado por el Poder Legislativo mediante consenso de Nivel N1.
 
 Si el Legislativo rechaza la actualización, la comisión puede ejecutar una nueva propuesta con datos corregidos o actualizados. Si la nueva propuesta es también rechazada, se mantiene la distribución de distritos vigente hasta la siguiente actualización programada.
 
@@ -246,7 +261,7 @@ El periodo de actualización distrital de 21 años puede modificarse mediante co
 
 ---
 
-### Artículo 16: Financiación Electoral
+### Artículo 17: Financiación Electoral
 
 Financiación pública:
 Si existe financiación pública para campañas electorales, la cuantía debe ser idéntica para todos los candidatos sin excepción. Toda financiación electoral pública es transparente y se registra en un sistema público auditable. Cualquier ciudadano puede verificar el origen y destino de los fondos electorales públicos.
@@ -267,19 +282,6 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ---
 
-<!-- NOTE: remove, Merged with article 5 -->
-<!-- ### Artículo 17: Voto Remoto Verificable
-
-El voto puede ejercerse remotamente mediante un sistema que garantice simultáneamente:
-
-1. Secreto del voto: imposibilidad de saber quién votó qué.
-2. Verificabilidad individual: cada votante puede comprobar que su voto fue contado.
-3. Auditoría pública: cualquier ciudadano con derecho a voto puede verificar la integridad del proceso.
-
-Esta Constitución no prescribe una tecnología específica: lo que importa son las garantías del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas en el artículo 5 independientemente de la tecnología empleada. -->
-
----
-
 ---
 
 **Fin del Título II**
@@ -294,7 +296,7 @@ Esta Constitución no prescribe una tecnología específica: lo que importa son 
 
 El Proceso de Transición comienza inmediatamente tras la aprobación de esta Constitución y finaliza cuando el Presidente electo conforme al artículo 24 toma posesión del cargo. Durante este periodo, el régimen anterior a la entrada en vigor de esta Constitución continúa gobernando con carácter interino, ejerciendo exclusivamente funciones ejecutivas y sometido a los principios y normas de esta Constitución.
 
-El régimen anterior publica el resultado del Algoritmo de Optimización de la Corruptibilidad de Distritos conforme al artículo 14, junto con todos los datos utilizados para su ejecución, de manera que cualquier ciudadano pueda verificar el resultado, en un plazo máximo de 3 semanas desde la aprobación de esta Constitución. Tras la publicación y formación de distritos, se convocan elecciones en el siguiente orden, cada una en un mes distinto y consecutivo: primero, elecciones al Poder Legislativo conforme al artículo 13; segundo, elecciones al Poder Ejecutivo conforme al artículo 24.
+El régimen anterior publica el resultado del Algoritmo de Optimización de la Corruptibilidad de Distritos conforme al artículo 15, junto con todos los datos utilizados para su ejecución, de manera que cualquier ciudadano pueda verificar el resultado, en un plazo máximo de 3 semanas desde la aprobación de esta Constitución. Tras la publicación y formación de distritos, se convocan elecciones en el siguiente orden, cada una en un mes distinto y consecutivo: primero, elecciones al Poder Legislativo conforme al artículo 13; segundo, elecciones al Poder Ejecutivo conforme al artículo 24.
 
 Si durante el Proceso de Transición se declara un estado de excepción conforme al artículo 55, el régimen anterior asume el control hasta el cese del estado de excepción, siempre bajo los principios de esta Constitución. Tras el cese, el Proceso de Transición se reanuda desde el punto en que fue interrumpido. Esta regla se aplica recursivamente: si se declara un nuevo estado de excepción durante el Proceso de Transición reanudado, se aplica el mismo mecanismo.
 

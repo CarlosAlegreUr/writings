@@ -58,7 +58,7 @@ La definición clara y precisa de estos umbrales es muy debatida. En mi caso, he
 
 // TODO: habia un error en mi pensamiento, la estrucutra interna predeterminada si importa, la de financiación. Seguramente esto esté mal explicado en Alegrismo. Y quizá en alguna parte de aquí más abajo. Also, lo de pacíficamente... No es necesario pero si útil. quiza añadirlo a alegrismo tambien y ver que pongo aqui al respecto. quiza una: nota curiosa.
 
-**1. Competencia abierta por el poder.** Cualquier ciudadano ó grupo de ciudadanos, por el mero hecho de serlo, puede organizarse pacíficamente para aspirar a gestionar el Estado. Sin necesitar la aprobación de los grupos existentes. Sin embargo, si debe seguir las normas de financiación y publicidad democráticas, ya que sin ellas, la competencia en la práctica solo estaría abierta a los grupos con mayor riqueza, eventualmente creando una oligarquía. Estas normas se encuentran en el Artículo 16. Esto aspira a crear un entorno análogo a la idea que genera prosperidad a base de competencia perfecta en economía: que cualquiera que sepa fabricar un producto mejor pueda acceder a los medios para crearlo. En la democracia ideal, cualquiera que tenga una visión para su sociedad puede crear un grupo para reflejarla y mostrarla a sus vecinos en la mayor igualdad de condiciones posible.
+**1. Competencia abierta por el poder.** Cualquier ciudadano ó grupo de ciudadanos, por el mero hecho de serlo, puede organizarse pacíficamente para aspirar a gestionar el Estado. Sin necesitar la aprobación de los grupos existentes. Sin embargo, si debe seguir las normas de financiación y publicidad democráticas, ya que sin ellas, la competencia en la práctica solo estaría abierta a los grupos con mayor riqueza, eventualmente creando una oligarquía. Estas normas se encuentran en el Artículo 17. Esto aspira a crear un entorno análogo a la idea que genera prosperidad a base de competencia perfecta en economía: que cualquiera que sepa fabricar un producto mejor pueda acceder a los medios para crearlo. En la democracia ideal, cualquiera que tenga una visión para su sociedad puede crear un grupo para reflejarla y mostrarla a sus vecinos en la mayor igualdad de condiciones posible.
 
 **2. Separación real de poderes.** El Estado tiene tres funciones naturales: legislar (crear las reglas), ejecutar (aplicarlas) y juzgar (resolver conflictos cuando las reglas se incumplen). En democracia, estas tres funciones son ejercidas por órganos independientes entre sí, con independencia de nombramiento y de financiación. Sin esta separación, la democracia, otra vez, colapsa en oligarquía: un grupo que legisla, ejecuta y juzga simultáneamente no tiene casi límites a lo que puede hacer. Quizá colapse en una oligarquía plutocrática ("los ricos mandan"), o tecnocrática ("los expertos mandan"), o ambas a la vez; independientemente del sistema en el que colapse, oligarquía o incluso dictadura; sin este requisito, la democracia acaba colapsando.
 // TODO: dar un poco más de detalle de como. Creo que venia de: "El ser humano solo se mueve ante la adversidad, tendencia a la vagueria, y si alguien puede, sera vago, cada vez mas, a no ser que haya una fuerza que se lo impida." (en tendencia, simepre existe sin embargo un pequeño grupo de curiosos aburridos que se mueven por curiosidad, pues el aburrimiento es doloroso) Ademas, se tapan los unos a los otros etc. ademas cambiar titulo: (a nivel fundamental), en su fundamento, quien los crea nombra y como comen, dinero.
@@ -352,7 +352,7 @@ Por eso mido los límites de este artículo en generaciones, tomando como genera
 
 El límite temporal no debería ser el único, pero sí el único constitucional. Pues los otros límites no son ontológicos a la realidad de un grupo social humano, sino fruto de decisiones puntuales entre los dos sujetos nacionales que afrontan el proceso. Por ejemplo, es razonable y discutible exigir que el territorio no tenga deuda pendiente con el Estado, que demuestre autosuficiencia en servicios esenciales ó que cuente con capacidad de defensa propia. Estos requisitos pueden ser exigentes, de ahí que esa misma frase esté en el artículo. Lo que no pueden es estar indefinidos en el tiempo ni resolverse precipitadamente, negando a la realidad manifestarse ó dando poder a una mentira y por ello creando conflicto social.
 
-De ahí los dos límites temporales. El mínimo de 21 años, una generación, el mismo ciclo biológico del artículo 15, permite divisar un movimiento independentista real y sostenido. El máximo de 63 años, tres generaciones, impide la obstrucción indefinida: un proceso que dura más de tres generaciones no es un proceso, es una denegación de la realidad disfrazada de burocracia.
+De ahí los dos límites temporales. El mínimo de 21 años, una generación, el mismo ciclo biológico del artículo 16, permite divisar un movimiento independentista real y sostenido. El máximo de 63 años, tres generaciones, impide la obstrucción indefinida: un proceso que dura más de tres generaciones no es un proceso, es una denegación de la realidad disfrazada de burocracia.
 
 Y de ahí también el periodo de espera. Que una realidad no exista hoy no quiere decir que no pueda aparecer mañana, así que un proceso resuelto, sea cual sea el motivo, incluso la aprobación, aunque en ese caso no tenga mucho sentido, no cierra la puerta para siempre: ese territorio podrá volver a intentarlo pasada una generación. Los 21 años son el mismo filtro de antes aplicado al fracaso: tiempo suficiente para que la idea, ya rechazada una vez, se ponga a prueba con la generación siguiente.
 
@@ -394,15 +394,23 @@ La cooficialidad por legislación ordinaria permite adaptar el sistema a realida
 
 # TÍTULO II: SISTEMA ELECTORAL
 
-## Artículo 10: Representación por Distritos
+## Artículos 10 y 14: Representación por Distritos y Elección de Suplentes
 
-La representación uninominal (un distrito, un representante) proviene del modelo de Trevijano. ¿Por qué no listas de partido? Porque las listas convierten al representante en servidor del partido y de la burocracia que ahí le hizo llegar, no del electorado. En un sistema de listas, el votante elige un partido; en un sistema uninominal, elige a una persona concreta a la que puede exigir cuentas mucho más directa y fácilmente.
+La representación uninominal (un distrito, un representante) proviene del modelo de Trevijano. ¿Por qué no listas de partido? Porque las listas convierten al representante en servidor del partido y de la burocracia que ahí le hizo llegar, no del electorado. En un sistema de listas, el votante elige un partido; en un sistema uninominal, elige a una persona concreta a la que le puede exigir cuentas mucho más directa y fácilmente.
 
-La revocación (artículos 11-12) solo funciona con un representación uninominal: no puedes revocar a un partido sin establecer mucha burocracia de por medio, otro de los factores que promueven la generación de oligarquías, pero sí a un individuo. Además, castigar o exigir cuentas a un grupo es inherentemente más complejo y ambiguo que hacerlo a un individuo: la responsabilidad se diluye, las culpas se reparten, los culpables se cubren los unos a los otros, y el resultado tiende a errores e impunidad. La delegación más eficaz, eficiente y controlable es la que se realiza en una sola persona.
+La revocación (artículos 11-12) solo funciona con una representación uninominal: no puedes revocar a un partido sin establecer mucha burocracia de por medio, otro de los factores que promueven la generación de oligarquías, pero sí a un individuo. Además, castigar o exigir cuentas a un grupo es inherentemente más complejo y ambiguo que hacerlo a un individuo: la responsabilidad se diluye, las culpas se reparten, los culpables se cubren los unos a los otros, y el resultado tiende a errores e impunidad. La delegación más eficaz, eficiente y controlable es la que se realiza en una sola persona.
 
-Esta es la diferencia entre poder delegado y poder transferido. En un sistema de listas, el ciudadano transfiere su poder al partido: una vez entregado, no lo recupera, quizá sí en el mundo de las ideas y la teoría, pero no en la práctica, hasta la siguiente elección. En un sistema uninominal con revocabilidad, el ciudadano delega su poder en un individuo concreto y puede retirárselo. El poder delegado permanece en el demos; el poder transferido sale de él. Sin distritos uninominales, la revocabilidad es imposible o ineficaz, y el poder se transfiere en lugar de delegarse.
+Esta es la diferencia entre poder delegado y poder transferido. En un sistema de listas, el ciudadano transfiere su poder al partido: una vez entregado, no lo recupera, quizá sí en el mundo de las ideas y la teoría, pero no en la práctica, hasta la siguiente elección. En un sistema uninominal con revocabilidad, el ciudadano delega su poder en un individuo concreto y puede retirárselo. El poder delegado permanece en el demos; el poder transferido sale y se escapa de él. Sin distritos uninominales, la revocabilidad es imposible o ineficaz, y el poder se transfiere en lugar de delegarse.
 
-Se recomienda el sistema de 1 suplente por distrito para garantizar continuidad de representación tras una revocación, aunque este detalle menor no requiere de fijar la cantidad, si que requiere de un límite máximo. Pues, si un grupo de interés controla los siguientes suplentes, quizá se atente contra el representante para que quede inhabilitado, quizá físicamente, y así poder tener el siguiente representante deseado. Un accidente es fácil de disimular, dos ya no, y la población empezará a sospechar.
+Se parte del entendimiento de que los suplentes son igual de legítimos que el representante, pues han estado sujetos al mismo proceso de elección del artículo 13, en la misma elección y el mismo día.
+
+Se recomienda por lo menos un sistema de 1 suplente por distrito para garantizar continuidad de representación tras una revocación ó inhabilitación accidental ó malintencionada del representante. Pues cero suplentes crea un sistema más inestable al obligar a tener elecciones más frecuentemente.
+
+Aunque este detalle sobre el número de suplentes es menor y no requiere de fijar la cantidad, sí que requiere de un límite máximo. Pues cada cargo añadido es una elección más que puede encadenarse con las repeticiones que definen los artículos 13 y 14, y sin un tope las elecciones de un distrito podrían ser eternas. Dos suplentes es el tope práctico.
+
+Tal y como está ahora el texto en las elecciones distritales, en el mejor caso, los tres cargos salen en una sola vuelta y a personas distintas: se vota y elige en un día. En el peor caso razonable, con dos suplentes, la misma persona gana los tres cargos, se queda con el de representante y hay que repetir los dos de suplente; otra persona vuelve a ganar los dos, se queda con el de primer suplente y hay que repetir el de segundo. Son tres elecciones encadenadas, cada una con sus dos vueltas: seis vueltas y, contando siete días entre vueltas y siete para convocar cada repetición, unas cinco semanas. Es tan improbable que da igual que sea largo. Lo que importa es que el proceso termina, y que ningún cargo ya ganado se vuelve a votar.
+
+Para que termine hace falta una regla más: a la repetición de un cargo vacante solo pueden presentarse quienes no ocupen ya un cargo electo del distrito. Sin ella, el representante podría ganar la repetición de suplente, quedarse con el cargo mayor y reabrir la vacante sin fin.
 
 ## Artículos 11-12: Revocabilidad y el umbral del 75%
 
@@ -432,13 +440,37 @@ El requisito de 2 años censado en el distrito para votar en revocación es una 
 
 Las elecciones ordinarias (artículo 13) no tienen este requisito porque la migración masiva es menos útil como vector de ataque: hay candidatos locales que conocen el distrito, el AOCD redistribuye por población cada 21 años (un distrito que crece artificialmente se redimensiona), y mover miles de personas durante años es un coste enorme incluso para un atacante con recursos. La asimetría entre elegir (sin antigüedad) y revocar (con antigüedad) es deliberada: la revocación es un acto más agresivo y concentrado que requiere protección adicional contra manipulación externa.
 
+Que cualquier ciudadano pueda iniciar el procedimiento, sin partido, sin asociación y sin número mínimo, está protegido a N6 por una razón sencilla: es el paso que, si se restringe, mata la revocación sin tocarla. No haría falta prohibirla; bastaría con exigir que la inicie "una organización registrada" ó "el 5% del censo".
+
+El único paso del procedimiento que depende de un funcionario del Estado es el anuncio oficial de la recogida de firmas. Pensando como atacante, es el punto perfecto para bloquear una revocación sin prohibirla: no tramitar el anuncio, perderlo, pedir un papel más. Por eso el artículo fija un plazo de menos de un día, nombra autoridades por defecto a las que acudir, cualquier juez local y en su ausencia la policía del distrito, y castiga personalmente a quien no cumpla, con un año de prisión por defecto y dos como máximo. La excepción de fuerza mayor es deliberadamente estrecha, un accidente físico que requiera hospitalización inmediata, porque cualquier excepción más amplia se convierte en la excusa.
+
+El 10% de firmas en 31 días es el filtro previo: suficiente para que una revocación no se convoque por el capricho de unos pocos, y asequible para un distrito que esté de verdad descontento.
+
+Durante una revocación, el representante sigue votando en el Legislativo. Sin más, eso abre un vector claro: una vez convocada la votación, el representante sabe que le quedan semanas. Si está comprado, ó si es un suplente comprado que ha entrado tras un "accidente" del titular, puede usar esas semanas para votar lo que le han pagado. Para cuando llega el sucesor, el voto ya ha contado y la ley ya está aprobada. El vector del suplente comprado se trata en el artículo 10.
+
+El apartado de revisión de votos elimina el premio. Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el revocado emitió desde la convocatoria formal de la votación hasta la toma de posesión del sucesor. Si el nuevo voto cambia el resultado de una decisión legislativa, la decisión cambia. Y aunque no la cambie, el cambio de representante y el voto final quedan registrados como oficiales en el sistema público del artículo 23. Comprar un voto deja de servir para aprobar nada deprisa, porque ese voto puede deshacerse en semanas.
+
+El coste se asume conscientemente: en la práctica, una ley votada mientras hay revocaciones abiertas no es firme al 100% hasta que esas revocaciones se cierran. Si varios distritos cambian de representante y los nuevos votan en contra, la ley cae; si no, no. Sumando los plazos del articulado, la ventana va desde la convocatoria formal de la votación hasta la toma de posesión del sucesor: hasta dos semanas de votación, hasta siete días para convocar la nueva elección, y la elección del artículo 13, que puede necesitar dos vueltas con siete días entre ellas. Entre dos y cinco semanas en condiciones normales, y más si alguna vuelta se repite por falta de participación.
+
+La ventana empieza en la convocatoria formal de la votación y no en el anuncio de la recogida de firmas, a propósito. Que alguien anuncie que va a recoger firmas no justifica poner en duda las decisiones de un representante: cualquier ciudadano puede anunciarlo, y si eso bastara para dejar en el aire cada voto del Legislativo, el sistema sería muy inestable. Solo cuando el 10% del distrito ha firmado hay una sospecha lo bastante legítima como para que los votos del representante pasen a ser provisionales.
+
+El sucesor no puede ser sometido a una nueva revocación hasta pasados 4 meses desde su elección. Sin este periodo, un grupo con recursos podría encadenar revocaciones hasta agotar al distrito, ó hasta colar a su candidato en una votación con poca participación. Cuatro meses son suficientes para que el sucesor empiece a votar y pueda ser juzgado por sus actos, y pocos para que no se conviertan en una inmunidad temporal.
+
+Dos mitigaciones más que todavía no están en el articulado:
+
+- **Restricción de residencia.** Hoy no existe ningún requisito de residencia para candidatos ni representantes; el único requisito censal es para votar en una revocación. Un representante comprado puede cobrar, ser revocado y mudarse con el dinero. Obligarle a residir en su distrito durante el mandato y durante un tiempo tras ser revocado haría que la presión social de sus vecinos fuera un coste real de venderse. Queda por decidir si va en este artículo ó en el 10.
+
+- **Vigilantes de distrito.** No como institución constitucional, sino como recomendación: juristas y ciudadanos normales de cada distrito que lean lo que vota su representante y hagan saltar la alarma según lo que se aprueba. El registro público del artículo 23 existe precisamente para que esto sea posible; sin alguien que lo lea, es letra muerta.
+
+Y una duda abierta: qué pasa con una revocación en curso si se declara un estado de excepción. El artículo 61 dice que el Legislativo funciona con normalidad durante la excepción y suspende la autodestrucción mutua, pero no dice nada de las revocaciones de distrito. ¿Siguen corriendo las dos semanas? ¿Se suspenden y se reanudan después? No está resuelto.
+
 ## Artículo 13: Doble Vuelta Electoral
 
 La doble vuelta previene la captura por minorías. En un sistema de vuelta única con múltiples candidatos, un candidato con el 20% puede ganar. La doble vuelta garantiza que el elegido tenga al menos el apoyo de la mayoría en la ronda final. Es el mecanismo más simple y efectivo para evitar bloqueos constantes y garantizar un mínimo nivel de acuerdo social. No es perfecto, pero con los límites tecnológicos y de cognición humana actuales, es lo mejor que tenemos.
 
 Si la participación no alcanza el mínimo del 25% del censo en cualquiera de las dos vueltas, se repite la elección completa desde la primera vuelta. ¿Por qué no repetir solo la vuelta que falló? Porque la baja participación en la segunda vuelta puede ser síntoma de que los dos candidatos finalistas no representan al distrito. En un voto muy fragmentado, los dos más votados pueden tener un 10% cada uno — técnicamente los más votados, pero la última opción para el 80% restante. Repetir solo la segunda vuelta forzaría a elegir entre dos candidatos que nadie quiere. Repetir desde la primera vuelta permite que el panorama político se reorganice: nuevas alianzas, candidatos que se retiran, votantes que concentran su apoyo. El coste (repetir una primera vuelta que quizás fue válida) es menor que el riesgo de imponer un representante sin apoyo real.
 
-## Artículo 14: Tamaño de Distritos y AOCD
+## Artículo 15: Tamaño de Distritos y AOCD
 
 ### ¿Por qué 95.000-120.000 habitantes?
 
@@ -452,7 +484,7 @@ La función objetivo (maximizar el P25 mínimo entre todos los distritos) signif
 
 Las restricciones (continuidad geográfica, coherencia histórico-cultural) previenen el gerrymandering por riqueza: no se pueden dibujar distritos artificiales que concentren riqueza ignorando la realidad territorial.
 
-## Artículo 15: Ciclo de 21 años
+## Artículo 16: Ciclo de 21 años
 
 21 años no es un número político ni económico. Es biológico: el cerebro humano alcanza la madurez cognitiva completa (específicamente el córtex prefrontal, responsable de la función ejecutiva, planificación y evaluación de riesgos) a los 21-22 años. Cada cohorte de adultos trae nuevos valores, intereses y visión del mundo.
 
@@ -467,7 +499,7 @@ Pensando como atacante: la ingeniería demográfica requiere horizontes de plani
 
 El ciclo de 21 años está protegido a N5: modificarlo requiere un consenso amplio porque acortar o alargar el ciclo es una palanca de manipulación electoral significativa. No se permite reducción durante el Proceso de Arranque porque el ciclo distrital es una variable estructural que debe ser estable desde el nacimiento de la Constitución.
 
-## Artículo 16: Financiación y Publicidad Electoral
+## Artículo 17: Financiación y Publicidad Electoral
 
 Las donaciones privadas están limitadas al 10% del P25 nacional por persona, una sola donación por proceso electoral, y solo personas físicas (las jurídicas tienen prohibido donar). ¿Por qué? Porque la financiación ilimitada convierte las elecciones en subastas al mejor postor con mayor presupuesto de marketing, reduciendo la riqueza del ciclo de retroalimentación democrática. La Ley de Hierro de las Oligarquías (Michels) predice que la concentración de recursos produce concentración de poder. Limitar la financiación es limitar la oligarquía.
 
@@ -640,7 +672,7 @@ El número total de candidatos debe ser estrictamente superior al número de vac
 
 Durante el Arranque, los 9 magistrados se nombran simultáneamente pero necesitan mandatos escalonados. El procedimiento concreto de sorteo se elige durante el Arranque con N1, siempre que sea determinista, no manipulable y públicamente verificable. Si no se elige un procedimiento alternativo, se aplica el método por defecto: una función hash criptográfica aplicada a los datos biométricos de cada magistrado, con una cadena de respaldo que garantiza la disponibilidad para cualquier persona independientemente de discapacidades físicas.
 
-¿Por qué ofrecer un método por defecto? Por cuestión operativa: tener un procedimiento concreto ya definido hace más fluido el Proceso de Arranque. Siguiendo la filosofía de los artículos 5 y 17, lo que la Constitución protege son las características (determinista, no manipulable, verificable), no la tecnología. Fuera del Arranque, el procedimiento de sorteo no puede modificarse — solo se usa una vez y la rotación solo puede ser manipulada al inicio.
+¿Por qué ofrecer un método por defecto? Por cuestión operativa: tener un procedimiento concreto ya definido hace más fluido el Proceso de Arranque. Siguiendo la filosofía del artículo 5, lo que la Constitución protege son las características (determinista, no manipulable, verificable), no la tecnología. Fuera del Arranque, el procedimiento de sorteo no puede modificarse — solo se usa una vez y la rotación solo puede ser manipulada al inicio.
 
 ### Vacantes anticipadas
 
