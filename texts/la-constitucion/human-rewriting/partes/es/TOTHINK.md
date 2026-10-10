@@ -1,18 +1,12 @@
-## 1
-separar articulo 3 en dos? 
-añadir un nuevo articulo de: "Rango de sus Derechos"
-la jerarquia de derechos y donde aplican generalmente merece otro articulo para dejarlo bien separado o no?
-
 ## 2
-Quizá añadir un artículo conforme a: cualquier ley que defina la nacionalidad de una persona, require de consenso N4 para ser aprobada ó derrogada.
-Esto es para mitigar el vector de ataque mencionado en el artículo 3.
-Con un umbral algo mas bajo en el bootstrap? N3?
+
+revisar y releer art 4 y 5, y sus argumentaciones
 
 ## 3
-art16: el periodo de actualización distrital (21 años) está a N5 y sin rango de límites.
+art17: el periodo de actualización distrital (21 años) está a N5 y sin rango de límites.
 Es un parámetro electoral puro un nivel por debajo del resto de "cómo se elige", que está a N6.
 Vector de gerrymandering: con N5 se puede bajar a 2 años y redibujar distritos constantemente, ó subirlo a 200 y congelarlos mientras la demografía se mueve debajo.
-Subirlo a N6? Ó ponerle rango con los límites cerrados por el art. 67, como la edad de voto del art. 4? (p.ej. 15-30 años)
+Subirlo a N6? Ó ponerle rango con los límites cerrados por el art. 68, como la edad de voto del art. 5? (p.ej. 15-30 años)
 
 ## 4
 
@@ -20,7 +14,11 @@ En procesos de independencia, quien puede iniciar una declaración fomral? Cualq
 
 ## 5
 
-Revisar %s de los artículos 10-15. Un voto en blanco deberia ser un voto en contra de todos. Abstención, a este nivel, no es protesta, es pasivismo, que no cuente en contra etc, pero cuanto en contra claro, revisar %s.
+Revisar %s de los artículos 11-16. Un voto en blanco deberia ser un voto en contra de todos. Abstención, a este nivel, no es protesta, es pasivismo, que no cuente en contra etc, pero cuanto en contra claro, revisar %s.
 
-Analizar como estos %s promueven ó no la captación por grupos de interés. Pues revocación de un captado ya esta protegido y mitigado por le proceso de revocación art 11-12.
+Analizar como estos %s promueven ó no la captación por grupos de interés. Pues revocación de un captado ya esta protegido y mitigado por le proceso de revocación art 12-13.
+
+## 6
+
+Repensar cuales deben ser artículo pétreos. (los escritos con: ARTÍCULO XX)
 
