@@ -1,0 +1,79 @@
+# PROGRESS TRACKER
+
+Revisión manual del autor del artículo en la parte 1 y 2. Se marca [x] si además no tiene ningún TODO ni comentario en la parte 1 ni en la parte 2, y no está referenciado directamente en TOTHINK.md.
+
+**Completado: 7/73 (9.6%)** · actualizado 11/10/2026
+
+- [ ] art1
+- [x] art2
+- [ ] art3
+- [ ] art4
+- [ ] art5
+- [x] art6
+- [x] art7
+- [x] art8
+- [x] art9
+- [x] art10
+- [x] art11
+- [ ] art12
+- [ ] art13
+- [ ] art14
+- [ ] art15
+- [ ] art16
+- [ ] art17
+- [ ] art18
+- [ ] art19
+- [ ] art20
+- [ ] art21
+- [ ] art22
+- [ ] art23
+- [ ] art24
+- [ ] art25
+- [ ] art26
+- [ ] art27
+- [ ] art28
+- [ ] art29
+- [ ] art30
+- [ ] art31
+- [ ] art32
+- [ ] art33
+- [ ] art34
+- [ ] art35
+- [ ] art36
+- [ ] art37
+- [ ] art38
+- [ ] art39
+- [ ] art40
+- [ ] art41
+- [ ] art42
+- [ ] art43
+- [ ] art44
+- [ ] art45
+- [ ] art46
+- [ ] art47
+- [ ] art48
+- [ ] art49
+- [ ] art50
+- [ ] art51
+- [ ] art52
+- [ ] art53
+- [ ] art54
+- [ ] art55
+- [ ] art56
+- [ ] art57
+- [ ] art58
+- [ ] art59
+- [ ] art60
+- [ ] art61
+- [ ] art62
+- [ ] art63
+- [ ] art64
+- [ ] art65
+- [ ] art66
+- [ ] art67
+- [ ] art68
+- [ ] art69
+- [ ] art70
+- [ ] art71
+- [ ] art72
+- [ ] art73
