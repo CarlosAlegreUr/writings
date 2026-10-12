@@ -143,6 +143,8 @@ Los procedimientos penales contra cargos públicos deberán tramitarse con cará
 
 Toda persona que pierda un cargo público por condena penal firme queda inhabilitada permanentemente para ejercer cualquier cargo en la administración pública, con independencia del poder al que perteneciera el cargo. La modificación de esta inhabilitación requiere consenso de Nivel N5.
 
+Todo procedimiento que esta Constitución permite iniciar a cualquier persona ó ciudadano es gratuito.
+
 ---
 
 ### ARTÍCULO 9: Lengua Oficial
@@ -166,13 +168,13 @@ La designación de una lengua oficial no prohíbe el uso de otras lenguas en el 
 # TÍTULO II: SISTEMA ELECTORAL
 <!-- TODO: seguir revisión manual y de arg por aquí -->
 
-### Artículo 10: Representación por Distritos
+### ARTÍCULO 10: Representación por Distritos
 
 Los representantes del Poder Legislativo son elegidos por distritos territoriales mediante elección uninominal. Cada distrito elige un representante y dos suplentes conforme a los procesos descritos en los artículos 13 y 14.
 
 ---
 
-### Artículo 11: Revocabilidad de Representantes
+### ARTÍCULO 11: Revocabilidad de Representantes
 
 Los representantes del Poder Legislativo serán siempre revocables directamente por el pueblo del distrito que los eligió. Ninguna ley, reglamento ni decisión de ningún poder del Estado podrá suprimir este derecho.
 
@@ -183,12 +185,12 @@ Los representantes del Poder Legislativo serán siempre revocables directamente 
 Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 11.
 
 - Iniciativa:
-Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede iniciar un procedimiento de revocación. Esta capacidad de iniciativa individual solo puede modificarse mediante consenso de nivel N6.
+Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede iniciar un procedimiento de revocación.
 
 - Convocatoria:
 La recogida de firmas se anuncia oficialmente ante la autoridad competente del distrito: por defecto, cualquier juez local, ó en su ausencia, el cuerpo policial del distrito. El objetivo es reunir las firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
-La autoridad debe tramitar el anuncio en menos de un día. Incumplir esta obligación conlleva sentencia penal: un año de prisión por defecto y dos como máximo. La única excepción es la siguiente fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+La autoridad debe tramitar el anuncio en menos de un día desde que se le presenta. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 - Votación:
 Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es necesario para que la votación sea válida. El proceso completo de revocación, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
@@ -197,7 +199,7 @@ Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto c
 Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
 
 - Periodo de Reflexión:
-No puede convocarse nueva revocación contra el sucesor antes de haber transcurrido 4 meses desde su elección.
+No puede convocarse una nueva revocación contra el sucesor antes de haber transcurrido 4 meses desde su elección.
 
 - Revisión de Votos:
 Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el representante revocado emitió en el Poder Legislativo desde la convocatoria formal de la votación de revocación hasta la toma de posesión del sucesor. Si el nuevo voto altera el resultado de una decisión legislativa, prevalece el resultado nuevo. En todo caso, el cambio de representante y el voto final quedan registrados conforme al artículo 23.
@@ -205,7 +207,7 @@ Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el re
 - Configurabilidad:
 Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, Nivel N4 requerido para revocación exitosa, 7 días máximo para convocar nueva elección tras revocación, 4 meses de periodo de reflexión antes de nueva revocación, 2 semanas máximo de duración total del proceso, 25% de participación mínima del censo del distrito y 2 años mínimo censado en el distrito para poder votar en revocación.
 
-Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N2, pero el mecanismo de revocación en sí no puede eliminarse. Los detalles del Proceso de Arranque se establecen en el Título III de esta Constitución.
+Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N3, pero el mecanismo de revocación en sí no puede eliminarse. Los detalles del Proceso de Arranque se establecen en el Título III de esta Constitución.
 
 ---
 
@@ -213,9 +215,11 @@ Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse 
 
 Este artículo aplica a las elecciones de representantes por distrito que conformarán el Poder Legislativo.
 
+Las elecciones generales se celebran el mismo día en todos los distritos, 21 días después del fin del mandato del Poder Legislativo: dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 17. Terminan cuando todos los distritos cuentan con representante, incluidas las elecciones resolutorias del artículo 14. Todo día en que se celebre una elección es festivo, incluidas las elecciones resolutorias.
+
 En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra una segunda vuelta entre los dos candidatos más votados en un plazo máximo de 7 días. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
 
-Un mínimo de participación del 25% del censo del distrito es necesario para que la elección sea válida en cada vuelta. Si no se alcanza este mínimo en cualquiera de las vueltas, se repite la elección completa desde la primera vuelta dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido.
+Un mínimo de participación del 25% del censo del distrito es necesario para que la primera vuelta sea válida. Si no se alcanza, se repite la elección dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido. La segunda vuelta no tiene mínimo de participación.
 
 En toda votación figura la opción "Ninguno", que se trata como un candidato más a efectos de recuento. Si resulta la más votada en la vuelta decisiva, el cargo queda vacante.
 
@@ -223,19 +227,25 @@ Si no se presenta ningún candidato, se abre un plazo de 2 semanas para nuevas c
 
 Un cargo vacante se cubre mediante el procedimiento de revocación del artículo 12, aplicado a la vacante: si prospera, se convoca nueva elección en el plazo que dicho artículo establece. Un escaño de representante vacante computa conforme al artículo 23.
 
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 25% de participación mínima del censo del distrito, 7 días máximo entre primera y segunda vuelta y 7 días máximo para repetir la elección si no se alcanza la participación mínima y 2 semanas de plazo para nuevas candidaturas.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 25% de participación mínima del censo del distrito en primera vuelta, 7 días máximo entre primera y segunda vuelta, 7 días máximo para repetir la elección si no se alcanza la participación mínima, 2 semanas de plazo para nuevas candidaturas, 21 días desde el fin del mandato hasta las elecciones generales y 2 semanas de campaña electoral.
 
 ---
 
 ### Artículo 14: Candidaturas y Asignación de Cargos
 
-Quien se presenta a representante es candidato a todos los cargos electos del distrito, incluidas las elecciones de relleno de este artículo. Cuando un distrito queda sin representante ni suplentes disponibles, se convoca una nueva elección conforme al artículo 13.
+Puede presentarse como candidato cualquier ciudadano con derecho a voto que lleve al menos 2 años censado en el distrito.
+
+La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, desde que comienza el periodo de campaña hasta que comienza el periodo de reflexión del artículo 17. La autoridad debe inscribir la candidatura en menos de un día desde que se le presenta. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+
+Las candidaturas son públicas desde su inscripción y quien se presenta es candidato a todos los cargos electos del distrito, incluidas las elecciones resolutorias de este artículo.
 
 Todos los cargos electos del distrito, el representante y sus dos suplentes, se eligen mediante el sistema establecido en el artículo 13, de forma simultánea y en la misma elección.
 
-Una misma persona no podrá ocupar más de un cargo electo del distrito a la vez. Si resulta elegida para varios, ocupa el de mayor importancia, en este orden: representante, primer suplente, segundo suplente. El cargo que quede vacante por esta causa se vuelve a elegir, empezando el proceso el día siguiente tras el recuento, mediante el mismo proceso del artículo 13. A esa repetición solo pueden presentarse personas que no ocupen ya un cargo electo del distrito.
+Una misma persona no podrá ocupar más de un cargo electo del distrito a la vez. Si resulta elegida para varios, ocupa el de mayor importancia, en este orden: representante, primer suplente, segundo suplente. El cargo que quede vacante por esta causa se vuelve a elegir en una elección resolutoria, empezando el proceso el día siguiente tras el recuento, mediante el mismo proceso del artículo 13. A una elección resolutoria puede presentarse cualquier persona elegible que no haya obtenido cargo en cualquiera de las elecciones anteriores a la resolutoria durante el mismo ciclo electoral.
 
-Puede ser necesaria una elección para cubrir únicamente la vacante de un suplente, sin que afecte al representante ni a ningún otro cargo ya ganado conforme a los umbrales del artículo 13.
+Cuando un distrito queda sin representante ni suplentes disponibles, se convoca una nueva elección conforme al artículo 13.
+
+El plazo de 2 años censado en el distrito puede modificarse mediante consenso de nivel N6.
 
 ---
 
@@ -359,6 +369,8 @@ El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en 
 1. Aprobar, modificar o derogar leyes.
 2. Aprobar el presupuesto anual del Estado.
 3. Aprobar o rechazar el presupuesto propuesto por el Poder Judicial conforme al artículo 32.
+
+Al concluir el mandato, los representantes salientes conservan sus cargos hasta que terminan las elecciones generales conforme al artículo 13. Durante ese periodo el Poder Legislativo conserva todas sus funciones salvo las dos primeras de este artículo y la aprobación de reformas constitucionales.
 
 ---
 
@@ -703,7 +715,7 @@ Cada procedimiento se referirá a una sola decisión legislativa. Cada ciudadano
 
 La recogida de firmas se anuncia oficialmente ante la autoridad competente: por defecto, cualquier juez, ó en su ausencia, el cuerpo policial. El objetivo es reunir las firmas del 10% del censo nacional en un plazo máximo de 62 días.
 
-Una misma autoridad no está obligada a tramitar más de dos anuncios por día. Sin embargo, esos dos anuncios deben tramitarse en menos de un día cada uno. Incumplir esta obligación conlleva sentencia penal: un año de prisión por defecto y dos como máximo. La única excepción es la siguiente fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+Una misma autoridad no está obligada a tramitar más de dos anuncios por día. Sin embargo, esos dos anuncios debe tramitarlos en menos de un día desde que se le presentan. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 - Votación:
 Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto. El proceso completo, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
@@ -947,19 +959,21 @@ La finalización no requiere acto positivo adicional: opera automáticamente. Tr
 
 Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 69 y 70. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 68:
 
-1. Soberanía Popular (artículo 1): El poder reside en el pueblo mediante los mecanismos de representación uninominal directa en distritos pequeños y revocabilidad del mandato al individuo al cual el poder ha sido delegado.
+1. Soberanía Popular (artículo 1): El poder reside en el pueblo y lo ejerce mediante los mecanismos establecidos en esta Constitución.
 2. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
-3. Nacionalidad (artículo 4): La nacionalidad garantizada a los arraigados y el mínimo de residencia para la nacionalización no pueden ser eliminados ni reducidos.
-4. Derecho al Sufragio (artículo 5): Derecho al voto de todo ciudadano mayor de edad.
-5. Garantías del Voto (artículo 6): El voto es secreto, indelegable, verificable y auditable. Ninguna de estas propiedades puede ser eliminada salvo mediante este procedimiento.
-6. Garantía de Anulación Popular (artículo 47): El derecho a anular directamente decisiones legislativas y su procedimiento por defecto no pueden ser suprimidos.
-7. Igualdad ante la Ley (artículo 8): Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo.
-8. Lengua Oficial (artículo 9): El Estado debe tener al menos una lengua oficial con carácter obligatorio en legislación, justicia, administración y educación.
-9. Separación de Poderes (artículo 20): Independencia de poderes Legislativo, Ejecutivo y Judicial.
-10. Equilibrio de Poderes (artículo 39): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
-11. Supremacía Constitucional (artículo 42): Esta Constitución es la norma suprema del ordenamiento jurídico.
-12. Derecho y Procedimientos de Reforma Constitucional (artículos del 68 al 70 incluidos): El pueblo conserva siempre el derecho de reformar esta Constitución mediante los procedimientos establecidos. Los procedimientos de reforma no pueden ser suprimidos.
-13. Derechos Fundamentales del Sistema Democrático (artículo 72): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
+3. Representación Uninominal por Distritos (artículo 10): Cada distrito elige directamente a un representante. Este mecanismo no puede ser sustituido.
+4. Revocabilidad de Representantes (artículo 11): El derecho del distrito a revocar a su representante no puede ser suprimido.
+5. Nacionalidad (artículo 4): La nacionalidad garantizada a los arraigados y el mínimo de residencia para la nacionalización no pueden ser eliminados ni reducidos.
+6. Derecho al Sufragio (artículo 5): Derecho al voto de todo ciudadano mayor de edad.
+7. Garantías del Voto (artículo 6): El voto es secreto, indelegable, verificable y auditable. Ninguna de estas propiedades puede ser eliminada salvo mediante este procedimiento.
+8. Garantía de Anulación Popular (artículo 47): El derecho a anular directamente decisiones legislativas y su procedimiento por defecto no pueden ser suprimidos.
+9. Igualdad ante la Ley (artículo 8): Ningún miembro de los poderes del Estado goza de inmunidad ni privilegio legal alguno por razón de su cargo.
+10. Lengua Oficial (artículo 9): El Estado debe tener al menos una lengua oficial con carácter obligatorio en legislación, justicia, administración y educación.
+11. Separación de Poderes (artículo 20): Independencia de poderes Legislativo, Ejecutivo y Judicial.
+12. Equilibrio de Poderes (artículo 39): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
+13. Supremacía Constitucional (artículo 42): Esta Constitución es la norma suprema del ordenamiento jurídico.
+14. Derecho y Procedimientos de Reforma Constitucional (artículos del 68 al 70 incluidos): El pueblo conserva siempre el derecho de reformar esta Constitución mediante los procedimientos establecidos. Los procedimientos de reforma no pueden ser suprimidos.
+15. Derechos Fundamentales del Sistema Democrático (artículo 72): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
 
 ---
 
@@ -996,9 +1010,9 @@ Los parámetros de este artículo pueden modificarse mediante los procedimientos
 Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 67, puede reformarse mediante el siguiente procedimiento:
 
 1. Vía legislativa: Aprobación por consenso de Nivel N4 del Poder Legislativo.
-2. Vía popular: Aprobación mediante referéndum con consenso de Nivel N1 de votos válidos y participación mínima del 50% del censo nacional.
+2. Vía popular: Aprobación mediante referéndum con consenso de Nivel N1 de votos válidos y participación mínima de Nivel N2 del censo nacional.
 
-Cuando un artículo contiene parámetros con un nivel de protección específico superior a N4, la reforma del artículo en su conjunto requiere un consenso igual o superior al mayor nivel de protección de los parámetros que contiene.
+Cuando un artículo contiene parámetros con un nivel de protección específico, cualquier reforma de ese artículo, sea de una parte ó de su conjunto, requiere un consenso igual ó superior al mayor nivel de protección de los parámetros que contiene, y nunca inferior al establecido en este artículo. Como única excepción, un parámetro cuyo nivel de protección sea inferior a ese máximo puede modificarse, él solo, con su propio nivel.
 
 La reforma ordinaria entra en vigor transcurrida 1 semana desde la aprobación.
 
