@@ -20,12 +20,6 @@ en el art1 hay un todo qu eigual es muy relevante?
 
 En procesos de independencia, quien puede iniciar una declaración fomral? Cualquiera? No. Quiza aunque la constitucion proteja el derecho, mediante legislacion ordinaria en la practica se restringe con limites arbitrarios de yo que se, 10 millones de personas y cosas asi. Si no se me ocurre como solucionarlo habría que aclarar este vector de ataque en la argumentación de la parte 2.
 
-## 5
-
-Revisar %s de los artículos 10-15. Un voto en blanco deberia ser un voto en contra de todos. Abstención, a este nivel, no es protesta, es pasivismo, que no cuente en contra etc, pero cuanto en contra claro, revisar %s.
-
-Analizar como estos %s promueven ó no la captación por grupos de interés. Pues revocación de un captado ya esta protegido y mitigado por le proceso de revocación art 11-12.
-
 ## 6
 
 Repensar cuales deben ser artículo pétreos. (los escritos con: ARTÍCULO XX)

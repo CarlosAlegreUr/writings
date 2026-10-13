@@ -57,6 +57,8 @@ Esta Constitución establece seis niveles de consenso para la toma de decisiones
 
 Salvo indicación explícita en contrario, los porcentajes se calculan sobre el total de votos válidos emitidos. Cuando un artículo especifica "del censo", el porcentaje se calcula sobre el censo electoral conforme al artículo 3. Las votaciones del Poder Legislativo se rigen por la regla específica establecida en el artículo 23.
 
+Cuando el cálculo de cualquier porcentaje de esta Constitución no dé un número entero, el resultado se trunca al entero inferior. Esta regla se aplica a todo porcentaje que intervenga en un cómputo, sea un nivel de consenso, un umbral de firmas, una participación ó cualquier otro.
+
 ---
 
 ### Artículo 3: Sujetos Constitucionales y Alcance de sus Derechos
@@ -69,7 +71,7 @@ Esta Constitución reconoce tres categorías de sujetos:
 
 Cuando esta Constitución dice "el pueblo", se refiere al conjunto de ciudadanos.
 
-Cuando esta Constitución dice "censo", se refiere al censo electoral: el registro de ciudadanos con derecho a voto. El ámbito del censo, ya sea nacional o distrital, se especifica en cada artículo.
+Cuando esta Constitución dice "censo", se refiere al censo electoral: el registro de ciudadanos con derecho a voto. El ámbito del censo, ya sea nacional o distrital, se especifica en cada artículo. El censo de un distrito lo forman los ciudadanos con derecho a voto que lleven al menos 4 años censados en él, con las excepciones del artículo 16. Este plazo puede modificarse mediante consenso de Nivel N6.
 
 Salvo restricción explícita en esta Constitución o en ley conforme a ella, toda persona goza de los derechos y protecciones establecidos para personas. Todo ciudadano goza además de los derechos y protecciones establecidos para ciudadanos. Y todo ciudadano con derecho a voto goza además de los derechos y protecciones establecidos para ciudadanos con derecho a voto.
 
@@ -115,7 +117,7 @@ El voto es verificable: cada votante puede comprobar que su voto fue contabiliza
 
 El voto puede ejercerse remotamente mediante un sistema que garantice las propiedades mencionadas en este artículo: secreto, indelegable y verificable.
 
-Esta Constitución no prescribe una tecnología específica: lo que importa son las garantías del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas independientemente de la tecnología empleada. Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque conforme al Título III.
+Esta Constitución no prescribe una tecnología específica: lo que importa son las garantías del proceso, no el método técnico concreto. El sistema debe cumplir las garantías establecidas independientemente de la tecnología empleada. Los detalles tecnológicos y organizativos específicos para implementar estas garantías se definen durante el Proceso de Arranque.
 
 Si un proceso de votación incumplió las garantías establecidas en este artículo, cualquier ciudadano con derecho a voto puede instar su nulidad ante el Poder Judicial. Si el número de votos afectados es suficiente para haber alterado el resultado, el juez declarará la votación nula y esta debe repetirse. Los responsables quedarán sujetos en todo caso a las consecuencias penales que establezca la legislación ordinaria.
 
@@ -151,7 +153,7 @@ Todo procedimiento que esta Constitución permite iniciar a cualquier persona ó
 
 El Estado tiene una única lengua oficial. La lengua oficial es la lengua en la que se redactan las leyes, se conducen los procedimientos judiciales, se ejerce la administración pública y se garantiza la enseñanza obligatoria. En caso de conflicto de interpretación entre versiones lingüísticas de una norma, prevalece la versión en lengua oficial.
 
-Por defecto, la lengua oficial es aquella que ostentaba dicha condición en el régimen anterior a la entrada en vigor de esta Constitución. Durante el Proceso de Arranque conforme al Título III, el Poder Legislativo puede confirmar o modificar la lengua oficial mediante consenso de Nivel N4.
+Por defecto, la lengua oficial es aquella que ostentaba dicha condición en el régimen anterior a la entrada en vigor de esta Constitución. Durante el Proceso de Arranque, el Poder Legislativo puede confirmar o modificar la lengua oficial mediante consenso de Nivel N4.
 
 La designación de una lengua oficial no prohíbe el uso de otras lenguas en el ámbito privado ni en la vida pública. El Estado puede reconocer lenguas cooficiales en territorios específicos mediante legislación ordinaria, siempre que la lengua oficial mantenga su carácter obligatorio en los ámbitos establecidos en este artículo.
 
@@ -166,7 +168,6 @@ La designación de una lengua oficial no prohíbe el uso de otras lenguas en el 
 ---
 
 # TÍTULO II: SISTEMA ELECTORAL
-<!-- TODO: seguir revisión manual y de arg por aquí -->
 
 ### ARTÍCULO 10: Representación por Distritos
 
@@ -190,10 +191,14 @@ Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede i
 - Convocatoria:
 La recogida de firmas se anuncia oficialmente ante la autoridad competente del distrito: por defecto, cualquier juez local, ó en su ausencia, el cuerpo policial del distrito. El objetivo es reunir las firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
-La autoridad debe tramitar el anuncio en menos de un día desde que se le presenta. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+Lo único que puede exigirse a quien anuncia la recogida es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto y que pertenece al censo del distrito; nada más puede pedírsele. Si el anuncio se rechaza por documentación inválida ó incompleta, puede volver a presentarse pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito.
+
+Presentado el documento válido, la autoridad debe tramitar el anuncio en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+
+Si la autoridad rechaza tramitar el anuncio debido a fallos en el proceso por parte del ciudadano con derecho a voto que lo presenta, debe notificar por escrito los motivos del rechazo y guardar una copia de lo sucedido en un historial públicamente accesible. En caso de tramitación rechazada, el ciudadano con derecho a voto siempre podrá volver a intentarlo al día siguiente.
 
 - Votación:
-Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto censado en el distrito que lleve al menos 2 años censado en el mismo. Un mínimo de participación del 25% del censo del distrito es necesario para que la votación sea válida. El proceso completo de revocación, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
+Una vez convocada, la votación es abierta a todo ciudadano del censo del distrito. Un mínimo de participación del 51% del censo del distrito es necesario para que la votación sea válida; si no se alcanza, la revocación no prospera y puede volver a iniciarse. El proceso completo de revocación, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
 
 - Efecto:
 Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
@@ -205,9 +210,9 @@ No puede convocarse una nueva revocación contra el sucesor antes de haber trans
 Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el representante revocado emitió en el Poder Legislativo desde la convocatoria formal de la votación de revocación hasta la toma de posesión del sucesor. Si el nuevo voto altera el resultado de una decisión legislativa, prevalece el resultado nuevo. En todo caso, el cambio de representante y el voto final quedan registrados conforme al artículo 23.
 
 - Configurabilidad:
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, Nivel N4 requerido para revocación exitosa, 7 días máximo para convocar nueva elección tras revocación, 4 meses de periodo de reflexión antes de nueva revocación, 2 semanas máximo de duración total del proceso, 25% de participación mínima del censo del distrito y 2 años mínimo censado en el distrito para poder votar en revocación.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, Nivel N4 requerido para revocación exitosa, 7 días máximo para convocar nueva elección tras revocación, 4 meses de periodo de reflexión antes de nueva revocación, 2 semanas máximo de duración total del proceso, 51% de participación mínima del censo del distrito.
 
-Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N3, pero el mecanismo de revocación en sí no puede eliminarse. Los detalles del Proceso de Arranque se establecen en el Título III de esta Constitución.
+Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N3, pero el mecanismo de revocación en sí no puede eliminarse.
 
 ---
 
@@ -219,7 +224,7 @@ Las elecciones generales se celebran el mismo día en todos los distritos, 21 d�
 
 En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra una segunda vuelta entre los dos candidatos más votados en un plazo máximo de 7 días. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
 
-Un mínimo de participación del 25% del censo del distrito es necesario para que la primera vuelta sea válida. Si no se alcanza, se repite la elección dentro de 7 días. Así sucesivamente hasta que se alcance el mínimo de participación requerido. La segunda vuelta no tiene mínimo de participación.
+Un mínimo de participación del 51% del censo del distrito es necesario para que la primera vuelta sea válida. Si no se alcanza, la elección se repite una sola vez, dentro de 7 días. Si tampoco se alcanza entonces, el cargo queda vacante. La segunda vuelta no tiene mínimo de participación.
 
 En toda votación figura la opción "Ninguno", que se trata como un candidato más a efectos de recuento. Si resulta la más votada en la vuelta decisiva, el cargo queda vacante.
 
@@ -227,15 +232,15 @@ Si no se presenta ningún candidato, se abre un plazo de 2 semanas para nuevas c
 
 Un cargo vacante se cubre mediante el procedimiento de revocación del artículo 12, aplicado a la vacante: si prospera, se convoca nueva elección en el plazo que dicho artículo establece. Un escaño de representante vacante computa conforme al artículo 23.
 
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 25% de participación mínima del censo del distrito en primera vuelta, 7 días máximo entre primera y segunda vuelta, 7 días máximo para repetir la elección si no se alcanza la participación mínima, 2 semanas de plazo para nuevas candidaturas, 21 días desde el fin del mandato hasta las elecciones generales y 2 semanas de campaña electoral.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 51% de participación mínima del censo del distrito en primera vuelta, 7 días máximo entre primera y segunda vuelta, 1 repetición y 7 días máximo para repetirla si no se alcanza la participación mínima, 2 semanas de plazo para nuevas candidaturas, 21 días desde el fin del mandato hasta las elecciones generales y 2 semanas de campaña electoral.
 
 ---
 
 ### Artículo 14: Candidaturas y Asignación de Cargos
 
-Puede presentarse como candidato cualquier ciudadano con derecho a voto que lleve al menos 2 años censado en el distrito.
+Puede presentarse como candidato cualquier ciudadano con derecho a voto que pertenezca al censo del distrito.
 
-La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, desde que comienza el periodo de campaña hasta que comienza el periodo de reflexión del artículo 17. La autoridad debe inscribir la candidatura en menos de un día desde que se le presenta. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, desde que comienza el periodo de campaña hasta que comienza el periodo de reflexión del artículo 17. Lo único que puede exigirse al candidato es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto, que pertenece al censo del distrito y que cumple las condiciones del artículo 5; nada más puede pedírsele. Si la inscripción se rechaza por documentación inválida ó incompleta, el candidato puede volver a presentarla pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito. Presentado el documento válido, la autoridad debe inscribir la candidatura en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 Las candidaturas son públicas desde su inscripción y quien se presenta es candidato a todos los cargos electos del distrito, incluidas las elecciones resolutorias de este artículo.
 
@@ -245,11 +250,9 @@ Una misma persona no podrá ocupar más de un cargo electo del distrito a la vez
 
 Cuando un distrito queda sin representante ni suplentes disponibles, se convoca una nueva elección conforme al artículo 13.
 
-El plazo de 2 años censado en el distrito puede modificarse mediante consenso de nivel N6.
-
 ---
 
-### Artículo 15: Tamaño de Distritos
+### Artículo 15: Tamaño de Distritos y Delimitación
 
 El tamaño de cada distrito es de 95.000 a 120.000 habitantes. La cifra exacta se determina mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD), cuyas especificaciones completas son las siguientes:
 
@@ -261,7 +264,7 @@ Datos de entrada:
 3. Mapa geográfico del territorio nacional.
 
 Restricciones:
-1. Cada distrito tiene entre 95.000 y 120.000 habitantes.
+1. Cada distrito tiene entre 95.000 y 120.000 habitantes, salvo en las excepciones establecidas en las restricciones siguientes.
 2. Continuidad geográfica: cada distrito debe ser un territorio continuo, sin enclaves ni exclaves.
 3. Coherencia histórico-cultural: la delimitación respeta fronteras provinciales, municipales o comarcales. Solo puede cruzar estas fronteras cuando sea estrictamente necesario para cumplir las restricciones de población establecidas en este artículo.
 4. Excepción por imposibilidad geográfica: cuando las restricciones de continuidad geográfica y coherencia histórico-cultural impidan formar un distrito dentro del rango de población establecido, se permite que ese distrito exceda o no alcance los límites, siempre que la desviación sea la mínima necesaria.
@@ -270,13 +273,23 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ---
 
-### Artículo 16: Actualización Distrital Periódica
+### Artículo 16: Actualización de Distritos y Censo Distrital
 
 Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD) conforme al artículo 15. Las especificaciones completas del AOCD se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado por el Poder Legislativo mediante consenso de Nivel N1.
 
 Si el Legislativo rechaza la actualización, la comisión puede ejecutar una nueva propuesta con datos corregidos o actualizados. Si la nueva propuesta es también rechazada, se mantiene la distribución de distritos vigente hasta la siguiente actualización programada.
 
 La primera distribución de distritos será establecida durante el Proceso de Transición (artículo 18). La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
+
+Entre dos actualizaciones un distrito puede quedar por debajo del mínimo del artículo 15. Quien cambia de distrito sigue perteneciendo al censo del anterior hasta cumplir los 4 años del artículo 3.
+
+Cuando la población del distrito crezca por las causas siguientes y supere los 120.000 habitantes, los ciudadanos con derecho a voto que lleguen a él se contabilizarán así, por orden de antigüedad en el censo del distrito:
+
+1. Quien llega desde otro distrito sigue perteneciendo al censo del anterior hasta que haya hueco ó hasta la siguiente actualización.
+2. Quien regresa del extranjero vuelve al distrito al que pertenecía al marcharse. Si está completo, puede esperar a la siguiente actualización sin pertenecer a ningún distrito, conservando el voto en todas las votaciones que se computan sobre el censo nacional, ó elegir cualquier distrito con hueco, en el que queda obligado a residir 4 años.
+<!-- TODO: nacimientos y votaciones desde el extranjero al distrito -->
+
+A efectos de las obligaciones de residencia de esta Constitución, se considera que una persona reside en un distrito cuando pasa en él más del 75% de los días del año. La pertenencia al censo de un distrito depende únicamente de estar censado en él.
 
 El periodo de actualización distrital de 21 años puede modificarse mediante consenso de Nivel N5.
 
@@ -359,6 +372,8 @@ La financiación de cada poder debe ser la descrita en los artículos del 30 al 
 ### Artículo 21: Poder Legislativo - Composición
 
 El Poder Legislativo se compone de una cámara única de representantes elegidos por distritos territoriales conforme al artículo 10. Los representantes son elegidos por mandato de 4 años y son revocables directamente por el pueblo de su distrito conforme a los artículos 11 y 12.
+
+Al concluir su mandato, por la causa que sea, el representante, y el suplente que haya ocupado el escaño, quedan obligados a residir en su distrito durante 4 años. Incumplirlo conlleva sentencia penal de 4 años de prisión como mínimo y 8 como máximo, que se cumple en una prisión del distrito ó, si no la hay ó está a su capacidad máxima, en la del distrito más cercano que tenga capacidad. Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6.
 
 ---
 
@@ -715,6 +730,8 @@ Cada procedimiento se referirá a una sola decisión legislativa. Cada ciudadano
 
 La recogida de firmas se anuncia oficialmente ante la autoridad competente: por defecto, cualquier juez, ó en su ausencia, el cuerpo policial. El objetivo es reunir las firmas del 10% del censo nacional en un plazo máximo de 62 días.
 
+Lo único que puede exigirse a quien anuncia la recogida es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto; nada más puede pedírsele. Si el anuncio se rechaza por documentación inválida ó incompleta, puede volver a presentarse pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente.
+
 Una misma autoridad no está obligada a tramitar más de dos anuncios por día. Sin embargo, esos dos anuncios debe tramitarlos en menos de un día desde que se le presentan. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 - Votación:
@@ -1035,6 +1052,8 @@ Ningún derecho fundamental, ya sea esencial (artículo 72) o complementario (ar
 
 Las restricciones de derechos derivadas de condena penal firme se rigen por la ley, dentro de los límites de esta Constitución.
 
+Las condenas establecidas en esta Constitución no admiten reducción por ningún motivo.
+
 ---
 
 ---
@@ -1065,7 +1084,7 @@ Los siguientes derechos son condiciones necesarias para el funcionamiento de los
 
 ### Artículo 73: Derechos Fundamentales Complementarios
 
-Durante el Proceso de Arranque conforme al Título III, el pueblo definirá mediante consenso de Nivel N2 el catálogo de derechos fundamentales complementarios a los establecidos en el artículo 72. Este catálogo podrá incluir, entre otros: derecho a la privacidad general y la soledad, a la propiedad, al comercio de bienes y servicios, a la práctica religiosa, a la práctica lúdica y recreativa, a la reproducción y vida familiar, al trabajo y profesión, a la educación, a la comunicación privada, a la protección estatal, al movimiento y a la vida.
+Durante el Proceso de Arranque, el pueblo definirá mediante consenso de Nivel N2 el catálogo de derechos fundamentales complementarios a los establecidos en el artículo 72. Este catálogo podrá incluir, entre otros: derecho a la privacidad general y la soledad, a la propiedad, al comercio de bienes y servicios, a la práctica religiosa, a la práctica lúdica y recreativa, a la reproducción y vida familiar, al trabajo y profesión, a la educación, a la comunicación privada, a la protección estatal, al movimiento y a la vida.
 
 Una vez adoptado, la adición, modificación o eliminación de cualquier derecho del catálogo requiere consenso de Nivel N5.
 
