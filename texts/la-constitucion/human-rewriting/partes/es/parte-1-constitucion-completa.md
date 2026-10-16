@@ -191,26 +191,30 @@ Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede i
 - Convocatoria:
 La recogida de firmas se anuncia oficialmente ante la autoridad competente del distrito: por defecto, cualquier juez local, ó en su ausencia, el cuerpo policial del distrito. El objetivo es reunir las firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
-Lo único que puede exigirse a quien anuncia la recogida es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto y que pertenece al censo del distrito; nada más puede pedírsele. Si el anuncio se rechaza por documentación inválida ó incompleta, puede volver a presentarse pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito.
+Lo único que puede exigirse a quien anuncia la recogida es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto y que pertenece al censo del distrito; nada más puede pedírsele.
+
+Si el anuncio se rechaza por documentación inválida ó incompleta, puede volver a presentarse pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito. Si la autoridad rechaza tramitar el anuncio debido a fallos en el proceso por parte del ciudadano con derecho a voto que lo presenta, debe notificar por escrito los motivos del rechazo y guardar una copia de lo sucedido en un historial públicamente accesible.
 
 Presentado el documento válido, la autoridad debe tramitar el anuncio en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
-Si la autoridad rechaza tramitar el anuncio debido a fallos en el proceso por parte del ciudadano con derecho a voto que lo presenta, debe notificar por escrito los motivos del rechazo y guardar una copia de lo sucedido en un historial públicamente accesible. En caso de tramitación rechazada, el ciudadano con derecho a voto siempre podrá volver a intentarlo al día siguiente.
-
 - Votación:
-Una vez convocada, la votación es abierta a todo ciudadano del censo del distrito. Un mínimo de participación del 51% del censo del distrito es necesario para que la votación sea válida; si no se alcanza, la revocación no prospera y puede volver a iniciarse. El proceso completo de revocación, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
+Una vez convocada, la votación es abierta a todo ciudadano del censo del distrito. La votación de revocación se celebra 14 días después de la convocatoria formal de la votación. Si los votos a favor no alcanzan el umbral de revocación, la revocación no prospera y solo puede intentarse de nuevo iniciando otro procedimiento completo, desde la recogida de firmas.
 
-- Efecto:
-Si el resultado alcanza el nivel de consenso N4 a favor de la revocación, el mandato queda extinguido y se convoca nueva elección en un plazo máximo de 7 días.
+Si los votos a favor de la revocación alcanzan el umbral de revocación del distrito, el mandato queda extinguido y se convocan nuevas elecciones conforme a los artículos 13 y 14 en un plazo máximo de 7 días. El elegido completa el mandato en curso.
 
-- Periodo de Reflexión:
-No puede convocarse una nueva revocación contra el sucesor antes de haber transcurrido 4 meses desde su elección.
+- Umbral de revocación:
+El umbral de revocación es, por defecto, el 75% del censo del distrito, Nivel N4. Cada distrito puede fijar el suyo entre el 63% y el 75% de su censo. En cada elección general, incluidas las primeras del Proceso de Transición, la papeleta del distrito incluye la cuestión de si se modifica el umbral y, en caso afirmativo, a qué valor dentro de ese rango. Si los votos afirmativos alcanzan el Nivel N1 del censo del distrito, el nuevo umbral es la media de los valores elegidos por esos votos, truncada conforme al artículo 2.
 
 - Revisión de Votos:
 Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el representante revocado emitió en el Poder Legislativo desde la convocatoria formal de la votación de revocación hasta la toma de posesión del sucesor. Si el nuevo voto altera el resultado de una decisión legislativa, prevalece el resultado nuevo. En todo caso, el cambio de representante y el voto final quedan registrados conforme al artículo 23.
 
+Si una decisión legislativa anulada por la revisión de votos causó perjuicios a ciudadanos mientras estuvo vigente, estos serán compensados conforme a la ley, dentro de los límites de esta Constitución.
+
+- Solapamiento con las elecciones generales:
+Si las elecciones generales se celebran entre la convocatoria formal de la votación de revocación y su resultado, las elecciones generales se celebran igualmente, no se convocan las nuevas elecciones del apartado de votación, y el procedimiento de revocación continúa hasta su resultado. Si la revocación prospera, la revisión de votos se aplica al representante elegido en las elecciones generales, salvo que sea la misma persona revocada.
+
 - Configurabilidad:
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, Nivel N4 requerido para revocación exitosa, 7 días máximo para convocar nueva elección tras revocación, 4 meses de periodo de reflexión antes de nueva revocación, 2 semanas máximo de duración total del proceso, 51% de participación mínima del censo del distrito.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, 2 horas para volver a presentar un anuncio rechazado, 1 día máximo para tramitar el anuncio, 1 y 2 años de prisión por no tramitarlo, 14 días entre la convocatoria formal y la votación, 75% del censo del distrito como umbral de revocación por defecto, 63% y 75% como límites del umbral de cada distrito y 7 días máximo para convocar nuevas elecciones tras dicha revocación.
 
 Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N3, pero el mecanismo de revocación en sí no puede eliminarse.
 
@@ -220,7 +224,9 @@ Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse 
 
 Este artículo aplica a las elecciones de representantes por distrito que conformarán el Poder Legislativo.
 
-Las elecciones generales se celebran el mismo día en todos los distritos, 21 días después del fin del mandato del Poder Legislativo: dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 17. Terminan cuando todos los distritos cuentan con representante, incluidas las elecciones resolutorias del artículo 14. Todo día en que se celebre una elección es festivo, incluidas las elecciones resolutorias.
+Las elecciones generales se celebran el mismo día en todos los distritos, 21 días después del fin del mandato del Poder Legislativo. Estos 21 días están compuestos por dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 17. Terminan cuando todos los distritos cuentan con representante, incluidas las elecciones resolutorias del artículo 14. Todo día en que se celebre una elección es festivo, incluidas las elecciones resolutorias. En las elecciones generales se vota también el umbral de revocación del distrito conforme al artículo 12.
+
+Las elecciones de distrito convocadas tras una revocación, por vacante, por anulación ó como resolutorias del artículo 14 se celebran 7 días después de su convocatoria. En las elecciones generales, la inscripción de candidaturas está abierta desde que comienza la campaña hasta que comienza el periodo de reflexión del artículo 17; en las demás elecciones, desde su convocatoria hasta 2 días antes de la votación.
 
 En la primera vuelta electoral, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra una segunda vuelta entre los dos candidatos más votados en un plazo máximo de 7 días. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
 
@@ -232,7 +238,7 @@ Si no se presenta ningún candidato, se abre un plazo de 2 semanas para nuevas c
 
 Un cargo vacante se cubre mediante el procedimiento de revocación del artículo 12, aplicado a la vacante: si prospera, se convoca nueva elección en el plazo que dicho artículo establece. Un escaño de representante vacante computa conforme al artículo 23.
 
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 51% de participación mínima del censo del distrito en primera vuelta, 7 días máximo entre primera y segunda vuelta, 1 repetición y 7 días máximo para repetirla si no se alcanza la participación mínima, 2 semanas de plazo para nuevas candidaturas, 21 días desde el fin del mandato hasta las elecciones generales y 2 semanas de campaña electoral.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 51% de votos válidos requerido en primera vuelta, 51% de participación mínima del censo del distrito en primera vuelta, 7 días máximo entre primera y segunda vuelta, 1 repetición y 7 días máximo para repetirla si no se alcanza la participación mínima, 2 semanas de plazo para nuevas candidaturas, 21 días desde el fin del mandato hasta las elecciones generales, 2 semanas de campaña electoral, 7 días entre la convocatoria y la votación en las elecciones no generales y 2 días de cierre de la inscripción de candidaturas antes de la votación.
 
 ---
 
@@ -240,7 +246,7 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 Puede presentarse como candidato cualquier ciudadano con derecho a voto que pertenezca al censo del distrito.
 
-La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, desde que comienza el periodo de campaña hasta que comienza el periodo de reflexión del artículo 17. Lo único que puede exigirse al candidato es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto, que pertenece al censo del distrito y que cumple las condiciones del artículo 5; nada más puede pedírsele. Si la inscripción se rechaza por documentación inválida ó incompleta, el candidato puede volver a presentarla pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito. Presentado el documento válido, la autoridad debe inscribir la candidatura en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, dentro del plazo de inscripción que establece el artículo 13. Lo único que puede exigirse al candidato es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto, que pertenece al censo del distrito y que cumple las condiciones del artículo 5; nada más puede pedírsele. Si la inscripción se rechaza por documentación inválida ó incompleta, el candidato puede volver a presentarla pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito. Presentado el documento válido, la autoridad debe inscribir la candidatura en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 Las candidaturas son públicas desde su inscripción y quien se presenta es candidato a todos los cargos electos del distrito, incluidas las elecciones resolutorias de este artículo.
 
@@ -309,10 +315,10 @@ Protección contra financiación ilegal:
 Si se detecta que la cuantía total recaudada por todos los candidatos supera el máximo legal permitido, definido como el número de ciudadanos con derecho a voto multiplicado por la donación máxima individual, la elección será declarada nula. Los fondos serán expropiados y devueltos a los donantes. El dinero sobrante será distribuido equitativamente entre todos los candidatos en las nuevas elecciones que comenzarán en 7 días. Si esta situación se repite, las elecciones tendrán lugar en la segunda convocatoria independientemente de que se dé este caso de nuevo. Si se identifica a los responsables de la financiación ilegal, cada culpable deberá pagar una sanción de 10 veces la cuantía que haya excedido el límite legal. El pago podrá ejecutarse mediante cualquier medio, incluida la expropiación de bienes.
 
 Periodo de reflexión:
-Durante los 7 días previos a cualquier elección, queda prohibida toda forma de campaña electoral. Durante este periodo, los candidatos solo podrán dirigirse al electorado mediante actos públicos en espacios previamente acordados, garantizando a cada candidato la misma cantidad de tiempo y condiciones. Los detalles organizativos se establecen por legislación electoral. Las infracciones se sancionan conforme a la legislación electoral.
+Durante los 7 días previos a la primera vuelta de las elecciones generales, queda prohibida toda forma de campaña electoral. Durante este periodo, los candidatos solo podrán dirigirse al electorado mediante actos públicos en espacios previamente acordados, garantizando a cada candidato la misma cantidad de tiempo y condiciones. Los detalles organizativos se establecen por legislación electoral. Las infracciones se sancionan conforme a la legislación electoral.
 
 Configurabilidad:
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6. Estos son: 10% del P25 como donación máxima individual, 1 donación por ciudadano por proceso electoral, 7 días para convocar nuevas elecciones tras anulación, número límite de convocatorias antes de elección definitiva y 7 días de periodo de reflexión previo a la elección.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6. Estos son: 10% del P25 como donación máxima individual, 1 donación por ciudadano por proceso electoral, 7 días para convocar nuevas elecciones tras anulación, número límite de convocatorias antes de elección definitiva y 7 días de periodo de reflexión previo a la primera vuelta de las elecciones generales.
 
 ---
 
@@ -371,7 +377,7 @@ La financiación de cada poder debe ser la descrita en los artículos del 30 al 
 
 ### Artículo 21: Poder Legislativo - Composición
 
-El Poder Legislativo se compone de una cámara única de representantes elegidos por distritos territoriales conforme al artículo 10. Los representantes son elegidos por mandato de 4 años y son revocables directamente por el pueblo de su distrito conforme a los artículos 11 y 12.
+El Poder Legislativo se compone de una cámara única de representantes elegidos por distritos territoriales conforme al artículo 10. Los representantes son elegidos por mandato de 4 años y son revocables directamente por el pueblo de su distrito conforme a los artículos 11 y 12. Los mandatos de todos los representantes concluyen en la misma fecha, con independencia de cuándo fueron elegidos.
 
 Al concluir su mandato, por la causa que sea, el representante, y el suplente que haya ocupado el escaño, quedan obligados a residir en su distrito durante 4 años. Incumplirlo conlleva sentencia penal de 4 años de prisión como mínimo y 8 como máximo, que se cumple en una prisión del distrito ó, si no la hay ó está a su capacidad máxima, en la del distrito más cercano que tenga capacidad. Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6.
 
