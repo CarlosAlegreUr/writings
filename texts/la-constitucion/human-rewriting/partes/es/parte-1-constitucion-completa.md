@@ -181,7 +181,7 @@ Los representantes del Poder Legislativo serán siempre revocables directamente 
 
 ---
 
-### Artículo 12: Procedimiento de Revocación
+### ARTÍCULO 12: Procedimiento de Revocación
 
 Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 11.
 
@@ -197,6 +197,13 @@ Si el anuncio se rechaza por documentación inválida ó incompleta, puede volve
 
 Presentado el documento válido, la autoridad debe tramitar el anuncio en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
+- Presentación y verificación de firmas:
+Las firmas se presentan de una sola vez, dentro del plazo de 31 días, ante cualquier autoridad competente del distrito. Una presentación no puede contener más firmas que el 15% del censo del distrito; si las supera, se rechaza como documentación inválida. La presentación se registra en el acto con las mismas reglas, plazos y penas que el anuncio de la recogida. Toda presentación queda guardada y es públicamente accesible.
+
+La ley fija el método de verificación de las firmas, con consenso de Nivel N4; durante el Proceso de Arranque, de Nivel N2. La verificación, y la certificación pública de su resultado, corresponden a la autoridad ante la que se presentaron las firmas; en su ausencia, a cualquier otra autoridad competente del distrito, y todas pueden colaborar en ella. La verificación se detiene en cuanto las firmas válidas alcanzan el 10% del censo del distrito; no es obligatorio verificar las restantes. Debe completarse en un máximo de 14 días desde la presentación. Si se incumple ese plazo, todas las autoridades competentes en el procedimiento de revocación, incluidos el representante y sus suplentes, ven reducido un 10% su salario anual de ese año. Si las firmas válidas no alcanzan el 10%, la presentación no tiene efecto y no conlleva sanción alguna para quien las recogió ó presentó.
+
+La convocatoria formal de la votación se produce en el momento en que la autoridad certifica públicamente que las firmas válidas alcanzan el 10%.
+
 - Votación:
 Una vez convocada, la votación es abierta a todo ciudadano del censo del distrito. La votación de revocación se celebra 14 días después de la convocatoria formal de la votación. Si los votos a favor no alcanzan el umbral de revocación, la revocación no prospera y solo puede intentarse de nuevo iniciando otro procedimiento completo, desde la recogida de firmas.
 
@@ -206,17 +213,20 @@ Si los votos a favor de la revocación alcanzan el umbral de revocación del dis
 El umbral de revocación es, por defecto, el 75% del censo del distrito, Nivel N4. Cada distrito puede fijar el suyo entre el 63% y el 75% de su censo. En cada elección general, incluidas las primeras del Proceso de Transición, la papeleta del distrito incluye la cuestión de si se modifica el umbral y, en caso afirmativo, a qué valor dentro de ese rango. Si los votos afirmativos alcanzan el Nivel N1 del censo del distrito, el nuevo umbral es la media de los valores elegidos por esos votos, truncada conforme al artículo 2.
 
 - Revisión de Votos:
-Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el representante revocado emitió en el Poder Legislativo desde la convocatoria formal de la votación de revocación hasta la toma de posesión del sucesor. Si el nuevo voto altera el resultado de una decisión legislativa, prevalece el resultado nuevo. En todo caso, el cambio de representante y el voto final quedan registrados conforme al artículo 24.
+Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el representante revocado emitió en el Poder Legislativo desde el anuncio oficial de la recogida de firmas hasta la toma de posesión del sucesor. Si el nuevo voto altera el resultado de una decisión legislativa, prevalece el resultado nuevo. En todo caso, el cambio de representante y el voto final quedan registrados conforme al artículo 24.
 
 Si una decisión legislativa anulada por la revisión de votos causó perjuicios a ciudadanos mientras estuvo vigente, estos serán compensados conforme a la ley, dentro de los límites de esta Constitución.
 
 - Solapamiento con otras elecciones:
-Si las elecciones generales se celebran entre la convocatoria formal de la votación de revocación y su resultado, las elecciones generales se celebran igualmente, no queda convocada la nueva elección del apartado de votación, y el procedimiento de revocación continúa hasta su resultado. Si la revocación prospera, la revisión de votos se aplica al representante elegido en las elecciones generales, salvo que sea la misma persona revocada.
+Si las elecciones generales se celebran entre el anuncio oficial de la recogida de firmas y el resultado de la revocación, las elecciones generales se celebran igualmente, no queda convocada la nueva elección del apartado de votación, y el procedimiento de revocación continúa hasta su resultado. Si la revocación prospera, la revisión de votos recae sobre los votos del representante revocado y la ejerce el representante elegido en las elecciones generales, salvo que sea la misma persona.
 
 Si la votación de revocación ó cualquier vuelta de la elección posterior cae en los 7 días previos a una votación presidencial ó el mismo día, se celebra el día siguiente a la votación presidencial.
 
+- Protección de los firmantes:
+Quien sufra represalias por haber firmado tiene derecho a que la causa se juzgue ante un juez ó tribunal de fuera del distrito, a su elección.
+
 - Configurabilidad:
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, 2 horas para volver a presentar un anuncio rechazado, 1 día máximo para tramitar el anuncio, 1 y 2 años de prisión por no tramitarlo, 14 días entre la convocatoria formal y la votación, 75% del censo del distrito como umbral de revocación por defecto, y 63% y 75% como límites del umbral de cada distrito.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, 2 horas para volver a presentar un anuncio rechazado, 1 día máximo para tramitar el anuncio, 1 y 2 años de prisión por no tramitarlo, 14 días para verificar las firmas presentadas, 14 días entre la convocatoria formal y la votación, 75% del censo del distrito como umbral de revocación por defecto, y 63% y 75% como límites del umbral de cada distrito.
 
 Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N3, pero el mecanismo de revocación en sí no puede eliminarse.
 
@@ -271,7 +281,7 @@ Si el representante fallece, dimite ó queda en coma, el primer suplente ocupa e
 Cuando un distrito queda sin representante ni suplentes disponibles, queda convocada ese mismo día una nueva elección conforme a los artículos 13 y 14.
 
 ---
-
+<!-- TODO: continuar revisión por aqui -->
 ### Artículo 16: Tamaño de Distritos y Delimitación
 
 El tamaño de cada distrito es de 95.000 a 120.000 habitantes. La cifra exacta se determina mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD), cuyas especificaciones completas son las siguientes:
@@ -393,7 +403,7 @@ La financiación de cada poder debe ser la descrita en los artículos del 31 al 
 
 El Poder Legislativo se compone de una cámara única de representantes elegidos por distritos territoriales conforme al artículo 10. Los representantes son elegidos por mandato de 4 años y son revocables directamente por el pueblo de su distrito conforme a los artículos 11 y 12. Los mandatos de todos los representantes concluyen en la misma fecha, con independencia de cuándo fueron elegidos.
 
-Al concluir su mandato, por la causa que sea, el representante, y el suplente que haya ocupado el escaño, quedan obligados a residir en su distrito durante 4 años. Incumplirlo conlleva sentencia penal de 4 años de prisión como mínimo y 8 como máximo, que se cumple en una prisión del distrito ó, si no la hay ó está a su capacidad máxima, en la del distrito más cercano que tenga capacidad. Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6.
+Al concluir su mandato, por la causa que sea, el representante, y el suplente que haya ocupado el escaño, quedan obligados a residir en su distrito durante 4 años. Incumplirlo conlleva sentencia penal de 4 años de prisión como mínimo y 8 como máximo, que se cumple en una prisión del distrito ó, si no la hay ó está a su capacidad máxima, en la del distrito más cercano que tenga capacidad. Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6, salvo la pena de prisión, que solo puede modificarse conforme al artículo 69.
 
 ---
 
@@ -701,7 +711,7 @@ Las sanciones concretas para legisladores y jueces de instancias inferiores al T
 
 Si la sanción es económica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del sancionado; no se admite el pago mediante inversiones, donaciones, venta de activos ni ningún otro medio distinto del trabajo personal.
 
-La modificación posterior de estas sanciones requiere consenso de Nivel N5.
+La modificación posterior de las sanciones a jueces requiere consenso de Nivel N5; la de las sanciones a legisladores solo puede hacerse conforme al artículo 69.
 
 ---
 
@@ -999,7 +1009,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 1. Soberanía Popular (artículo 1): El poder reside en el pueblo y lo ejerce mediante los mecanismos establecidos en esta Constitución.
 2. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
 3. Representación Uninominal por Distritos (artículo 10): Cada distrito elige directamente a un representante. Este mecanismo no puede ser sustituido.
-4. Revocabilidad de Representantes (artículo 11): El derecho del distrito a revocar a su representante no puede ser suprimido.
+4. Revocabilidad de Representantes (artículos 11 y 12): El derecho del distrito a revocar a su representante no puede ser suprimido.
 5. Nacionalidad (artículo 4): La nacionalidad garantizada a los arraigados y el mínimo de residencia para la nacionalización no pueden ser eliminados ni reducidos.
 6. Derecho al Sufragio (artículo 5): Derecho al voto de todo ciudadano mayor de edad.
 7. Garantías del Voto (artículo 6): El voto es secreto, indelegable, verificable y auditable. Ninguna de estas propiedades puede ser eliminada salvo mediante este procedimiento.
@@ -1050,6 +1060,8 @@ Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en 
 2. Vía popular: Aprobación mediante referéndum con consenso de Nivel N1 de votos válidos y participación mínima de Nivel N2 del censo nacional.
 
 Cuando un artículo contiene parámetros con un nivel de protección específico, cualquier reforma de ese artículo, sea de una parte ó de su conjunto, requiere un consenso igual ó superior al mayor nivel de protección de los parámetros que contiene, y nunca inferior al establecido en este artículo. Como única excepción, un parámetro cuyo nivel de protección sea inferior a ese máximo puede modificarse, él solo, con su propio nivel.
+
+Las sanciones que esta Constitución impone a los miembros del Poder Legislativo, aunque figuren entre los parámetros numéricos de un artículo, solo pueden modificarse conforme al artículo 69.
 
 La reforma ordinaria entra en vigor transcurrida 1 semana desde la aprobación.
 
