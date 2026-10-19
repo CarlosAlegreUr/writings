@@ -1,0 +1,470 @@
+distrito,nombre,poblacion,provincias,municipios_principales,tipo
+0,Vitoria-Gasteiz Centro I,118173,01,Vitoria-Gasteiz (118.173),ciudad
+1,Vitoria-Gasteiz Centro II,118119,01,Vitoria-Gasteiz (118.119),ciudad
+2,Llanada Alavesa y Cantabrica Alavesa (Álava),111946,01+09+48,Vitoria-Gasteiz (24.110); Laudio/Llodio (18.063); Amurrio (10.346),comarcal
+3,Albacete Centro,97987,02,Albacete (97.987),ciudad
+4,Centro: Albacete,95196,02,Albacete (77.081); Chinchilla de Monte-Aragón (4.659); Pozo Cañada (2.710),comarcal
+5,Almansa y Hellin (Albacete),97789,02,Hellín (30.911); Almansa (24.603); Caudete (10.481),comarcal
+6,Mancha (Albacete),99779,02,Villarrobledo (25.418); La Roda (15.792); Tarazona de la Mancha (6.136),comarcal
+7,Montaña: Alcoi/Alcoy (Alicante),102513,03,Alcoi/Alcoy (61.613); Cocentaina (11.486); Muro de Alcoy (9.361),comarcal
+8,Elx/Elche Oeste,100425,03,Elx/Elche (100.425),ciudad
+9,Meridional: Elx/Elche (Alicante),95985,03,Elx/Elche (46.457); Santa Pola (39.622); San Fulgencio (9.906),comarcal
+10,Vinalopo (Alicante),117028,03,Villena (34.729); Novelda (26.612); Aspe (22.354),comarcal
+11,"Central: Vila Joiosa, la/Villajoyosa (Alicante)",97834,03,Vila Joiosa. la/Villajoyosa (37.578); el Campello (31.567); Mutxamel (28.689),comarcal
+12,Elx/Elche Centro,98693,03,Elx/Elche (98.693),ciudad
+13,Meridional (Alicante) I,100399,03,Crevillent (30.880); Callosa de Segura (19.895); Albatera (13.476),comarcal
+14,Meridional (Alicante) II,102889,03,Almoradí (22.874); Guardamar del Segura (18.541); Rojales (17.488),comarcal
+15,Vinalopo y Central: Alacant/Alicante,107168,03,Alacant/Alicante (42.357); Ibi (24.662); Castalla (11.900),comarcal
+16,Central (Alicante),95028,03,Altea (24.731); l'Alfàs del Pi (21.046); Finestrat (9.980),comarcal
+17,Marquesado: Dénia (Alicante),95083,03,Dénia (47.568); Xàbia/Jávea (30.817); Pego (10.852),comarcal
+18,Central: Alacant/Alicante,97904,03,Alacant/Alicante (71.132); Sant Joan d'Alacant (26.772),comarcal
+19,Meridional: Orihuela (Alicante),118100,03,Orihuela (84.279); Pilar de la Horadada (24.359); San Miguel de Salinas (7.364),comarcal
+20,Central: Benidorm (Alicante),96540,03,Benidorm (77.211); la Nucia (19.329),comarcal
+21,Central: Sant Vicent del Raspeig/San Vicente del Raspeig (Alicante),107436,03,Sant Vicent del Raspeig/San Vicente del Raspeig (60.428); Alacant/Alicante (47.008),comarcal
+22,Vinalopo: Elda (Alicante),99949,03,Elda (55.554); Petrer (34.035); Sax (10.360),comarcal
+23,Alacant/Alicante Centro,107189,03,Alacant/Alicante (107.189),ciudad
+24,Alacant/Alicante Suroeste,97900,03,Alacant/Alicante (97.900),ciudad
+25,Marquesado (Alicante),95033,03,Calp (27.440); Teulada (12.932); Benissa (12.524),comarcal
+26,Torrevieja Centro,100470,03,Torrevieja (100.470),ciudad
+27,Bajo Almanzora (Almería),99425,04,Huércal-Overa (20.801); Vera (20.193); Cuevas del Almanzora (15.435),comarcal
+28,Campo de Dalias: El Ejido (Almería),119236,04,El Ejido (90.617); Adra (25.579); Balanegra (3.040),comarcal
+29,Alto Almanzora y Campo de Nijar y Bajo Andarax (Almería),118753,04,Níjar (32.772); Albox (12.872); Carboneras (8.456),comarcal
+30,Campo de Dalias y Campo de Nijar y Bajo Andarax (Almería),118314,04,Vícar (29.104); Huércal de Almería (18.763); Berja (12.997),comarcal
+31,Almería Este,104677,04,Almería (104.677),ciudad
+32,Almería Oeste,100095,04,Almería (100.095),ciudad
+33,Roquetas de Mar Centro,110054,04,Roquetas de Mar (110.054),ciudad
+34,Valle del Tietar (Ávila),95016,05+37,Arévalo (7.875); Arenas de San Pedro (6.480); Guijuelo (5.483),comarcal
+35,Avila: Ávila,95003,05,Ávila (59.480); Las Navas del Marqués (5.680); Sotillo de la Adrada (5.046),comarcal
+36,Merida: Mérida (Badajoz),117245,06,Mérida (60.319); Montijo (15.195); Calamonte (6.134),comarcal
+37,Almendralejo (Badajoz),109578,06,Almendralejo (34.544); Zafra (16.708); Villafranca de los Barros (12.285),comarcal
+38,Don Benito (Badajoz),115689,06,Don Benito (38.009); Villanueva de la Serena (25.751); Guareña (6.661),comarcal
+39,Badajoz,115678,06,Badajoz (54.231); Olivenza (11.775); Talavera la Real (5.483),comarcal
+40,Jerez de los Caballeros (Badajoz),110326,06,Jerez de los Caballeros (9.104); Azuaga (7.594); Llerena (5.663),comarcal
+41,Badajoz Centro,96639,06,Badajoz (96.639),ciudad
+42,Mallorca: Calvià (Baleares),99347,07,Calvià (54.082); Sóller (13.996); Andratx (12.424),comarcal
+43,Mallorca: Llucmajor (Baleares),113861,07,Llucmajor (40.450); Felanitx (19.215); Santanyí (12.928),comarcal
+44,Mallorca (Baleares) I,119413,07,Marratxí (40.434); Inca (36.076); Binissalem (9.323),comarcal
+45,Mallorca: Manacor (Baleares),100124,07,Manacor (49.275); Capdepera (13.298); Son Servera (12.583),comarcal
+46,Mallorca (Baleares) II,95127,07,Alcúdia (22.459); Pollença (17.801); Sa Pobla (15.106),comarcal
+47,Ibiza (Baleares) I,84194,07,Santa Eulària des Riu (30.159); Sant Antoni de Portmany (29.455); Sant Josep de sa Talaia (17.596),comarcal
+48,Ibiza (Baleares) II,80071,07,Eivissa (54.628); Sant Josep de sa Talaia (13.106); Santa Eulària des Riu (12.337),comarcal
+49,Menorca (Baleares),102821,07,Ciutadella de Menorca (32.719); Maó (30.986); Alaior (10.356),comarcal
+50,Formentera (Baleares),11690,07,Formentera (11.690),ciudad
+51,Palma Noroeste,118844,07,Palma (118.844),ciudad
+52,Palma Sureste,115267,07,Palma (115.267),ciudad
+53,Palma Oeste,98631,07,Palma (98.631),ciudad
+54,Palma Este,110454,07,Palma (110.454),ciudad
+55,Bajo Llobregat/Baix Llobregat: Cornellà de Llobregat (Barcelona),102952,08,Cornellà de Llobregat (36.465); Sant Joan Despí (35.811); Vallirana (16.239),comarcal
+56,Vallés Occidental/Vallès Occidental: Cerdanyola del Vallès (Barcelona),98037,08,Cerdanyola del Vallès (58.264); Ripollet (39.773),comarcal
+57,Vallés Oriental/Vallès Oriental: Mollet del Vallès (Barcelona),97657,08,Mollet del Vallès (52.759); Parets del Vallès (18.899); La Llagosta (13.254),comarcal
+58,Osona/Osona: Vic (Barcelona),96327,08,Vic (50.405); Tona (8.513); Moià (6.807),comarcal
+59,Bajo Llobregat/Baix Llobregat: Esplugues de Llobregat (Barcelona),95451,08,Esplugues de Llobregat (48.424); Cornellà de Llobregat (25.982); Sant Just Desvern (21.045),comarcal
+60,Bajo Llobregat/Baix Llobregat (Barcelona) I,98576,08,Martorell (28.989); Corbera de Llobregat (16.044); Pallejà (11.976),comarcal
+61,Maresme/Maresme (Barcelona) I,105775,08,Mataró (34.728); Arenys de Mar (16.982); Canet de Mar (15.191),comarcal
+62,Osona/Osona (Barcelona),95492,08,Manlleu (21.321); Torelló (15.334); Centelles (7.860),comarcal
+63,Bages/Bages y Bergada/Berguedà (Barcelona),118778,08,Berga (17.539); Sant Joan de Vilatorrada (11.109); Sant Fruitós de Bages (9.324),comarcal
+64,Maresme/Maresme: Santa Coloma de Gramenet (Barcelona),97850,08,Santa Coloma de Gramenet (58.870); Sant Adrià de Besòs (38.980),comarcal
+65,Vallés Occidental/Vallès Occidental (Barcelona),97346,08,Barberà del Vallès (34.031); Santa Perpètua de Mogoda (26.101); Palau-solità i Plegamans (15.584),comarcal
+66,Bajo Llobregat/Baix Llobregat: El Prat de Llobregat (Barcelona),96059,08,El Prat de Llobregat (66.251); Cornellà de Llobregat (29.808),comarcal
+67,Maresme/Maresme (Barcelona) II,95343,08,Premià de Mar (29.348); El Masnou (24.727); Vilassar de Mar (21.234),comarcal
+68,Vallés Oriental/Vallès Oriental y Vallés Occidental/Vallès Occidental (Barcelona),99511,08,Castellar del Vallès (25.395); Caldes de Montbui (18.554); Lliçà d'Amunt (16.519),comarcal
+69,Maresme/Maresme (Barcelona) III,107453,08,Pineda de Mar (30.071); Calella (20.775); Malgrat de Mar (19.630),comarcal
+70,Bajo Llobregat/Baix Llobregat: Sant Feliu de Llobregat (Barcelona),102739,08,Sant Feliu de Llobregat (46.688); Sant Vicenç dels Horts (28.760); Molins de Rei (27.291),comarcal
+71,Maresme/Maresme y Vallés Oriental/Vallès Oriental (Barcelona),117374,08,Montornès del Vallès (17.062); Montgat (12.835); La Roca del Vallès (11.021),comarcal
+72,Anoia/Anoia: Igualada (Barcelona),96060,08,Igualada (42.449); Piera (17.884); Vilanova del Camí (12.886),comarcal
+73,Penedés/Penedès: Vilafranca del Penedès (Barcelona),104993,08,Vilafranca del Penedès (42.561); Sant Pere de Ribes (32.613); Santa Margarida i els Monjos (7.775),comarcal
+74,Maresme/Maresme y Vallés Occidental/Vallès Occidental: Santa Coloma de Gramenet (Barcelona),101826,08,Santa Coloma de Gramenet (64.380); Montcada i Reixac (37.446),comarcal
+75,Anoia/Anoia y Penedés/Penedès (Barcelona),98801,08,Sant Sadurní d'Anoia (12.930); Masquefa (10.111); Viladecavalls (7.816),comarcal
+76,Mataró Centro y Argentona,109533,08,Mataró (96.642); Argentona (12.891),ciudad
+77,Vallés Occidental/Vallès Occidental: Rubí (Barcelona),103000,08,Rubí (82.825); Sant Quirze del Vallès (20.175),comarcal
+78,Vallés Oriental/Vallès Oriental (Barcelona),118564,08,Les Franqueses del Vallès (20.855); Cardedeu (19.050); Sant Celoni (18.916),comarcal
+79,Bajo Llobregat/Baix Llobregat (Barcelona) II,100973,08,Sant Andreu de la Barca (27.069); Olesa de Montserrat (25.000); Esparreguera (22.639),comarcal
+80,Bages/Bages: Manresa (Barcelona),98656,08,Manresa (80.692); Sant Vicenç de Castellet (10.167); El Pont de Vilomara i Rocafort (4.201),comarcal
+81,Penedés/Penedès: Vilanova i la Geltrú (Barcelona),98400,08,Vilanova i la Geltrú (71.305); Cubelles (17.648); Canyelles (5.494),comarcal
+82,Bajo Llobregat/Baix Llobregat y Penedés/Penedès: Castelldefels (Barcelona),102379,08,Castelldefels (69.689); Sitges (32.690),comarcal
+83,Bajo Llobregat/Baix Llobregat: Viladecans (Barcelona),115717,08,Viladecans (67.536); Gavà (48.181),comarcal
+84,Sant Boi de Llobregat Centro y Begues,97049,08,Sant Boi de Llobregat (85.317); Begues (7.545); Sant Climent de Llobregat (4.187),ciudad
+85,Vallés Oriental/Vallès Oriental: Granollers (Barcelona),99996,08,Granollers (65.123); Canovelles (17.445); L'Ametlla del Vallès (9.473),comarcal
+86,Badalona Centro I,114978,08,Badalona (114.978),ciudad
+87,Badalona Centro II,115664,08,Badalona (115.664),ciudad
+88,Barcelona: Ciutat Vella,119065,08,Barcelona (119.065),ciudad
+89,Barcelona: Sarrià-Sant Gervasi,100720,08,Barcelona (100.720),ciudad
+90,Barcelona: Nou Barris y Sant Andreu,113489,08,Barcelona (113.489),ciudad
+91,Barcelona: Sants-Montjuïc,98877,08,Barcelona (98.877),ciudad
+92,Barcelona: Eixample I,106533,08,Barcelona (106.533),ciudad
+93,Barcelona: Sant Andreu y Sant Martí,107206,08,Barcelona (107.206),ciudad
+94,Barcelona: Eixample y Sants-Montjuïc,110378,08,Barcelona (110.378),ciudad
+95,Barcelona: Sant Martí I,103522,08,Barcelona (103.522),ciudad
+96,Barcelona: Les Corts,116990,08,Barcelona (116.990),ciudad
+97,Barcelona: Horta-Guinardó y Nou Barris,98062,08,Barcelona (98.062),ciudad
+98,Barcelona: Horta-Guinardó y Gràcia,113394,08,Barcelona (113.394),ciudad
+99,Barcelona: Sant Andreu y Nou Barris,113328,08,Barcelona (113.328),ciudad
+100,Barcelona: Sant Martí II,117588,08,Barcelona (117.588),ciudad
+101,Barcelona: Horta-Guinardó,101557,08,Barcelona (101.557),ciudad
+102,Barcelona: Eixample II,95642,08,Barcelona (95.642),ciudad
+103,Barcelona: Eixample y Gràcia,96896,08,Barcelona (96.896),ciudad
+104,L'Hospitalet de Llobregat Centro I,95122,08,L'Hospitalet de Llobregat (95.122),ciudad
+105,L'Hospitalet de Llobregat Centro II,101953,08,L'Hospitalet de Llobregat (101.953),ciudad
+106,L'Hospitalet de Llobregat Centro III,95086,08,L'Hospitalet de Llobregat (95.086),ciudad
+107,Sabadell Sureste,112381,08,Sabadell (112.381),ciudad
+108,Sabadell Noroeste,112208,08,Sabadell (112.208),ciudad
+109,Sant Cugat del Vallès Centro,97959,08,Sant Cugat del Vallès (97.959),ciudad
+110,Terrassa Centro I,116246,08,Terrassa (116.246),ciudad
+111,Terrassa Centro II,116430,08,Terrassa (116.430),ciudad
+112,Burgos Centro,95029,09,Burgos (90.435); Cardeñadijo (1.446); Cardeñajimeno (1.186),ciudad
+113,Bureba-Ebro: Miranda de Ebro (Burgos),99366,09+34,Miranda de Ebro (36.617); Briviesca (6.711); Medina de Pomar (6.157),comarcal
+114,Arlanzon: Burgos,98195,09+34,Burgos (64.533); Lerma (2.648); Villalbilla de Burgos (1.554),comarcal
+115,Navalmoral de la Mata y Trujillo (Cáceres),99037,10,Navalmoral de la Mata (17.297); Miajadas (9.393); Trujillo (8.660),comarcal
+116,Plasencia (Cáceres),95003,10,Plasencia (40.224); Jaraíz de la Vera (6.835); Montehermoso (5.571),comarcal
+117,Coria (Cáceres),95825,10,Coria (12.004); Moraleja (6.566); Arroyo de la Luz (5.495),comarcal
+118,Cáceres Centro,98325,10,Cáceres (96.598); Aliseda (1.727),ciudad
+119,Costa Noroeste de Cadiz: Sanlúcar de Barrameda (Cádiz),97039,11,Sanlúcar de Barrameda (69.952); Chipiona (20.078); Trebujena (7.009),comarcal
+120,De la Janda: Puerto Real (Cádiz),95691,11,Puerto Real (42.472); Barbate (22.686); Vejer de la Frontera (13.117),comarcal
+121,San Fernando Centro y Chiclana de la Frontera,109855,11,San Fernando (93.490); Chiclana de la Frontera (16.365),ciudad
+122,Costa Noroeste de Cadiz: Chiclana de la Frontera (Cádiz),98765,11,Chiclana de la Frontera (74.632); Conil de la Frontera (24.133),comarcal
+123,Campiña de Cadiz: El Puerto de Santa María (Cádiz),119862,11,El Puerto de Santa María (90.242); Rota (29.620),comarcal
+124,Campo de Gibraltar: La Línea de la Concepción (Cádiz),100293,11,La Línea de la Concepción (65.420); San Roque (34.873),comarcal
+125,Algeciras Centro,95216,11,Algeciras (95.216),ciudad
+126,Campo de Gibraltar (Cádiz),99626,11,Algeciras (31.284); Los Barrios (24.588); Tarifa (18.627),comarcal
+127,Campiña de Cadiz y Sierra de Cadiz (Cádiz),119925,11,Arcos de la Frontera (31.281); Ubrique (16.624); Villamartín (12.264),comarcal
+128,Cádiz Centro,110123,11,Cádiz (110.123),ciudad
+129,Jerez de la Frontera Este,115730,11,Jerez de la Frontera (115.730),ciudad
+130,Jerez de la Frontera Oeste,99295,11,Jerez de la Frontera (99.295),ciudad
+131,Litoral Norte (Castellón),101234,12,Vinaròs (30.516); Benicarló (30.394); Peníscola/Peñíscola (8.748),comarcal
+132,La Plana: Borriana/Burriana (Castellón),102505,12,Borriana/Burriana (37.803); Castelló de la Plana/Castellón de la Plana (35.608); Almassora (29.094),comarcal
+133,La Plana (Castellón),113668,12,la Vall d'Uixó (32.220); Onda (26.297); l'Alcora (10.646),comarcal
+134,Castelló de la Plana/Castellón de la Plana Centro,104029,12,Castelló de la Plana/Castellón de la Plana (104.029),ciudad
+135,La Plana: Vila-real (Castellón),95735,12,Vila-real (53.634); Nules (14.382); Moncofa (8.345),comarcal
+136,La Plana: Castelló de la Plana/Castellón de la Plana,110449,12,Castelló de la Plana/Castellón de la Plana (44.072); Benicàssim/Benicasim (20.586); Orpesa/Oropesa del Mar (12.483),comarcal
+137,Campo de Calatrava: Ciudad Real,101215,13,Ciudad Real (76.087); Miguelturra (15.890); Almagro (9.238),comarcal
+138,Campo de Calatrava (Ciudad Real),95577,13,Daimiel (17.741); Bolaños de Calatrava (12.121); Herencia (8.658),comarcal
+139,Mancha: Tomelloso (Ciudad Real),102543,13,Tomelloso (37.185); Alcázar de San Juan (31.907); Campo de Criptana (12.883),comarcal
+140,Mancha (Ciudad Real),95106,13,Valdepeñas (30.698); Manzanares (17.699); La Solana (15.214),comarcal
+141,Pastos: Puertollano (Ciudad Real),100142,13,Puertollano (45.699); Argamasilla de Calatrava (5.853); Almodóvar del Campo (5.629),comarcal
+142,Pedroches (Córdoba),111468,14,Pozoblanco (16.918); Peñarroya-Pueblonuevo (10.252); Montoro (9.012),comarcal
+143,Campiña Alta y Penibetica: Lucena (Córdoba),117770,14,Lucena (43.410); Priego de Córdoba (21.731); Cabra (19.986),comarcal
+144,Campiña Alta y Campiña Baja (Córdoba),111408,14,Montilla (22.192); Baena (18.335); Aguilar de la Frontera (13.119),comarcal
+145,Campiña Baja (Córdoba),108358,14,Puente Genil (29.977); Palma del Río (20.535); La Carlota (14.520),comarcal
+146,Córdoba Suroeste,110572,14,Córdoba (110.572),ciudad
+147,Córdoba Noroeste,117147,14,Córdoba (117.147),ciudad
+148,Córdoba Este,96440,14,Córdoba (96.440),ciudad
+149,Interior (A Coruña),98070,15,Ordes (12.970); As Pontes de García Rodríguez (9.787); Melide (7.840),comarcal
+150,Occidental y Septentrional (A Coruña),111805,15,Carballo (32.095); Santa Comba (9.437); Muros (8.171),comarcal
+151,Septentrional: Ferrol (A Coruña),104793,15,Ferrol (64.903); Narón (39.890),comarcal
+152,A Coruña Centro I,110461,15,A Coruña (110.461),ciudad
+153,Occidental (A Coruña) I,98165,15,Ribeira (27.110); Boiro (18.958); Noia (14.108),comarcal
+154,Occidental (A Coruña) II,95073,15,Ames (33.213); Teo (19.038); Padrón (8.324),comarcal
+155,Septentrional (A Coruña) I,102165,15,Arteixo (34.389); Culleredo (31.232); Cambre (24.771),comarcal
+156,Septentrional (A Coruña) II,97626,15,Betanzos (13.508); Fene (12.462); Pontedeume (7.428),comarcal
+157,Septentrional: Oleiros (A Coruña),100281,15,Oleiros (38.750); A Coruña (24.474); Sada (17.469),comarcal
+158,A Coruña Centro II,116342,15,A Coruña (116.342),ciudad
+159,Santiago de Compostela Centro,100842,15,Santiago de Compostela (100.842),ciudad
+160,Serranía Media: Cuenca,106240,16+46,Cuenca (53.761); Quintanar del Rey (7.642); Minglanilla (2.413),comarcal
+161,Mancha Baja y Mancha Alta (Cuenca),95777,16,Tarancón (17.207); San Clemente (6.730); Las Pedroñeras (6.530),comarcal
+162,La Selva/La Selva y Gironés/Gironès (Girona),96587,17,Banyoles (20.887); Santa Coloma de Farners (14.218); Sils (6.924),comarcal
+163,Alto Ampurdán/Alt Empordà: Figueres (Girona),95574,17,Figueres (49.556); Vilafant (5.664); Llançà (5.033),comarcal
+164,La Selva/La Selva: Blanes (Girona),97800,17,Blanes (42.446); Lloret de Mar (41.944); Maçanet de la Selva (8.065),comarcal
+165,Bajo Ampurdán/Baix Empordà (Girona),116803,17,Palafrugell (24.556); Sant Feliu de Guíxols (23.060); Palamós (18.921),comarcal
+166,Gironés/Gironès (Girona),114169,17,Salt (34.603); Cassà de la Selva (11.167); Llagostera (9.579),comarcal
+167,Alto Ampurdán/Alt Empordà y Bajo Ampurdán/Baix Empordà (Girona),95419,17,Roses (20.175); Torroella de Montgrí (12.507); Castelló d'Empúries (12.275),comarcal
+168,Garrotxa/Garrotxa: Olot (Girona),105725,17,Olot (39.516); Ripoll (10.812); Puigcerdà (10.053),comarcal
+169,Girona Centro,108352,17,Girona (108.352),ciudad
+170,La Costa: Motril (Granada),112340,18,Motril (60.160); Almuñécar (28.011); Salobreña (12.711),comarcal
+171,De la Vega (Granada) I,95596,18,Armilla (25.259); La Zubia (20.398); Churriana de la Vega (16.911),comarcal
+172,De la Vega (Granada) II,103399,18,Loja (20.923); Huétor Tájar (10.760); Íllora (9.925),comarcal
+173,Guadix y Baza (Granada),95872,18,Baza (20.657); Guadix (18.877); Huéscar (7.244),comarcal
+174,De la Vega (Granada) III,95758,18,Maracena (22.372); Atarfe (20.952); Albolote (19.770),comarcal
+175,De la Vega (Granada) IV,110556,18,Monachil (8.676); Cenes de la Vega (8.289); Albuñol (7.423),comarcal
+176,De la Vega (Granada) V,96982,18,Las Gabias (23.763); Vegas del Genil (12.433); Alhendín (10.507),comarcal
+177,Granada Centro I,119072,18,Granada (119.072),ciudad
+178,Granada Centro II,116222,18,Granada (116.222),ciudad
+179,Guadalajara Centro,95009,19,Guadalajara (92.798); Aranzueque (415); Tendilla (364),ciudad
+180,Campiña (Guadalajara),95787,19,Marchamalo (8.691); Yebes (5.621); Pioz (5.458),comarcal
+181,Campiña: Azuqueca de Henares (Guadalajara),95043,19,Azuqueca de Henares (35.733); Alovera (14.533); El Casar (13.924),comarcal
+182,Bajo Bidasoa: Irun (Gipuzkoa),99304,20,Irun (63.737); Hondarribia (16.768); Oiartzun (10.468),comarcal
+183,Donostia-San Sebastian (Gipuzkoa),110317,20,Donostia/San Sebastián (25.917); Zarautz (23.467); Hernani (20.378),comarcal
+184,Tolosa y Goierri (Gipuzkoa),102484,20,Tolosa (20.121); Andoain (14.505); Beasain (14.019),comarcal
+185,Alto Deba y Goierri (Gipuzkoa),95018,20,Arrasate/Mondragón (22.411); Bergara (14.415); Oñati (11.518),comarcal
+186,Bajo Deba y Urola Costa (Gipuzkoa),101257,20,Eibar (27.464); Azpeitia (15.297); Azkoitia (11.768),comarcal
+187,Donostia-San Sebastian: Donostia/San Sebastián (Gipuzkoa),118172,20,Donostia/San Sebastián (71.027); Errenteria (39.341); Astigarraga (7.804),comarcal
+188,Donostia/San Sebastián Centro y Pasaia,106597,20,Donostia/San Sebastián (92.563); Pasaia (14.034),ciudad
+189,Condado Campiña y Costa (Huelva),118426,21,Aljaraque (22.772); Bollullos Par del Condado (14.377); Gibraleón (13.432),comarcal
+190,Condado Litoral (Huelva),98475,21,Huelva (28.373); Almonte (25.236); Moguer (24.014),comarcal
+191,Huelva Centro,102031,21,Huelva (102.031),ciudad
+192,Andevalo Occidental y Sierra (Huelva),117088,21,Ayamonte (22.238); Valverde del Camino (12.739); Aracena (8.451),comarcal
+193,Costa (Huelva),102769,21,Lepe (29.869); Cartaya (21.639); Isla Cristina (21.617),comarcal
+194,Hoya de Huesca,115973,22,Huesca (55.033); Jaca (14.012); Sabiñánigo (9.665),comarcal
+195,La Litera (Huesca),114114,22,Monzón (18.465); Barbastro (17.799); Fraga (15.400),comarcal
+196,Campiña del Norte: Linares (Jaén),95783,23,Linares (55.689); Mengíbar (10.278); Porcuna (5.935),comarcal
+197,La Loma (Jaén),103328,23,Úbeda (33.605); Baeza (15.567); Villacarrillo (10.323),comarcal
+198,Sierra Morena: Andújar (Jaén),96130,23,Andújar (35.677); Bailén (17.128); La Carolina (14.692),comarcal
+199,Campña del Sur y Sierra Sur (Jaén),110252,23,Martos (24.441); Alcalá la Real (21.577); Torredelcampo (13.894),comarcal
+200,Sierra de Cazorla (Jaén),100531,23,Mancha Real (11.479); Jódar (11.279); Cazorla (6.913),comarcal
+201,Jaén Centro,112119,23,Jaén (112.119),ciudad
+202,Bierzo: Ponferrada (León),116804,24,Ponferrada (63.112); Bembibre (8.075); Cacabelos (4.738),comarcal
+203,Tierras de Leon (León),112512,24,San Andrés del Rabanedo (29.996); León (25.290); Villaquilambre (18.968),comarcal
+204,León Centro,98801,24,León (98.801),ciudad
+205,Astorga (León),119913,24,La Bañeza (10.326); Astorga (10.300); Villablino (7.587),comarcal
+206,Segriá/Segrià (Lleida),119991,25,Lleida (38.575); Alcarràs (10.556); Almacelles (7.197),comarcal
+207,Lleida Centro y Torrefarrera,116547,25,Lleida (108.794); Torrefarrera (4.950); Albatàrrec (2.312),ciudad
+208,Noguera/Noguera (Lleida),112860,25,Balaguer (17.667); La Seu d'Urgell (13.003); Solsona (9.741),comarcal
+209,Urgel/Urgell (Lleida),108828,25,Tàrrega (18.991); Mollerussa (16.016); Cervera (9.630),comarcal
+210,Rioja Baja (La Rioja),101232,26,Calahorra (25.292); Arnedo (15.076); Alfaro (9.969),comarcal
+211,Logroño Centro y Lardero,112015,26,Logroño (99.915); Lardero (12.100),ciudad
+212,Rioja Media y Rioja Alta: Logroño (La Rioja),113556,26,Logroño (51.766); Haro (12.153); Nájera (8.313),comarcal
+213,Costa y Terra Cha (Lugo),113540,27,Viveiro (15.091); Vilalba (13.946); Foz (10.415),comarcal
+214,Central y Sur (Lugo),112411,27,Monforte de Lemos (18.989); Sarria (13.776); Chantada (8.149),comarcal
+215,Lugo Centro,100071,27,Lugo (100.071),ciudad
+216,Area Metropolitana de Madrid: Colmenar Viejo,113160,28,Colmenar Viejo (58.654); Tres Cantos (54.506),comarcal
+217,Area Metropolitana de Madrid y Sur Occidental: Alcorcón,118484,28,Alcorcón (61.245); Fuenlabrada (57.239),comarcal
+218,Campiña y Area Metropolitana de Madrid: Arganda del Rey,99548,28,Arganda del Rey (60.105); Mejorada del Campo (24.976); Velilla de San Antonio (14.467),comarcal
+219,Sur Occidental y Area Metropolitana de Madrid: Pinto,119369,28,Pinto (56.592); Parla (41.465); Fuenlabrada (21.312),comarcal
+220,Torrejón de Ardoz Centro,103156,28,Torrejón de Ardoz (103.156),ciudad
+221,Area Metropolitana de Madrid: Boadilla del Monte,96387,28,Boadilla del Monte (66.319); Villaviciosa de Odón (30.068),comarcal
+222,Sur Occidental y Area Metropolitana de Madrid,95576,28,Villanueva de la Cañada (23.784); Valdemorillo (14.395); Brunete (11.261),comarcal
+223,Sur Occidental: Parla (Madrid),119340,28,Parla (76.630); Fuenlabrada (22.161); Humanes de Madrid (20.549),comarcal
+224,Guadarrama: Galapagar (Madrid),95602,28,Galapagar (36.805); Torrelodones (25.324); Manzanares el Real (9.670),comarcal
+225,Vegas y Campiña (Madrid),102708,28,San Martín de la Vega (20.936); Loeches (9.321); Morata de Tajuña (8.394),comarcal
+226,Guadarrama (Madrid),95214,28,San Lorenzo de El Escorial (18.942); Guadarrama (17.545); El Escorial (17.322),comarcal
+227,Pozuelo de Alarcón Centro y Alcorcón,95101,28,Pozuelo de Alarcón (89.474); Alcorcón (5.627),ciudad
+228,Alcobendas Centro,96430,28,Alcobendas (96.430),ciudad
+229,Area Metropolitana de Madrid: Torrejón de Ardoz,95496,28,Torrejón de Ardoz (41.055); Paracuellos de Jarama (27.649); Alcobendas (26.792),comarcal
+230,Campiña (Madrid),112186,28,Algete (21.194); Villalbilla (18.661); Meco (15.979),comarcal
+231,Sur Occidental: Arroyomolinos (Madrid),98609,28,Arroyomolinos (38.185); Navalcarnero (33.352); El Álamo (10.590),comarcal
+232,Alcorcón Centro,109934,28,Alcorcón (109.934),ciudad
+233,Lozoya Somosierra (Madrid),98878,28,San Agustín del Guadalix (13.947); El Molar (9.970); Soto del Real (9.459),comarcal
+234,Sur Occidental: Valdemoro (Madrid),119196,28,Valdemoro (86.078); Parla (17.605); Torrejón de la Calzada (10.618),comarcal
+235,Area Metropolitana de Madrid: Coslada,119398,28,Coslada (80.365); San Fernando de Henares (39.033),comarcal
+236,Area Metropolitana de Madrid: Majadahonda,101832,28,Majadahonda (73.662); Villanueva del Pardillo (18.415); Colmenarejo (9.755),comarcal
+237,Guadarrama: Collado Villalba (Madrid),98512,28,Collado Villalba (67.956); Alpedrete (15.831); Moralzarzal (14.725),comarcal
+238,Sur Occidental: Fuenlabrada (Madrid),119419,28,Fuenlabrada (89.102); Griñón (10.785); Cubas de la Sagra (7.217),comarcal
+239,Vegas: Aranjuez (Madrid),104286,28,Aranjuez (63.838); Ciempozuelos (26.254); Colmenar de Oreja (9.231),comarcal
+240,Alcalá de Henares Centro I,99529,28,Alcalá de Henares (99.529),ciudad
+241,Alcalá de Henares Centro II,103020,28,Alcalá de Henares (103.020),ciudad
+242,Getafe Centro I,96985,28,Getafe (96.985),ciudad
+243,Getafe Centro II,98643,28,Getafe (98.643),ciudad
+244,Leganés Centro I,97100,28,Leganés (97.100),ciudad
+245,Leganés Centro II,98846,28,Leganés (98.846),ciudad
+246,Madrid: Retiro,119149,28,Madrid (119.149),ciudad
+247,Madrid: Usera y Carabanchel,119560,28,Madrid (119.560),ciudad
+248,Madrid: Villaverde I,118485,28,Madrid (118.485),ciudad
+249,Madrid: Carabanchel,100964,28,Madrid (100.964),ciudad
+250,Madrid: Chamartín y Hortaleza,111017,28,Madrid (111.017),ciudad
+251,Madrid: San Blas-Canillejas y Ciudad Lineal I,114577,28,Madrid (114.577),ciudad
+252,Madrid: Ciudad Lineal y Salamanca,99232,28,Madrid (99.232),ciudad
+253,Madrid: Tetuán y Fuencarral-El Pardo,108786,28,Madrid (108.786),ciudad
+254,Madrid: Chamberí y Centro,104377,28,Madrid (104.377),ciudad
+255,Madrid: Villa de Vallecas y Puente de Vallecas,101812,28,Madrid (101.812),ciudad
+256,Madrid: Latina y Moncloa-Aravaca,98991,28,Madrid (98.991),ciudad
+257,Madrid: Moratalaz,110932,28,Madrid (110.932),ciudad
+258,Madrid: Puente de Vallecas y Villa de Vallecas,117055,28,Madrid (117.055),ciudad
+259,Madrid: Fuencarral-El Pardo y Tetuán,96320,28,Madrid (96.320),ciudad
+260,Madrid: Hortaleza y Ciudad Lineal,99514,28,Madrid (99.514),ciudad
+261,Madrid: Latina y Arganzuela,116524,28,Madrid (116.524),ciudad
+262,Madrid: Chamberí y Tetuán,103634,28,Madrid (103.634),ciudad
+263,Madrid: Moncloa-Aravaca y Fuencarral-El Pardo,100186,28,Madrid (100.186),ciudad
+264,Madrid: Puente de Vallecas,115302,28,Madrid (115.302),ciudad
+265,Madrid: Fuencarral-El Pardo y Hortaleza,103521,28,Madrid (103.521),ciudad
+266,Madrid: Tetuán y Chamberí,106572,28,Madrid (106.572),ciudad
+267,Madrid: Arganzuela y Usera,117851,28,Madrid (117.851),ciudad
+268,Madrid: Vicálvaro,114800,28,Madrid (114.800),ciudad
+269,Madrid: Carabanchel y Latina,116497,28,Madrid (116.497),ciudad
+270,Madrid: Centro y Salamanca,106156,28,Madrid (106.156),ciudad
+271,Madrid: Salamanca y Chamartín,99323,28,Madrid (99.323),ciudad
+272,Madrid: Barajas y San Blas-Canillejas,109846,28,Madrid (109.846),ciudad
+273,Madrid: Villaverde II,119321,28,Madrid (119.321),ciudad
+274,Madrid: Latina y Carabanchel,117372,28,Madrid (117.372),ciudad
+275,Madrid: San Blas-Canillejas y Ciudad Lineal II,103796,28,Madrid (103.796),ciudad
+276,Madrid: Hortaleza y Fuencarral-El Pardo,107361,28,Madrid (107.361),ciudad
+277,Madrid: Arganzuela y Centro,98664,28,Madrid (98.664),ciudad
+278,Móstoles Centro I,117824,28,Móstoles (117.824),ciudad
+279,Móstoles Centro II,96469,28,Móstoles (96.469),ciudad
+280,Rivas-Vaciamadrid Centro,103243,28,Rivas-Vaciamadrid (103.243),ciudad
+281,Las Rozas de Madrid Centro,99579,28,Las Rozas de Madrid (99.579),ciudad
+282,San Sebastián de los Reyes Centro,97330,28,San Sebastián de los Reyes (97.330),ciudad
+283,Centro-Sur o Guadalhorce y Serrania de Ronda (Málaga),118873,29,Ronda (33.708); Coín (26.474); Manilva (18.044),comarcal
+284,Velez Malaga: Rincón de la Victoria (Málaga),96587,29,Rincón de la Victoria (52.355); Álora (13.639); Pizarra (10.383),comarcal
+285,Norte o Antequera (Málaga),96108,29,Antequera (41.823); Campillos (8.553); Mollina (5.582),comarcal
+286,Vélez-Málaga Centro y Algarrobo,98571,29,Vélez-Málaga (87.798); Algarrobo (7.096); Viñuela (2.042),ciudad
+287,Centro-Sur o Guadalhorce: Estepona (Málaga),119336,29,Estepona (79.593); Marbella (39.743),comarcal
+288,Centro-Sur o Guadalhorce: Torremolinos (Málaga),119364,29,Torremolinos (71.270); Benalmádena (48.094),comarcal
+289,Marbella Centro y Benahavís,113031,29,Marbella (98.454); Benahavís (9.765); Ojén (4.812),ciudad
+290,Centro-Sur o Guadalhorce: Mijas (Málaga),116601,29,Mijas (94.320); Marbella (22.281),comarcal
+291,Velez Malaga y Norte o Antequera (Málaga),97791,29,Nerja (22.062); Torrox (21.795); Archidona (8.098),comarcal
+292,Centro-Sur o Guadalhorce: Fuengirola (Málaga),115550,29,Fuengirola (84.857); Benalmádena (30.693),comarcal
+293,Centro-Sur o Guadalhorce: Alhaurín de la Torre (Málaga),102198,29,Alhaurín de la Torre (45.324); Cártama (29.264); Alhaurín el Grande (27.610),comarcal
+294,Málaga: Puerto de la Torre,95675,29,Málaga (95.675),ciudad
+295,Málaga: Campanillas,97624,29,Málaga (97.624),ciudad
+296,Málaga: Este,98638,29,Málaga (98.638),ciudad
+297,Málaga: Cruz de Humilladero y Carretera de Cádiz,95624,29,Málaga (95.624),ciudad
+298,Málaga: Churriana,114449,29,Málaga (114.449),ciudad
+299,Málaga: Carretera de Cádiz y Churriana,95163,29,Málaga (95.163),ciudad
+300,Murcia Noreste y Beniel,115207,30,Murcia (103.659); Beniel (11.548),ciudad
+301,Murcia Este,115709,30,Murcia (115.709),ciudad
+302,Murcia Noroeste,116046,30,Murcia (116.046),ciudad
+303,Campo de Cartagena (Murcia) I,110671,30,San Javier (36.385); San Pedro del Pinatar (29.726); Torre-Pacheco (24.397),comarcal
+304,Cartagena Oeste,119944,30,Cartagena (119.944),ciudad
+305,Suroeste y Valle Guadalentin (Valle Guadalentin) (Murcia),118929,30,Lorca (35.258); Totana (34.162); Mazarrón (26.206),comarcal
+306,Suroeste y Valle Guadalentin (Valle Guadalentin): Lorca (Murcia),119356,30,Lorca (63.355); Águilas (37.761); Puerto Lumbreras (18.240),comarcal
+307,Nordeste (Altiplano) (Murcia),111297,30,Yecla (36.398); Jumilla (27.434); Santomera (16.394),comarcal
+308,Campo de Cartagena (Murcia) II,117994,30,Cartagena (96.676); La Unión (21.318),comarcal
+309,Rio Segura (Vega del Segura): Molina de Segura (Murcia),96561,30,Molina de Segura (78.210); Alguazas (10.419); Lorquí (7.932),comarcal
+310,Rio Segura (Vega del Segura): Murcia,118031,30,Murcia (74.240); Alcantarilla (43.791),comarcal
+311,Noroeste y Rio Segura (Vega del Segura) (Murcia),107439,30,Cieza (35.452); Caravaca de la Cruz (26.236); Cehegín (14.650),comarcal
+312,Rio Segura (Vega del Segura) (Murcia),112199,30,Las Torres de Cotillas (22.814); Archena (20.795); Mula (17.986),comarcal
+313,Rio Segura (Vega del Segura) y Campo de Cartagena: Murcia,107606,30,Murcia (67.977); Fuente Álamo de Murcia (19.088); Torre-Pacheco (16.761),comarcal
+314,Ribera Baja (Navarra),116755,31,Tudela (38.773); Corella (8.734); Cintruénigo (8.554),comarcal
+315,Tierra Estella y Ribera Alta Aragon (Navarra),119586,31,Estella-Lizarra (14.356); Tafalla (10.867); San Adrián (6.500),comarcal
+316,Nord Occidental y Cuenca Pamplona (Navarra),119981,31,Berriozar (11.317); Ansoáin/Antsoain (10.656); Noáin (Valle de Elorz)/Noain (Elortzibar) (8.447),comarcal
+317,Cuenca Pamplona (Navarra),117827,31,Valle de Egüés/Eguesibar (22.785); Burlada/Burlata (21.229); Barañáin/Barañain (19.588),comarcal
+318,Pamplona/Iruña Centro I,103556,31,Pamplona/Iruña (103.556),ciudad
+319,Pamplona/Iruña Centro II,106120,31,Pamplona/Iruña (106.120),ciudad
+320,Ourense,95487,32,O Carballiño (14.238); Barbadás (11.192); O Pereiro de Aguiar (6.786),comarcal
+321,Verin y O Barco de Valdeorras (Ourense),104182,32,Verín (13.921); O Barco de Valdeorras (13.370); Xinzo de Limia (9.655),comarcal
+322,Ourense Centro,105609,32,Ourense (105.609),ciudad
+323,Gijón: Avilés (Asturias),114743,33,Avilés (75.915); Castrillón (21.986); Corvera de Asturias (15.793),comarcal
+324,Luarca (Asturias),116780,33,Cangas del Narcea (11.290); Valdés (10.763); Lena (10.411),comarcal
+325,Gijón Centro,115173,33,Gijón (115.173),ciudad
+326,Gijón (Asturias) I,116349,33,Gijón (95.657); Gozón (10.396); Carreño (10.296),comarcal
+327,Oviedo: Siero (Asturias),119628,33,Siero (52.997); San Martín del Rey Aurelio (15.526); Llanes (13.529),comarcal
+328,Mieres y Oviedo (Asturias),112423,33,Langreo (38.615); Mieres (36.368); Laviana (12.393),comarcal
+329,Gijón (Asturias) II,96456,33,Gijón (60.429); Villaviciosa (15.386); Llanera (14.010),comarcal
+330,Oviedo Centro I,115221,33,Oviedo (115.221),ciudad
+331,Oviedo Centro II,108355,33,Oviedo (108.355),ciudad
+332,Arlanzon (Palencia),95004,09+34,Burgos (23.402); Aguilar de Campoo (6.932); Villamuriel de Cerrato (6.496),comarcal
+333,Campos: Palencia,95010,34,Palencia (77.369); Grijota (2.838); Carrión de los Condes (1.993),comarcal
+334,Gran Canaria: Santa Lucía de Tirajana (Las Palmas),95721,35,Santa Lucía de Tirajana (61.846); Agüimes (33.875),comarcal
+335,Gran Canaria: San Bartolomé de Tirajana (Las Palmas),98802,35,San Bartolomé de Tirajana (54.925); Mogán (18.313); Santa Lucía de Tirajana (17.660),comarcal
+336,Gran Canaria: Arucas (Las Palmas),95074,35,Arucas (34.103); Gáldar (25.167); Santa María de Guía de Gran Canaria (14.334),comarcal
+337,Gran Canaria (Las Palmas),97036,35,Ingenio (32.846); Santa Brígida (18.790); Teror (13.244),comarcal
+338,Lanzarote (Las Palmas) I,83496,35,Arrecife (70.265); San Bartolomé (13.231),comarcal
+339,Lanzarote (Las Palmas) II,83382,35,Teguise (23.946); Tías (21.671); Yaiza (18.698),comarcal
+340,Fuerteventura (Las Palmas),129080,35,Puerto del Rosario (46.182); La Oliva (29.864); Pájara (21.254),comarcal
+341,Las Palmas de Gran Canaria Centro I,95142,35,Las Palmas de Gran Canaria (95.142),ciudad
+342,Las Palmas de Gran Canaria Centro II,97024,35,Las Palmas de Gran Canaria (97.024),ciudad
+343,Las Palmas de Gran Canaria Norte,96474,35,Las Palmas de Gran Canaria (96.474),ciudad
+344,Las Palmas de Gran Canaria Suroeste,95383,35,Las Palmas de Gran Canaria (95.383),ciudad
+345,Telde Centro,104933,35,Telde (104.933),ciudad
+346,Miño (Pontevedra),107580,36,Ponteareas (23.206); Tui (17.499); Tomiño (13.814),comarcal
+347,Litoral: Pontevedra,113355,36,Pontevedra (82.159); Poio (17.426); Caldas de Reis (9.631),comarcal
+348,Montaña (Pontevedra),103504,36,Lalín (20.255); A Estrada (20.101); Silleda (8.908),comarcal
+349,Litoral (Pontevedra) I,110715,36,Redondela (28.928); O Porriño (20.935); Nigrán (18.156),comarcal
+350,Litoral (Pontevedra) II,115689,36,Vilagarcía de Arousa (37.975); Sanxenxo (17.990); Cambados (13.863),comarcal
+351,Litoral (Pontevedra) III,96427,36,Cangas (26.698); Marín (23.976); Moaña (19.316),comarcal
+352,A Illa de Arousa (Pontevedra),4813,36,A Illa de Arousa (4.813),ciudad
+353,Vigo Centro I,95186,36,Vigo (95.186),ciudad
+354,Vigo Centro II,96179,36,Vigo (96.179),ciudad
+355,Vigo Suroeste,104370,36,Vigo (104.370),ciudad
+356,Salamanca I,95005,37,Salamanca (62.722); Santa Marta de Tormes (14.949); Villares de la Reina (6.784),comarcal
+357,Salamanca II,106526,37,Salamanca (23.968); Béjar (11.990); Ciudad Rodrigo (11.733),comarcal
+358,Salamanca III,97634,37,Salamanca (56.702); Carbajosa de la Sagrada (7.785); Villamayor (7.740),comarcal
+359,Tenerife Sur: Arona,113343,38,Arona (89.036); San Miguel de Abona (24.307),comarcal
+360,Tenerife Norte y Tenerife Sur: La Orotava,108067,38,La Orotava (42.669); Guía de Isora (22.846); Santiago del Teide (12.656),comarcal
+361,Tenerife Norte: Los Realejos,105110,38,Los Realejos (38.161); Puerto de la Cruz (31.589); Icod de los Vinos (24.675),comarcal
+362,San Cristóbal de La Laguna Centro y Tegueste,99161,38,San Cristóbal de La Laguna (87.648); Tegueste (11.513),ciudad
+363,Tenerife Sur: Granadilla de Abona,111670,38,Granadilla de Abona (59.126); Adeje (50.612); Vilaflor de Chasna (1.932),comarcal
+364,Tenerife Sur y Tenerife Norte,118647,38,Candelaria (29.240); Güímar (22.010); El Rosario (18.028),comarcal
+365,Tenerife Norte: San Cristóbal de La Laguna,98973,38,San Cristóbal de La Laguna (74.279); Tacoronte (24.694),comarcal
+366,La Palma (Tenerife),86297,38,Los Llanos de Aridane (20.662); Santa Cruz de la Palma (15.763); El Paso (8.291),comarcal
+367,La Gomera (Tenerife),22560,38,San Sebastián de la Gomera (9.665); Valle Gran Rey (4.805); Vallehermoso (2.949),comarcal
+368,El Hierro (Tenerife),11993,38,Valverde (5.305); Frontera (4.648); El Pinar de El Hierro (2.040),comarcal
+369,Santa Cruz de Tenerife Centro I,97763,38,Santa Cruz de Tenerife (97.763),ciudad
+370,Santa Cruz de Tenerife Centro II,113735,38,Santa Cruz de Tenerife (113.735),ciudad
+371,Costera: Torrelavega (Cantabria),99546,39,Torrelavega (51.668); Reocín (8.396); Cabezón de la Sal (8.329),comarcal
+372,Santander Centro,101957,39,Santander (101.957),ciudad
+373,Costera (Cantabria) I,97060,39,Castro-Urdiales (33.392); Santoña (10.881); Laredo (10.675),comarcal
+374,Costera: Santander (Cantabria),103682,39,Santander (73.125); Camargo (30.557),comarcal
+375,Costera y Pas-Iguña (Cantabria),95891,39,El Astillero (18.445); Los Corrales de Buelna (10.950); Reinosa (8.548),comarcal
+376,Costera (Cantabria) II,95238,39,Piélagos (26.859); Santa Cruz de Bezana (13.886); Santa María de Cayón (9.646),comarcal
+377,Segovia,95000,40,Segovia (52.189); El Espinar (10.410); Palazuelos de Eresma (6.114),comarcal
+378,Cuellar y La Ribera (Segovia),95003,09+40,Aranda de Duero (29.780); Cuéllar (9.451); Cantalejo (3.615),comarcal
+379,La Campiña (Sevilla),105679,41,Carmona (30.408); Mairena del Alcor (24.354); Arahal (19.558),comarcal
+380,La Vega: La Rinconada (Sevilla),104093,41,La Rinconada (40.747); Lora del Río (18.215); Brenes (12.931),comarcal
+381,La Campiña y La Vega: Alcalá de Guadaíra (Sevilla),116400,41,Alcalá de Guadaíra (77.718); Dos Hermanas (38.682),comarcal
+382,El Aljarafe y La Campiña (Sevilla),117447,41,Lebrija (27.767); Espartinas (16.574); Pilas (14.251),comarcal
+383,La Sierra Norte y La Vega (Sevilla),106683,41,La Algaba (16.862); Guillena (14.251); Alcalá del Río (12.353),comarcal
+384,La Sierra Sur y La Campiña (Sevilla),105801,41,Morón de la Frontera (27.200); Marchena (19.416); Osuna (17.390),comarcal
+385,La Campiña y La Vega: Utrera (Sevilla),118278,41,Utrera (52.489); Los Palacios y Villafranca (38.778); Las Cabezas de San Juan (16.393),comarcal
+386,Dos Hermanas Centro,103781,41,Dos Hermanas (103.781),ciudad
+387,La Vega y El Aljarafe: Mairena del Aljarafe (Sevilla),99308,41,Mairena del Aljarafe (48.032); Coria del Río (31.292); Gelves (10.558),comarcal
+388,La Campiña y De Estepa: Écija (Sevilla),101025,41,Écija (39.797); Estepa (12.437); Fuentes de Andalucía (7.250),comarcal
+389,El Aljarafe (Sevilla),95601,41,Bormujos (23.086); Sanlúcar la Mayor (14.633); Gines (13.660),comarcal
+390,La Vega y El Aljarafe (Sevilla),114854,41,Camas (29.191); Tomares (25.577); San Juan de Aznalfarache (23.455),comarcal
+391,Sevilla: Este-Alcosa-Torreblanca,98668,41,Sevilla (98.668),ciudad
+392,Sevilla: Cerro-Amate,119378,41,Sevilla (119.378),ciudad
+393,Sevilla: Macarena y Norte,113303,41,Sevilla (113.303),ciudad
+394,Sevilla: Norte,118960,41,Sevilla (118.960),ciudad
+395,Sevilla: Sur,119228,41,Sevilla (119.228),ciudad
+396,Sevilla: San Pablo-Santa Justa,119177,41,Sevilla (119.177),ciudad
+397,Soria,95158,09+42,Soria (40.941); Almazán (5.534); Burgo de Osma-Ciudad de Osma (5.263),comarcal
+398,Bajo Penedés/Baix Penedès (Tarragona),118580,43,El Vendrell (41.195); Calafell (32.429); Cunit (16.304),comarcal
+399,Campo de Tarragona/Camp de Tarragona: Cambrils,102844,43,Cambrils (37.068); Mont-roig del Camp (14.652); Vandellòs i l'Hospitalet de l'Infant (7.151),comarcal
+400,Campo de Tarragona/Camp de Tarragona I,119631,43,Tarragona (83.324); Torredembarra (18.190); Altafulla (5.856),comarcal
+401,Bajo Ebro/Baix Ebre (Tarragona),95261,43,Amposta (23.047); La Ràpita (16.230); Deltebre (12.074),comarcal
+402,Campo de Tarragona/Camp de Tarragona II,119709,43,Tarragona (26.334); Valls (25.540); Montblanc (7.568),comarcal
+403,Bajo Ebro/Baix Ebre: Tortosa (Tarragona),95387,43,Tortosa (36.258); L'Ametlla de Mar (7.436); Móra d'Ebre (5.841),comarcal
+404,Campo de Tarragona/Camp de Tarragona III,112207,43,Tarragona (33.602); Salou (31.018); Vila-seca (24.158),comarcal
+405,Reus Centro,111911,43,Reus (111.911),ciudad
+406,Hoya de Teruel y Bajo Aragon,119428,44,Teruel (36.521); Andorra (7.192); Alcañiz (6.601),comarcal
+407,Torrijos (Toledo),101066,45,Torrijos (14.313); Fuensalida (12.662); La Puebla de Montalbán (8.172),comarcal
+408,Toledo Centro y Olías del Rey,96258,45,Toledo (87.074); Olías del Rey (9.184),ciudad
+409,Talavera: Talavera de la Reina (Toledo),118285,45,Talavera de la Reina (84.413); Calera y Chozas (4.839); Pepino (3.421),comarcal
+410,Sagra - Toledo I,100382,45,Illescas (33.167); Seseña (30.889); Yuncos (13.435),comarcal
+411,La Mancha (Toledo),119359,45,Ocaña (16.039); Quintanar de la Orden (11.321); Madridejos (10.072),comarcal
+412,Sagra - Toledo II,105387,45,Bargas (11.325); Casarrubios del Monte (7.498); El Viso de San Juan (6.459),comarcal
+413,Sagra - Toledo III,114609,13+45,Sonseca (11.419); Mora (10.174); Argés (7.200),comarcal
+414,Huerta de Valencia I,105554,46,Alboraia/Alboraya (26.324); Montcada/Moncada (22.252); Meliana (11.046),comarcal
+415,Huerta de Valencia: Torrent,114095,46,Torrent (91.353); Picanya (11.899); Alcàsser (10.843),comarcal
+416,Gandia (Valencia),97290,46,Gandia (60.517); Bellreguard (5.034); la Font d'en Carròs (4.053),comarcal
+417,Campos de Liria y Huerta de Valencia,113362,46,la Pobla de Vallbona (27.777); Quart de Poblet (26.939); Riba-roja de Túria (24.609),comarcal
+418,Huerta de Valencia: Burjassot,102868,46,Burjassot (41.743); Bétera (28.605); Godella (13.556),comarcal
+419,Huerta de Valencia y Riberas del Jucar,104576,46,Picassent (23.157); Silla (20.484); Albal (17.432),comarcal
+420,Huerta de Valencia II,119504,46,Catarroja (30.612); Paiporta (28.237); Alfafar (22.266),comarcal
+421,Riberas del Jucar (Valencia),100911,46,Algemesí (28.248); Carlet (16.833); Alberic (11.109),comarcal
+422,Campos de Liria y Requena-Utiel (Valencia),115629,46,Llíria (25.613); Requena (21.050); Benaguasil (12.707),comarcal
+423,Sagunto (Valencia),95135,46,Puçol (21.685); Massamagrell (17.564); Rafelbunyol (9.956),comarcal
+424,Huerta de Valencia: Mislata,109533,46,Mislata (47.003); Xirivella (32.178); Alaquàs (30.352),comarcal
+425,Valles de Albaida y Gandia (Valencia),113953,46,Ontinyent (36.847); Oliva (26.820); Albaida (6.295),comarcal
+426,Riberas del Jucar y Gandia (Valencia),110119,46,Sueca (29.544); Cullera (24.621); Gandia (22.392),comarcal
+427,La Costera de Jativa (Valencia),98111,46,Xàtiva (30.925); Canals (13.805); l'Olleria (8.928),comarcal
+428,Hoya de Buñol y Huerta de Valencia,114271,46,Aldaia (34.644); Chiva (18.122); Montserrat (10.095),comarcal
+429,Huerta de Valencia: Paterna,108552,46,Paterna (75.805); Manises (32.747),comarcal
+430,Sagunto: Sagunt/Sagunto (Valencia),98745,46,Sagunt/Sagunto (73.416); Canet d'En Berenguer (8.266); Gilet (4.007),comarcal
+431,Riberas del Jucar: Alzira (Valencia),98072,46,Alzira (48.604); Carcaixent (21.893); l'Alcúdia (12.574),comarcal
+432,València: Quatre Carreres,102406,46,València (102.406),ciudad
+433,València: Poblats Marítims y Algirós,118441,46,València (118.441),ciudad
+434,València: Patraix y l'Olivereta,98405,46,València (98.405),ciudad
+435,València: Rascanya y la Saïdia,112392,46,València (112.392),ciudad
+436,València: Camins al Grau y el Pla del Real,100236,46,València (100.236),ciudad
+437,València: Jesús y l'Eixample,107107,46,València (107.107),ciudad
+438,València: Benicalap y Campanar,105529,46,València (105.529),ciudad
+439,València: Extramurs y Ciutat Vella,97042,46,València (97.042),ciudad
+440,Centro (Valladolid),99968,47,Laguna de Duero (22.999); Arroyo de la Encomienda (16.845); Cistérniga (9.483),comarcal
+441,Sureste y Sur (Valladolid),102428,47,Medina del Campo (16.626); Tudela de Duero (8.933); Íscar (6.554),comarcal
+442,Valladolid Centro,97626,47,Valladolid (97.626),ciudad
+443,Valladolid Sur,98265,47,Valladolid (98.265),ciudad
+444,Valladolid Noreste,105907,47,Valladolid (105.907),ciudad
+445,Gernika-Bermeo y Duranguesado (Bizkaia),118586,48,Bermeo (17.116); Gernika-Lumo (17.081); Ermua (15.560),comarcal
+446,Gran Bilbao: Getxo (Bizkaia),116932,48,Getxo (75.967); Leioa (32.708); Berango (8.257),comarcal
+447,Plentzia-Mungia y Gran Bilbao (Bizkaia),118392,48,Sestao (28.473); Erandio (24.721); Mungia (18.135),comarcal
+448,Gran Bilbao: Santurtzi (Bizkaia),118502,48,Santurtzi (46.530); Portugalete (44.864); Abanto y Ciérvana-Abanto Zierbena (9.389),comarcal
+449,Duranguesado y Gran Bilbao (Bizkaia),118822,48,Durango (30.181); Galdakao (24.767); Amorebieta-Etxano (19.639),comarcal
+450,Gran Bilbao (Bizkaia),117946,39+48,Basauri (40.262); Etxebarri (12.035); Arrigorriaga (11.938),comarcal
+451,Barakaldo Centro,103084,48,Barakaldo (103.084),ciudad
+452,Bilbao: Begoña,115053,48,Bilbao (115.053),ciudad
+453,Bilbao: Basurto-Zorroza,118422,48,Bilbao (118.422),ciudad
+454,Bilbao: Ibaiondo y Abando,117500,48,Bilbao (117.500),ciudad
+455,Duero Bajo (Zamora),95004,47+49,Toro (8.349); Arroyo de la Encomienda (5.933); Simancas (5.552),comarcal
+456,Campos-Pan y Benavente y los Valles: Zamora,95010,47+49,Zamora (59.857); Benavente (17.276); San Cristóbal de Entreviñas (1.329),comarcal
+457,Calatayud (Zaragoza),116369,44+50,Calatayud (20.152); Caspe (10.405); Alcañiz (9.846),comarcal
+458,Zaragoza y Egea de los Caballeros,95558,31+50,Ejea de los Caballeros (17.219); Tarazona (10.872); Zuera (8.714),comarcal
+459,Zaragoza y La Almunia de Doña Godina,104201,50,Utebo (19.135); Cuarte de Huerva (15.380); La Almunia de Doña Godina (8.044),comarcal
+460,Zaragoza Centro I,104966,50,Zaragoza (104.966),ciudad
+461,Zaragoza Suroeste,99902,50,Zaragoza (99.902),ciudad
+462,Zaragoza Sureste,108434,50,Zaragoza (108.434),ciudad
+463,Zaragoza Centro II,96112,50,Zaragoza (96.112),ciudad
+464,Zaragoza Noreste I,95224,50,Zaragoza (95.224),ciudad
+465,Zaragoza Noroeste,95466,50,Zaragoza (95.466),ciudad
+466,Zaragoza Noreste II,98903,50,Zaragoza (98.903),ciudad
+467,Ceuta,83567,51,Ceuta (83.567),ciudad
+468,Melilla,87067,52,Melilla (87.067),ciudad

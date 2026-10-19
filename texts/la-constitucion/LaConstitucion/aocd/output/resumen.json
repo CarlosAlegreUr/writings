@@ -1,0 +1,4119 @@
+{
+ "resumen": {
+  "n_unidades": 36554,
+  "poblacion_total": 49128297,
+  "n_distritos": 469,
+  "en_rango": 457,
+  "fuera_rango": 12,
+  "fuera_por_motivo": {
+   "Territorio aislado (isla, Ceuta, Melilla): imposibilidad geográfica": 12
+  },
+  "n_sin_ciudades": 469,
+  "pct_en_rango_sin_ciudades": 97.44136460554371,
+  "pob_en_rango": 48360087,
+  "diametros": {
+   "min": 2.3,
+   "p25": 7.7,
+   "mediana": 18.6,
+   "p75": 52.1,
+   "p90": 90.5,
+   "max": 204.1,
+   "n_mas_100": 40,
+   "n_mas_150": 12,
+   "n_mas_200": 1
+  },
+  "grandes": [
+   {
+    "distrito": 457,
+    "nombre": "50 Zaragoza 1",
+    "diametro_km": 204.1,
+    "poblacion": 116369,
+    "n_unidades": 197,
+    "elongacion": 3.12,
+    "excepcion": null
+   },
+   {
+    "distrito": 40,
+    "nombre": "06 Badajoz 5",
+    "diametro_km": 190.4,
+    "poblacion": 110326,
+    "n_unidades": 118,
+    "elongacion": 2.52,
+    "excepcion": null
+   },
+   {
+    "distrito": 455,
+    "nombre": "49 Zamora 1",
+    "diametro_km": 189.7,
+    "poblacion": 95004,
+    "n_unidades": 207,
+    "elongacion": 2.21,
+    "excepcion": null
+   },
+   {
+    "distrito": 113,
+    "nombre": "09 Burgos T1 2",
+    "diametro_km": 183.8,
+    "poblacion": 99366,
+    "n_unidades": 255,
+    "elongacion": 1.93,
+    "excepcion": null
+   },
+   {
+    "distrito": 406,
+    "nombre": "44 Teruel",
+    "diametro_km": 179.9,
+    "poblacion": 119428,
+    "n_unidades": 267,
+    "elongacion": 1.98,
+    "excepcion": null
+   },
+   {
+    "distrito": 205,
+    "nombre": "24 León 4",
+    "diametro_km": 174.0,
+    "poblacion": 119913,
+    "n_unidades": 161,
+    "elongacion": 1.28,
+    "excepcion": null
+   },
+   {
+    "distrito": 141,
+    "nombre": "13 Ciudad Real T1 5",
+    "diametro_km": 167.5,
+    "poblacion": 100142,
+    "n_unidades": 105,
+    "elongacion": 4.05,
+    "excepcion": null
+   },
+   {
+    "distrito": 180,
+    "nombre": "19 Guadalajara 2",
+    "diametro_km": 163.3,
+    "poblacion": 95787,
+    "n_unidades": 277,
+    "elongacion": 1.48,
+    "excepcion": null
+   },
+   {
+    "distrito": 117,
+    "nombre": "10 Cáceres B1 3",
+    "diametro_km": 161.8,
+    "poblacion": 95825,
+    "n_unidades": 121,
+    "elongacion": 1.88,
+    "excepcion": null
+   },
+   {
+    "distrito": 160,
+    "nombre": "16 Cuenca 1",
+    "diametro_km": 158.1,
+    "poblacion": 106240,
+    "n_unidades": 199,
+    "elongacion": 1.79,
+    "excepcion": null
+   },
+   {
+    "distrito": 138,
+    "nombre": "13 Ciudad Real T1 2",
+    "diametro_km": 157.6,
+    "poblacion": 95577,
+    "n_unidades": 91,
+    "elongacion": 2.1,
+    "excepcion": null
+   },
+   {
+    "distrito": 397,
+    "nombre": "42 Soria",
+    "diametro_km": 153.9,
+    "poblacion": 95158,
+    "n_unidades": 222,
+    "elongacion": 1.97,
+    "excepcion": null
+   }
+  ],
+  "n_multiprov": 14,
+  "multiprov": [
+   {
+    "distrito": 2,
+    "nombre": "01 Araba/Álava 3",
+    "provincias": [
+     "01",
+     "09",
+     "48"
+    ],
+    "poblacion": 111946,
+    "justificacion_cruce": "48 Bizkaia T2 (4.243 hab., 3 unidades: Urduña/Orduña sección 01001, Urduña/Orduña sección 01002, Urduña/Orduña sección 02001) se une a 01 Araba/Álava (341.961 hab.): el bloque 48 Bizkaia T2 (4.243 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida) | 09 Burgos T2 (2.034 hab., 2 unidades: Condado de Treviño sección 01001, Puebla de Arganzón, La sección 01001) se une a 01 Araba/Álava (346.204 hab.): el bloque 09 Burgos T2 (2.034 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 34,
+    "nombre": "05 Ávila 1",
+    "provincias": [
+     "05",
+     "37"
+    ],
+    "poblacion": 95016,
+    "justificacion_cruce": "05 Ávila recibe 29.281 hab. (60 unidades: Alaraz sección 01001, Alba de Tormes sección 01001, Alba de Tormes sección 01002, Alba de Tormes sección 01003, Aldeaseca de Alba sección 01001, Aldeatejada sección 01001 … (+54)) de 37 Salamanca: el bloque 05 Ávila (160.738 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 113,
+    "nombre": "09 Burgos T1 2",
+    "provincias": [
+     "09",
+     "34"
+    ],
+    "poblacion": 99366,
+    "justificacion_cruce": "34 Palencia T3 (45 hab., 1 unidades: Berzosilla sección 01001) se une a 09 Burgos T1 (359.837 hab.): el bloque 34 Palencia T3 (45 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida) | 34 Palencia T2 (100 hab., 1 unidades: Villodrigo sección 01001) se une a 09 Burgos T1 (359.882 hab.): el bloque 34 Palencia T2 (100 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 114,
+    "nombre": "09 Burgos T1 3",
+    "provincias": [
+     "09",
+     "34"
+    ],
+    "poblacion": 98195,
+    "justificacion_cruce": "34 Palencia T3 (45 hab., 1 unidades: Berzosilla sección 01001) se une a 09 Burgos T1 (359.837 hab.): el bloque 34 Palencia T3 (45 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida) | 34 Palencia T2 (100 hab., 1 unidades: Villodrigo sección 01001) se une a 09 Burgos T1 (359.882 hab.): el bloque 34 Palencia T2 (100 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 160,
+    "nombre": "16 Cuenca 1",
+    "provincias": [
+     "16",
+     "46"
+    ],
+    "poblacion": 106240,
+    "justificacion_cruce": "46 Valencia/València T2 (2.158 hab., 7 unidades: Ademuz sección 01001, Casas Altas sección 01001, Casas Bajas sección 01001, Castielfabib sección 01001, Puebla de San Miguel sección 01001, Torrebaja sección 01001 … (+1)) se une a 16 Cuenca (199.859 hab.): el bloque 46 Valencia/València T2 (2.158 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 332,
+    "nombre": "34 Palencia T1 1",
+    "provincias": [
+     "09",
+     "34"
+    ],
+    "poblacion": 95004,
+    "justificacion_cruce": "09 Burgos T1 cede 792 hab. (1 unidades: Castrojeriz sección 01001) a 34 Palencia T1: el bloque 09 Burgos T1 (360.629 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida) | 34 Palencia T1 recibe 30.665 hab. (18 unidades: Alfoz de Quintanadueñas sección 01001, Arcos sección 01001, Balbases, Los sección 01001, Burgos sección 03003, Burgos sección 03005, Burgos sección 03006 … (+12)) de 09 Burgos T1: el bloque 34 Palencia T1 (159.349 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 378,
+    "nombre": "40 Segovia 2",
+    "provincias": [
+     "09",
+     "40"
+    ],
+    "poblacion": 95003,
+    "justificacion_cruce": "40 Segovia recibe 31.752 hab. (23 unidades: Aranda de Duero sección 01001, Aranda de Duero sección 01002, Aranda de Duero sección 01003, Aranda de Duero sección 01004, Aranda de Duero sección 01005, Aranda de Duero sección 01006 … (+17)) de 09 Burgos T1: el bloque 40 Segovia (158.251 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 397,
+    "nombre": "42 Soria",
+    "provincias": [
+     "09",
+     "42"
+    ],
+    "poblacion": 95158,
+    "justificacion_cruce": "42 Soria recibe 4.975 hab. (4 unidades: Aranda de Duero sección 03004, Aranda de Duero sección 03005, Fresnillo de las Dueñas sección 01001, Santa Cruz de la Salceda sección 01001) de 09 Burgos T1: el bloque 42 Soria (90.183 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 413,
+    "nombre": "45 Toledo 7",
+    "provincias": [
+     "13",
+     "45"
+    ],
+    "poblacion": 114609,
+    "justificacion_cruce": "13 Ciudad Real T2 (265 hab., 1 unidades: Anchuras sección 01001) se une a 45 Toledo (755.081 hab.): el bloque 13 Ciudad Real T2 (265 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 450,
+    "nombre": "48 Bizkaia T1 6",
+    "provincias": [
+     "39",
+     "48"
+    ],
+    "poblacion": 117946,
+    "justificacion_cruce": "39 Cantabria T2 (249 hab., 1 unidades: Valle de Villaverde sección 01001) se une a 48 Bizkaia T1 (708.931 hab.): el bloque 39 Cantabria T2 (249 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 455,
+    "nombre": "49 Zamora 1",
+    "provincias": [
+     "47",
+     "49"
+    ],
+    "poblacion": 95004,
+    "justificacion_cruce": "47 Valladolid T2 (199 hab., 2 unidades: Quintanilla del Molar sección 01001, Roales de Campos sección 01001) se une a 49 Zamora (165.564 hab.): el bloque 47 Valladolid T2 (199 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida) | 49 Zamora recibe 24.251 hab. (16 unidades: Alaejos sección 01001, Arroyo de la Encomienda sección 01007, Arroyo de la Encomienda sección 01008, Arroyo de la Encomienda sección 01011, Castronuño sección 01001, Medina del Campo sección 03003 … (+10)) de 47 Valladolid T1: el bloque 49 Zamora (165.763 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 456,
+    "nombre": "49 Zamora 2",
+    "provincias": [
+     "47",
+     "49"
+    ],
+    "poblacion": 95010,
+    "justificacion_cruce": "47 Valladolid T2 (199 hab., 2 unidades: Quintanilla del Molar sección 01001, Roales de Campos sección 01001) se une a 49 Zamora (165.564 hab.): el bloque 47 Valladolid T2 (199 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida) | 49 Zamora recibe 24.251 hab. (16 unidades: Alaejos sección 01001, Arroyo de la Encomienda sección 01007, Arroyo de la Encomienda sección 01008, Arroyo de la Encomienda sección 01011, Castronuño sección 01001, Medina del Campo sección 03003 … (+10)) de 47 Valladolid T1: el bloque 49 Zamora (165.763 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 457,
+    "nombre": "50 Zaragoza 1",
+    "provincias": [
+     "44",
+     "50"
+    ],
+    "poblacion": 116369,
+    "justificacion_cruce": "44 Teruel cede 16.663 hab. (17 unidades: Albalate del Arzobispo sección 01001, Albalate del Arzobispo sección 01002, Alcañiz sección 03001, Alcañiz sección 03004, Alcañiz sección 03005, Alcañiz sección 04002 … (+11)) a 50 Zaragoza: el bloque 44 Teruel (136.091 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida) | 31 Navarra T2 (29 hab., 1 unidades: Petilla de Aragón sección 01001) se une a 50 Zaragoza (316.099 hab.): el bloque 31 Navarra T2 (29 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)"
+   },
+   {
+    "distrito": 458,
+    "nombre": "50 Zaragoza 2",
+    "provincias": [
+     "31",
+     "50"
+    ],
+    "poblacion": 95558,
+    "justificacion_cruce": "44 Teruel cede 16.663 hab. (17 unidades: Albalate del Arzobispo sección 01001, Albalate del Arzobispo sección 01002, Alcañiz sección 03001, Alcañiz sección 03004, Alcañiz sección 03005, Alcañiz sección 04002 … (+11)) a 50 Zaragoza: el bloque 44 Teruel (136.091 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida) | 31 Navarra T2 (29 hab., 1 unidades: Petilla de Aragón sección 01001) se une a 50 Zaragoza (316.099 hab.): el bloque 31 Navarra T2 (29 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)"
+   }
+  ],
+  "p25": {
+   "min": 8941.0,
+   "argmin": 26,
+   "argmin_nombre": "Torrevieja (03 Alicante/Alacant)",
+   "mediana": 13373.0,
+   "max": 27150.0,
+   "min_en_rango": 8941.0
+  },
+  "asignacion_ok": true,
+  "no_contiguos": [],
+  "suma_ok": true,
+  "n_ciudades": 0,
+  "segundos": 303.3
+ },
+ "notas": {
+  "ciudades": [],
+  "artefactos": [],
+  "transferencias": [
+   {
+    "tipo": "unir",
+    "nivel": 0,
+    "texto": "10 Cáceres B2 (1.727 hab., 2 unidades: Aliseda sección 01001, Aliseda sección 02001) se une a Cáceres (10 Cáceres) (96.598 hab.): el bloque 10 Cáceres B2 (1.727 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce dentro de la provincia, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 1727,
+    "unidades": 2,
+    "ids": [
+     "1001801001",
+     "1001802001"
+    ],
+    "id_origen": 26,
+    "id_destino": 24
+   },
+   {
+    "tipo": "unir",
+    "nivel": 1,
+    "texto": "13 Ciudad Real T2 (265 hab., 1 unidades: Anchuras sección 01001) se une a 45 Toledo (755.081 hab.): el bloque 13 Ciudad Real T2 (265 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 265,
+    "unidades": 1,
+    "ids": [
+     "1301701001"
+    ],
+    "id_origen": 33,
+    "id_destino": 104
+   },
+   {
+    "tipo": "ceder",
+    "nivel": 1,
+    "texto": "09 Burgos T1 cede 792 hab. (1 unidades: Castrojeriz sección 01001) a 34 Palencia T1: el bloque 09 Burgos T1 (360.629 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 792,
+    "unidades": 1,
+    "ids": [
+     "0909101001"
+    ],
+    "id_origen": 22,
+    "id_destino": 78
+   },
+   {
+    "tipo": "unir",
+    "nivel": 1,
+    "texto": "34 Palencia T3 (45 hab., 1 unidades: Berzosilla sección 01001) se une a 09 Burgos T1 (359.837 hab.): el bloque 34 Palencia T3 (45 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 45,
+    "unidades": 1,
+    "ids": [
+     "3403201001"
+    ],
+    "id_origen": 80,
+    "id_destino": 22
+   },
+   {
+    "tipo": "unir",
+    "nivel": 1,
+    "texto": "34 Palencia T2 (100 hab., 1 unidades: Villodrigo sección 01001) se une a 09 Burgos T1 (359.882 hab.): el bloque 34 Palencia T2 (100 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 100,
+    "unidades": 1,
+    "ids": [
+     "3424201001"
+    ],
+    "id_origen": 79,
+    "id_destino": 22
+   },
+   {
+    "tipo": "unir",
+    "nivel": 1,
+    "texto": "47 Valladolid T2 (199 hab., 2 unidades: Quintanilla del Molar sección 01001, Roales de Campos sección 01001) se une a 49 Zamora (165.564 hab.): el bloque 47 Valladolid T2 (199 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 199,
+    "unidades": 2,
+    "ids": [
+     "4712801001",
+     "4713401001"
+    ],
+    "id_origen": 110,
+    "id_destino": 115
+   },
+   {
+    "tipo": "unir",
+    "nivel": 1,
+    "texto": "48 Bizkaia T2 (4.243 hab., 3 unidades: Urduña/Orduña sección 01001, Urduña/Orduña sección 01002, Urduña/Orduña sección 02001) se une a 01 Araba/Álava (341.961 hab.): el bloque 48 Bizkaia T2 (4.243 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 4243,
+    "unidades": 3,
+    "ids": [
+     "4807401001",
+     "4807401002",
+     "4807402001"
+    ],
+    "id_origen": 114,
+    "id_destino": 1
+   },
+   {
+    "tipo": "recibir",
+    "nivel": 1,
+    "texto": "42 Soria recibe 4.975 hab. (4 unidades: Aranda de Duero sección 03004, Aranda de Duero sección 03005, Fresnillo de las Dueñas sección 01001, Santa Cruz de la Salceda sección 01001) de 09 Burgos T1: el bloque 42 Soria (90.183 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 4975,
+    "unidades": 4,
+    "ids": [
+     "0901803004",
+     "0901803005",
+     "0913101001",
+     "0934501001"
+    ],
+    "id_origen": 22,
+    "id_destino": 100
+   },
+   {
+    "tipo": "ceder",
+    "nivel": 1,
+    "texto": "44 Teruel cede 16.663 hab. (17 unidades: Albalate del Arzobispo sección 01001, Albalate del Arzobispo sección 01002, Alcañiz sección 03001, Alcañiz sección 03004, Alcañiz sección 03005, Alcañiz sección 04002 … (+11)) a 50 Zaragoza: el bloque 44 Teruel (136.091 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 16663,
+    "unidades": 17,
+    "ids": [
+     "4400801001",
+     "4400801002",
+     "4401303001",
+     "4401303004",
+     "4401303005",
+     "4401304002",
+     "4401305002",
+     "4403101001",
+     "4406701001",
+     "4412201001",
+     "4412201002",
+     "4412901001",
+     "4416101001",
+     "4419101001",
+     "4420501001",
+     "4423701001",
+     "4426501001"
+    ],
+    "id_origen": 103,
+    "id_destino": 117
+   },
+   {
+    "tipo": "recibir",
+    "nivel": 1,
+    "texto": "49 Zamora recibe 24.251 hab. (16 unidades: Alaejos sección 01001, Arroyo de la Encomienda sección 01007, Arroyo de la Encomienda sección 01008, Arroyo de la Encomienda sección 01011, Castronuño sección 01001, Medina del Campo sección 03003 … (+10)) de 47 Valladolid T1: el bloque 49 Zamora (165.763 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 24251,
+    "unidades": 16,
+    "ids": [
+     "4700401001",
+     "4701001007",
+     "4701001008",
+     "4701001011",
+     "4704501001",
+     "4708503003",
+     "4708503004",
+     "4710101001",
+     "4710101002",
+     "4713901001",
+     "4716101001",
+     "4716101002",
+     "4716101003",
+     "4716502001",
+     "4716502002",
+     "4720401001"
+    ],
+    "id_origen": 109,
+    "id_destino": 115
+   },
+   {
+    "tipo": "recibir",
+    "nivel": 1,
+    "texto": "34 Palencia T1 recibe 30.665 hab. (18 unidades: Alfoz de Quintanadueñas sección 01001, Arcos sección 01001, Balbases, Los sección 01001, Burgos sección 03003, Burgos sección 03005, Burgos sección 03006 … (+12)) de 09 Burgos T1: el bloque 34 Palencia T1 (159.349 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 30665,
+    "unidades": 18,
+    "ids": [
+     "0902301001",
+     "0903401001",
+     "0905903003",
+     "0905903005",
+     "0905903006",
+     "0905903009",
+     "0905903011",
+     "0905905038",
+     "0905905042",
+     "0905908003",
+     "0905908005",
+     "0905908006",
+     "0905908011",
+     "0912501001",
+     "0925001001",
+     "0943401001",
+     "0945601001",
+     "0990701001"
+    ],
+    "id_origen": 22,
+    "id_destino": 78
+   },
+   {
+    "tipo": "recibir",
+    "nivel": 1,
+    "texto": "40 Segovia recibe 31.752 hab. (23 unidades: Aranda de Duero sección 01001, Aranda de Duero sección 01002, Aranda de Duero sección 01003, Aranda de Duero sección 01004, Aranda de Duero sección 01005, Aranda de Duero sección 01006 … (+17)) de 09 Burgos T1: el bloque 40 Segovia (158.251 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 31752,
+    "unidades": 23,
+    "ids": [
+     "0901801001",
+     "0901801002",
+     "0901801003",
+     "0901801004",
+     "0901801005",
+     "0901801006",
+     "0901801007",
+     "0901801008",
+     "0901801009",
+     "0901802001",
+     "0901802002",
+     "0901802003",
+     "0901802004",
+     "0901802005",
+     "0901803001",
+     "0901803002",
+     "0901803003",
+     "0901803006",
+     "0901803007",
+     "0901803008",
+     "0914101001",
+     "0921801001",
+     "0943801001"
+    ],
+    "id_origen": 22,
+    "id_destino": 97
+   },
+   {
+    "tipo": "recibir",
+    "nivel": 1,
+    "texto": "05 Ávila recibe 29.281 hab. (60 unidades: Alaraz sección 01001, Alba de Tormes sección 01001, Alba de Tormes sección 01002, Alba de Tormes sección 01003, Aldeaseca de Alba sección 01001, Aldeatejada sección 01001 … (+54)) de 37 Salamanca: el bloque 05 Ávila (160.738 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce provincial dentro de la misma comunidad, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 29281,
+    "unidades": 60,
+    "ids": [
+     "3700701001",
+     "3700801001",
+     "3700801002",
+     "3700801003",
+     "3702101001",
+     "3702301001",
+     "3702401001",
+     "3702901001",
+     "3703201001",
+     "3703501001",
+     "3704701001",
+     "3705101001",
+     "3706001001",
+     "3706301001",
+     "3708901001",
+     "3710301001",
+     "3711401001",
+     "3711801001",
+     "3712201001",
+     "3713401001",
+     "3713801001",
+     "3713901001",
+     "3714101001",
+     "3714301001",
+     "3714401001",
+     "3714601001",
+     "3715501001",
+     "3715601001",
+     "3715601002",
+     "3715601003",
+     "3716201001",
+     "3716301001",
+     "3716901001",
+     "3717401001",
+     "3717801001",
+     "3718201001",
+     "3718801001",
+     "3720001001",
+     "3720301001",
+     "3721301001",
+     "3721601001",
+     "3721801001",
+     "3723501001",
+     "3723601001",
+     "3723701001",
+     "3724201001",
+     "3725501001",
+     "3726101001",
+     "3727403017",
+     "3727601001",
+     "3727701001",
+     "3729601001",
+     "3729701001",
+     "3731001001",
+     "3731201001",
+     "3731501001",
+     "3731901001",
+     "3732201001",
+     "3732201002",
+     "3733001001"
+    ],
+    "id_origen": 89,
+    "id_destino": 8
+   },
+   {
+    "tipo": "unir",
+    "nivel": 2,
+    "texto": "31 Navarra T2 (29 hab., 1 unidades: Petilla de Aragón sección 01001) se une a 50 Zaragoza (316.099 hab.): el bloque 31 Navarra T2 (29 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 29,
+    "unidades": 1,
+    "ids": [
+     "3120301001"
+    ],
+    "id_origen": 73,
+    "id_destino": 117
+   },
+   {
+    "tipo": "unir",
+    "nivel": 2,
+    "texto": "39 Cantabria T2 (249 hab., 1 unidades: Valle de Villaverde sección 01001) se une a 48 Bizkaia T1 (708.931 hab.): el bloque 39 Cantabria T2 (249 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 249,
+    "unidades": 1,
+    "ids": [
+     "3910101001"
+    ],
+    "id_origen": 96,
+    "id_destino": 113
+   },
+   {
+    "tipo": "unir",
+    "nivel": 2,
+    "texto": "09 Burgos T2 (2.034 hab., 2 unidades: Condado de Treviño sección 01001, Puebla de Arganzón, La sección 01001) se une a 01 Araba/Álava (346.204 hab.): el bloque 09 Burgos T2 (2.034 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 2034,
+    "unidades": 2,
+    "ids": [
+     "0910901001",
+     "0927601001"
+    ],
+    "id_origen": 23,
+    "id_destino": 1
+   },
+   {
+    "tipo": "unir",
+    "nivel": 2,
+    "texto": "46 Valencia/València T2 (2.158 hab., 7 unidades: Ademuz sección 01001, Casas Altas sección 01001, Casas Bajas sección 01001, Castielfabib sección 01001, Puebla de San Miguel sección 01001, Torrebaja sección 01001 … (+1)) se une a 16 Cuenca (199.859 hab.): el bloque 46 Valencia/València T2 (2.158 hab.) no admite partición en [95.000, 120.000] (art. 16, restr. 3: cruce entre comunidades autónomas, estrictamente necesario; opción de mínima población movida)",
+    "poblacion": 2158,
+    "unidades": 7,
+    "ids": [
+     "4600101001",
+     "4608701001",
+     "4608801001",
+     "4609201001",
+     "4620101001",
+     "4624201001",
+     "4625201001"
+    ],
+    "id_origen": 107,
+    "id_destino": 38
+   }
+  ],
+  "aislados": [
+   {
+    "bloque": "07 Illes Balears T2",
+    "poblacion": 164265,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "07 Illes Balears T4",
+    "poblacion": 11690,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "35 Las Palmas T2",
+    "poblacion": 166878,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "35 Las Palmas T3",
+    "poblacion": 129080,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "36 Pontevedra T2",
+    "poblacion": 4813,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "38 Santa Cruz de Tenerife T2",
+    "poblacion": 86297,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "38 Santa Cruz de Tenerife T3",
+    "poblacion": 22560,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "38 Santa Cruz de Tenerife T4",
+    "poblacion": 11993,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "51 Ceuta",
+    "poblacion": 83567,
+    "tipo": "aislado"
+   },
+   {
+    "bloque": "52 Melilla",
+    "poblacion": 87067,
+    "tipo": "aislado"
+   }
+  ],
+  "territorios_infactibles": [
+   {
+    "bloque": "05 Ávila",
+    "poblacion": 160738,
+    "territorio": 160738
+   },
+   {
+    "bloque": "07 Illes Balears T2",
+    "poblacion": 164265,
+    "territorio": 164265
+   },
+   {
+    "bloque": "07 Illes Balears T4",
+    "poblacion": 11690,
+    "territorio": 11690
+   },
+   {
+    "bloque": "09 Burgos T1",
+    "poblacion": 360629,
+    "territorio": 360629
+   },
+   {
+    "bloque": "09 Burgos T2",
+    "poblacion": 2034,
+    "territorio": 2034
+   },
+   {
+    "bloque": "13 Ciudad Real T2",
+    "poblacion": 265,
+    "territorio": 265
+   },
+   {
+    "bloque": "31 Navarra T2",
+    "poblacion": 29,
+    "territorio": 29
+   },
+   {
+    "bloque": "34 Palencia T1",
+    "poblacion": 158557,
+    "territorio": 158557
+   },
+   {
+    "bloque": "34 Palencia T2",
+    "poblacion": 100,
+    "territorio": 100
+   },
+   {
+    "bloque": "34 Palencia T3",
+    "poblacion": 45,
+    "territorio": 45
+   },
+   {
+    "bloque": "35 Las Palmas T2",
+    "poblacion": 166878,
+    "territorio": 166878
+   },
+   {
+    "bloque": "35 Las Palmas T3",
+    "poblacion": 129080,
+    "territorio": 129080
+   },
+   {
+    "bloque": "36 Pontevedra T2",
+    "poblacion": 4813,
+    "territorio": 4813
+   },
+   {
+    "bloque": "38 Santa Cruz de Tenerife T2",
+    "poblacion": 86297,
+    "territorio": 86297
+   },
+   {
+    "bloque": "38 Santa Cruz de Tenerife T3",
+    "poblacion": 22560,
+    "territorio": 22560
+   },
+   {
+    "bloque": "38 Santa Cruz de Tenerife T4",
+    "poblacion": 11993,
+    "territorio": 11993
+   },
+   {
+    "bloque": "39 Cantabria T2",
+    "poblacion": 249,
+    "territorio": 249
+   },
+   {
+    "bloque": "40 Segovia",
+    "poblacion": 158251,
+    "territorio": 158251
+   },
+   {
+    "bloque": "42 Soria",
+    "poblacion": 90183,
+    "territorio": 90183
+   },
+   {
+    "bloque": "44 Teruel",
+    "poblacion": 136091,
+    "territorio": 136091
+   },
+   {
+    "bloque": "46 Valencia/València T2",
+    "poblacion": 2158,
+    "territorio": 2158
+   },
+   {
+    "bloque": "47 Valladolid T2",
+    "poblacion": 199,
+    "territorio": 199
+   },
+   {
+    "bloque": "48 Bizkaia T2",
+    "poblacion": 4243,
+    "territorio": 4243
+   },
+   {
+    "bloque": "49 Zamora",
+    "poblacion": 165564,
+    "territorio": 165564
+   },
+   {
+    "bloque": "51 Ceuta",
+    "poblacion": 83567,
+    "territorio": 83567
+   },
+   {
+    "bloque": "52 Melilla",
+    "poblacion": 87067,
+    "territorio": 87067
+   }
+  ],
+  "municipales": [
+   {
+    "bloque": "Torrevieja (03 Alicante/Alacant)",
+    "poblacion": 100470,
+    "unidades": 33
+   },
+   {
+    "bloque": "Almería (04 Almería)",
+    "poblacion": 204772,
+    "unidades": 135
+   },
+   {
+    "bloque": "Roquetas de Mar (04 Almería)",
+    "poblacion": 110054,
+    "unidades": 50
+   },
+   {
+    "bloque": "Palma (07 Illes Balears T1)",
+    "poblacion": 443196,
+    "unidades": 253
+   },
+   {
+    "bloque": "Badalona (08 Barcelona)",
+    "poblacion": 230642,
+    "unidades": 149
+   },
+   {
+    "bloque": "Barcelona (08 Barcelona)",
+    "poblacion": 1713247,
+    "unidades": 1068
+   },
+   {
+    "bloque": "Hospitalet de Llobregat, L' (08 Barcelona)",
+    "poblacion": 292161,
+    "unidades": 197
+   },
+   {
+    "bloque": "Sabadell (08 Barcelona)",
+    "poblacion": 224589,
+    "unidades": 158
+   },
+   {
+    "bloque": "Sant Cugat del Vallès (08 Barcelona)",
+    "poblacion": 97959,
+    "unidades": 52
+   },
+   {
+    "bloque": "Terrassa (08 Barcelona)",
+    "poblacion": 232676,
+    "unidades": 141
+   },
+   {
+    "bloque": "Cáceres (10 Cáceres)",
+    "poblacion": 96598,
+    "unidades": 74
+   },
+   {
+    "bloque": "Cádiz (11 Cádiz)",
+    "poblacion": 110123,
+    "unidades": 107
+   },
+   {
+    "bloque": "Jerez de la Frontera (11 Cádiz)",
+    "poblacion": 215025,
+    "unidades": 165
+   },
+   {
+    "bloque": "Córdoba (14 Córdoba)",
+    "poblacion": 324159,
+    "unidades": 257
+   },
+   {
+    "bloque": "Santiago de Compostela (15 A Coruña)",
+    "poblacion": 100842,
+    "unidades": 76
+   },
+   {
+    "bloque": "Girona (17 Girona)",
+    "poblacion": 108352,
+    "unidades": 62
+   },
+   {
+    "bloque": "Granada (18 Granada)",
+    "poblacion": 235294,
+    "unidades": 180
+   },
+   {
+    "bloque": "Jaén (23 Jaén)",
+    "poblacion": 112119,
+    "unidades": 88
+   },
+   {
+    "bloque": "Lugo (27 Lugo)",
+    "poblacion": 100071,
+    "unidades": 74
+   },
+   {
+    "bloque": "Alcalá de Henares (28 Madrid)",
+    "poblacion": 202549,
+    "unidades": 129
+   },
+   {
+    "bloque": "Getafe (28 Madrid)",
+    "poblacion": 195628,
+    "unidades": 122
+   },
+   {
+    "bloque": "Leganés (28 Madrid)",
+    "poblacion": 195946,
+    "unidades": 142
+   },
+   {
+    "bloque": "Madrid (28 Madrid)",
+    "poblacion": 3477497,
+    "unidades": 2462
+   },
+   {
+    "bloque": "Móstoles (28 Madrid)",
+    "poblacion": 214293,
+    "unidades": 139
+   },
+   {
+    "bloque": "Rivas-Vaciamadrid (28 Madrid)",
+    "poblacion": 103243,
+    "unidades": 58
+   },
+   {
+    "bloque": "Rozas de Madrid, Las (28 Madrid)",
+    "poblacion": 99579,
+    "unidades": 50
+   },
+   {
+    "bloque": "San Sebastián de los Reyes (28 Madrid)",
+    "poblacion": 97330,
+    "unidades": 55
+   },
+   {
+    "bloque": "Málaga (29 Málaga)",
+    "poblacion": 597173,
+    "unidades": 435
+   },
+   {
+    "bloque": "Cartagena (30 Murcia)",
+    "poblacion": 220400,
+    "unidades": 182
+   },
+   {
+    "bloque": "Lorca (30 Murcia)",
+    "poblacion": 98613,
+    "unidades": 68
+   },
+   {
+    "bloque": "Pamplona/Iruña (31 Navarra T1)",
+    "poblacion": 209676,
+    "unidades": 151
+   },
+   {
+    "bloque": "Ourense (32 Ourense)",
+    "poblacion": 105609,
+    "unidades": 80
+   },
+   {
+    "bloque": "Oviedo (33 Asturias)",
+    "poblacion": 223576,
+    "unidades": 174
+   },
+   {
+    "bloque": "Palmas de Gran Canaria, Las (35 Las Palmas T1)",
+    "poblacion": 384023,
+    "unidades": 279
+   },
+   {
+    "bloque": "Telde (35 Las Palmas T1)",
+    "poblacion": 104933,
+    "unidades": 67
+   },
+   {
+    "bloque": "Vigo (36 Pontevedra T1)",
+    "poblacion": 295735,
+    "unidades": 241
+   },
+   {
+    "bloque": "Santa Cruz de Tenerife (38 Santa Cruz de Tenerife T1)",
+    "poblacion": 211498,
+    "unidades": 166
+   },
+   {
+    "bloque": "Sevilla (41 Sevilla)",
+    "poblacion": 688714,
+    "unidades": 522
+   },
+   {
+    "bloque": "Reus (43 Tarragona)",
+    "poblacion": 111911,
+    "unidades": 68
+   },
+   {
+    "bloque": "València (46 Valencia/València T1)",
+    "poblacion": 841558,
+    "unidades": 588
+   },
+   {
+    "bloque": "Valladolid (47 Valladolid T1)",
+    "poblacion": 301798,
+    "unidades": 252
+   },
+   {
+    "bloque": "Barakaldo (48 Bizkaia T1)",
+    "poblacion": 103084,
+    "unidades": 86
+   },
+   {
+    "bloque": "Bilbao (48 Bizkaia T1)",
+    "poblacion": 350975,
+    "unidades": 271
+   },
+   {
+    "bloque": "Zaragoza (50 Zaragoza)",
+    "poblacion": 699007,
+    "unidades": 502
+   }
+  ],
+  "provincias_sin_bloques_municipales": [
+   "30 Murcia"
+  ],
+  "imposibles": []
+ },
+ "bloques": [
+  {
+   "bloque": "01 Araba/Álava",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 348238,
+   "unidades": 245,
+   "factible": true,
+   "refinados": 23,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 8149
+    },
+    {
+     "K": 3,
+     "reinicio": 1,
+     "C1": 8149
+    },
+    {
+     "K": 3,
+     "reinicio": 2,
+     "C1": 8149
+    },
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 21,
+   "segundos": 1.0881373882293701,
+   "nodos": 219,
+   "aceptados_opt": 2036
+  },
+  {
+   "bloque": "02 Albacete",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 390751,
+   "unidades": 296,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 2,
+   "segundos": 0.08142399787902832,
+   "nodos": 30,
+   "aceptados_opt": 13
+  },
+  {
+   "bloque": "03 Alicante/Alacant",
+   "tipo": "normal",
+   "K": 18,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 1933096,
+   "unidades": 1205,
+   "factible": true,
+   "refinados": 9,
+   "intentos": [
+    {
+     "K": 18,
+     "reinicio": 0,
+     "C1": 3656
+    },
+    {
+     "K": 18,
+     "reinicio": 1,
+     "C1": 54070
+    },
+    {
+     "K": 18,
+     "reinicio": 2,
+     "C1": 52606
+    },
+    {
+     "K": 17,
+     "reinicio": 0,
+     "C1": 6191
+    },
+    {
+     "K": 17,
+     "reinicio": 1,
+     "C1": 46560
+    },
+    {
+     "K": 17,
+     "reinicio": 2,
+     "C1": 51388
+    },
+    {
+     "K": 19,
+     "reinicio": 0,
+     "C1": 6046
+    },
+    {
+     "K": 19,
+     "reinicio": 1,
+     "C1": 2399
+    },
+    {
+     "K": 19,
+     "reinicio": 2,
+     "C1": 117361
+    },
+    {
+     "K": 20,
+     "reinicio": 0,
+     "C1": 79514
+    },
+    {
+     "K": 20,
+     "reinicio": 1,
+     "C1": 22461
+    },
+    {
+     "K": 20,
+     "reinicio": 2,
+     "C1": 134385
+    },
+    {
+     "K": 19,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 29,
+   "segundos": 22.956714391708374,
+   "nodos": 332,
+   "aceptados_opt": 8028
+  },
+  {
+   "bloque": "Torrevieja (03 Alicante/Alacant)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 100470,
+   "unidades": 33,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 9.775161743164062e-06,
+   "nodos": 33
+  },
+  {
+   "bloque": "04 Almería",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 455728,
+   "unidades": 284,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 1,
+   "segundos": 0.006501197814941406,
+   "nodos": 17,
+   "aceptados_opt": 11
+  },
+  {
+   "bloque": "Almería (04 Almería)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 204772,
+   "unidades": 135,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.0052258968353271484,
+   "nodos": 8,
+   "aceptados_opt": 27
+  },
+  {
+   "bloque": "Roquetas de Mar (04 Almería)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 110054,
+   "unidades": 50,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.3828277587890625e-05,
+   "nodos": 50
+  },
+  {
+   "bloque": "05 Ávila",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 190019,
+   "unidades": 368,
+   "factible": true,
+   "refinados": 10,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 21313
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 21313
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 21313
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 2.030273675918579,
+   "nodos": 303,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "06 Badajoz",
+   "tipo": "normal",
+   "K": 6,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 665155,
+   "unidades": 553,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 1,
+   "segundos": 0.01434326171875,
+   "nodos": 33,
+   "aceptados_opt": 52
+  },
+  {
+   "bloque": "07 Illes Balears T1",
+   "tipo": "normal",
+   "K": 5,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 527872,
+   "unidades": 283,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 5,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 21,
+   "segundos": 0.07192230224609375,
+   "nodos": 52,
+   "aceptados_opt": 1149
+  },
+  {
+   "bloque": "07 Illes Balears T3",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 102821,
+   "unidades": 56,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.5497207641601562e-05,
+   "nodos": 56
+  },
+  {
+   "bloque": "Palma (07 Illes Balears T1)",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 443196,
+   "unidades": 253,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 21,
+   "segundos": 0.32349491119384766,
+   "nodos": 159,
+   "aceptados_opt": 2490
+  },
+  {
+   "bloque": "07 Illes Balears T2",
+   "tipo": "aislado",
+   "K": 2,
+   "lo": 79668,
+   "hi": 120000,
+   "poblacion": 164265,
+   "unidades": 76,
+   "factible": true,
+   "refinados": 5,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 733
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 733
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 733
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.15478873252868652,
+   "nodos": 13,
+   "aceptados_opt": 4
+  },
+  {
+   "bloque": "07 Illes Balears T4",
+   "tipo": "aislado",
+   "K": 1,
+   "lo": 9690,
+   "hi": 120000,
+   "poblacion": 11690,
+   "unidades": 6,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 4.5299530029296875e-06,
+   "nodos": 6
+  },
+  {
+   "bloque": "08 Barcelona",
+   "tipo": "normal",
+   "K": 29,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 3168667,
+   "unidades": 1887,
+   "factible": true,
+   "refinados": 10,
+   "intentos": [
+    {
+     "K": 29,
+     "reinicio": 0,
+     "C1": 36815
+    },
+    {
+     "K": 29,
+     "reinicio": 1,
+     "C1": 36815
+    },
+    {
+     "K": 29,
+     "reinicio": 2,
+     "C1": 36851
+    },
+    {
+     "K": 28,
+     "reinicio": 0,
+     "C1": 46335
+    },
+    {
+     "K": 28,
+     "reinicio": 1,
+     "C1": 36851
+    },
+    {
+     "K": 28,
+     "reinicio": 2,
+     "C1": 61977
+    },
+    {
+     "K": 30,
+     "reinicio": 0,
+     "C1": 38223
+    },
+    {
+     "K": 30,
+     "reinicio": 1,
+     "C1": 31530
+    },
+    {
+     "K": 30,
+     "reinicio": 2,
+     "C1": 38259
+    },
+    {
+     "K": 27,
+     "reinicio": 0,
+     "C1": 59196
+    },
+    {
+     "K": 27,
+     "reinicio": 1,
+     "C1": 48305
+    },
+    {
+     "K": 27,
+     "reinicio": 2,
+     "C1": 50214
+    },
+    {
+     "K": 31,
+     "reinicio": 0,
+     "C1": 31494
+    },
+    {
+     "K": 31,
+     "reinicio": 1,
+     "C1": 64446
+    },
+    {
+     "K": 31,
+     "reinicio": 2,
+     "C1": 32658
+    },
+    {
+     "K": 32,
+     "reinicio": 0,
+     "C1": 66488
+    },
+    {
+     "K": 32,
+     "reinicio": 1,
+     "C1": 47224
+    },
+    {
+     "K": 32,
+     "reinicio": 2,
+     "C1": 42413
+    },
+    {
+     "K": 33,
+     "reinicio": 0,
+     "C1": 85709
+    },
+    {
+     "K": 33,
+     "reinicio": 1,
+     "C1": 48992
+    },
+    {
+     "K": 33,
+     "reinicio": 2,
+     "C1": 75304
+    },
+    {
+     "K": 31,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 88,
+   "segundos": 91.91037034988403,
+   "nodos": 309,
+   "aceptados_opt": 8981
+  },
+  {
+   "bloque": "Badalona (08 Barcelona)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 230642,
+   "unidades": 149,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.0024187564849853516,
+   "nodos": 9,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "Barcelona (08 Barcelona)",
+   "tipo": "normal",
+   "K": 16,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 1713247,
+   "unidades": 1068,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 16,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 21,
+   "segundos": 5.66666054725647,
+   "nodos": 959,
+   "aceptados_opt": 59497
+  },
+  {
+   "bloque": "Hospitalet de Llobregat, L' (08 Barcelona)",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 292161,
+   "unidades": 197,
+   "factible": true,
+   "refinados": 6,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 6164
+    },
+    {
+     "K": 3,
+     "reinicio": 1,
+     "C1": 6164
+    },
+    {
+     "K": 3,
+     "reinicio": 2,
+     "C1": 6164
+    },
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 70,
+   "segundos": 0.4472200870513916,
+   "nodos": 197,
+   "aceptados_opt": 2995
+  },
+  {
+   "bloque": "Sabadell (08 Barcelona)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 224589,
+   "unidades": 158,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.0018763542175292969,
+   "nodos": 7,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "Sant Cugat del Vallès (08 Barcelona)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 97959,
+   "unidades": 52,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.621246337890625e-05,
+   "nodos": 52
+  },
+  {
+   "bloque": "Terrassa (08 Barcelona)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 232676,
+   "unidades": 141,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.002456188201904297,
+   "nodos": 7,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "09 Burgos T1",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 292590,
+   "unidades": 531,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 5,
+   "segundos": 0.12711405754089355,
+   "nodos": 71,
+   "aceptados_opt": 951
+  },
+  {
+   "bloque": "10 Cáceres B1",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 289865,
+   "unidades": 335,
+   "factible": true,
+   "refinados": 10,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 998
+    },
+    {
+     "K": 3,
+     "reinicio": 1,
+     "C1": 19664
+    },
+    {
+     "K": 3,
+     "reinicio": 2,
+     "C1": 19664
+    },
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 2,
+   "segundos": 1.0414693355560303,
+   "nodos": 221,
+   "aceptados_opt": 151
+  },
+  {
+   "bloque": "Cáceres (10 Cáceres)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 98325,
+   "unidades": 76,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.4080276489257812e-05,
+   "nodos": 76
+  },
+  {
+   "bloque": "11 Cádiz B1",
+   "tipo": "normal",
+   "K": 8,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 816347,
+   "unidades": 554,
+   "factible": true,
+   "refinados": 17,
+   "intentos": [
+    {
+     "K": 8,
+     "reinicio": 0,
+     "C1": 20608
+    },
+    {
+     "K": 8,
+     "reinicio": 1,
+     "C1": 20608
+    },
+    {
+     "K": 8,
+     "reinicio": 2,
+     "C1": 125085
+    },
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 43753
+    },
+    {
+     "K": 7,
+     "reinicio": 1,
+     "C1": 43753
+    },
+    {
+     "K": 7,
+     "reinicio": 2,
+     "C1": 43753
+    },
+    {
+     "K": 8,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 16,
+   "segundos": 1.409667730331421,
+   "nodos": 134,
+   "aceptados_opt": 2104
+  },
+  {
+   "bloque": "11 Cádiz B2",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 119925,
+   "unidades": 97,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.86102294921875e-05,
+   "nodos": 97
+  },
+  {
+   "bloque": "Cádiz (11 Cádiz)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 110123,
+   "unidades": 107,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.6464462280273438e-05,
+   "nodos": 107
+  },
+  {
+   "bloque": "Jerez de la Frontera (11 Cádiz)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 215025,
+   "unidades": 165,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 3,
+   "segundos": 0.009516239166259766,
+   "nodos": 10,
+   "aceptados_opt": 52
+  },
+  {
+   "bloque": "12 Castellón/Castelló",
+   "tipo": "normal",
+   "K": 6,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 627620,
+   "unidades": 447,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 8,
+   "segundos": 0.062351226806640625,
+   "nodos": 42,
+   "aceptados_opt": 638
+  },
+  {
+   "bloque": "13 Ciudad Real T1",
+   "tipo": "normal",
+   "K": 5,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 494583,
+   "unidades": 417,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 5,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 18,
+   "segundos": 0.2164754867553711,
+   "nodos": 51,
+   "aceptados_opt": 1068
+  },
+  {
+   "bloque": "14 Córdoba",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 449004,
+   "unidades": 365,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 4,
+   "segundos": 0.014611959457397461,
+   "nodos": 23,
+   "aceptados_opt": 155
+  },
+  {
+   "bloque": "Córdoba (14 Córdoba)",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 324159,
+   "unidades": 257,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 1,
+   "segundos": 0.008604049682617188,
+   "nodos": 10,
+   "aceptados_opt": 35
+  },
+  {
+   "bloque": "15 A Coruña",
+   "tipo": "normal",
+   "K": 10,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 1034781,
+   "unidades": 802,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 10,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 17,
+   "segundos": 0.2505195140838623,
+   "nodos": 78,
+   "aceptados_opt": 748
+  },
+  {
+   "bloque": "Santiago de Compostela (15 A Coruña)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 100842,
+   "unidades": 76,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.1696090698242188e-05,
+   "nodos": 76
+  },
+  {
+   "bloque": "16 Cuenca",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 202017,
+   "unidades": 317,
+   "factible": true,
+   "refinados": 8,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 7177
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 7177
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 7177
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 58,
+   "segundos": 0.8737263679504395,
+   "nodos": 245,
+   "aceptados_opt": 3738
+  },
+  {
+   "bloque": "17 Girona",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 722077,
+   "unidades": 474,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 127,
+   "segundos": 0.49552154541015625,
+   "nodos": 171,
+   "aceptados_opt": 6174
+  },
+  {
+   "bloque": "Girona (17 Girona)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 108352,
+   "unidades": 62,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.9073486328125e-05,
+   "nodos": 62
+  },
+  {
+   "bloque": "18 Granada",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 710503,
+   "unidades": 494,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 5,
+   "segundos": 0.08935713768005371,
+   "nodos": 72,
+   "aceptados_opt": 1093
+  },
+  {
+   "bloque": "Granada (18 Granada)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 235294,
+   "unidades": 180,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 1,
+   "segundos": 0.028631210327148438,
+   "nodos": 9,
+   "aceptados_opt": 281
+  },
+  {
+   "bloque": "19 Guadalajara",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 285839,
+   "unidades": 406,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 25,
+   "segundos": 0.1908104419708252,
+   "nodos": 73,
+   "aceptados_opt": 1792
+  },
+  {
+   "bloque": "20 Gipuzkoa",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 733149,
+   "unidades": 544,
+   "factible": true,
+   "refinados": 23,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 90622
+    },
+    {
+     "K": 7,
+     "reinicio": 1,
+     "C1": 90622
+    },
+    {
+     "K": 7,
+     "reinicio": 2,
+     "C1": 90622
+    },
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 59,
+   "segundos": 1.6396489143371582,
+   "nodos": 231,
+   "aceptados_opt": 10043
+  },
+  {
+   "bloque": "21 Huelva",
+   "tipo": "normal",
+   "K": 5,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 538789,
+   "unidades": 374,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 5,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.009042739868164062,
+   "nodos": 19,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "22 Huesca",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 230087,
+   "unidades": 287,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.0021729469299316406,
+   "nodos": 8,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "23 Jaén",
+   "tipo": "normal",
+   "K": 5,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 506024,
+   "unidades": 410,
+   "factible": true,
+   "refinados": 9,
+   "intentos": [
+    {
+     "K": 5,
+     "reinicio": 0,
+     "C1": 13714
+    },
+    {
+     "K": 5,
+     "reinicio": 1,
+     "C1": 13714
+    },
+    {
+     "K": 5,
+     "reinicio": 2,
+     "C1": 13714
+    },
+    {
+     "K": 5,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 14,
+   "segundos": 0.3764073848724365,
+   "nodos": 96,
+   "aceptados_opt": 619
+  },
+  {
+   "bloque": "Jaén (23 Jaén)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 112119,
+   "unidades": 88,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 3.0994415283203125e-05,
+   "nodos": 88
+  },
+  {
+   "bloque": "24 León",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 448030,
+   "unidades": 444,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 19,
+   "segundos": 0.11141371726989746,
+   "nodos": 39,
+   "aceptados_opt": 1161
+  },
+  {
+   "bloque": "25 Lleida",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 458226,
+   "unidades": 387,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 6,
+   "segundos": 0.28614258766174316,
+   "nodos": 45,
+   "aceptados_opt": 431
+  },
+  {
+   "bloque": "26 La Rioja",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 326803,
+   "unidades": 343,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 24,
+   "segundos": 0.14938831329345703,
+   "nodos": 39,
+   "aceptados_opt": 1557
+  },
+  {
+   "bloque": "27 Lugo",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 225951,
+   "unidades": 199,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.001415252685546875,
+   "nodos": 5,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "Lugo (27 Lugo)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 100071,
+   "unidades": 74,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.4318695068359375e-05,
+   "nodos": 74
+  },
+  {
+   "bloque": "28 Madrid",
+   "tipo": "normal",
+   "K": 24,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 2527821,
+   "unidades": 1361,
+   "factible": true,
+   "refinados": 9,
+   "intentos": [
+    {
+     "K": 24,
+     "reinicio": 0,
+     "C1": 19521
+    },
+    {
+     "K": 24,
+     "reinicio": 1,
+     "C1": 12648
+    },
+    {
+     "K": 24,
+     "reinicio": 2,
+     "C1": 5526
+    },
+    {
+     "K": 23,
+     "reinicio": 0,
+     "C1": 6015
+    },
+    {
+     "K": 23,
+     "reinicio": 1,
+     "C1": 30015
+    },
+    {
+     "K": 23,
+     "reinicio": 2,
+     "C1": 5526
+    },
+    {
+     "K": 25,
+     "reinicio": 0,
+     "C1": 12806
+    },
+    {
+     "K": 25,
+     "reinicio": 1,
+     "C1": 5526
+    },
+    {
+     "K": 25,
+     "reinicio": 2,
+     "C1": 29445
+    },
+    {
+     "K": 22,
+     "reinicio": 0,
+     "C1": 60538
+    },
+    {
+     "K": 22,
+     "reinicio": 1,
+     "C1": 41327
+    },
+    {
+     "K": 22,
+     "reinicio": 2,
+     "C1": 5526
+    },
+    {
+     "K": 26,
+     "reinicio": 0,
+     "C1": 29986
+    },
+    {
+     "K": 26,
+     "reinicio": 1,
+     "C1": 43057
+    },
+    {
+     "K": 26,
+     "reinicio": 2,
+     "C1": 29369
+    },
+    {
+     "K": 24,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 16,
+   "segundos": 62.63124203681946,
+   "nodos": 350,
+   "aceptados_opt": 2501
+  },
+  {
+   "bloque": "Alcalá de Henares (28 Madrid)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 202549,
+   "unidades": 129,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.0022535324096679688,
+   "nodos": 5,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "Getafe (28 Madrid)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 195628,
+   "unidades": 122,
+   "factible": true,
+   "refinados": 4,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 1574
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 1574
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 1574
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 30,
+   "segundos": 0.4485781192779541,
+   "nodos": 122,
+   "aceptados_opt": 2458
+  },
+  {
+   "bloque": "Leganés (28 Madrid)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 195946,
+   "unidades": 142,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.002532958984375,
+   "nodos": 7,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "Madrid (28 Madrid)",
+   "tipo": "normal",
+   "K": 32,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 3477497,
+   "unidades": 2462,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 32,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 444,
+   "segundos": 8.92158555984497,
+   "nodos": 2202,
+   "aceptados_opt": 77956
+  },
+  {
+   "bloque": "Móstoles (28 Madrid)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 214293,
+   "unidades": 139,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.001344919204711914,
+   "nodos": 4,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "Rivas-Vaciamadrid (28 Madrid)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 103243,
+   "unidades": 58,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.9550323486328125e-05,
+   "nodos": 58
+  },
+  {
+   "bloque": "Rozas de Madrid, Las (28 Madrid)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 99579,
+   "unidades": 50,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.430511474609375e-05,
+   "nodos": 50
+  },
+  {
+   "bloque": "San Sebastián de los Reyes (28 Madrid)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 97330,
+   "unidades": 55,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.52587890625e-05,
+   "nodos": 55
+  },
+  {
+   "bloque": "29 Málaga",
+   "tipo": "normal",
+   "K": 11,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 1194010,
+   "unidades": 657,
+   "factible": true,
+   "refinados": 17,
+   "intentos": [
+    {
+     "K": 11,
+     "reinicio": 0,
+     "C1": 26356
+    },
+    {
+     "K": 11,
+     "reinicio": 1,
+     "C1": 29021
+    },
+    {
+     "K": 11,
+     "reinicio": 2,
+     "C1": 26356
+    },
+    {
+     "K": 10,
+     "reinicio": 0,
+     "C1": 41729
+    },
+    {
+     "K": 10,
+     "reinicio": 1,
+     "C1": 41366
+    },
+    {
+     "K": 10,
+     "reinicio": 2,
+     "C1": 96722
+    },
+    {
+     "K": 12,
+     "reinicio": 0,
+     "C1": 27036
+    },
+    {
+     "K": 12,
+     "reinicio": 1,
+     "C1": 26356
+    },
+    {
+     "K": 12,
+     "reinicio": 2,
+     "C1": 27036
+    },
+    {
+     "K": 11,
+     "reinicio": 0,
+     "C1": 11423
+    },
+    {
+     "K": 11,
+     "reinicio": 1,
+     "C1": 7780
+    },
+    {
+     "K": 11,
+     "reinicio": 2,
+     "C1": 7780
+    },
+    {
+     "K": 11,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 40,
+   "segundos": 13.348116159439087,
+   "nodos": 269,
+   "aceptados_opt": 1764
+  },
+  {
+   "bloque": "Málaga (29 Málaga)",
+   "tipo": "normal",
+   "K": 6,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 597173,
+   "unidades": 435,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 104,
+   "segundos": 0.5676486492156982,
+   "nodos": 173,
+   "aceptados_opt": 6241
+  },
+  {
+   "bloque": "30 Murcia",
+   "tipo": "normal",
+   "K": 15,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 1586989,
+   "unidades": 1224,
+   "factible": true,
+   "refinados": 61,
+   "intentos": [
+    {
+     "K": 15,
+     "reinicio": 0,
+     "C1": 122973
+    },
+    {
+     "K": 15,
+     "reinicio": 1,
+     "C1": 111905
+    },
+    {
+     "K": 15,
+     "reinicio": 2,
+     "C1": 80617
+    },
+    {
+     "K": 14,
+     "reinicio": 0,
+     "C1": 39268
+    },
+    {
+     "K": 14,
+     "reinicio": 1,
+     "C1": 93014
+    },
+    {
+     "K": 14,
+     "reinicio": 2,
+     "C1": 39268
+    },
+    {
+     "K": 16,
+     "reinicio": 0,
+     "C1": 107896
+    },
+    {
+     "K": 16,
+     "reinicio": 1,
+     "C1": 211820
+    },
+    {
+     "K": 16,
+     "reinicio": 2,
+     "C1": 105588
+    },
+    {
+     "K": 14,
+     "reinicio": 0,
+     "C1": 34614
+    },
+    {
+     "K": 14,
+     "reinicio": 1,
+     "C1": 65902
+    },
+    {
+     "K": 14,
+     "reinicio": 2,
+     "C1": 154064
+    },
+    {
+     "K": 14,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 53,
+   "segundos": 18.63288164138794,
+   "nodos": 459,
+   "aceptados_opt": 9400
+  },
+  {
+   "bloque": "31 Navarra T1",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 474149,
+   "unidades": 430,
+   "factible": true,
+   "refinados": 46,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 19973
+    },
+    {
+     "K": 4,
+     "reinicio": 1,
+     "C1": 19973
+    },
+    {
+     "K": 4,
+     "reinicio": 2,
+     "C1": 19973
+    },
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 29,
+   "segundos": 3.125627279281616,
+   "nodos": 273,
+   "aceptados_opt": 3443
+  },
+  {
+   "bloque": "Pamplona/Iruña (31 Navarra T1)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 209676,
+   "unidades": 151,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.002721071243286133,
+   "nodos": 8,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "32 Ourense",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 199669,
+   "unidades": 176,
+   "factible": true,
+   "refinados": 3,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 1192
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 1192
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 1192
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 3,
+   "segundos": 0.11782264709472656,
+   "nodos": 91,
+   "aceptados_opt": 461
+  },
+  {
+   "bloque": "Ourense (32 Ourense)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 105609,
+   "unidades": 80,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 3.361701965332031e-05,
+   "nodos": 80
+  },
+  {
+   "bloque": "33 Asturias",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 791552,
+   "unidades": 652,
+   "factible": true,
+   "refinados": 25,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 1211
+    },
+    {
+     "K": 7,
+     "reinicio": 1,
+     "C1": 7234
+    },
+    {
+     "K": 7,
+     "reinicio": 2,
+     "C1": 9775
+    },
+    {
+     "K": 8,
+     "reinicio": 0,
+     "C1": 19734
+    },
+    {
+     "K": 8,
+     "reinicio": 1,
+     "C1": 27060
+    },
+    {
+     "K": 8,
+     "reinicio": 2,
+     "C1": 27060
+    },
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 6,
+   "segundos": 2.5415942668914795,
+   "nodos": 140,
+   "aceptados_opt": 333
+  },
+  {
+   "bloque": "Oviedo (33 Asturias)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 223576,
+   "unidades": 174,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.011503934860229492,
+   "nodos": 16,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "34 Palencia T1",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 190014,
+   "unidades": 290,
+   "factible": true,
+   "refinados": 9,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 55170
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 55170
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 55170
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 1.265880823135376,
+   "nodos": 198,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "35 Las Palmas T1",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 386633,
+   "unidades": 243,
+   "factible": true,
+   "refinados": 61,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 11748
+    },
+    {
+     "K": 4,
+     "reinicio": 1,
+     "C1": 11748
+    },
+    {
+     "K": 4,
+     "reinicio": 2,
+     "C1": 11748
+    },
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 501
+    },
+    {
+     "K": 4,
+     "reinicio": 1,
+     "C1": 501
+    },
+    {
+     "K": 4,
+     "reinicio": 2,
+     "C1": 248
+    },
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 19,
+   "segundos": 2.2879555225372314,
+   "nodos": 243,
+   "aceptados_opt": 677
+  },
+  {
+   "bloque": "Palmas de Gran Canaria, Las (35 Las Palmas T1)",
+   "tipo": "normal",
+   "K": 4,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 384023,
+   "unidades": 279,
+   "factible": true,
+   "refinados": 5,
+   "intentos": [
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 39926
+    },
+    {
+     "K": 4,
+     "reinicio": 1,
+     "C1": 39926
+    },
+    {
+     "K": 4,
+     "reinicio": 2,
+     "C1": 39926
+    },
+    {
+     "K": 4,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 110,
+   "segundos": 0.5756759643554688,
+   "nodos": 279,
+   "aceptados_opt": 3089
+  },
+  {
+   "bloque": "Telde (35 Las Palmas T1)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 104933,
+   "unidades": 67,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.7179718017578125e-05,
+   "nodos": 67
+  },
+  {
+   "bloque": "35 Las Palmas T2",
+   "tipo": "aislado",
+   "K": 2,
+   "lo": 80935,
+   "hi": 120000,
+   "poblacion": 166878,
+   "unidades": 78,
+   "factible": true,
+   "refinados": 16,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 4066
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 4066
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 4066
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 95
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 13918
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 13918
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 1,
+   "segundos": 0.5510380268096924,
+   "nodos": 78,
+   "aceptados_opt": 90
+  },
+  {
+   "bloque": "35 Las Palmas T3",
+   "tipo": "aislado",
+   "K": 1,
+   "lo": 95000,
+   "hi": 132953,
+   "poblacion": 129080,
+   "unidades": 56,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.6226043701171875e-05,
+   "nodos": 56
+  },
+  {
+   "bloque": "36 Pontevedra T1",
+   "tipo": "normal",
+   "K": 6,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 647270,
+   "unidades": 483,
+   "factible": true,
+   "refinados": 9,
+   "intentos": [
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 7321
+    },
+    {
+     "K": 6,
+     "reinicio": 1,
+     "C1": 7321
+    },
+    {
+     "K": 6,
+     "reinicio": 2,
+     "C1": 7321
+    },
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 8,
+   "segundos": 0.9790716171264648,
+   "nodos": 53,
+   "aceptados_opt": 521
+  },
+  {
+   "bloque": "Vigo (36 Pontevedra T1)",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 295735,
+   "unidades": 241,
+   "factible": true,
+   "refinados": 9,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 2351
+    },
+    {
+     "K": 3,
+     "reinicio": 1,
+     "C1": 146
+    },
+    {
+     "K": 3,
+     "reinicio": 2,
+     "C1": 146
+    },
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 71,
+   "segundos": 0.8147077560424805,
+   "nodos": 241,
+   "aceptados_opt": 4580
+  },
+  {
+   "bloque": "36 Pontevedra T2",
+   "tipo": "aislado",
+   "K": 1,
+   "lo": 2813,
+   "hi": 120000,
+   "poblacion": 4813,
+   "unidades": 3,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 4.5299530029296875e-06,
+   "nodos": 3
+  },
+  {
+   "bloque": "37 Salamanca",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 299165,
+   "unidades": 470,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 56,
+   "segundos": 0.3093905448913574,
+   "nodos": 71,
+   "aceptados_opt": 2664
+  },
+  {
+   "bloque": "38 Santa Cruz de Tenerife T1",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 754971,
+   "unidades": 436,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 7,
+   "segundos": 0.173112154006958,
+   "nodos": 35,
+   "aceptados_opt": 341
+  },
+  {
+   "bloque": "Santa Cruz de Tenerife (38 Santa Cruz de Tenerife T1)",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 211498,
+   "unidades": 166,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.010851383209228516,
+   "nodos": 12,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "38 Santa Cruz de Tenerife T2",
+   "tipo": "aislado",
+   "K": 1,
+   "lo": 83708,
+   "hi": 120000,
+   "poblacion": 86297,
+   "unidades": 61,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.8371810913085938e-05,
+   "nodos": 61
+  },
+  {
+   "bloque": "38 Santa Cruz de Tenerife T3",
+   "tipo": "aislado",
+   "K": 1,
+   "lo": 20560,
+   "hi": 120000,
+   "poblacion": 22560,
+   "unidades": 15,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 7.62939453125e-06,
+   "nodos": 15
+  },
+  {
+   "bloque": "38 Santa Cruz de Tenerife T4",
+   "tipo": "aislado",
+   "K": 1,
+   "lo": 9993,
+   "hi": 120000,
+   "poblacion": 11993,
+   "unidades": 6,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 3.814697265625e-06,
+   "nodos": 6
+  },
+  {
+   "bloque": "39 Cantabria T1",
+   "tipo": "normal",
+   "K": 6,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 593374,
+   "unidades": 457,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 2727
+    },
+    {
+     "K": 6,
+     "reinicio": 1,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 8,
+   "segundos": 1.3715648651123047,
+   "nodos": 64,
+   "aceptados_opt": 224
+  },
+  {
+   "bloque": "40 Segovia",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 190003,
+   "unidades": 299,
+   "factible": true,
+   "refinados": 4,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 5396
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 5396
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 5396
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.12693428993225098,
+   "nodos": 213,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "41 Sevilla",
+   "tipo": "normal",
+   "K": 12,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 1288950,
+   "unidades": 855,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 12,
+     "reinicio": 0,
+     "C1": 3136
+    },
+    {
+     "K": 12,
+     "reinicio": 1,
+     "C1": 8759
+    },
+    {
+     "K": 12,
+     "reinicio": 2,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 16,
+   "segundos": 1.9068009853363037,
+   "nodos": 70,
+   "aceptados_opt": 981
+  },
+  {
+   "bloque": "Sevilla (41 Sevilla)",
+   "tipo": "normal",
+   "K": 6,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 688714,
+   "unidades": 522,
+   "factible": true,
+   "refinados": 11,
+   "intentos": [
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 30254
+    },
+    {
+     "K": 6,
+     "reinicio": 1,
+     "C1": 30254
+    },
+    {
+     "K": 6,
+     "reinicio": 2,
+     "C1": 30254
+    },
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 38959
+    },
+    {
+     "K": 7,
+     "reinicio": 1,
+     "C1": 38959
+    },
+    {
+     "K": 7,
+     "reinicio": 2,
+     "C1": 38959
+    },
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 120,
+   "segundos": 2.5425987243652344,
+   "nodos": 522,
+   "aceptados_opt": 13360
+  },
+  {
+   "bloque": "42 Soria",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 95158,
+   "unidades": 222,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 7.581710815429688e-05,
+   "nodos": 222
+  },
+  {
+   "bloque": "43 Tarragona",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 763619,
+   "unidades": 500,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 67,
+   "segundos": 0.24019479751586914,
+   "nodos": 119,
+   "aceptados_opt": 3240
+  },
+  {
+   "bloque": "Reus (43 Tarragona)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 111911,
+   "unidades": 68,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 2.5272369384765625e-05,
+   "nodos": 68
+  },
+  {
+   "bloque": "44 Teruel",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 119428,
+   "unidades": 267,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 9.036064147949219e-05,
+   "nodos": 267
+  },
+  {
+   "bloque": "45 Toledo",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 755346,
+   "unidades": 532,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 59,
+   "segundos": 0.3513195514678955,
+   "nodos": 135,
+   "aceptados_opt": 4698
+  },
+  {
+   "bloque": "46 Valencia/València T1",
+   "tipo": "normal",
+   "K": 18,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 1920280,
+   "unidades": 1235,
+   "factible": true,
+   "refinados": 49,
+   "intentos": [
+    {
+     "K": 18,
+     "reinicio": 0,
+     "C1": 11712
+    },
+    {
+     "K": 18,
+     "reinicio": 1,
+     "C1": 126992
+    },
+    {
+     "K": 18,
+     "reinicio": 2,
+     "C1": 5274
+    },
+    {
+     "K": 17,
+     "reinicio": 0,
+     "C1": 5783
+    },
+    {
+     "K": 17,
+     "reinicio": 1,
+     "C1": 5274
+    },
+    {
+     "K": 17,
+     "reinicio": 2,
+     "C1": 5274
+    },
+    {
+     "K": 19,
+     "reinicio": 0,
+     "C1": 7647
+    },
+    {
+     "K": 19,
+     "reinicio": 1,
+     "C1": 16800
+    },
+    {
+     "K": 19,
+     "reinicio": 2,
+     "C1": 40822
+    },
+    {
+     "K": 20,
+     "reinicio": 0,
+     "C1": 59089
+    },
+    {
+     "K": 20,
+     "reinicio": 1,
+     "C1": 64886
+    },
+    {
+     "K": 20,
+     "reinicio": 2,
+     "C1": 43427
+    },
+    {
+     "K": 18,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 66,
+   "segundos": 27.924176692962646,
+   "nodos": 214,
+   "aceptados_opt": 5249
+  },
+  {
+   "bloque": "València (46 Valencia/València T1)",
+   "tipo": "normal",
+   "K": 8,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 841558,
+   "unidades": 588,
+   "factible": true,
+   "refinados": 19,
+   "intentos": [
+    {
+     "K": 8,
+     "reinicio": 0,
+     "C1": 16095
+    },
+    {
+     "K": 8,
+     "reinicio": 1,
+     "C1": 16095
+    },
+    {
+     "K": 8,
+     "reinicio": 2,
+     "C1": 16095
+    },
+    {
+     "K": 8,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 2,
+   "segundos": 2.744337797164917,
+   "nodos": 588,
+   "aceptados_opt": 21653
+  },
+  {
+   "bloque": "47 Valladolid T1",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 202396,
+   "unidades": 295,
+   "factible": true,
+   "refinados": 4,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 29636
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 29636
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 29636
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 19,
+   "segundos": 0.714181661605835,
+   "nodos": 217,
+   "aceptados_opt": 3403
+  },
+  {
+   "bloque": "Valladolid (47 Valladolid T1)",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 301798,
+   "unidades": 252,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.01122140884399414,
+   "nodos": 13,
+   "aceptados_opt": 55
+  },
+  {
+   "bloque": "48 Bizkaia T1",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 709180,
+   "unidades": 564,
+   "factible": true,
+   "refinados": 19,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 427
+    },
+    {
+     "K": 7,
+     "reinicio": 1,
+     "C1": 20277
+    },
+    {
+     "K": 7,
+     "reinicio": 2,
+     "C1": 427
+    },
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 411
+    },
+    {
+     "K": 6,
+     "reinicio": 1,
+     "C1": 5888
+    },
+    {
+     "K": 6,
+     "reinicio": 2,
+     "C1": 411
+    },
+    {
+     "K": 6,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 2.55324387550354,
+   "nodos": 105,
+   "aceptados_opt": 1249
+  },
+  {
+   "bloque": "Barakaldo (48 Bizkaia T1)",
+   "tipo": "normal",
+   "K": 1,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 103084,
+   "unidades": 86,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 6.127357482910156e-05,
+   "nodos": 86
+  },
+  {
+   "bloque": "Bilbao (48 Bizkaia T1)",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 350975,
+   "unidades": 271,
+   "factible": true,
+   "refinados": 8,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 13499
+    },
+    {
+     "K": 3,
+     "reinicio": 1,
+     "C1": 9916
+    },
+    {
+     "K": 3,
+     "reinicio": 2,
+     "C1": 9916
+    },
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 35,
+   "segundos": 1.073392629623413,
+   "nodos": 271,
+   "aceptados_opt": 2517
+  },
+  {
+   "bloque": "49 Zamora",
+   "tipo": "normal",
+   "K": 2,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 190014,
+   "unidades": 333,
+   "factible": true,
+   "refinados": 9,
+   "intentos": [
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 45666
+    },
+    {
+     "K": 2,
+     "reinicio": 1,
+     "C1": 16138
+    },
+    {
+     "K": 2,
+     "reinicio": 2,
+     "C1": 45666
+    },
+    {
+     "K": 2,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.6981723308563232,
+   "nodos": 259,
+   "aceptados_opt": 0
+  },
+  {
+   "bloque": "50 Zaragoza",
+   "tipo": "normal",
+   "K": 3,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 316128,
+   "unidades": 408,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 3,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 0,
+   "segundos": 0.18696355819702148,
+   "nodos": 68,
+   "aceptados_opt": 1296
+  },
+  {
+   "bloque": "Zaragoza (50 Zaragoza)",
+   "tipo": "normal",
+   "K": 7,
+   "lo": 95000,
+   "hi": 120000,
+   "poblacion": 699007,
+   "unidades": 502,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [
+    {
+     "K": 7,
+     "reinicio": 0,
+     "C1": 0
+    }
+   ],
+   "mejoras_p25": 3,
+   "segundos": 0.15504765510559082,
+   "nodos": 103,
+   "aceptados_opt": 2369
+  },
+  {
+   "bloque": "51 Ceuta",
+   "tipo": "aislado",
+   "K": 1,
+   "lo": 81059,
+   "hi": 120000,
+   "poblacion": 83567,
+   "unidades": 56,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.9788742065429688e-05,
+   "nodos": 56
+  },
+  {
+   "bloque": "52 Melilla",
+   "tipo": "aislado",
+   "K": 1,
+   "lo": 84454,
+   "hi": 120000,
+   "poblacion": 87067,
+   "unidades": 44,
+   "factible": true,
+   "refinados": 0,
+   "intentos": [],
+   "mejoras_p25": 0,
+   "segundos": 1.5020370483398438e-05,
+   "nodos": 44
+  }
+ ],
+ "enlaces": [
+  {
+   "unidad": "0915401001",
+   "nombre": "Hacinas sección 01001",
+   "con": "0945001001",
+   "nombre_con": "Villanueva de Carazo sección 01001",
+   "km": 3.5
+  },
+  {
+   "unidad": "0922301001",
+   "nombre": "Monasterio de la Sierra sección 01001",
+   "con": "0941401001",
+   "nombre_con": "Valle de Valdelaguna sección 01001",
+   "km": 6.4
+  },
+  {
+   "unidad": "1709401001",
+   "nombre": "Llívia sección 01001",
+   "con": "1714101002",
+   "nombre_con": "Puigcerdà sección 01002",
+   "km": 5.5
+  },
+  {
+   "unidad": "3502401010",
+   "nombre": "Teguise sección 01010",
+   "con": "3501001002",
+   "nombre_con": "Haría sección 01002",
+   "km": 7.7
+  }
+ ],
+ "args": {
+  "entrada": "data/secciones_unificadas.json",
+  "min": 95000,
+  "max": 120000,
+  "semilla": 42,
+  "salida": "output/v2-secciones",
+  "holgura": 0,
+  "comunidades": "data/provincia_comunidad.csv",
+  "sin_bloques_municipales": false,
+  "radio_aislados": 30.0,
+  "peso_compacidad": 100.0,
+  "peso_comp_eq": 150.0,
+  "tau": 250.0,
+  "iter_eq": 300,
+  "iter_opt": 150,
+  "max_iter": 200000,
+  "reinicios": 3,
+  "reinicios_extra": 6,
+  "tiempo_bloque": 150.0,
+  "lloyd": 3,
+  "rondas_reparacion": 8,
+  "sin_transferencias": false,
+  "solo_provincias": ""
+ }
+}

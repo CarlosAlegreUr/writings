@@ -1,0 +1,10 @@
+# Fuentes brutas descargadas (unos 850 MB): no se suben. Se re-descargan con data/raw/FUENTES.md
+# y se verifican con data/raw/SHA256SUMS.txt, que sí se conservan en el repositorio.
+data/raw/*
+!data/raw/FUENTES.md
+!data/raw/SHA256SUMS.txt
+!data/raw/.gitignore
+# Registros de ejecución y caché de Python
+output/log.txt
+output/mapa_log.txt
+**/__pycache__/
