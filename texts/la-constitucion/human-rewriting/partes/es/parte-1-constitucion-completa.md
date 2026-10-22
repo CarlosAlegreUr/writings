@@ -186,9 +186,11 @@ Los representantes del Poder Legislativo serán siempre revocables directamente 
 Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 11.
 
 - Iniciativa:
+
 Cualquier ciudadano con derecho a voto, de manera individual o en grupo, puede iniciar un procedimiento de revocación.
 
 - Convocatoria:
+
 La recogida de firmas se anuncia oficialmente ante la autoridad competente del distrito: por defecto, cualquier juez local, ó en su ausencia, el cuerpo policial del distrito. El objetivo es reunir las firmas del 10% del censo del distrito en un plazo máximo de 31 días.
 
 Lo único que puede exigirse a quien anuncia la recogida es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto y que pertenece al censo del distrito; nada más puede pedírsele.
@@ -198,6 +200,7 @@ Si el anuncio se rechaza por documentación inválida ó incompleta, puede volve
 Presentado el documento válido, la autoridad debe tramitar el anuncio en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 - Presentación y verificación de firmas:
+
 Las firmas se presentan de una sola vez, dentro del plazo de 31 días, ante cualquier autoridad competente del distrito. Una presentación no puede contener más firmas que el 15% del censo del distrito; si las supera, se rechaza como documentación inválida. La presentación se registra en el acto con las mismas reglas, plazos y penas que el anuncio de la recogida. Toda presentación queda guardada y es públicamente accesible.
 
 La ley fija el método de verificación de las firmas, con consenso de Nivel N4; durante el Proceso de Arranque, de Nivel N2. La verificación, y la certificación pública de su resultado, corresponden a la autoridad ante la que se presentaron las firmas; en su ausencia, a cualquier otra autoridad competente del distrito, y todas pueden colaborar en ella. La verificación se detiene en cuanto las firmas válidas alcanzan el 10% del censo del distrito; no es obligatorio verificar las restantes. Debe completarse en un máximo de 14 días desde la presentación. Si se incumple ese plazo, todas las autoridades competentes en el procedimiento de revocación, incluidos el representante y sus suplentes, ven reducido un 10% su salario anual de ese año. Si las firmas válidas no alcanzan el 10%, la presentación no tiene efecto y no conlleva sanción alguna para quien las recogió ó presentó.
@@ -205,27 +208,33 @@ La ley fija el método de verificación de las firmas, con consenso de Nivel N4;
 La convocatoria formal de la votación se produce en el momento en que la autoridad certifica públicamente que las firmas válidas alcanzan el 10%.
 
 - Votación:
+
 Una vez convocada, la votación es abierta a todo ciudadano del censo del distrito. La votación de revocación se celebra 14 días después de la convocatoria formal de la votación. Si los votos a favor no alcanzan el umbral de revocación, la revocación no prospera y solo puede intentarse de nuevo iniciando otro procedimiento completo, desde la recogida de firmas.
 
 Si los votos a favor de la revocación alcanzan el umbral de revocación del distrito, el mandato queda extinguido y la nueva elección, conforme a los artículos 13 a 15, queda convocada ese mismo día. El elegido completa el mandato en curso.
 
 - Umbral de revocación:
+
 El umbral de revocación es, por defecto, el 75% del censo del distrito, Nivel N4. Cada distrito puede fijar el suyo entre el 63% y el 75% de su censo. En cada elección general, incluidas las primeras del Proceso de Transición, la papeleta del distrito incluye la cuestión de si se modifica el umbral y, en caso afirmativo, a qué valor dentro de ese rango. Si los votos afirmativos alcanzan el Nivel N1 del censo del distrito, el nuevo umbral es la media de los valores elegidos por esos votos, truncada conforme al artículo 2.
 
 - Revisión de Votos:
+
 Si la revocación prospera, el sucesor vuelve a emitir todos los votos que el representante revocado emitió en el Poder Legislativo desde el anuncio oficial de la recogida de firmas hasta la toma de posesión del sucesor. Si el nuevo voto altera el resultado de una decisión legislativa, prevalece el resultado nuevo. En todo caso, el cambio de representante y el voto final quedan registrados conforme al artículo 25.
 
 Si una decisión legislativa anulada por la revisión de votos causó perjuicios a ciudadanos mientras estuvo vigente, estos serán compensados conforme a la ley, dentro de los límites de esta Constitución.
 
 - Solapamiento con otras elecciones:
+
 Si las elecciones generales se celebran entre el anuncio oficial de la recogida de firmas y el resultado de la revocación, las elecciones generales se celebran igualmente, no queda convocada la nueva elección del apartado de votación, y el procedimiento de revocación continúa hasta su resultado. Si la revocación prospera, la revisión de votos recae sobre los votos del representante revocado y la ejerce el representante elegido en las elecciones generales, salvo que sea la misma persona.
 
 Si la votación de revocación ó cualquier vuelta de la elección posterior cae en los 7 días previos a una votación presidencial ó el mismo día, se celebra el día siguiente a la votación presidencial.
 
 - Protección de los firmantes:
+
 Quien sufra represalias por haber firmado tiene derecho a que la causa se juzgue ante un juez ó tribunal de fuera del distrito, a su elección.
 
 - Configurabilidad:
+
 Los parámetros numéricos de este artículo pueden modificarse mediante consenso de nivel N6. Estos son: 10% de firmas del censo del distrito requerido para convocatoria, 31 días máximo para recogida de firmas, 2 horas para volver a presentar un anuncio rechazado, 1 día máximo para tramitar el anuncio, 1 y 2 años de prisión por no tramitarlo, 14 días para verificar las firmas presentadas, 14 días entre la convocatoria formal y la votación, 75% del censo del distrito como umbral de revocación por defecto, y 63% y 75% como límites del umbral de cada distrito.
 
 Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse con consenso de Nivel N3, pero el mecanismo de revocación en sí no puede eliminarse.
@@ -311,20 +320,24 @@ El algoritmo establecido en este artículo puede sustituirse ó modificarse medi
 ### ARTÍCULO 18: Actualización de Distritos y Censo Distrital
 
 - Actualización periódica:
+
 Los distritos electorales se actualizan cada 21 años mediante el algoritmo de delimitación del artículo 17, respetando las restricciones del artículo 16. Las especificaciones completas del algoritmo deben establecerse en esta Constitución y son públicas y auditables. Cada actualización aplica el algoritmo del artículo 17 vigente en el momento en que corresponde realizarla; una modificación del algoritmo no provoca ninguna delimitación nueva hasta la siguiente actualización. El proceso es ejecutado por una comisión técnica independiente y ratificado por el Poder Legislativo mediante consenso de Nivel N1.
 
 Si el Legislativo rechaza la actualización, la comisión puede ejecutar una nueva propuesta con datos corregidos ó actualizados. Si la nueva propuesta es también rechazada, se mantiene la distribución de distritos vigente hasta la siguiente actualización programada.
 
 - Actualización por iniciativa popular:
+
 El pueblo siempre puede iniciar una revisión de los distritos mediante iniciativa popular. Cualquier ciudadano con derecho a voto puede anunciar una propuesta, una vez al año, ante cualquier juez de cualquier distrito. La propuesta contiene la especificación completa del nuevo algoritmo de delimitación y un ejemplo de su ejecución; además de ella, lo único que puede exigirse al proponente es un documento de identidad oficial que acredite su derecho a voto. El juez registra el anuncio en un plazo máximo de 1 semana; si no lo hace, pierde el 10% de su salario de ese año y el ciudadano puede volver a presentarlo.
 
 Anunciada la propuesta, el proponente dispone de 1 año para reunir las firmas de un tercio del censo nacional, que se presentan y verifican conforme a las reglas del artículo 12. Si las reúne, se convoca un referéndum nacional. Si la propuesta obtiene consenso de Nivel N1 del censo nacional, su algoritmo sustituye al del artículo 17 y la delimitación resultante entra en vigor en el siguiente ciclo electoral parlamentario.
 <!-- TODO (22/10): arreglar la remisión al artículo 12 para la presentación y verificación de las firmas: el 12 es el de revocación de distrito; decidir si se generaliza su bloque de firmas ó se escribe aquí el propio -->
 
 - Revocaciones en curso:
+
 Si un procedimiento de revocación prospera después de la entrada en vigor de una actualización, periódica ó por iniciativa popular, el procedimiento se respeta y la revisión de votos del artículo 12 se aplica con todos los votos en contra por defecto, sin que nadie vuelva a emitirlos, porque el distrito ya no existe tal y como era.
 
 - Censo distrital:
+
 Entre dos actualizaciones un distrito puede quedar por debajo del mínimo del artículo 16. Quien cambia de distrito sigue perteneciendo al censo del anterior hasta cumplir los 4 años del artículo 3.
 
 Cuando la población de un distrito supere los 120.000 habitantes, la incorporación de ciudadanos con derecho a voto a su censo se rige por orden de antigüedad en él y por estas reglas:
@@ -768,6 +781,7 @@ El pueblo puede anular directamente decisiones legislativas conforme a este art�
 El nivel de apoyo ciudadano requerido para anular una decisión corresponde al nivel de consenso mínimo requerido para dicha decisión: las decisiones de Nivel N1 se anulan con el apoyo del 51% del censo nacional, las de Nivel N2 con el 60%, y así sucesivamente conforme a los niveles N1 a N6 del artículo 2. Como única excepción a esta regla, la legislación que desarrolle los supuestos concretos de los estados de excepción conforme al artículo 59 podrá anularse con el apoyo del 51% del censo nacional, independientemente del nivel de consenso con el que fue aprobada.
 
 - Iniciativa:
+
 Cualquier ciudadano con derecho a voto, de manera individual, puede iniciar un procedimiento de anulación.
 
 Cada procedimiento se referirá a una sola decisión legislativa. Cada ciudadano puede iniciar un procedimiento una vez cada 4 meses. Una vez anunciada, cualquier ciudadano con derecho a voto puede recoger firmas para ese procedimiento, no solo quien lo inició.
@@ -779,15 +793,19 @@ Lo único que puede exigirse a quien anuncia la recogida es un documento de iden
 Una misma autoridad no está obligada a tramitar más de dos anuncios por día. Sin embargo, esos dos anuncios debe tramitarlos en menos de un día desde que se le presentan. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 - Votación:
+
 Una vez convocada, la votación es abierta a todo ciudadano con derecho a voto. El proceso completo, desde la convocatoria formal de la votación hasta el resultado, no puede superar las 2 semanas de duración.
 
 - Efecto:
+
 Si los votos favorables alcanzan el nivel de apoyo del censo nacional establecido en este artículo, la decisión queda anulada.
 
 - Periodo de Reflexión:
+
 Contra una misma decisión no puede haber más de un procedimiento en curso, ni iniciarse uno nuevo hasta transcurridos 4 meses desde el resultado del anterior.
 
 - Protección de Parámetros:
+
 Los parámetros numéricos de este artículo solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 70.
 
 ---
