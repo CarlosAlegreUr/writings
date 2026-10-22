@@ -292,6 +292,8 @@ Como dato curioso, el AOCD aplicado a España con datos públicos se vería así
 
 ![Distritos del AOCD sobre España con secciones censales de 2025](aocd-mapa-espana-v2.png)
 
+Este artículo está escrito pensando en las divisiones territoriales actuales de España, donde las subdivisiones son, de menor a mayor nivel, los municipios, las comarcas, las provincias y las comunidades autónomas, y así las usa el programa. Cada país que adopte esta Constitución debe adaptarlo a las suyas, desde las de más bajo nivel hasta las de más alto. Y donde las fronteras internas de alto nivel sean artificiales, trazadas por una potencia colonial ó por casos de ese estilo, el algoritmo debería aplicarse sobre las unidades más pequeñas, como el municipio, en vez de respetar unas fronteras que no describen una realidad de unión y convivencia.
+
 ## Artículo 19: Financiación y Publicidad Electoral
 
 Las donaciones privadas están limitadas al 10% del P25 nacional por persona, una sola donación por proceso electoral, y solo personas físicas (las jurídicas tienen prohibido donar). ¿Por qué? Porque la financiación ilimitada convierte las elecciones en subastas al mejor postor con mayor presupuesto de marketing, reduciendo la riqueza del ciclo de retroalimentación democrática. La Ley de Hierro de las Oligarquías (Michels) predice que la concentración de recursos produce concentración de poder. Limitar la financiación es limitar la oligarquía.

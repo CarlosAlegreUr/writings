@@ -176,14 +176,8 @@ def main(argv=None):
     for s in ax_c.spines.values():
         s.set_visible(True)
 
-    n = len(distritos)
-    en_rango = sum(1 for d in distritos if d["en_rango"])
-    ciudades = sum(1 for d in distritos if d["tipo_bloque"] == "ciudad")
-    pob = sum(d["poblacion"] for d in distritos)
-    fig.suptitle(
-        f"AOCD v2 — Distritos electorales (arts. 16 y 17): {n} distritos, {en_rango} en rango "
-        f"95.000–120.000, {ciudades} ciudades pendientes de subdivisión | {pob:,} hab.".replace(",", "."),
-        fontsize=16, y=0.965)
+    fig.suptitle("AOCD (Algoritmo de Optimización de la Corruptibilidad de Distritos) — España",
+                 fontsize=16, y=0.965)
     leyenda = [
         Patch(facecolor=COLOR_CIUDAD, edgecolor="#1a1a1a", label="Unidad > 120.000 hab.: requiere subdivisión por secciones"),
         Patch(facecolor="#ffffff", edgecolor="#333333", hatch="....", label="Distrito fuera de rango (excepción art. 16, restr. 4)"),

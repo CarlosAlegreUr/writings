@@ -288,14 +288,14 @@ Cada distrito tiene entre 95.000 y 120.000 habitantes. La delimitación concreta
 
 1. Rango de población: cada distrito tiene entre 95.000 y 120.000 habitantes, salvo en la excepción de la restricción 4.
 2. Continuidad y proximidad geográfica: cada distrito debe ser un territorio continuo, sin enclaves ni exclaves, y de la menor extensión posible, de modo que sus habitantes compartan un mismo entorno.
-3. Coherencia histórico-cultural: la delimitación respeta las fronteras municipales, comarcales, provinciales y autonómicas. Solo puede cruzar estas fronteras cuando sea estrictamente necesario para cumplir el rango de población, y en ese caso cruza primero la municipal, luego la comarcal, luego la provincial y solo en último término la autonómica.
+3. Coherencia histórico-cultural: la delimitación respeta las fronteras de las subdivisiones territoriales existentes actuales. Solo puede cruzarlas cuando sea estrictamente necesario para cumplir el rango de población, y en ese caso cruza primero las fronteras de las subdivisiones de menor nivel, las más pequeñas en el orden jerárquico, y solo en último término las de mayor nivel.
 4. Excepción por imposibilidad geográfica: cuando las restricciones de continuidad y proximidad geográfica y de coherencia histórico-cultural impidan formar un distrito dentro del rango de población, se permite que ese distrito exceda ó no alcance los límites, siempre que la desviación sea la mínima necesaria.
 
 ---
 
 ### Artículo 17: Algoritmo de Delimitación de los Distritos
 
-La delimitación de los distritos se determina mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD), que respeta las restricciones del artículo 16 y cuyas especificaciones completas son las siguientes:
+La delimitación de los distritos se determina mediante el Algoritmo de Optimización de la Corruptibilidad de Distritos (AOCD), respetando las restricciones del artículo 16 y cuyas especificaciones completas son las siguientes:
 
 Función objetivo: Maximizar el valor mínimo del percentil 25 de renta entre todos los distritos del país. Es decir, la distribución óptima de distritos es aquella en la que el distrito con el percentil 25 de renta más bajo tiene dicho valor lo más alto posible.
 
@@ -304,20 +304,27 @@ Datos de entrada:
 2. Datos de distribución de renta por unidad geográfica.
 3. Mapa geográfico del territorio nacional.
 
-Cada actualización del artículo 18 aplica el algoritmo vigente en esta Constitución en el momento en que corresponde realizarla. Una modificación del algoritmo no provoca ninguna delimitación nueva hasta la siguiente actualización.
-
 El algoritmo establecido en este artículo puede sustituirse ó modificarse mediante consenso de Nivel N5.
 
 ---
 
 ### ARTÍCULO 18: Actualización de Distritos y Censo Distrital
 
-Los distritos electorales se actualizan cada 21 años. La actualización se realiza mediante el algoritmo de delimitación del artículo 17, respetando las restricciones del artículo 16. Las especificaciones completas del algoritmo se establecen en esta Constitución y son públicas y auditables. El proceso es ejecutado por una comisión técnica independiente y ratificado por el Poder Legislativo mediante consenso de Nivel N1.
+- Actualización periódica:
+Los distritos electorales se actualizan cada 21 años mediante el algoritmo de delimitación del artículo 17, respetando las restricciones del artículo 16. Las especificaciones completas del algoritmo deben establecerse en esta Constitución y son públicas y auditables. Cada actualización aplica el algoritmo del artículo 17 vigente en el momento en que corresponde realizarla; una modificación del algoritmo no provoca ninguna delimitación nueva hasta la siguiente actualización. El proceso es ejecutado por una comisión técnica independiente y ratificado por el Poder Legislativo mediante consenso de Nivel N1.
 
-Si el Legislativo rechaza la actualización, la comisión puede ejecutar una nueva propuesta con datos corregidos o actualizados. Si la nueva propuesta es también rechazada, se mantiene la distribución de distritos vigente hasta la siguiente actualización programada.
+Si el Legislativo rechaza la actualización, la comisión puede ejecutar una nueva propuesta con datos corregidos ó actualizados. Si la nueva propuesta es también rechazada, se mantiene la distribución de distritos vigente hasta la siguiente actualización programada.
 
-La primera distribución de distritos será establecida durante el Proceso de Transición (artículo 20). La primera actualización se realizará 21 años después de la entrada en vigor de esta Constitución.
+- Actualización por iniciativa popular:
+El pueblo siempre puede iniciar una revisión de los distritos mediante iniciativa popular. Cualquier ciudadano con derecho a voto puede anunciar una propuesta, una vez al año, ante cualquier juez de cualquier distrito. La propuesta contiene la especificación completa del nuevo algoritmo de delimitación y un ejemplo de su ejecución; además de ella, lo único que puede exigirse al proponente es un documento de identidad oficial que acredite su derecho a voto. El juez registra el anuncio en un plazo máximo de 1 semana; si no lo hace, pierde el 10% de su salario de ese año y el ciudadano puede volver a presentarlo.
 
+Anunciada la propuesta, el proponente dispone de 1 año para reunir las firmas de un tercio del censo nacional, que se presentan y verifican conforme a las reglas del artículo 12. Si las reúne, se convoca un referéndum nacional. Si la propuesta obtiene consenso de Nivel N1 del censo nacional, su algoritmo sustituye al del artículo 17 y la delimitación resultante entra en vigor en el siguiente ciclo electoral parlamentario.
+<!-- TODO (22/10): arreglar la remisión al artículo 12 para la presentación y verificación de las firmas: el 12 es el de revocación de distrito; decidir si se generaliza su bloque de firmas ó se escribe aquí el propio -->
+
+- Revocaciones en curso:
+Si un procedimiento de revocación prospera después de la entrada en vigor de una actualización, periódica ó por iniciativa popular, el procedimiento se respeta y la revisión de votos del artículo 12 se aplica con todos los votos en contra por defecto, sin que nadie vuelva a emitirlos, porque el distrito ya no existe tal y como era.
+
+- Censo distrital:
 Entre dos actualizaciones un distrito puede quedar por debajo del mínimo del artículo 16. Quien cambia de distrito sigue perteneciendo al censo del anterior hasta cumplir los 4 años del artículo 3.
 
 Cuando la población de un distrito supere los 120.000 habitantes, la incorporación de ciudadanos con derecho a voto a su censo se rige por orden de antigüedad en él y por estas reglas:
@@ -363,6 +370,7 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 # TÍTULO III: PROCESO DE TRANSICIÓN
 
 ### Artículo 20: Transición Institucional
+<!-- TODO (22/10): añadir aquí lo quitado del 18: la primera distribución de distritos se establece durante el Proceso de Transición y la primera actualización se realiza 21 años después de la entrada en vigor -->
 
 El Proceso de Transición comienza inmediatamente tras la aprobación de esta Constitución y finaliza cuando el Presidente electo conforme al artículo 26 toma posesión del cargo. Durante este periodo, el régimen anterior a la entrada en vigor de esta Constitución continúa gobernando con carácter interino, ejerciendo exclusivamente funciones ejecutivas y sometido a los principios y normas de esta Constitución.
 
