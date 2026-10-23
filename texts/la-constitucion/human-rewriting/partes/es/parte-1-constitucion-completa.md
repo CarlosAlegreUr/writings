@@ -316,38 +316,49 @@ Datos de entrada:
 El algoritmo establecido en este artículo puede sustituirse ó modificarse mediante consenso de Nivel N5.
 
 ---
-
+<!-- TODO: continuar aqui, revisar, refinar, y luego refactor -->
 ### ARTÍCULO 18: Actualización de Distritos y Censo Distrital
 
 - Actualización periódica:
 
-Los distritos electorales se actualizan cada 21 años mediante el algoritmo de delimitación del artículo 17, respetando las restricciones del artículo 16. Las especificaciones completas del algoritmo deben establecerse en esta Constitución y son públicas y auditables. Cada actualización aplica el algoritmo del artículo 17 vigente en el momento en que corresponde realizarla; una modificación del algoritmo no provoca ninguna delimitación nueva hasta la siguiente actualización. El proceso es ejecutado por una comisión técnica independiente y ratificado por el Poder Legislativo mediante consenso de Nivel N1.
+Los distritos electorales deben actualizarse cada 21 años mediante el algoritmo de delimitación del artículo 17, respetando las restricciones del artículo 16. Las especificaciones completas del algoritmo deben establecerse en esta Constitución y ser públicas y auditables. Cada actualización periódica debe aplicar el algoritmo del artículo 17 vigente en el momento en que corresponde realizarla; una modificación del algoritmo no puede provocar ninguna delimitación nueva hasta la siguiente actualización, salvo la actualización por iniciativa popular, que surte efecto conforme al apartado siguiente.
 
-Si el Legislativo rechaza la actualización, la comisión puede ejecutar una nueva propuesta con datos corregidos ó actualizados. Si la nueva propuesta es también rechazada, se mantiene la distribución de distritos vigente hasta la siguiente actualización programada.
+La actualización periódica debe ser ejecutada por una comisión de entre 5 y 10 representantes del Poder Legislativo, elegidos por sorteo aleatorio entre todos los representantes entre 3 y 2 años antes de la fecha de actualización. Si un miembro de la comisión es revocado por su distrito mientras forma parte de ella, pierde el puesto, y su sustituto debe elegirse por el mismo sorteo al día siguiente de la revocación; si el sorteo no se realiza, quien coordine la cámara de representantes pierde el 50% de su salario de ese año.
+
+La comisión debe presentar su propuesta de delimitación 1 año antes de la fecha de actualización. Desde esa primera presentación, el Poder Legislativo dispone de un máximo de 2 meses para ratificar una propuesta mediante consenso de Nivel N1; debe votar cada propuesta en un plazo máximo de 1 mes desde su presentación, con prioridad absoluta sobre cualquier otra tramitación, y, si la rechaza, la comisión puede presentar otra, siguiendo el mismo algoritmo con datos corregidos ó actualizados, sin límite de propuestas dentro de esos 2 meses. Si al terminar los 2 meses no hay ninguna propuesta ratificada, debe mantenerse la distribución de distritos vigente hasta la siguiente actualización programada. La delimitación ratificada entra en vigor en las primeras elecciones generales posteriores a su ratificación.
+
+El incumplimiento de cualquiera de estos plazos conlleva la pérdida de la mitad del salario anual de todos los representantes del Poder Legislativo, si el incumplimiento fue suyo, ó de la mitad del salario anual como representantes de los miembros de la comisión, si fue de la comisión. Presentar datos incorrectos no conlleva sanción.
 
 - Actualización por iniciativa popular:
 
-El pueblo siempre puede iniciar una revisión de los distritos mediante iniciativa popular. Cualquier ciudadano con derecho a voto puede anunciar una propuesta, una vez al año, ante cualquier juez de cualquier distrito. La propuesta contiene la especificación completa del nuevo algoritmo de delimitación y un ejemplo de su ejecución; además de ella, lo único que puede exigirse al proponente es un documento de identidad oficial que acredite su derecho a voto. El juez registra el anuncio en un plazo máximo de 1 semana; si no lo hace, pierde el 10% de su salario de ese año y el ciudadano puede volver a presentarlo.
+El pueblo siempre podrá iniciar una revisión de los distritos mediante iniciativa popular bajo el procedimiento que aquí se establece.
 
-Anunciada la propuesta, el proponente dispone de 1 año para reunir las firmas de un tercio del censo nacional, que se presentan y verifican conforme a las reglas del artículo 12. Si las reúne, se convoca un referéndum nacional. Si la propuesta obtiene consenso de Nivel N1 del censo nacional, su algoritmo sustituye al del artículo 17 y la delimitación resultante entra en vigor en el siguiente ciclo electoral parlamentario.
-<!-- TODO (22/10): arreglar la remisión al artículo 12 para la presentación y verificación de las firmas: el 12 es el de revocación de distrito; decidir si se generaliza su bloque de firmas ó se escribe aquí el propio -->
+Cualquier ciudadano con derecho a voto puede anunciar una propuesta, una vez al año, ante cualquier juez de cualquier distrito. La propuesta debe contener la especificación completa del nuevo algoritmo de delimitación y un ejemplo de su ejecución; además de ella, lo único que puede exigirse al proponente es un documento de identidad oficial que acredite su derecho a voto. El juez debe registrar el anuncio en un plazo máximo de 1 semana; si no lo hace, pierde el 20% de su salario de ese año y el ciudadano podrá volver a presentar su propuesta al día siguiente.
+
+Anunciada la propuesta, el proponente dispone de 1 año para reunir las firmas de un tercio del censo nacional. Las firmas deben presentarse de una sola vez, dentro de ese plazo, ante cualquier juez de cualquier distrito. Una presentación no puede contener más firmas que la mitad del censo nacional; si las supera, debe rechazarse como documentación inválida. El juez debe registrar la presentación en un plazo máximo de 1 semana, perdiendo el 50% de su salario anual si no lo hace, y toda presentación debe quedar guardada y ser públicamente accesible.
+
+La ley debe fijar el método de verificación de las firmas, con consenso de Nivel N4; durante el Proceso de Arranque, de Nivel N2. La verificación, y la certificación pública de su resultado, corresponden a todos los jueces de la nación. La verificación puede detenerse en cuanto las firmas válidas alcancen un tercio del censo nacional; no es obligatorio verificar las restantes. Debe completarse en un máximo de 3 meses desde la presentación; si se incumple ese plazo ó no se realiza correctamente, todas las autoridades competentes en el procedimiento pierden el 50% de su salario de ese año.
+
+Si las firmas válidas no alcanzan un tercio del censo, la presentación queda sin efecto y no puede conllevar sanción alguna para quien las recogió ó presentó. Quien sufra represalias por haber firmado tiene derecho a que la causa se juzgue ante un juez ó tribunal de fuera de su distrito, a su elección.
+
+Certificadas las firmas, queda convocado un referéndum nacional que debe celebrarse a los 7 días. Si la propuesta obtiene consenso de Nivel N1 del censo nacional, su algoritmo sustituye al del artículo 17 y la delimitación resultante entra en vigor en las primeras elecciones generales posteriores. La actualización por iniciativa popular no altera el calendario de la actualización periódica ni los procesos que de él derivan; si prospera mientras una actualización periódica está en curso, la periódica en curso queda sin efecto y la siguiente debe realizarse en su fecha programada.
 
 - Revocaciones en curso:
 
-Si un procedimiento de revocación prospera después de la entrada en vigor de una actualización, periódica ó por iniciativa popular, el procedimiento se respeta y la revisión de votos del artículo 12 se aplica con todos los votos en contra por defecto, sin que nadie vuelva a emitirlos, porque el distrito ya no existe tal y como era.
+Si un procedimiento de revocación prospera después de la entrada en vigor de cualquier actualización, el procedimiento debe respetarse y la revisión de votos del artículo 12 debe aplicarse con todos los votos en contra por defecto, sin que nadie vuelva a emitirlos.
 
 - Censo distrital:
 
-Entre dos actualizaciones un distrito puede quedar por debajo del mínimo del artículo 16. Quien cambia de distrito sigue perteneciendo al censo del anterior hasta cumplir los 4 años del artículo 3.
+Todo ciudadano con derecho a voto en un distrito conforme al artículo 3 puede participar en sus elecciones como votante ó como candidato. Quien cambia de distrito sigue perteneciendo al censo del anterior hasta cumplir los 4 años del artículo 3. Las reglas de este apartado solo limitan el sufragio en las decisiones del distrito; en las votaciones que se computan sobre el censo nacional, todo ciudadano con derecho a voto conserva su voto, con la única excepción de la regla 4.
 
-Cuando la población de un distrito supere los 120.000 habitantes, la incorporación de ciudadanos con derecho a voto a su censo se rige por orden de antigüedad en él y por estas reglas:
+Cuando la población de un distrito supere los 120.000 habitantes, la incorporación de ciudadanos con derecho a voto a su censo debe regirse por orden de antigüedad en él y por estas reglas:
 
-1. Quien llega desde otro distrito sigue perteneciendo al censo del anterior hasta que haya hueco ó hasta la siguiente actualización.
-2. Quien regresa del extranjero vuelve al distrito al que pertenecía al marcharse. Si está completo, puede esperar a la siguiente actualización sin pertenecer a ningún distrito, conservando el voto en todas las votaciones que se computan sobre el censo nacional, ó elegir cualquier distrito con hueco, en el que tendrá que residir 4 años conforme al artículo 3 para ganar el derecho a voto en ese distrito.
-3. Quien alcance la edad de voto estando censado en el distrito se incorpora a su censo con una antigüedad igual a la edad de voto, por delante de quien lleve menos tiempo. Si el distrito está completo, desplaza al miembro de menor antigüedad que lleve menos que la edad de voto, que pasa a la situación que le corresponda según los apartados 1 ó 2; si no hay nadie a quien desplazar, se incorpora igualmente.
-4. Quien resida en el extranjero 4 años ó más deja de pertenecer al censo de su distrito, pero conserva el voto en las votaciones que se computan sobre el censo nacional; lo pierde quien resida en el extranjero 10 años ó más. Se exceptúa a quienes sirvan en consulados y misiones diplomáticas. Se considera que una persona reside en el extranjero el año en que pasa fuera del país más del 75% de los días.
+1. Quien llega desde otro distrito sigue perteneciendo al censo del anterior hasta que haya hueco ó hasta que una actualización de distritos se lo abra.
+2. Quien regresa del extranjero vuelve a contabilizarse en el distrito al que pertenecía al marcharse. Si está completo, puede esperar a la siguiente actualización sin pertenecer a ningún distrito ó elegir cualquier distrito con hueco, en el que tendrá que residir 4 años conforme al artículo 3 para ganar el derecho a voto en ese distrito.
+3. Quien alcance la edad de voto estando censado en el distrito se incorpora a su censo con una antigüedad igual a la edad de voto, aunque el distrito esté completo, y no desplaza a nadie.
+4. Quien resida en el extranjero 4 años ó más deja de pertenecer al censo de su distrito; quien resida en el extranjero 10 años ó más pierde además el voto en las votaciones que se computan sobre el censo nacional. A quienes sirvan en consulados y misiones diplomáticas no se les aplican las reglas anteriores al regresar, y conservan su plaza en el distrito al que pertenecían antes de marcharse. Se considera que una persona reside en el extranjero el año en que pasa fuera del país más del 70% de los días.
 
-A efectos de las obligaciones de residencia de esta Constitución, se considera que una persona reside en un distrito cuando pasa en él más del 75% de los días del año. La pertenencia al censo de un distrito depende únicamente de estar censado en él.
+A efectos de las obligaciones de residencia de esta Constitución, se considera que una persona reside en un distrito cuando pasa en él más del 70% de los días del año. La pertenencia al censo de un distrito depende únicamente de estar censado en él.
 
 ---
 
