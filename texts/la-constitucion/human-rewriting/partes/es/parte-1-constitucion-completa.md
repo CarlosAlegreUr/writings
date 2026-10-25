@@ -71,7 +71,9 @@ Esta Constitución reconoce tres categorías de sujetos:
 
 Cuando esta Constitución dice "el pueblo", se refiere al conjunto de ciudadanos.
 
-Cuando esta Constitución dice "censo", se refiere al censo electoral: el registro de ciudadanos con derecho a voto. El ámbito del censo, ya sea nacional o distrital, se especifica en cada artículo. El censo de un distrito lo forman los ciudadanos con derecho a voto que lleven al menos 4 años censados en él, con las excepciones del artículo 18. Este plazo puede modificarse mediante consenso de Nivel N6.
+Cuando esta Constitución dice "habitantes", se refiere a las personas empadronadas en el territorio de que se trate.
+
+Cuando esta Constitución dice "censo", se refiere al censo electoral: el registro de ciudadanos con derecho a voto. El ámbito del censo, ya sea nacional o distrital, se especifica en cada artículo. El censo de cada distrito se define en el artículo 18.
 
 Salvo restricción explícita en esta Constitución o en ley conforme a ella, toda persona goza de los derechos y protecciones establecidos para personas. Todo ciudadano goza además de los derechos y protecciones establecidos para ciudadanos. Y todo ciudadano con derecho a voto goza además de los derechos y protecciones establecidos para ciudadanos con derecho a voto.
 
@@ -163,7 +165,6 @@ La designación de una lengua oficial no prohíbe el uso de otras lenguas en el 
 
 **Fin del Título I**
 
-
 ---
 ---
 
@@ -231,7 +232,7 @@ Si la votación de revocación ó cualquier vuelta de la elección posterior cae
 
 - Protección de los firmantes:
 
-Quien sufra represalias por haber firmado tiene derecho a que la causa se juzgue ante un juez ó tribunal de fuera del distrito, a su elección.
+Quien sufra represalias por haber firmado tiene derecho a que la causa se juzgue ante un juez de fuera del distrito, a su elección.
 
 - Configurabilidad:
 
@@ -323,11 +324,11 @@ El algoritmo establecido en este artículo puede sustituirse ó modificarse medi
 
 Los distritos electorales deben actualizarse cada 21 años mediante el algoritmo de delimitación del artículo 17, respetando las restricciones del artículo 16. Las especificaciones completas del algoritmo deben establecerse en esta Constitución y ser públicas y auditables. Cada actualización periódica debe aplicar el algoritmo del artículo 17 vigente en el momento en que corresponde realizarla; una modificación del algoritmo no puede provocar ninguna delimitación nueva hasta la siguiente actualización, salvo la actualización por iniciativa popular, que surte efecto conforme al apartado siguiente.
 
-La actualización periódica debe ser ejecutada por una comisión de entre 5 y 10 representantes del Poder Legislativo, elegidos por sorteo aleatorio entre todos los representantes entre 3 y 2 años antes de la fecha de actualización. Si un miembro de la comisión es revocado por su distrito mientras forma parte de ella, pierde el puesto, y su sustituto debe elegirse por el mismo sorteo al día siguiente de la revocación; si el sorteo no se realiza, quien coordine la cámara de representantes pierde el 50% de su salario de ese año.
+La actualización periódica debe ser ejecutada por una comisión de representantes del Poder Legislativo. La comisión tiene 5 miembros por defecto; este número puede fijarse entre 5 y 10 mediante consenso de Nivel N3. Los miembros deben elegirse por sorteo aleatorio entre todos los representantes 3 años antes de la fecha de actualización. Si un miembro de la comisión es revocado por su distrito mientras forma parte de ella, pierde el puesto y su sustituto debe elegirse por el mismo sorteo al día siguiente de la revocación. Si cualquiera de estos sorteos no se realiza a tiempo, quien ó quienes coordinen la cámara de representantes pierden el 30% de su salario de ese año.
 
-La comisión debe presentar su propuesta de delimitación 1 año antes de la fecha de actualización. Desde esa primera presentación, el Poder Legislativo dispone de un máximo de 2 meses para ratificar una propuesta mediante consenso de Nivel N1; debe votar cada propuesta en un plazo máximo de 1 mes desde su presentación, con prioridad absoluta sobre cualquier otra tramitación, y, si la rechaza, la comisión puede presentar otra, siguiendo el mismo algoritmo con datos corregidos ó actualizados, sin límite de propuestas dentro de esos 2 meses. Si al terminar los 2 meses no hay ninguna propuesta ratificada, debe mantenerse la distribución de distritos vigente hasta la siguiente actualización programada. La delimitación ratificada entra en vigor en las primeras elecciones generales posteriores a su ratificación.
+La comisión debe presentar su propuesta de delimitación 1 año antes de la fecha de actualización. Desde esa primera presentación, el Poder Legislativo dispone de un máximo de 45 días para ratificar una propuesta mediante consenso de Nivel N1; debe votar cada propuesta en un plazo máximo de 1 mes desde su presentación, con prioridad absoluta sobre cualquier otra tramitación, y, si la rechaza, la comisión podrá presentar otra, siguiendo el mismo algoritmo con datos corregidos ó actualizados, sin límite de propuestas dentro de esos 45 días. Si al terminar los 45 días no hay ninguna propuesta ratificada, debe mantenerse la distribución de distritos vigente hasta la siguiente actualización programada. Si hay una delimitación ratificada, entra en vigor en las primeras elecciones generales posteriores a su ratificación.
 
-El incumplimiento de cualquiera de estos plazos conlleva la pérdida de la mitad del salario anual de todos los representantes del Poder Legislativo, si el incumplimiento fue suyo, ó de la mitad del salario anual como representantes de los miembros de la comisión, si fue de la comisión. Presentar datos incorrectos no conlleva sanción.
+No votar una propuesta en el plazo de 1 mes desde su presentación conlleva la pérdida del 30% del salario anual de todos los representantes del Poder Legislativo. No presentar la primera propuesta 1 año antes de la fecha de actualización conlleva la pérdida del 30% del salario anual como representantes de los miembros de la comisión.
 
 - Actualización por iniciativa popular:
 
@@ -335,30 +336,30 @@ El pueblo siempre podrá iniciar una revisión de los distritos mediante iniciat
 
 Cualquier ciudadano con derecho a voto puede anunciar una propuesta, una vez al año, ante cualquier juez de cualquier distrito. La propuesta debe contener la especificación completa del nuevo algoritmo de delimitación y un ejemplo de su ejecución; además de ella, lo único que puede exigirse al proponente es un documento de identidad oficial que acredite su derecho a voto. El juez debe registrar el anuncio en un plazo máximo de 1 semana; si no lo hace, pierde el 20% de su salario de ese año y el ciudadano podrá volver a presentar su propuesta al día siguiente.
 
-Anunciada la propuesta, el proponente dispone de 1 año para reunir las firmas de un tercio del censo nacional. Las firmas deben presentarse de una sola vez, dentro de ese plazo, ante cualquier juez de cualquier distrito. Una presentación no puede contener más firmas que la mitad del censo nacional; si las supera, debe rechazarse como documentación inválida. El juez debe registrar la presentación en un plazo máximo de 1 semana, perdiendo el 50% de su salario anual si no lo hace, y toda presentación debe quedar guardada y ser públicamente accesible.
+Anunciada la propuesta, el proponente dispone de 1 año para reunir las firmas de un tercio del censo nacional. Las firmas deben presentarse de una sola vez, dentro de ese plazo, ante cualquier juez de cualquier distrito. Una presentación no puede contener más firmas que la mitad del censo nacional; si las supera, debe rechazarse. El juez debe registrar la presentación en un plazo máximo de 1 semana, perdiendo el 50% de su salario anual si no lo hace, y toda presentación debe quedar guardada y ser públicamente accesible.
 
 La ley debe fijar el método de verificación de las firmas, con consenso de Nivel N4; durante el Proceso de Arranque, de Nivel N2. La verificación, y la certificación pública de su resultado, corresponden a todos los jueces de la nación. La verificación puede detenerse en cuanto las firmas válidas alcancen un tercio del censo nacional; no es obligatorio verificar las restantes. Debe completarse en un máximo de 3 meses desde la presentación; si se incumple ese plazo ó no se realiza correctamente, todas las autoridades competentes en el procedimiento pierden el 50% de su salario de ese año.
 
-Si las firmas válidas no alcanzan un tercio del censo, la presentación queda sin efecto y no puede conllevar sanción alguna para quien las recogió ó presentó. Quien sufra represalias por haber firmado tiene derecho a que la causa se juzgue ante un juez ó tribunal de fuera de su distrito, a su elección.
+Si las firmas válidas no alcanzan un tercio del censo, la presentación queda sin efecto y no puede conllevar sanción alguna para quien las recogió ó presentó. Quien sufra represalias por haber firmado tiene derecho a que la causa se juzgue ante un juez de fuera de su distrito, a su elección.
 
 Certificadas las firmas, queda convocado un referéndum nacional que debe celebrarse a los 7 días. Si la propuesta obtiene consenso de Nivel N1 del censo nacional, su algoritmo sustituye al del artículo 17 y la delimitación resultante entra en vigor en las primeras elecciones generales posteriores. La actualización por iniciativa popular no altera el calendario de la actualización periódica ni los procesos que de él derivan; si prospera mientras una actualización periódica está en curso, la periódica en curso queda sin efecto y la siguiente debe realizarse en su fecha programada.
 
 - Revocaciones en curso:
 
-Si un procedimiento de revocación prospera después de la entrada en vigor de cualquier actualización, el procedimiento debe respetarse y la revisión de votos del artículo 12 debe aplicarse con todos los votos en contra por defecto, sin que nadie vuelva a emitirlos.
+Si un procedimiento de revocación prospera después de la entrada en vigor de cualquier actualización, el procedimiento debe respetarse y la revisión de votos del artículo 12 debe aplicarse con todos los votos en contra por defecto, sin necesidad de que nadie vuelva a emitirlos.
 
 - Censo distrital:
 
-Todo ciudadano con derecho a voto en un distrito conforme al artículo 3 puede participar en sus elecciones como votante ó como candidato. Quien cambia de distrito sigue perteneciendo al censo del anterior hasta cumplir los 4 años del artículo 3. Las reglas de este apartado solo limitan el sufragio en las decisiones del distrito; en las votaciones que se computan sobre el censo nacional, todo ciudadano con derecho a voto conserva su voto, con la única excepción de la regla 4.
+A efectos de esta Constitución, una persona reside en un distrito el año en que duerme dentro de un edificio del distrito más del 70% de las noches, descontadas las noches que deba pasar fuera por motivos laborales. Reside en el extranjero el año en que duerme fuera del país más del 70% de las noches, con el mismo descuento. Quien resida en el extranjero 4 años consecutivos deja de pertenecer al censo de su distrito.
 
-Cuando la población de un distrito supere los 120.000 habitantes, la incorporación de ciudadanos con derecho a voto a su censo debe regirse por orden de antigüedad en él y por estas reglas:
+<!-- TODO: este parrafo igual tendría que ir en otro articulo, lo veré en el refactor. -->
+Quien resida en el extranjero 10 años consecutivos pierde además el voto en las votaciones que se computan sobre el censo nacional. A quienes sirvan en consulados y misiones diplomáticas no se les aplica este párrafo.
 
-1. Quien llega desde otro distrito sigue perteneciendo al censo del anterior hasta que haya hueco ó hasta que una actualización de distritos se lo abra.
-2. Quien regresa del extranjero vuelve a contabilizarse en el distrito al que pertenecía al marcharse. Si está completo, puede esperar a la siguiente actualización sin pertenecer a ningún distrito ó elegir cualquier distrito con hueco, en el que tendrá que residir 4 años conforme al artículo 3 para ganar el derecho a voto en ese distrito.
-3. Quien alcance la edad de voto estando censado en el distrito se incorpora a su censo con una antigüedad igual a la edad de voto, aunque el distrito esté completo, y no desplaza a nadie.
-4. Quien resida en el extranjero 4 años ó más deja de pertenecer al censo de su distrito; quien resida en el extranjero 10 años ó más pierde además el voto en las votaciones que se computan sobre el censo nacional. A quienes sirvan en consulados y misiones diplomáticas no se les aplican las reglas anteriores al regresar, y conservan su plaza en el distrito al que pertenecían antes de marcharse. Se considera que una persona reside en el extranjero el año en que pasa fuera del país más del 70% de los días.
+Ningún ciudadano puede pertenecer al censo de más de un distrito, y solo en el suyo puede votar y presentarse como candidato. Las reglas de este apartado solo limitan el sufragio en las decisiones del distrito; en las votaciones que se computan sobre el censo nacional, todo ciudadano con derecho a voto conserva su voto, con la única excepción de los 10 años en el extranjero. Para entrar en el censo de un distrito hay que haber residido en él los últimos 4 años consecutivos; los años de residencia consecutivos anteriores a la edad de voto cuentan para ese plazo. Una vez en el censo, no es obligatorio seguir residiendo en el distrito, salvo las obligaciones de residencia que esta Constitución establece para cargos concretos. Sin embargo, quien resida los últimos 4 años consecutivos en otro distrito pasa a su censo y deja el anterior, siempre y cuando el otro no esté lleno.
 
-A efectos de las obligaciones de residencia de esta Constitución, se considera que una persona reside en un distrito cuando pasa en él más del 70% de los días del año. La pertenencia al censo de un distrito depende únicamente de estar censado en él.
+Cuando un distrito delimitado dentro del rango del artículo 16 supere los 120.000 habitantes por la llegada de nuevas personas, por nacimiento ó por inmigración, se le considera lleno y nadie entra en su censo mientras no haya hueco. Los huecos que se abran se cubren por orden de antigüedad de residencia en el distrito.
+
+Mientras se espere hueco, quien venía de otro distrito sigue perteneciendo al censo anterior, hasta que haya hueco ó hasta que una actualización de distritos se lo abra. Quien vuelva del extranjero solo puede entrar en el censo de un distrito lleno si es el distrito al que pertenecía antes de marcharse y reside en él 4 años consecutivos. Quien alcance la edad de voto residiendo en un distrito lleno, habiendo residido el plazo exigido, entra en el censo aunque el distrito esté lleno, y no desplaza a nadie.
 
 ---
 
@@ -386,7 +387,6 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 ---
 
 **Fin del Título II**
-
 
 ---
 ---
@@ -416,7 +416,6 @@ Finalizado el Proceso de Arranque, las reducciones de consenso aplicadas durante
 ---
 
 **Fin del Título III**
-
 
 ---
 ---
@@ -1039,7 +1038,6 @@ La finalización no requiere acto positivo adicional: opera automáticamente. Tr
 
 **Fin del Título IV**
 
-
 ---
 ---
 
@@ -1091,6 +1089,10 @@ Periodo de espera:
 <!-- ISSUE 1: El cooldown se deberia activar por via, no general, pq sino el legislativo falla a proposito y deja al pueblo sin poder empezarlo. -->
 Una vez completado el procedimiento de reforma de una cláusula pétrea, independientemente de si la reforma es aprobada o rechazada, esa misma cláusula no puede someterse a nuevo procedimiento de reforma hasta transcurridos 21 años desde la última votación del procedimiento.
 
+Parámetros configurables de las cláusulas pétreas:
+
+Cuando un artículo pétreo establece para un parámetro un margen, con límites, y un nivel de consenso para fijarlo dentro de ese margen, el parámetro puede fijarse dentro de esos límites con ese consenso sin necesidad del procedimiento de este artículo. Los límites, el nivel de consenso y todo lo demás del artículo solo pueden modificarse mediante este procedimiento. Un parámetro pétreo sin margen ni nivel propio solo puede modificarse mediante este procedimiento.
+
 Protección de parámetros:
 
 Los parámetros de este artículo pueden modificarse mediante los procedimientos establecidos en este mismo artículo.
@@ -1137,7 +1139,6 @@ Las condenas establecidas en esta Constitución no admiten reducción por ningú
 ---
 
 **Fin del Título V**
-
 
 ---
 ---
