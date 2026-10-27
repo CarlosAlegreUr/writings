@@ -2,7 +2,7 @@
 
 Revisión manual del autor del artículo en la parte 1 y 2. Se marca [x] si además no tiene ningún TODO ni comentario en la parte 1 ni en la parte 2, y no está referenciado directamente en TOTHINK.md.
 
-**Completado: 13/75 (17.3%)** · actualizado 22/10/2026
+**Completado: 7/78 (9.0%)** · actualizado 27/10/2026
 
 - [ ] art1
 - [x] art2
@@ -15,12 +15,12 @@ Revisión manual del autor del artículo en la parte 1 y 2. Se marca [x] si adem
 - [x] art9
 - [x] art10
 - [x] art11
-- [x] art12
-- [x] art13
-- [x] art14
-- [x] art15
-- [x] art16
-- [x] art17
+- [ ] art12
+- [ ] art13
+- [ ] art14
+- [ ] art15
+- [ ] art16
+- [ ] art17
 - [ ] art18
 - [ ] art19
 - [ ] art20
@@ -79,3 +79,6 @@ Revisión manual del autor del artículo en la parte 1 y 2. Se marca [x] si adem
 - [ ] art73
 - [ ] art74
 - [ ] art75
+- [ ] art76
+- [ ] art77
+- [ ] art78
