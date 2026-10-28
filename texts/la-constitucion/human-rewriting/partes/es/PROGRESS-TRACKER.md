@@ -10,7 +10,7 @@ Revisión manual del autor del artículo en la parte 1 y 2. Se marca [x] si adem
 - [ ] art4
 - [ ] art5
 - [x] art6
-- [x] art7
+- [ ] art7
 - [x] art8
 - [x] art9
 - [x] art10

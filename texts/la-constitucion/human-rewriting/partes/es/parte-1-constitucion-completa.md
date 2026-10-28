@@ -125,6 +125,7 @@ Si un proceso de votación incumplió las garantías establecidas en este artíc
 
 ---
 
+TODO: tras entender mejor los conceptos de nación etc, quiza esto deberia llamare derecho de secesion mas que de autodetermincación.
 ### Artículo 7: Derecho a la Autodeterminación Territorial
 
 Queda prohibido impedir por ley a cualquier territorio el ejercicio del derecho a la autodeterminación. El proceso de independencia territorial debe regularse por ley, pero bajo ninguna circunstancia puede prohibirse ni suprimirse.
@@ -332,7 +333,7 @@ Datos de entrada:
 El algoritmo establecido en este artículo puede sustituirse ó modificarse mediante consenso de Nivel N5.
 
 ---
-<!-- TODO: continuar aqui, revisar -->
+
 ### ARTÍCULO 19: Actualización Periódica de los Distritos
 
 Los distritos electorales deben actualizarse cada 21 años mediante el algoritmo de delimitación del artículo 18, respetando las restricciones del artículo 17. Las especificaciones completas del algoritmo deben establecerse en esta Constitución y ser públicas y auditables. Cada actualización periódica debe aplicar el algoritmo del artículo 18 vigente en el momento en que corresponde realizarla; una modificación del algoritmo no puede provocar ninguna delimitación nueva hasta la siguiente actualización, salvo la actualización por iniciativa popular, que surte efecto conforme al artículo 20.
