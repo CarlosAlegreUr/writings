@@ -125,14 +125,18 @@ Si un proceso de votación incumplió las garantías establecidas en este artíc
 
 ---
 
-TODO: tras entender mejor los conceptos de nación etc, quiza esto deberia llamare derecho de secesion mas que de autodetermincación.
-### Artículo 7: Derecho a la Autodeterminación Territorial
+### Artículo 7: Procedimiento de Secesión
 
-Queda prohibido impedir por ley a cualquier territorio el ejercicio del derecho a la autodeterminación. El proceso de independencia territorial debe regularse por ley, pero bajo ninguna circunstancia puede prohibirse ni suprimirse.
+Queda prohibido impedir por ley a cualquier territorio el ejercicio del derecho a iniciar un procedimiento de secesión. El procedimiento de secesión debe regularse por ley, pero bajo ninguna circunstancia puede prohibirse ni suprimirse.
 
-La ley podrá establecer requisitos y condiciones para el proceso de independencia. Estos requisitos podrán ser exigentes, pero estarán limitados por las siguientes condiciones: la duración mínima de un proceso de independencia, desde su declaración formal hasta su resolución definitiva, es de 21 años; la duración máxima es de 63 años.
+La ley podrá establecer requisitos y condiciones para el procedimiento de secesión. Toda ley que regule ó afecte al procedimiento de secesión requiere, para su aprobación ó derogación, consenso de Nivel N4; durante el Proceso de Arranque, de Nivel N2. Estos requisitos podrán ser exigentes, pero deben poder cumplirse dentro de los plazos de este artículo y no pueden impedir ni retrasar la votación.
 
-Un proceso de independencia queda resuelto cuando es aprobado; cuando es rechazado por no alcanzar el umbral de votos requerido; cuando incumple de forma definitiva alguna de las condiciones establecidas por la ley; o cuando alcanza la duración máxima sin haber sido aprobado. Una vez resuelto un proceso, independientemente de su resultado, ese mismo territorio no podrá iniciar uno nuevo hasta transcurridos 21 años desde la fecha de su resolución.
+Un procedimiento de secesión comienza con su declaración formal. Su duración mínima, desde la declaración formal hasta la primera vuelta de la votación, es de 84 años, cuatro generaciones de 21 años. Alcanzada la duración mínima, el territorio dispone de 21 años para celebrar la votación y cumplir las condiciones establecidas por la ley.
+<!-- TODO: esto esta mal, la única forma en la que acaba es si transcurre el tiempo y ni la votación ni las condiciones por ley se cumplen. La votación deberia ser constitucional, es decir, un proceso en el que una mayoría muy absoluta 51%+lamitaddelos otros = igual qu ela revocacion, 63% estan de acuerdo primera vuelta. A doble vuelta, es decir una votacion, (solo particiapn los que estan censados en ese territorio) perido de reflexión de 1 año, y votación segunda 75%. ARGUMENTACION para parte 2: aqui hay 2 para que en vez de que una minoria bloquee el proceso y se genere tension y violnencia y tal, haya tiempo para dialogar y convencerse entre 1 y la otra votación. -->
+<!-- TODO (29/10/2026): los dos párrafos siguientes y el anterior vienen del boceto de Claude, aplicados sin que el autor los leyera; revisar. -->
+La secesión debe aprobarse mediante una votación a doble vuelta en la que solo participan los ciudadanos con derecho a voto del censo del territorio. La primera vuelta prospera si los votos a favor alcanzan el 63% del censo del territorio. Entre la primera vuelta y la segunda debe transcurrir un periodo de reflexión de 1 año. La segunda vuelta prospera si los votos a favor alcanzan el 75% del censo del territorio.
+
+Un procedimiento de secesión queda aprobado cuando la segunda vuelta alcanza su umbral y el territorio cumple las condiciones establecidas por la ley. Queda fallido cuando cualquiera de las dos vueltas no alcanza su umbral, ó cuando transcurren los 21 años posteriores a la duración mínima sin haber sido aprobado. Un procedimiento fallido no impide iniciar uno nuevo al día siguiente, pero la duración mínima del nuevo procedimiento es el producto de 84 años por la fracción del censo del territorio que no votó a favor en la última vuelta celebrada del procedimiento anterior; si no se celebró ninguna, es de 84 años.
 
 ---
 
