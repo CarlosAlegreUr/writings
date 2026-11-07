@@ -10,7 +10,7 @@ Buen punto, re-analizar cómo cambian los límites en estado de excepción.
 art19: el periodo de actualización distrital (21 años) está a N5 y sin rango de límites.
 Es un parámetro electoral puro un nivel por debajo del resto de "cómo se elige", que está a N6.
 Vector de gerrymandering: con N5 se puede bajar a 2 años y redibujar distritos constantemente, ó subirlo a 200 y congelarlos mientras la demografía se mueve debajo.
-Subirlo a N6? Ó ponerle rango con los límites cerrados por el art. 73, como la edad de voto del art. 5? (p.ej. 15-30 años)
+Subirlo a N6? Ó ponerle rango con los límites cerrados por el art. 78, como la edad de voto del art. 5? (p.ej. 15-30 años)
 
 ## 4 revisar todos
 
@@ -32,11 +32,11 @@ Repensar cuales deben ser artículo pétreos. (los escritos con: ARTÍCULO XX)
 
 ## 8
 
-Plazos y pétreos (estudio del 18/10/2026, renumerado el 19/10 tras partir el 16 y el 27/10 tras el refactor del 12 y del 18). Hacer pétreo un artículo protege su texto, pero un plazo que esté en su lista de configurabilidad sigue en el nivel de la lista; para que un plazo pase al 73 hay que sacarlo de la lista y que el artículo sea pétreo. Los artículos sin cláusula de configurabilidad están a N4 por el 74.
+Plazos y pétreos (estudio del 18/10/2026, renumerado el 19/10 tras partir el 16, el 27/10 tras el refactor del 12 y del 18, y el 7/11 tras insertar el Título V de secesión y unión, artículos 72 a 76). Hacer pétreo un artículo protege su texto, pero un plazo que esté en su lista de configurabilidad sigue en el nivel de la lista; para que un plazo pase al 78 hay que sacarlo de la lista y que el artículo sea pétreo. Los artículos sin cláusula de configurabilidad están a N4 por el 79.
 
-Inventario: 3 (4 años arraigo, N6); 7 (21-63 años, sin cláusula = N4, ya tiene rango); 13 (31 d, 2 h, 1 d, 14 d, 14 d, N6 en lista, pétreo); 14 (21 d, 2 semanas, 7 d, 7 d, 2 semanas, 2 d, N6); 15 (7 d, N5); 16 (2 h, 1 d, sin cláusula = N4); 19 y 21 (21 años, 4 y 10 años, 75%, pétreos desde el 19/10); 22 (7 d reflexión, N6); 26 (4 años mandato y residencia, N6); 29 (14 d, 5 años, N6); 31 y 67 (45 d, sin cláusula = N4); 40-43 (mandatos judiciales, N1-N6; 42 con rango 5-10); 44 (7-30 d, rango, pétreo); 45 (6/3/12/3 meses, N6); 48 (6 años, 4 meses, 2 semanas, N5); 51 (3 meses, 2 años, 7 d, N6); 52 (62 d, 2 semanas, 4 meses, solo 73, pétreo); 62, 64, 70 (excepción, sin cláusula = N4); 53, 54, 57, 60 (30 d, N4-N5).
+Inventario: 3 (4 años arraigo, N6); 7 (21-63 años, sin cláusula = N4, ya tiene rango); 13 (31 d, 2 h, 1 d, 14 d, 14 d, N6 en lista, pétreo); 14 (21 d, 2 semanas, 7 d, 7 d, 2 semanas, 2 d, N6); 15 (7 d, N5); 16 (2 h, 1 d, sin cláusula = N4); 19 y 21 (21 años, 4 y 10 años, 75%, pétreos desde el 19/10); 22 (7 d reflexión, N6); 26 (4 años mandato y residencia, N6); 29 (14 d, 5 años, N6); 31 y 67 (45 d, sin cláusula = N4); 40-43 (mandatos judiciales, N1-N6; 42 con rango 5-10); 44 (7-30 d, rango, pétreo); 45 (6/3/12/3 meses, N6); 48 (6 años, 4 meses, 2 semanas, N5); 51 (3 meses, 2 años, 7 d, N6); 52 (62 d, 2 semanas, 4 meses, solo 78, pétreo); 62, 64, 70 (excepción, sin cláusula = N4); 53, 54, 57, 60 (30 d, N4-N5).
 
-Candidatos a pétreo con plazos fuera de las listas, porque son "cómo se elige y cómo se revoca" y moverlos beneficia al Legislativo: 14, 15, 16 y 22, y sacar los plazos de las listas del 13, 14 y 22 (decidir si el 7 d entre vueltas del 15 se queda a N5 ó va al 73). Subir en todo caso el 16 y el 31/67, que hoy están a N4 por no tener cláusula. El 26 (mandato de 4 años a N6) es el plazo que más favorece a los legisladores si lo tocan ellos. El 45 y el 48 miden el poder del Legislativo frente a los otros poderes; mismo problema de incentivos, pero son de otros títulos: para cuando se revisen.
+Candidatos a pétreo con plazos fuera de las listas, porque son "cómo se elige y cómo se revoca" y moverlos beneficia al Legislativo: 14, 15, 16 y 22, y sacar los plazos de las listas del 13, 14 y 22 (decidir si el 7 d entre vueltas del 15 se queda a N5 ó va al 78). Subir en todo caso el 16 y el 31/67, que hoy están a N4 por no tener cláusula. El 26 (mandato de 4 años a N6) es el plazo que más favorece a los legisladores si lo tocan ellos. El 45 y el 48 miden el poder del Legislativo frente a los otros poderes; mismo problema de incentivos, pero son de otros títulos: para cuando se revisen.
 
 ## 9
 
@@ -45,3 +45,7 @@ Principio de redacción del articulado, a revisar en todo el texto: la Constituc
 ## 10
 
 Multas a cargos públicos (27/10/2026). Habrá que definir que a un cargo público multado por cosas de esta Constitución, en el mismo momento de la multa, se le prohíbe todo tipo de donaciones, transferencias, etc., hasta que no la pague. La multa solo puede venir de su salario ó de activos fiscales que hubiese comprado 4 años antes de recibirla. El multado podrá vender cualquier activo previo a esos 4 años si la multa le impide llegar a fin de mes, pero nunca para pagar la deuda proveniente de la multa; y si no, que se endeude.
+
+## todo final: ajuste editorial de los dos puntos, este todo no cuenta en el progress_tracker
+
+Nota del 28/10/2026. En la parte 2 hay dos puntos muy frecuentes, muy de IA (ejemplo en la argumentación del art. 7: "es, por definición, un demos: un pueblo con identidad y voluntad"). En una pasada editorial futura, sustituirlos por conectores de frase ("es decir", "porque", "así que", "de modo que", ó partir la frase en dos) y dejar los dos puntos solo donde de verdad introducen una enumeración ó una cita.

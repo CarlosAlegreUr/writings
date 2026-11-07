@@ -2,7 +2,7 @@
 
 **Texto Constitucional Completo**
 
-**Total de artículos:** 78
+**Total de artículos:** 83
 **Estructura:** 6 Títulos
 
 ---
@@ -22,8 +22,11 @@
   - Subtítulo 7: Control Fiscal y Transparencia (Arts. 53-54)
   - Subtítulo 8: Fuerzas Armadas (Arts. 55-60)
   - Subtítulo 9: Estados de Excepción (Arts. 61-71)
-- **TÍTULO V:** REFORMA Y PROTECCIÓN CONSTITUCIONAL (Arts. 72-76)
-- **TÍTULO VI:** DERECHOS Y PROTECCIONES (Arts. 77-78)
+- **TÍTULO V:** SECESIÓN Y UNIÓN DE TERRITORIOS (Arts. 72-76)
+  - Subtítulo 1: Secesión (Arts. 72-75)
+  - Subtítulo 2: Unión (Art. 76)
+- **TÍTULO VI:** REFORMA Y PROTECCIÓN CONSTITUCIONAL (Arts. 77-81)
+- **TÍTULO VII:** DERECHOS Y PROTECCIONES (Arts. 82-83)
 
 ---
 ---
@@ -36,7 +39,7 @@ El pueblo nunca pierde su soberanía y la ejerce mediante los mecanismos estable
 
 Se establece la siguiente jerarquía de legitimidad democrática, de mayor a menor:
 
-1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 10 y 14), la revocación de representantes legislativos (artículos 11 y 13), la anulación popular de decisiones judiciales (artículo 51) y legislativas (artículo 52), y la iniciativa y referéndum de reforma constitucional (artículos del 73 al 75 incluidos).
+1. Poder Popular, que se ejerce mediante la elección directa de representantes (artículos 10 y 14), la revocación de representantes legislativos (artículos 11 y 13), la anulación popular de decisiones judiciales (artículo 51) y legislativas (artículo 52), y la iniciativa y referéndum de reforma constitucional (artículos del 78 al 80 incluidos).
 
 2. Poderes delegados: Legislativo (Subtítulo 1 del Título IV), Ejecutivo (Subtítulo 2 del Título IV) y Judicial (Subtítulo 3 del Título IV), iguales entre sí y sujetos a control recíproco conforme a los mecanismos establecidos en esta Constitución (Subtítulos 4-9 del Título IV).
 
@@ -89,7 +92,7 @@ Tiene garantizada la nacionalidad toda persona que haya nacido en el territorio 
 
 La adquisición de la nacionalidad por nacionalización exigirá, como mínimo, haber vivido cinco años en el territorio nacional. Solo cuentan los días pasados en periodos de al menos cuatro meses consecutivos, con un máximo de siete días de ausencia por periodo. La ley podrá establecer requisitos adicionales pero ninguno podrá contradecir los mínimos establecidos en este artículo.
 
-Los parámetros numéricos de este artículo solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 73.
+Los parámetros numéricos de este artículo solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 78.
 
 ---
 
@@ -97,11 +100,11 @@ Los parámetros numéricos de este artículo solo pueden modificarse mediante el
 
 Todo ciudadano que alcance la edad de voto tiene derecho al sufragio. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse salvo dentro de los límites de edad establecidos en este artículo.
 
-La edad de voto es de 18 años por defecto. Este valor puede ajustarse entre 18 y 25 años mediante consenso de Nivel N5 del Poder Legislativo. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 73.
+La edad de voto es de 18 años por defecto. Este valor puede ajustarse entre 18 y 25 años mediante consenso de Nivel N5 del Poder Legislativo. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 78.
 
 Solo los ciudadanos con derecho a voto pueden ser elegidos ó nombrados para los siguientes cargos: representantes y suplentes del Poder Legislativo; Presidente, Vicepresidente y ministros del Poder Ejecutivo; y magistrados del Tribunal Supremo.
 
-Además, no podrá ser elegido ni nombrado para ninguno de ellos quien haya superado los 63 años en la fecha de la elección ó del nombramiento. Esta edad máxima puede elevarse mediante consenso de Nivel N5 del Poder Legislativo, pero nunca reducirse por debajo de 63 años. Este límite inferior solo puede modificarse mediante el procedimiento de reforma establecido en el artículo 73.
+Además, no podrá ser elegido ni nombrado para ninguno de ellos quien haya superado los 63 años en la fecha de la elección ó del nombramiento. Esta edad máxima puede elevarse mediante consenso de Nivel N5 del Poder Legislativo, pero nunca reducirse por debajo de 63 años. Este límite inferior solo puede modificarse mediante el procedimiento de reforma establecido en el artículo 78.
 
 ---
 
@@ -125,18 +128,9 @@ Si un proceso de votación incumplió las garantías establecidas en este artíc
 
 ---
 
-### Artículo 7: Procedimiento de Secesión
+### Artículo 7: Secesión y Unión de Territorios
 
-Queda prohibido impedir por ley a cualquier territorio el ejercicio del derecho a iniciar un procedimiento de secesión. El procedimiento de secesión debe regularse por ley, pero bajo ninguna circunstancia puede prohibirse ni suprimirse.
-
-La ley podrá establecer requisitos y condiciones para el procedimiento de secesión. Toda ley que regule ó afecte al procedimiento de secesión requiere, para su aprobación ó derogación, consenso de Nivel N4; durante el Proceso de Arranque, de Nivel N2. Estos requisitos podrán ser exigentes, pero deben poder cumplirse dentro de los plazos de este artículo y no pueden impedir ni retrasar la votación.
-
-Un procedimiento de secesión comienza con su declaración formal. Su duración mínima, desde la declaración formal hasta la primera vuelta de la votación, es de 84 años, cuatro generaciones de 21 años. Alcanzada la duración mínima, el territorio dispone de 21 años para celebrar la votación y cumplir las condiciones establecidas por la ley.
-<!-- TODO: esto esta mal, la única forma en la que acaba es si transcurre el tiempo y ni la votación ni las condiciones por ley se cumplen. La votación deberia ser constitucional, es decir, un proceso en el que una mayoría muy absoluta 51%+lamitaddelos otros = igual qu ela revocacion, 63% estan de acuerdo primera vuelta. A doble vuelta, es decir una votacion, (solo particiapn los que estan censados en ese territorio) perido de reflexión de 1 año, y votación segunda 75%. ARGUMENTACION para parte 2: aqui hay 2 para que en vez de que una minoria bloquee el proceso y se genere tension y violnencia y tal, haya tiempo para dialogar y convencerse entre 1 y la otra votación. -->
-<!-- TODO (29/10/2026): los dos párrafos siguientes y el anterior vienen del boceto de Claude, aplicados sin que el autor los leyera; revisar. -->
-La secesión debe aprobarse mediante una votación a doble vuelta en la que solo participan los ciudadanos con derecho a voto del censo del territorio. La primera vuelta prospera si los votos a favor alcanzan el 63% del censo del territorio. Entre la primera vuelta y la segunda debe transcurrir un periodo de reflexión de 1 año. La segunda vuelta prospera si los votos a favor alcanzan el 75% del censo del territorio.
-
-Un procedimiento de secesión queda aprobado cuando la segunda vuelta alcanza su umbral y el territorio cumple las condiciones establecidas por la ley. Queda fallido cuando cualquiera de las dos vueltas no alcanza su umbral, ó cuando transcurren los 21 años posteriores a la duración mínima sin haber sido aprobado. Un procedimiento fallido no impide iniciar uno nuevo al día siguiente, pero la duración mínima del nuevo procedimiento es el producto de 84 años por la fracción del censo del territorio que no votó a favor en la última vuelta celebrada del procedimiento anterior; si no se celebró ninguna, es de 84 años.
+Queda prohibido impedir por ley a cualquier territorio el ejercicio del derecho a iniciar un procedimiento de secesión conforme a los artículos 72 a 75, ni el de iniciar un procedimiento de unión conforme al artículo 76. Toda ley que regule ó afecte a estos procedimientos requiere, para su aprobación ó derogación, consenso de Nivel N4; durante el Proceso de Arranque, de Nivel N2. Bajo ninguna circunstancia pueden prohibirse ni suprimirse.
 
 ---
 
@@ -462,7 +456,7 @@ La financiación de cada poder debe ser la descrita en los artículos del 35 al 
 
 El Poder Legislativo se compone de una cámara única de representantes elegidos por distritos territoriales conforme al artículo 10. Los representantes son elegidos por mandato de 4 años y son revocables directamente por el pueblo de su distrito conforme a los artículos 11 y 13. Los mandatos de todos los representantes concluyen en la misma fecha, con independencia de cuándo fueron elegidos.
 
-Al concluir su mandato, por la causa que sea, el representante, y el suplente que haya ocupado el escaño, quedan obligados a residir en su distrito durante 4 años. Incumplirlo conlleva sentencia penal de 4 años de prisión como mínimo y 8 como máximo, que se cumple en una prisión del distrito ó, si no la hay ó está a su capacidad máxima, en la del distrito más cercano que tenga capacidad. Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6, salvo la pena de prisión, que solo puede modificarse conforme al artículo 73.
+Al concluir su mandato, por la causa que sea, el representante, y el suplente que haya ocupado el escaño, quedan obligados a residir en su distrito durante 4 años. Incumplirlo conlleva sentencia penal de 4 años de prisión como mínimo y 8 como máximo, que se cumple en una prisión del distrito ó, si no la hay ó está a su capacidad máxima, en la del distrito más cercano que tenga capacidad. Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6, salvo la pena de prisión, que solo puede modificarse conforme al artículo 78.
 
 ---
 
@@ -770,7 +764,7 @@ Las sanciones concretas para legisladores y jueces de instancias inferiores al T
 
 Si la sanción es económica, la multa solo puede ser pagada mediante capital obtenido del salario de trabajos personales del sancionado; no se admite el pago mediante inversiones, donaciones, venta de activos ni ningún otro medio distinto del trabajo personal.
 
-La modificación posterior de las sanciones a jueces requiere consenso de Nivel N5; la de las sanciones a legisladores solo puede hacerse conforme al artículo 73.
+La modificación posterior de las sanciones a jueces requiere consenso de Nivel N5; la de las sanciones a legisladores solo puede hacerse conforme al artículo 78.
 
 ---
 
@@ -842,7 +836,7 @@ Contra una misma decisión no puede haber más de un procedimiento en curso, ni 
 
 - Protección de Parámetros:
 
-Los parámetros numéricos de este artículo solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 73.
+Los parámetros numéricos de este artículo solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 78.
 
 ---
 ---
@@ -1026,7 +1020,7 @@ El Poder Judicial mantiene todas sus funciones durante los estados de excepción
 
 Durante cualquier estado de excepción está absolutamente prohibido:
 
-1. Modificar esta Constitución mediante los procedimientos de reforma (artículos del 73 al 75 incluidos).
+1. Modificar esta Constitución mediante los procedimientos de reforma (artículos del 78 al 80 incluidos).
 2. Modificar la ley electoral o las reglas de celebración de elecciones.
 3. Posponer elecciones salvo imposibilidad física objetiva (ej: zona de guerra activa, destrucción de infraestructura electoral).
 4. Posponer el comienzo de procesos judiciales salvo imposibilidad física objetiva. (ej: zona de guerra activa, destrucción de infraestructura judicial).
@@ -1067,11 +1061,89 @@ La finalización no requiere acto positivo adicional: opera automáticamente. Tr
 ---
 ---
 
-# TÍTULO V: REFORMA Y PROTECCIÓN CONSTITUCIONAL
-<!-- TODO: no sé si he escrito cosas para evitar el expandir, añadir, el numero de articulos. Es peligroso ya que podrian ser contradictorios con existentes y demás, pensar si deberia añadir la capacidad de añadir articulos, ó simplemente negarla. -->
-### Artículo 72: Cláusulas Pétreas - Núcleo Intangible
+# TÍTULO V: SECESIÓN Y UNIÓN DE TERRITORIOS
 
-Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 74 y 75. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 73:
+## SUBTÍTULO 1: SECESIÓN
+
+### Artículo 72: Iniciativa y Declaración Formal de Secesión
+
+<!-- TODO (7/11/2026): aquí está entero el boceto del 7 del 7/11, sin cambios, con la delimitación por distritos que el autor ya ha sustituido por una delimitación fija al inicio; repartir sus apartados entre los artículos 72 a 75 y quitar lo que duplique al 7 -->
+- Iniciativa:
+
+Cualquier ciudadano con derecho a voto perteneciente al censo del territorio a independizarse puede iniciar un procedimiento de secesión. La declaración formal debe delimitar el territorio a independizarse mediante subdivisiones territoriales existentes completas. El censo del territorio a independizarse es la unión de los censos de los distritos cuya población resida mayoritariamente en él, calculada con los distritos vigentes en cada momento.
+
+- Declaración formal:
+
+La declaración formal queda hecha cuando se certifican las firmas que la apoyan. La recogida de firmas se rige por el artículo 12 con los siguientes parámetros.
+
+- Autoridad competente: cualquier juez de los distritos del territorio a independizarse. Solo en ausencia de todos ellos, el miembro de mayor rango del cuerpo policial de esos distritos y, en su ausencia, el siguiente en orden decreciente de rango.
+- Documento exigible a quien anuncia: el que acredite que es ciudadano con derecho a voto y que pertenece al censo del territorio a independizarse, además de la delimitación del territorio.
+- Umbral de firmas requeridas para la aceptación: el 10% del censo del territorio a independizarse.
+- Plazo máximo de recogida: 1 año desde el anuncio.
+- Plazo para volver a presentar un anuncio rechazado: 2 horas.
+- Plazo máximo para tramitar el anuncio y la presentación de firmas: 1 día, bajo pena, para la autoridad ante la que se presenten, de un año de prisión por defecto y dos como máximo.
+- Plazo máximo de verificación: 3 meses desde la presentación, bajo pena del 25% de un salario anual para todas las autoridades competentes en el procedimiento.
+
+- Requisitos legales:
+
+La ley podrá establecer requisitos y condiciones para el procedimiento de secesión. Toda ley que regule ó afecte al procedimiento de secesión requiere, para su aprobación ó derogación, consenso de Nivel N4; durante el Proceso de Arranque, de Nivel N2. Estos requisitos podrán ser exigentes, pero deben poder cumplirse dentro de los plazos de este artículo y no pueden impedir ni retrasar la declaración formal ni la votación.
+
+- Duración:
+
+Un procedimiento de secesión comienza con su declaración formal. Su duración mínima, desde la declaración formal hasta la primera vuelta de la votación, es de 84 años, cuatro generaciones de 21 años. Alcanzada la duración mínima, el territorio a independizarse dispone de 21 años para celebrar la votación y cumplir las condiciones establecidas por la ley.
+
+- Votación:
+
+La secesión debe aprobarse mediante una votación a doble vuelta en la que solo participan los ciudadanos con derecho a voto del censo del territorio a independizarse. La primera vuelta no tiene umbral y su resultado debe hacerse público. Entre la primera vuelta y la segunda debe transcurrir un periodo de reflexión de 1 año. La secesión queda aprobada en la segunda vuelta si los votos a favor alcanzan el 75% del censo del territorio a independizarse, con independencia del resultado de la primera.
+
+- Resolución:
+
+Un procedimiento de secesión queda resuelto como aprobado cuando la segunda vuelta alcanza el 75% y el territorio a independizarse cumple las condiciones establecidas por la ley. Queda resuelto como fallido cuando la segunda vuelta no alcanza el 75%, ó cuando transcurren los 21 años posteriores a la duración mínima sin haber sido aprobado. Un procedimiento fallido no impide iniciar uno nuevo al día siguiente, pero la duración mínima del nuevo procedimiento es el producto de 84 años por la fracción del censo del territorio a independizarse que no votó a favor en la última vuelta celebrada del procedimiento anterior; si no se celebró ninguna, es de 84 años.
+
+- Libertad política colectiva:
+
+Aprobada la secesión, se abre en el territorio a independizarse un proceso de libertad política colectiva, durante el cual un gobierno provisional debe garantizar el orden y la paz mientras sus ciudadanos se organizan libre y pacíficamente para definir las instituciones de su nuevo Estado. El gobierno provisional lo forman los representantes de los distritos del territorio a independizarse, que siguen sujetos a la revocabilidad del artículo 11, y cesa cuando toman posesión las instituciones del nuevo Estado. La ley debe regular el resto de este proceso.
+
+<!-- ARG PARTE 2, notas del autor del 29/10 y 7/11: el año entre vueltas, si en la primera hay menos del 75%, da tiempo para convencer a los demás y, si hay más, un último tiempo para reflexionar si de verdad se desea; por eso la primera vuelta no tiene umbral. Cuatro generaciones porque normalmente no ves a los hijos de tus nietos; entre 3 y 5 solo en la argumentación. Espera proporcional porque resetear del todo con una voluntad clara y sostenida es injusto. Proceso de libertad política colectiva al estilo de Trevijano. -->
+
+---
+
+### Artículo 73: Duración del Procedimiento de Secesión
+
+<!-- TOWRITE -->
+
+---
+
+### Artículo 74: Votación y Resolución de la Secesión
+
+<!-- TOWRITE -->
+
+---
+
+### Artículo 75: Libertad Política Colectiva
+
+<!-- TOWRITE -->
+
+---
+
+## SUBTÍTULO 2: UNIÓN
+
+### Artículo 76: Procedimiento de Unión
+
+<!-- TOWRITE -->
+
+---
+
+**Fin del Título V**
+
+---
+---
+
+# TÍTULO VI: REFORMA Y PROTECCIÓN CONSTITUCIONAL
+<!-- TODO: no sé si he escrito cosas para evitar el expandir, añadir, el numero de articulos. Es peligroso ya que podrian ser contradictorios con existentes y demás, pensar si deberia añadir la capacidad de añadir articulos, ó simplemente negarla. -->
+### Artículo 77: Cláusulas Pétreas - Núcleo Intangible
+
+Los siguientes principios constitucionales son cláusulas pétreas: no pueden ser eliminados mediante el procedimiento de reforma ordinaria establecido en los artículos 79 y 80. Solo pueden modificarse mediante el procedimiento especial establecido en el artículo 78:
 
 1. Soberanía Popular (artículo 1): El poder reside en el pueblo y lo ejerce mediante los mecanismos establecidos en esta Constitución.
 2. Jerarquía de Legitimidad Democrática (artículo 1): El pueblo puede oponerse a decisiones de cualquier poder delegado conforme a los procedimientos establecidos en esta Constitución. Los poderes delegados son iguales entre sí y sujetos a control recíproco.
@@ -1086,8 +1158,8 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 11. Separación de Poderes (artículo 25): Independencia de poderes Legislativo, Ejecutivo y Judicial.
 12. Equilibrio de Poderes (artículo 44): El mecanismo de autodestrucción mutua entre Legislativo y Ejecutivo no puede ser eliminado.
 13. Supremacía Constitucional (artículo 47): Esta Constitución es la norma suprema del ordenamiento jurídico.
-14. Derecho y Procedimientos de Reforma Constitucional (artículos del 73 al 75 incluidos): El pueblo conserva siempre el derecho de reformar esta Constitución mediante los procedimientos establecidos. Los procedimientos de reforma no pueden ser suprimidos.
-15. Derechos Fundamentales del Sistema Democrático (artículo 77): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
+14. Derecho y Procedimientos de Reforma Constitucional (artículos del 78 al 80 incluidos): El pueblo conserva siempre el derecho de reformar esta Constitución mediante los procedimientos establecidos. Los procedimientos de reforma no pueden ser suprimidos.
+15. Derechos Fundamentales del Sistema Democrático (artículo 82): Los derechos establecidos como condiciones necesarias para el funcionamiento democrático no pueden ser eliminados.
 16. Actualización de los Distritos (artículos 19 y 20): El periodo de actualización de los distritos, la comisión que la ejecuta y la iniciativa popular de actualización no pueden ser alterados.
 17. Censo Distrital (artículo 21): Las reglas de pertenencia al censo de cada distrito no pueden ser alteradas.
 18. Tamaño y Restricciones de los Distritos (artículo 17): El rango de población de los distritos y las restricciones de su delimitación no pueden ser alterados.
@@ -1095,9 +1167,9 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 
 ---
 
-### ARTÍCULO 73: Procedimiento de Reforma de Cláusulas Pétreas
+### ARTÍCULO 78: Procedimiento de Reforma de Cláusulas Pétreas
 
-La reforma de cualquiera de las cláusulas pétreas establecidas en el artículo 72 requiere aprobación mediante referéndum popular con consenso de Nivel N5 de votos válidos favorables y participación mínima del 75% del censo nacional. El referéndum puede convocarse por dos vías:
+La reforma de cualquiera de las cláusulas pétreas establecidas en el artículo 77 requiere aprobación mediante referéndum popular con consenso de Nivel N5 de votos válidos favorables y participación mínima del 75% del censo nacional. El referéndum puede convocarse por dos vías:
 
 1. Vía legislativa: Aprobación por consenso de Nivel N6 del Poder Legislativo.
 2. Vía popular: Iniciativa de Nivel N1 de los ciudadanos con derecho a voto.
@@ -1127,36 +1199,36 @@ Los parámetros de este artículo pueden modificarse mediante los procedimientos
 
 ---
 
-### ARTÍCULO 74: Derecho de Reforma Ordinaria
+### ARTÍCULO 79: Derecho de Reforma Ordinaria
 
-Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 72, puede reformarse mediante el siguiente procedimiento:
+Toda parte de esta Constitución, salvo las cláusulas pétreas establecidas en el artículo 77, puede reformarse mediante el siguiente procedimiento:
 
 1. Vía legislativa: Aprobación por consenso de Nivel N4 del Poder Legislativo.
 2. Vía popular: Aprobación mediante referéndum con consenso de Nivel N1 de votos válidos y participación mínima de Nivel N2 del censo nacional.
 
 Cuando un artículo contiene parámetros con un nivel de protección específico, cualquier reforma de ese artículo, sea de una parte ó de su conjunto, requiere un consenso igual ó superior al mayor nivel de protección de los parámetros que contiene, y nunca inferior al establecido en este artículo. Como única excepción, un parámetro cuyo nivel de protección sea inferior a ese máximo puede modificarse, él solo, con su propio nivel.
 
-Las sanciones que esta Constitución impone a los miembros del Poder Legislativo, aunque figuren entre los parámetros numéricos de un artículo, solo pueden modificarse conforme al artículo 73.
-<!-- TODO: osea, las sanciones pueden alterarse dentro del rango permitido, pero nunca quitarse sino es por el proceso del 72 -->
+Las sanciones que esta Constitución impone a los miembros del Poder Legislativo, aunque figuren entre los parámetros numéricos de un artículo, solo pueden modificarse conforme al artículo 78.
+<!-- TODO: osea, las sanciones pueden alterarse dentro del rango permitido, pero nunca quitarse sino es por el proceso del 77 -->
 
 La reforma ordinaria entra en vigor transcurrida una semana desde la aprobación.
 
 ---
 
-### ARTÍCULO 75: Iniciativa de Reforma Ordinaria
+### ARTÍCULO 80: Iniciativa de Reforma Ordinaria
 
-La iniciativa para proponer reformas ordinarias conforme al artículo 74 puede provenir de:
+La iniciativa para proponer reformas ordinarias conforme al artículo 79 puede provenir de:
 
 1. Iniciativa legislativa: El 33% de los miembros del Poder Legislativo.
 2. Iniciativa popular: El 10% del censo nacional mediante solicitud en un sistema público auditable.
 
-Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 74.
+Ambas vías de iniciativa requieren la aprobación final conforme a las mayorías establecidas en el artículo 79.
 
 ---
 
-### Artículo 76: Supremacía de los Mecanismos Constitucionales
+### Artículo 81: Supremacía de los Mecanismos Constitucionales
 
-Ningún derecho fundamental, ya sea esencial (artículo 77) o complementario (artículo 78), puede invocarse para bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución.
+Ningún derecho fundamental, ya sea esencial (artículo 82) o complementario (artículo 83), puede invocarse para bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución.
 
 Las restricciones de derechos derivadas de condena penal firme se rigen por la ley, dentro de los límites de esta Constitución.
 
@@ -1166,22 +1238,22 @@ Las condenas establecidas en esta Constitución no admiten reducción por ningú
 
 ---
 
-**Fin del Título V**
+**Fin del Título VI**
 
 ---
 ---
 
-# TÍTULO VI: DERECHOS Y PROTECCIONES
+# TÍTULO VII: DERECHOS Y PROTECCIONES
 
-### ARTÍCULO 77: Derechos Fundamentales del Sistema Democrático
+### ARTÍCULO 82: Derechos Fundamentales del Sistema Democrático
 
-Los siguientes derechos son condiciones necesarias para el funcionamiento de los mecanismos democráticos establecidos en esta Constitución. Estos derechos aplican en tanto en cuanto garanticen el funcionamiento de dichos mecanismos, y bajo ningún concepto pueden utilizarse para alterar, bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución tal como se describe en el artículo 76.
+Los siguientes derechos son condiciones necesarias para el funcionamiento de los mecanismos democráticos establecidos en esta Constitución. Estos derechos aplican en tanto en cuanto garanticen el funcionamiento de dichos mecanismos, y bajo ningún concepto pueden utilizarse para alterar, bloquear, anular o eludir los mecanismos, condiciones y límites establecidos en esta Constitución tal como se describe en el artículo 81.
 
 1. Expresión política: Toda persona tiene derecho a expresar, difundir y debatir ideas políticas sin censura.
 
 2. Información: Toda persona tiene derecho a acceder a información y a difundirla.
 
-3. Reunión y asociación política: Toda persona tiene derecho a reunirse y asociarse pacíficamente con fines políticos, incluyendo la organización necesaria para ejercer los mecanismos de revocación (artículos 11 y 13), anulación popular (artículo 51) e iniciativa de reforma (artículo 75).
+3. Reunión y asociación política: Toda persona tiene derecho a reunirse y asociarse pacíficamente con fines políticos, incluyendo la organización necesaria para ejercer los mecanismos de revocación (artículos 11 y 13), anulación popular (artículo 51) e iniciativa de reforma (artículo 80).
 
 4. Integridad personal: Ninguna persona puede ser sometida a daño físico por razón de su actividad política o su ejercicio del voto.
 
@@ -1189,9 +1261,9 @@ Los siguientes derechos son condiciones necesarias para el funcionamiento de los
 
 ---
 
-### Artículo 78: Derechos Fundamentales Complementarios
+### Artículo 83: Derechos Fundamentales Complementarios
 
-Durante el Proceso de Arranque, el pueblo definirá mediante consenso de Nivel N2 el catálogo de derechos fundamentales complementarios a los establecidos en el artículo 77. Este catálogo podrá incluir, entre otros: derecho a la privacidad general y la soledad, a la propiedad, al comercio de bienes y servicios, a la práctica religiosa, a la práctica lúdica y recreativa, a la reproducción y vida familiar, al trabajo y profesión, a la educación, a la comunicación privada, a la protección estatal, al movimiento y a la vida.
+Durante el Proceso de Arranque, el pueblo definirá mediante consenso de Nivel N2 el catálogo de derechos fundamentales complementarios a los establecidos en el artículo 82. Este catálogo podrá incluir, entre otros: derecho a la privacidad general y la soledad, a la propiedad, al comercio de bienes y servicios, a la práctica religiosa, a la práctica lúdica y recreativa, a la reproducción y vida familiar, al trabajo y profesión, a la educación, a la comunicación privada, a la protección estatal, al movimiento y a la vida.
 
 Una vez adoptado, la adición, modificación o eliminación de cualquier derecho del catálogo requiere consenso de Nivel N5.
 
@@ -1199,7 +1271,7 @@ Una vez adoptado, la adición, modificación o eliminación de cualquier derecho
 
 ---
 
-**Fin del Título VI**
+**Fin del Título VII**
 
 ---
 
