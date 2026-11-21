@@ -11,6 +11,14 @@ Ahora con esta definición, estos argumentos y estas limitaciones en mente, es h
 
 ## Artículo 1: Soberanía Popular y Jerarquía de Legitimidad
 
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué el poder del pueblo es soberano pero no absoluto, y solo actúa mediante los procedimientos de la Constitución.
+- Por qué el pueblo está por encima de los tres poderes delegados, y qué mecanismos concretos le dan esa superioridad: elegir, revocar, anular decisiones judiciales y legislativas, y reformar la Constitución.
+- Por qué los tres poderes delegados son iguales entre sí y ninguno prevalece sobre otro.
+- Por qué los límites entre poderes deben fijarse en la Constitución y no en la ley, si por naturaleza no son iguales, como el Ejecutivo, que tiene el ejército.
+- Por qué los conflictos entre poderes se resuelven con mecanismos de control mutuo, y de dónde sale la idea del castigo y la autodestrucción mutua.
+-->
+
 Cabe destacar en el primer artículo como el poder del pueblo, no es absoluto, pues debe tener límites por los motivos explicados anteriormente del trilema democrático. Un sistema que puede cambiar cuando sea a lo que sea es disfuncional. Sin embargo, aun sin ser absoluto, en cierta forma es soberano, pues siempre debe tener caminos para anular directamente decisiones de cualquier otro poder. Esos caminos son los que se nombran en este artículo y se describen en los siguientes.
 
 Además de por las cuestiones nombradas anteriormente sobre la naturaleza humana, es necesario también declarar los límites entre los otros poderes, los poderes del Estado, deben ser específicos y calibrados. Pues, aunque en democracia son iguales e independientes, teóricamente, en la realidad, por su naturaleza, no son iguales entre sí. Y por ello se necesitan unas normas fundamentales que los equiparen en la medida de lo posible. Debido a que cada participante tiene naturalezas diversas pero definibles, no podemos conformarnos con dejar los límites más fundamentales entre estas arbitrarios a una mera legislación y debemos definirlos en la Constitución.
@@ -28,6 +36,14 @@ Al igual que en el trilema de las blockchain, estos límites generan el trilema 
 
 ## Artículo 2: Niveles de Consenso
 
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué seis niveles y por qué esos porcentajes concretos.
+- Por qué definir los niveles en un solo artículo y referenciarlos desde el resto.
+- Por qué solo porcentajes y no etiquetas como "dos tercios", y por qué truncar al entero inferior.
+- Por qué por defecto se cuentan los votos válidos, cuándo se cuenta el censo, y por qué en el Legislativo se cuenta sobre el total de escaños.
+- Con qué criterio se asigna cada nivel: qué va a N6, qué a N5 y qué se deja a la reforma ordinaria.
+-->
+
 Los seis niveles de consenso son la herramienta operativa de toda la Constitución. Cada nivel representa un grado distinto de acuerdo social, desde la mayoría simple hasta el consenso casi unánime. Usando una terminología más clásica: N1 (51%) es mayoría simple, N2 (60%) mayoría reforzada, N3 (66%) mayoría cualificada ó de dos tercios, N4 (75%) supermayoría, N5 (85%) supermayoría reforzada y N6 (95%) cuasi-unanimidad.
 
 El texto constitucional usa exclusivamente el porcentaje como definición formal, sin etiquetas descriptivas, para evitar ambigüedades como la que existiría con "dos tercios", que podría ser 66,66% si truncas los decimales, ó 66,67% si redondeas. Por eso mismo el artículo fija que todo porcentaje de esta Constitución, sea un nivel, un umbral de firmas ó una participación, se trunca al entero inferior cuando no da entero: el 10% de 80.001 son 8.000 firmas, no 8.001, y nadie puede discutir el borde. Este artículo define de manera modular, cual software, una referencia que será utilizada a lo largo del texto, haciendo a este más legible y fácil de modificar sin liar los artículos y romper el sistema. Siguiendo dos principios del buen desarrollo de software, el llamado SoC (Separation of Concerns), separación de preocupaciones, en español y el llamado DRY (Don't Repeat Yourself), no te repitas, en español. La idea es que si se quiere cambiar el porcentaje de consenso necesario para un artículo, solo se cambia aquí y no en cada artículo que lo requiera. Estos principios se ven en la decisión de crear este artículo, pero se repiten a lo largo de toda la Constitución. Pues al fin y al cabo, esto es un código legal, y como buen código, aunque no sea software, se le pueden aplicar los mismos principios arquitectónicos de diseño y desarrollo sostenible.
@@ -41,6 +57,16 @@ Los parámetros protegidos con un nivel más bajo, N5, son estructurales y muy f
 El resto de parámetros a ajustar, ó artículos a modificar, se rigen por el procedimiento de reforma ordinaria descrito más adelante en el artículo 85.
 
 ## Artículo 3: Sujetos Constitucionales
+
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué hace falta definir los sujetos, y por qué tres categorías encajadas: persona, ciudadano y ciudadano con derecho a voto.
+- Por qué "el pueblo" son los ciudadanos, "habitantes" los empadronados y "censo" el censo electoral.
+- Por qué los derechos se reparten por categoría, y la regla de que lo que no está expresamente restringido está permitido.
+- Por qué se admite restringir derechos por ley conforme a la Constitución.
+- Por qué los ciudadanos conservan sus derechos de persona estén donde estén.
+- El vector de ataque de cambiar el electorado con la ley de nacionalidad, y por qué se cierra en el artículo 4.
+- Ojo: el censo de distrito ya no se define aquí sino en el artículo 18, así que el párrafo actual sobre los cuatro años está desfasado.
+-->
 
 La Constitución necesita un vocabulario preciso para sus sujetos, igual que un programa necesita estructuras de datos bien definidas. Sin esta definición, cada artículo que dice "ciudadano" es ambiguo: ¿incluye a un turista? ¿A un menor? ¿A un residente sin nacionalidad? La ambigüedad terminológica es un vector de ataque interpretativo: un tribunal creativo puede expandir o restringir el alcance de un derecho según cómo interprete "ciudadano".
 
@@ -60,6 +86,16 @@ Una amenaza a tener en cuenta: la nacionalidad se define "conforme a la ley", as
 
 ## Artículo 4: Nacionalidad
 
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué la nacionalidad se regula en la Constitución y no se deja entera a la ley.
+- Por qué es una cuestión de poder grupal y no un argumento moral.
+- Por qué las leyes de nacionalidad necesitan N4, y N3 en el Arranque.
+- Por qué la nacionalidad garantizada exige padres y cuatro abuelos nacidos y criados aquí, y por qué el 51% de los días hasta la mayoría de edad.
+- Por qué cinco años mínimos para nacionalizarse, periodos de al menos cuatro meses seguidos y siete días de ausencia por periodo.
+- Por qué la ley puede añadir requisitos pero no rebajar los mínimos.
+- Por qué el artículo es pétreo y sus números solo cambian por el artículo 84.
+-->
+
 La nacionalidad es la frontera social del pueblo, y el pueblo es quien tiene el poder en democracia. Por ende, no cualquiera debería ser parte de él. Pues sería absurdo que alguien que acabas de conocer se mude a tu casa, con ó sin tu permiso, y al día siguiente ya lo consideres un miembro de tu familia de toda la vida, ó un amigo íntimo por el que hacer sacrificios extraordinarios. Esa actitud abre la puerta a que el externo se aproveche. Por eso, a nivel constitucional, se definen los límites más fundamentales y objetivos que hacen a una persona parte de un grupo que comparte un modo colectivo de vivir, de una nación. El resto se deja a la ley.
 
 Cabe destacar que esto no es un argumento moral. Ni tú ni el extranjero sois superiores el uno al otro, ni inferiores; a nivel humano sois iguales. Sin embargo, por cuestiones naturales, quien lleva más tiempo en un sitio y tiene la fuerza para controlarlo decide quién vive ahí, quién no y como influencia ese entorno. No justifico esto en ninguna moralidad ni superioridad nacional, sino en una cuestión de puro poder grupal, que es imprescindible conservar si se pretende mantener a una sociedad viva e independiente. Igual que un humano atado, ó al que golpean cada vez que intenta moverse, no es ni libre ni independiente ni capaz aunque técnicamente pueda moverse, una nación no puede funcionar como grupo si la limitan cuerdas artificiales y golpes externos. Solo deben limitarla las normas naturales y fundamentales que rigen cómo se agrupan los humanos. Y esas normas, las que se pueden definir objetivamente, deben estar escritas en la Constitución.
@@ -73,6 +109,16 @@ Este límite tiene también otra cara: se protege a quienes su legado familiar y
 Por eso el artículo es cláusula pétrea. Lo que la ley regula va a N4; lo que la Constitución garantiza, el límite temporal de la nacionalización y la nacionalidad de los arraigados, solo se toca por el procedimiento del artículo 84. Es el mismo patrón que la edad de voto del artículo 5: un proceso que el Legislativo puede calibrar dentro de un rango que el Legislativo no puede mover.
 
 ## Artículo 5: Derecho al Sufragio
+
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué el sufragio no admite restricciones, ni por incapacidad judicial ni por condena penal.
+- Por qué un ciudadano, un voto.
+- Por qué la edad de voto es 18 por defecto con margen entre 18 y 25, por qué el margen a N5 y sus límites solo por el artículo 84.
+- Por qué la nacionalidad es requisito del sufragio.
+- Por qué solo quien puede votar puede ser elegido ó nombrado, y por qué solo para esos cargos.
+- Por qué nadie de más de 63 años puede ser elegido ó nombrado para esos cargos, cómo se calcula el 63, y por qué se puede subir a N5 pero nunca bajar.
+- El conflicto en poblaciones envejecidas: el ciclo de revocaciones, por qué no se quita el voto a los mayores y la advertencia sobre la natalidad.
+-->
 
 El sufragio no puede restringirse. La justificación es directa: por el mismo argumento del bucle de retroalimentación, cuantos más ciudadanos participen en el proceso democrático, más perspectivas entran en el sistema, más información se procesa y mejor es la capacidad colectiva de encontrar soluciones óptimas. Restringir el sufragio es empobrecer el bucle. Cualquier excepción (como declaraciones judiciales de incapacidad) abre la puerta a la restricción arbitraria del voto por motivos políticos: un juez corrupto podría declarar "incapaces" a miles de votantes en un distrito clave. El riesgo de abrir esa puerta supera al beneficio de cerrarla. Lo mismo, y por las mismas razones, ha sido dada la capacidad de sufragio a aquellos que sean criminales, pues la ley no es la verdad pura del deseo de una nación y puede ser corrompida, temporalmente a corto ó incluso a largo plazo, por ciertos grupos. Aunque sí que es verdad que en un sistema democrático se espera que si la ley se corrompe, gracias a los mecanismos de esta constitución, sea por poco tiempo.
 
@@ -124,6 +170,15 @@ Para terminar, la cuestión de la nacionalidad es tan fundamental pero incluso m
 
 ## Artículo 6: Propiedades Obligatorias del Voto
 
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué estas propiedades, secreto, indelegable y verificable, y qué protege cada una.
+- Por qué las votaciones del Legislativo son la excepción al secreto.
+- Por qué nadie salvo el propio votante puede revelar el sentido de su voto.
+- Por qué se permite el voto remoto si cumple las garantías.
+- Por qué la Constitución no prescribe ninguna tecnología y deja los detalles al Arranque.
+- Por qué una votación solo se anula si los votos afectados pudieron cambiar el resultado, y por qué cualquier ciudadano puede pedirlo.
+-->
+
 Tres propiedades simultáneas: secreto (nadie sabe qué votaste), verificabilidad (tú puedes comprobar que tu voto se contó correctamente) e indelegabilidad (sólo tú puedes emitir tú voto).
 
 Estas tres propiedades son las características mínimas de cualquier sistema de votación legítimo. La Constitución no prescribe la tecnología (blockchain, criptografía, papel y urnas) porque lo que importa son las características que el proceso debe cumplir, no el método con el que las cumple. Si mañana surge una tecnología superior a la blockchain mezclada con criptografía de conocimiento cero (zero-knowledge cryptography), puede adoptarse sin reforma constitucional. Lo que permanece invariante son las características requeridas.
@@ -139,6 +194,23 @@ Estas garantías serían vacías sin consecuencias ante su violación. Por eso e
 Cualquier ciudadano con derecho a voto puede instar el procedimiento ante el Poder Judicial porque, tal y como se establece en el artículo 1, la soberanía reside en el pubelo.
 
 ## Artículo 7: Derecho a la Autodeterminación Territorial
+
+<!-- ANOTACIONES DE REDACCIÓN:
+- Esta sección explicará juntos el artículo 7 y los del 72 al 82, que siguen marcados como AI GENERATED.
+- Qué entiendo por pueblo, Estado y nación, y por qué secesión y no "derecho de autodeterminación".
+- Por qué el soberano puede regular cómo amputarse una parte de sí mismo.
+- Por qué garantizar el camino legal: el riesgo terrorista y la válvula de escape, incluso ante movimientos manipulados desde fuera.
+- Por qué el filtro es el tiempo: cuatro generaciones de 21 años, por qué entre 3 y 5, y por qué normalmente no ves a los hijos de tus nietos.
+- Por qué la ventana de 21 años tras el mínimo, y por qué ningún requisito legal puede bloquear la votación.
+- Por qué no hay ningún límite de población, ni mínimo ni máximo.
+- Por qué la doble vuelta con un año de reflexión, la primera sin umbral y el 75% del censo en la segunda.
+- Por qué la espera tras un fallo es proporcional a los votos a favor.
+- Por qué un proceso de libertad política colectiva con un gobierno provisional.
+- Por qué la unión integrante exige que el territorio no tenga Estado ó que el suyo consienta, y por qué el referéndum nacional.
+- Por qué la unión desintegrante tiene las mismas duraciones y umbrales que la secesión, más los requisitos de la reforma pétrea.
+- Por qué toda ley que afecte a estos procedimientos necesita N4.
+- Si el artículo debería ser pétreo.
+-->
 
 Antes de explicar el por qué del artículo, quiero acalrar que definiciones uso yo para los términos pueblo, Estado y nación:
 
@@ -190,6 +262,15 @@ Una duda abierta es el nivel de protección de este artículo. Actualmente no es
 
 ## Artículo 8: Igualdad ante la Ley y Responsabilidad Pública
 
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué ningún cargo tiene inmunidad ni privilegio por razón del cargo.
+- Por qué procesar a un cargo público no necesita autorización de nadie, y por qué cualquier ciudadano puede iniciarlo.
+- Por qué los procesos contra cargos públicos se tramitan con preferencia.
+- El vector de las denuncias masivas para paralizar a un cargo, y cómo se mitiga.
+- Por qué la condena firme que quita el cargo inhabilita para siempre, y por qué cambiarlo exige N5.
+- Por qué todo procedimiento que la Constitución deja iniciar a cualquiera es gratuito.
+-->
+
 El principal argumento para incluir este artículo es que la inmunidad parlamentaria es un concepto oligárquico. Fundamentalmente dice: "nosotros estamos por encima de la ley". Esta Constitución lo rechaza pues la desigualdad ante la ley, por lo menos aquella derivada de la superioridad legal de los gobernantes sobre los gobernados, es un fenómeno que promueve y acelera la formación de oligarquías.
 
 Si votaste a alguien, esa persona es responsable ante ti y ante la ley de igual a igual, y en todo caso, aún más responsable, pues el representante adquiere el carácter de empleado del pueblo, y como empleado, debe obedecer a sus jefes y rendir cuentas cuando no lo haga.
@@ -201,6 +282,16 @@ Sin embargo, la eliminación de inmunidad abre un vector de ataque, el de denunc
 La protección extra a N5 de la inhabilitación permanente impide que un Legislativo con mayoría ordinaria (N4) rebaje esta consecuencia para proteger a aliados condenados. Y es permanente por defecto porque esa persona ya ha demostrado que la disuasión por castigo y revocación, que crea uno de los tres pilares fundamentales de la democracia, el de la representatividad responsable, no funciona con ella.
 
 ## Artículo 9: Lengua Oficial
+
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué una lengua común es infraestructura del Estado y no una imposición cultural.
+- Por qué una única lengua oficial, y en qué ámbitos es obligatoria.
+- Por qué prevalece la versión en lengua oficial si hay conflicto de interpretación.
+- Por qué por defecto la del régimen anterior, y por qué cambiarla en el Arranque exige N4.
+- Por qué las lenguas cooficiales territoriales van por ley ordinaria y no debilitan la lengua común.
+- Por qué el artículo es pétreo.
+- Ojo: el artículo dice "una única lengua oficial" y el ítem 10 del artículo 83 dice "al menos una".
+-->
 
 Un Estado necesita una lengua común para funcionar. Sin ella, las leyes se redactan en lenguas que parte de la ciudadanía no entiende, los procedimientos judiciales se vuelven inaccesibles y la administración pública se fragmenta. La lengua oficial no es una imposición cultural: es infraestructura operativa del Estado, al mismo nivel que el sistema electoral o la separación de poderes.
 
@@ -219,21 +310,62 @@ La cooficialidad por legislación ordinaria permite adaptar el sistema a realida
 
 # TÍTULO II: SISTEMA ELECTORAL
 
-## Artículo 10: Financiación Electoral
+## Artículos 10 y 11: Financiación y Publicidad Electoral
 
-Las donaciones privadas están limitadas al 10% del P25 nacional por persona, una sola donación por elección, y solo pueden hacerlas ciudadanos con derecho a voto, ninguna persona jurídica. ¿Por qué? Porque la financiación ilimitada convierte las elecciones en subastas al mejor postor con mayor presupuesto de marketing, reduciendo la riqueza del ciclo de retroalimentación democrática. La Ley de Hierro de las Oligarquías (Michels) predice que la concentración de recursos produce concentración de poder. Limitar la financiación es limitar la oligarquía. Y el artículo se aplica a todas las elecciones de la Constitución, porque el dinero compra igual cualquier cargo.
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué limitar el capital: que la democracia no degenere en plutocracia.
+- Por qué este límite elegido: el 10% de la renta anual del percentil 25, que evoluciona con el poder adquisitivo.
+- Dentro del límite, por qué el percentil 25: el mismo 75% que hace falta para revocar.
+- Por qué una donación por proceso electoral, una para cada elección presidencial y otra para cada elección de su distrito.
+- Por qué solo pueden donar los ciudadanos con derecho a voto, y ninguna persona jurídica.
+- Por qué la financiación pública, si existe, es idéntica para todos los candidatos.
+- Por qué el origen de las donaciones es público: igualdad de acceso frente a privacidad, y cómo se protege a los donantes.
+- Por qué 8 años de cárcel y no multa, solo por acción, y por qué no se anula la elección.
+- Por qué la publicidad electoral va en un artículo aparte.
+- Por qué tener 1 semana de igualdad de acceso y prohibición de campaña antes de la primera vuelta de las generales y de la presidencial, y toda la semana en las demás elecciones de distrito.
+- Por qué el mínimo de 1 año de prisión por infringir el periodo de reflexión.
+- Por qué no se intenta regular la propaganda indirecta en detalle.
+-->
 
-El origen, el destino y la cuantía de cada donación son públicos. Un origen secreto protegería al donante de represalias, pero haría imposible castigar a quien dona por encima de su límite, así que la privacidad del donante y la igualdad de acceso no caben a la vez, y priorizo la igualdad de acceso, porque la privacidad abre las puertas a la plutocracia. Aviso de lo que se pierde con ello, pues sin privacidad el donante queda expuesto a represión, amenazas y daños, y recomiendo que la ley establezca buenos mecanismos de protección para los donantes. La Constitución pone el suelo, 4 años de prisión para quien amenace ó dañe a alguien por sus donaciones electorales, para que no lo haga en las siguientes elecciones.
+Estos dos artículos existen para evitar que la democracia degenere en plutocracia, que es el dominio del poder en base a la riqueza. Pues si se permiten medios ilimitados, los más ricos se anuncian y se escuchan más, opacando a cualquier oposición. Aunque en la práctica se consigan encontrar agujeros legales que permitan camuflar la publicidad electoral, por lo menos queda reconocido a nivel constitucional que eso está mal y debe ser penado. La presencia de esta declaración, aunque no sea perfecta, es mejor que su ausencia.
 
-Quien financia por encima de su límite pierde lo donado y va 8 años a prisión, dos ciclos electorales, y la pena es de cárcel y no de dinero porque quien interfiere en unas elecciones normalmente es rico y una multa no le castiga. Solo responde quien realizó la financiación, no quien dejó de impedirla. No anulo ni repito la elección aunque se descubra financiación irregular, porque el proceso de verificación que haría falta no se puede definir sin trampas, con qué tecnología se hace, cuánto debe durar, qué pasa si falla, demasiados y si, y una anulación tardía, con los cargos ya en funciones, pararía el gobierno. Así que las elecciones en las que haya habido privilegios de financiación se tienen por válidas, y espero que pase poco gracias a que el dinero es rastreable y las penas son claras.
+Se ha elegido una cantidad máxima de donación que evoluciona con el poder adquisitivo de la nación e incluye a la mayoría de ciudadanos, pues el 10% de la renta anual del percentil 25 nacional es un límite máximo razonable. Si el percentil 25 es de 10.000 € anuales, el máximo sería de 1.000 € por persona, y así incluso los más pobres de la nación podrán influir de manera proporcionalmente significativa. Es decir, si el rico dona 1.000 € y el pobre solo se puede permitir donar 100 €, aunque el rico sea 100 veces más rico, el pobre influye 10 veces menos, no 100. Además, como hay más pobres que ricos, en conjunto pesan más que ellos. He escogido el percentil 25 porque tres de cada cuatro personas ganan al menos esa renta, y por tanto pueden donar el máximo dedicando como mucho el 10% de sus ingresos, y ese 75% es el mismo que, por defecto, hace falta para revocar a un representante de distrito. Así, quienes pueden influir con su dinero al máximo son tantos como los que hacen falta para echar a un representante corrupto.
 
-## Artículo 11: Publicidad Electoral
+Solo pueden donar los ciudadanos con derecho a voto, y ninguna persona jurídica, porque si no, como pasa en Estados Unidos, los ricos se pueden permitir buenos abogados que buscan huecos legales para financiar más de lo que deberían a base de asociaciones sin ánimo de lucro, empresas privadas y cualquier otro tipo de excusa rastrera.
 
-La publicidad electoral va en un artículo aparte porque es otra cuestión, y si hay que reformar algo de ella sin tocar la financiación es más fácil con artículos separados.
+El origen, el destino y la cuantía de cada donación son públicos. Un origen secreto protegería al donante de represalias, pero haría imposible castigar a quien dona incumpliendo las reglas, por ello la privacidad del donante y la igualdad de acceso no caben a la vez, y priorizo la igualdad de acceso, porque la privacidad abre las puertas de la plutocracia. Hay que recalcar claro está lo que se pierde con ello, pues sin privacidad el donante queda expuesto a represión, amenazas y daños. Por ese motivo recomiendo fuertemente que la ley establezca buenos mecanismos de protección para los donantes. La Constitución pone el suelo, 4 años de prisión para quien amenace ó dañe a alguien por sus donaciones electorales, para que no lo haga en las siguientes elecciones.
 
-El periodo de reflexión de 7 días antes de la primera vuelta de las elecciones generales prohíbe toda campaña electoral. Solo se permiten actos públicos en espacios previamente acordados, con igualdad de tiempo y condiciones para cada candidato. ¿Por qué no intentar prohibir la propaganda indirecta con reglas más detalladas? Porque es irrealista: un anuncio puede usar metáforas, alusiones y apología sin mencionar logos ni nombres, y la casuística es infinita. La Constitución define el límite (silencio electoral con excepciones igualitarias) y deja a la legislación electoral los detalles de aplicación y sanción.
+Quien financia incumpliendo las reglas pierde lo donado y va 8 años a prisión, dos ciclos electorales para evitar futuras influencias. La pena es de cárcel y no de dinero porque quien interfiere en unas elecciones normalmente es rico y una multa no le castiga realemente. Solo responde ante esta pena de carcel quien realizó la financiación, por acción, nunca por omisión, aunque la Constitución no limita que se puedan a posteriori añadir penas legales al caso de la omisión que permita a alguien influir con su riqueza. Se puede criticar que las elecciones en las que haya habido privilegios de financiación se tienen por válidas, y eso es así, aunque por eso están las disuasiones, para que pase poco.
+
+La publicidad electoral va en un artículo aparte, el 11, porque es otra cuestión, y si hay que reformar algo de ella sin tocar la financiación es más fácil con artículos separados.
+
+El periodo de reflexión de 7 días antes de la primera vuelta de las elecciones generales y de la presidencial prohíbe toda campaña electoral, y en las demás elecciones de distrito abarca toda la semana que va desde la convocatoria hasta la votación, porque en un solo distrito un rico puede saturar la atención en pocos días y con poco dinero. Solo se permiten actos públicos en espacios previamente acordados, con igualdad de tiempo y condiciones para cada candidato. ¿Por qué no intentar prohibir la propaganda indirecta con reglas más detalladas? Porque es irrealista: un anuncio puede usar metáforas, alusiones y apología sin mencionar logos ni nombres, y la casuística es infinita. La Constitución define el límite (silencio electoral con excepciones igualitarias) y deja a la legislación electoral los detalles de aplicación y sanción.
+
+La naturaleza de este periodo es para que, por lo menos, si la influencia del capital permitida ha sido demasiada, en los últimos días todo el mundo esté en igualdad de condiciones.
 
 ## Artículos 12, 13 y 19 a 23: Representación, Elección y Revocación de Representantes Distritales
+
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué un representante por distrito y no listas de partido: poder delegado frente a poder transferido.
+- Por qué la revocación solo funciona con representación uninominal, y por qué ninguna ley puede suprimirla.
+- Por qué el 51% para elegir y el 75% del censo para revocar, sin mínimo de participación.
+- El riesgo del 26% que mantiene a un representante, y por qué cada distrito puede fijar su umbral entre el 63% y el 75%.
+- Por qué no hacen falta pruebas ni juicio para revocar.
+- Por qué solo vota el censo del distrito con cuatro años de arraigo: el ataque migratorio con números.
+- La desconfianza hacia la burocracia: iniciativa individual, un solo documento, reintento, plazos cerrados y penas para quien no tramite.
+- Por qué un procedimiento común de firmas: presentación única, tope de una vez y media el umbral, verificar solo hasta el umbral, y el método de verificación por ley a N4.
+- Por qué la doble vuelta, y por qué el método de recuento queda a N5.
+- Por qué el 51% de participación en la primera vuelta, una sola repetición y la opción "Ninguno".
+- Por qué las generales el mismo día en todos los distritos, los días de elección festivos y la presidencial desacoplada.
+- Por qué ninguna elección la convoca nadie.
+- Por qué los plazos de 7 días en las elecciones que no son generales.
+- Por qué dos suplentes elegidos en la misma elección, por qué quien se presenta se presenta a todo, y las resolutorias.
+- Por qué la sustitución solo por fallecimiento, dimisión ó coma, y todo lo demás por revocación.
+- Por qué la revisión de votos desde el anuncio de la recogida de firmas, y la compensación de perjuicios.
+- Por qué la revocación sigue aunque haya generales, y por qué se aparta de la semana presidencial.
+- Por qué la residencia obligatoria tras el mandato, y la recomendación de vigilantes de distrito.
+- Por qué la tecnología blockchain con pruebas de conocimiento cero haría innecesario el método clásico, y el caso de los apagones.
+-->
 
 La representación uninominal (un distrito, un representante) proviene del modelo de Trevijano. ¿Por qué no listas de partido? Porque las listas convierten al representante en servidor del partido y de la burocracia que ahí le hizo llegar, no del electorado. En un sistema de listas, el votante elige un partido; en un sistema uninominal, elige a una persona concreta a la que le puede exigir cuentas de forma mucho más directa y fácil.
 
@@ -287,7 +419,7 @@ Las elecciones generales se celebran el mismo día en todos los distritos, y es 
 
 Ninguna elección la convoca nadie: las generales caen solas al acabar el mandato, y las demás quedan convocadas con el resultado que las causa. Depender de un cargo para convocar crea peligros burocráticos: ¿qué pasa si el cargo muere? ¿Y si no le da la gana de convocar? Una fecha que se deduce a partir del articulado no se puede retrasar ni olvidar.
 
-La semana de reflexión solo existe antes de la primera vuelta de las generales. En las demás votaciones que pueden llegar, la segunda vuelta, las resolutorias ó la elección tras una revocación, la gente ya ha reflexionado; se le da una semana más, los 7 días desde la convocatoria, y con eso es suficiente. Tampoco hay que bloquear la legislación del país durante mucho tiempo cada vez que hay elecciones generales.
+La semana de reflexión de las generales solo existe antes de su primera vuelta, porque antes de la segunda la gente ya ha reflexionado y con los 7 días entre vueltas es suficiente. En las demás elecciones de distrito, las resolutorias ó la elección tras una revocación, los 7 días desde la convocatoria son todos de reflexión, sin campaña y solo con los actos públicos iguales para cada candidato, por la razón explicada en los artículos 10 y 11. Tampoco hay que bloquear la legislación del país durante mucho tiempo cada vez que hay elecciones generales.
 
 El segundo mecanismo es presentarse y repartir los cargos, el artículo 21. Se parte del entendimiento de que los suplentes son igual de legítimos que el representante, pues han estado sujetos al mismo proceso de elección del artículo 19, en la misma elección y el mismo día. Por eso, si el representante fallece, dimite ó queda en coma, el primer suplente ocupa el escaño, y si le pasa a él, el segundo; solo cuando no queda ninguno hay elecciones. Son las únicas causas, y son objetivas a propósito: en la Constitución solo ponemos los límites obvios en los que el proceso de revocación es innecesario. Nada de grados de discapacidad, porque eso da paso a la arbitrariedad de los porcentajes de discapacidad. Si un representante pierde la memoria ó la cabeza por lo que sea, siendo intolerablemente discapacitado, el pueblo lo verá y lo revocará.
 
@@ -314,6 +446,24 @@ Si una revocación se solapa con las elecciones generales, es decir, si estas ca
 Dos cosas más para cerrar la revocación. La primera ya está en el artículo 26: el representante, y cualquier suplente que haya ocupado el escaño, quedan obligados a residir en su distrito durante los 4 años siguientes al fin de su mandato. Sin eso, un representante comprado puede cobrar, ser revocado y mudarse con el dinero. Obligarle a residir en su distrito hace que la presión social de sus vecinos sea un coste real de venderse. La segunda no es constitucional sino una recomendación que hago desde aquí: vigilantes de distrito, juristas y ciudadanos normales que lean lo que vota su representante y hagan saltar la alarma según lo que se aprueba. Los mecanismos del artículo 28 existen precisamente para que esto sea posible.
 
 ## Artículos 14 a 18: Tamaño, Delimitación y Actualización de los Distritos
+
+<!-- ANOTACIONES DE REDACCIÓN:
+- Por qué entre 95.000 y 120.000 habitantes: Trevijano, la Atenas clásica y la lingüística, y un congreso no muy grande con representantes cercanos.
+- Por qué las restricciones de continuidad, proximidad y coherencia histórico-cultural, y el orden en que se cruzan las subdivisiones.
+- Por qué el artículo 14 es pétreo y sin parámetros configurables, y el algoritmo del 15 a N5.
+- Por qué el algoritmo maximiza el percentil 25 mínimo: el coste de corromper al cuarto más vulnerable.
+- Por qué el gerrymandering lo previene el algoritmo y no las restricciones.
+- Por qué cada 21 años: el reloj biológico y la ingeniería demográfica, y por qué el 16 es pétreo.
+- Por qué la comisión por sorteo, los plazos largos, los 45 días de ratificación y las penas del 30%.
+- Por qué el pueblo puede redibujar los distritos con un tercio del censo y un referéndum a N1 del censo.
+- Por qué el censo de distrito exige los últimos cuatro años de residencia, contando los de menor.
+- Por qué los distritos llenos, la espera por antigüedad y que nadie sea desplazado.
+- Por qué los 4 y los 10 años en el extranjero, la excepción de los cónsules y el ciudadano sin distrito.
+- Por qué residir se mide en noches y se descuentan las de trabajo.
+- Por qué una revocación tras una actualización revisa los votos con todos en contra.
+- El ejemplo del algoritmo aplicado a España y sus limitaciones.
+- Cómo adaptar las subdivisiones territoriales a otros países.
+-->
 
 El mínimo del rango viene de Trevijano. En su libro Teoría pura de la república solo da el argumento lingüístico, pero en una entrevista contó de dónde salía la cifra, pues le influyó la Atenas clásica, donde situaba una población de 100.000 personas, y sus estudios de lingüística la corroboraron después, ya que "la conclusión de los lingüistas era que cuando se baja de los 100.000 desaparece el idioma". Una comunidad que no llega a ese tamaño no se sostiene como comunidad política. Pero el argumento más fuerte es otro. Entre 95.000 y 120.000 habitantes es un número lo suficientemente grande como para que un país grande como España tenga un congreso no muy grande, unos 450 representantes, y lo suficientemente pequeño como para que el representante esté físicamente cerca de los representados, es decir, vive en el distrito, la gente lo conoce ó por lo menos se lo encuentra por la calle. Ese roce es un factor fundamental contra la corrupción descarada, por miedo a las represalias sociales. La excepción por imposibilidad geográfica permite que distritos aislados, islas pequeñas ó zonas montañosas, se desvíen del rango cuando la contigüidad y la coherencia lo impidan, siempre con la desviación mínima necesaria para no percer la cercanía que debilita la corrupción.
 

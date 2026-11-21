@@ -1,8 +1,10 @@
 # PROGRESS TRACKER
 
-Revisión manual del autor del artículo en la parte 1 y 2. Se marca [x] si además no tiene ningún TODO ni comentario en la parte 1 ni en la parte 2, y no está referenciado directamente en TOTHINK.md.
+## Parte 1: articulado
 
-**Completado: 7/91 (7.7%)** · actualizado 19/11/2026
+Revisión manual del autor del texto de cada artículo en la parte 1. Se marca [x] cuando el artículo está revisado.
+
+**Completado: 8/91 (8.8%)** · actualizado 21/11/2026
 
 - [ ] art1
 - [x] art2
@@ -10,11 +12,11 @@ Revisión manual del autor del artículo en la parte 1 y 2. Se marca [x] si adem
 - [ ] art4
 - [ ] art5
 - [x] art6
-- [x] art7
+- [ ] art7
 - [x] art8
 - [x] art9
-- [ ] art10
-- [ ] art11
+- [x] art10
+- [x] art11
 - [ ] art12
 - [x] art13
 - [ ] art14
@@ -95,3 +97,55 @@ Revisión manual del autor del artículo en la parte 1 y 2. Se marca [x] si adem
 - [ ] art89
 - [ ] art90
 - [ ] art91
+
+## Parte 2: argumentación
+
+Revisión manual del autor de cada sección de la parte 2-2. Se marca [x] cuando la sección está revisada.
+
+**Completado: 0/45 (0.0%)** · actualizado 21/11/2026
+
+- [ ] Artículo 1: Soberanía Popular y Jerarquía de Legitimidad
+- [ ] Artículo 2: Niveles de Consenso
+- [ ] Artículo 3: Sujetos Constitucionales
+- [ ] Artículo 4: Nacionalidad
+- [ ] Artículo 5: Derecho al Sufragio
+- [ ] Artículo 6: Propiedades Obligatorias del Voto
+- [ ] Artículo 7: Derecho a la Autodeterminación Territorial
+- [ ] Artículo 8: Igualdad ante la Ley y Responsabilidad Pública
+- [ ] Artículo 9: Lengua Oficial
+- [ ] Artículos 10 y 11: Financiación y Publicidad Electoral
+- [ ] Artículos 12, 13 y 19 a 23: Representación, Elección y Revocación de Representantes Distritales
+- [ ] Artículos 14 a 18: Tamaño, Delimitación y Actualización de los Distritos
+- [ ] Artículo 25: Separación de Poderes
+- [ ] Artículos 26-28: Poder Legislativo
+- [ ] Artículos 29-30: Poder Ejecutivo
+- [ ] Artículo 31: Sucesión Presidencial
+- [ ] Artículos 33-36: Ministerios y Presupuesto
+- [ ] Artículos 37-43: Poder Judicial
+- [ ] Artículos 44-45: Autodestrucción Mutua
+- [ ] Incumplimiento Grave del Presidente
+- [ ] ¿Por qué control difuso y no un Tribunal Constitucional centralizado?
+- [ ] Responsabilidad penal bidireccional
+- [ ] Anulación Popular de decisiones judiciales (artículo 51)
+- [ ] Artículo 52: Anulación Popular de Decisiones Legislativas
+- [ ] ¿Por qué la transparencia presupuestaria es constitucional?
+- [ ] Derecho de auditoría ciudadana
+- [ ] Control civil del ejército
+- [ ] ¿Por qué el 85% (N5) para declarar guerra?
+- [ ] Amputación de una mano por operaciones secretas desastrosas
+- [ ] Separación de ramas militares
+- [ ] El problema estructural
+- [ ] Consenso creciente e intervalos decrecientes
+- [ ] Declaración falsa de estado de excepción
+- [ ] Activación automática
+- [ ] Supuestos concretos y definición de «atacante de la nación»
+- [ ] Seis límites no suspendibles
+- [ ] Control parlamentario y elecciones durante estados de excepción
+- [ ] Control judicial de la declaración del estado de excepción
+- [ ] Prohibición de decretos fuera de estados de excepción
+- [ ] ¿Por qué estas doce cláusulas pétreas específicas?
+- [ ] Asimetría temporal
+- [ ] Artículo 87: Los mecanismos prevalecen sobre los derechos
+- [ ] Artículo 85: Reforma ordinaria y protección contra bypass
+- [ ] Artículo 90: Transición Institucional
+- [ ] Artículo 91: Proceso de Arranque

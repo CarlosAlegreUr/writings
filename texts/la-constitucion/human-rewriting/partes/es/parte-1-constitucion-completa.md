@@ -179,7 +179,6 @@ La designación de una lengua oficial no prohíbe el uso de otras lenguas en el 
 
 ## SUBTÍTULO 1: REGLAS COMUNES
 
-<!-- TODO: seguir por aquí y luego revisar todo el TÍTULO II para darlo por terminado. -->
 ### Artículo 10: Financiación Electoral
 
 Este artículo se aplica a todas las elecciones reguladas por esta Constitución.
@@ -190,35 +189,33 @@ Si existe financiación pública para campañas electorales, su cuantía debe se
 
 - Donaciones privadas:
 
-Solo los ciudadanos con derecho a voto pueden donar a un candidato; ninguna persona jurídica puede hacerlo. Cada ciudadano con derecho a voto solo puede realizar 1 donación por elección, y su cuantía máxima es el 10% de la renta anual correspondiente al percentil 25 de renta de la nación. El origen, el destino y la cuantía de toda donación privada deben ser públicos y auditables.
+Solo los ciudadanos con derecho a voto pueden donar a un candidato; ninguna persona jurídica puede hacerlo. Cada ciudadano con derecho a voto solo puede realizar 1 donación en cada proceso electoral, es decir, 1 para cada elección presidencial y 1 para cada elección de su distrito, y su cuantía máxima es el 10% de la renta anual correspondiente al percentil 25 de renta de la nación. Cada donación cuenta para la siguiente elección de su tipo y puede realizarse en cualquier momento desde que termina la anterior; una vez realizada, no puede realizarse otra del mismo tipo hasta que termine la elección para la que cuenta. El origen, el destino y la cuantía de toda donación privada deben ser públicos y auditables.
 
 - Financiación ilegal:
 
-Toda donación que supere el límite legal de quien la hizo debe ser expropiada. Quien haya financiado a un candidato por encima de su límite legal debe ser condenado a 8 años de prisión. Esta responsabilidad alcanza solo a quien realizó la financiación, no a quien dejó de impedirla.
+Toda donación que incumpla las reglas de donación de este artículo será expropiada. Quien haya financiado a un candidato incumpliendo esas reglas será condenado a 8 años de prisión. Esta pena solo puede imponerse por acción, nunca por omisión.
 
 - Protección de los donantes:
 
-Quien amenace ó cause daño a una persona por motivo de sus donaciones electorales debe ser condenado a 4 años de prisión.
+Quien amenace ó cause daño a una persona por motivo de sus donaciones electorales será condenado a 4 años de prisión.
 
 - Configurabilidad:
 
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6, salvo las penas de prisión, que solo pueden modificarse mediante el procedimiento del artículo 84. Estos son: 10% de la renta del percentil 25 como donación máxima individual y 1 donación por ciudadano y elección.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6, salvo las penas de prisión, que solo pueden modificarse mediante el procedimiento del artículo 84. Estos son: 10% de la renta del percentil 25 como donación máxima individual y 1 donación por ciudadano y proceso electoral.
 
 ---
 
 ### Artículo 11: Publicidad Electoral
-<!-- BOCETO (19/11/2026): revisar -->
 
-- Periodo de reflexión:
-
-Durante los 7 días previos a la primera vuelta de las elecciones generales y a la primera vuelta de la elección presidencial, queda prohibida toda forma de campaña electoral. Durante este periodo, los candidatos solo pueden dirigirse al electorado mediante actos públicos en espacios previamente acordados, con la misma cantidad de tiempo y las mismas condiciones para cada candidato. La ley electoral debe establecer los detalles organizativos y las sanciones por infringirlo.
+Durante los 7 días previos a la primera vuelta de las elecciones generales y de la elección presidencial, y, en las demás elecciones de distrito, desde su convocatoria hasta la votación, queda prohibida toda forma de campaña electoral. Durante este periodo, los candidatos solo pueden dirigirse al electorado mediante actos públicos en espacios previamente acordados, con la misma cantidad de tiempo y las mismas condiciones para cada candidato. La ley electoral debe establecer los detalles organizativos y las sanciones por infringir estos límites. Dichas sanciones deberán incluir como mínimo 1 año de prisión.
 
 - Configurabilidad:
 
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6. Estos son: 7 días de periodo de reflexión previo a la primera vuelta de las elecciones generales y de la elección presidencial.
+Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6, salvo la pena mínima de prisión, que solo puede modificarse mediante el procedimiento del artículo 84. Estos son: 7 días de periodo de reflexión previo a la primera vuelta de las elecciones generales y de la elección presidencial.
 
 ---
 
+<!-- TODO: revisar parte I y II de los 2 subtitulos. Es probable que todos, excepto lo dep residente esten muy bien ya. -->
 ### ARTÍCULO 12: Recogida y Verificación de Firmas
 
 Este artículo establece el procedimiento común a toda iniciativa popular de esta Constitución que requiera firmas. Cada artículo que remita a este debe fijar su umbral de firmas requeridas para la aceptación, su plazo de recogida, la autoridad competente ante la que se tramita, quién puede iniciarla y los plazos y penas de tramitación y verificación.
@@ -333,9 +330,9 @@ Mientras se espere hueco, quien venía de otro distrito sigue perteneciendo al c
 
 Este artículo aplica a las elecciones de representantes por distrito que conformarán el Poder Legislativo. El ganador de cada cargo se determina mediante el método de recuento del artículo 20.
 
-Las elecciones generales se celebran el mismo día en todos los distritos, 21 días después del fin del mandato del Poder Legislativo. Estos 21 días están compuestos por dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 10. Terminan cuando todos los distritos cuentan con representante, incluidas las elecciones resolutorias del artículo 21. Todo día en que se celebre una elección es festivo, incluidas las elecciones resolutorias. En las elecciones generales se vota también el umbral de revocación del distrito conforme al artículo 23.
+Las elecciones generales se celebran el mismo día en todos los distritos, 21 días después del fin del mandato del Poder Legislativo. Estos 21 días están compuestos por dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 11. Terminan cuando todos los distritos cuentan con representante, incluidas las elecciones resolutorias del artículo 21. Todo día en que se celebre una elección es festivo, incluidas las elecciones resolutorias. En las elecciones generales se vota también el umbral de revocación del distrito conforme al artículo 23.
 
-Las elecciones de distrito convocadas tras una revocación, por vacante, por anulación ó como resolutorias del artículo 21 se celebran 7 días después de su convocatoria. En las elecciones generales, la inscripción de candidaturas está abierta desde que comienza la campaña hasta que comienza el periodo de reflexión del artículo 10; en las demás elecciones, desde su convocatoria hasta 2 días antes de la votación.
+Las elecciones de distrito convocadas tras una revocación, por vacante, por anulación ó como resolutorias del artículo 21 se celebran 7 días después de su convocatoria. En las elecciones generales, la inscripción de candidaturas está abierta desde que comienza la campaña hasta que comienza el periodo de reflexión del artículo 11; en las demás elecciones, desde su convocatoria hasta 2 días antes de la votación.
 
 Un mínimo de participación del 51% del censo del distrito es necesario para que la votación sea válida. Si no se alcanza, la votación se repite una sola vez, dentro de 7 días. Si tampoco se alcanza entonces, el cargo queda vacante.
 
@@ -440,12 +437,13 @@ Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse 
 
 ---
 
+<!-- TODO: seguir por aquí y luego releer todos arts de titulo II y luego releer todas args arts1 y 2. -->
 ## SUBTÍTULO 4: ELECCIÓN DEL PRESIDENTE
 
 ### Artículo 24: Elección del Presidente
 <!-- (19/11/2026) Texto movido tal cual del artículo del Presidente en la reorganización del Título II; solo el reparto de la configurabilidad y la frase de remisión del Presidente son del refactor. Revisar con el Presidente. -->
 
-El Presidente de la República es elegido por sufragio directo de todos los ciudadanos con derecho a voto conforme al artículo 5, mediante un sistema de doble vuelta.
+El Presidente es elegido por sufragio directo de todos los ciudadanos con derecho a voto conforme al artículo 5, mediante un sistema de doble vuelta.
 
 En la primera vuelta, si un candidato alcanza o supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato supera el 51%, se celebra segunda vuelta entre los dos candidatos con mayor porcentaje de votos. El candidato que obtenga mayor porcentaje en la segunda vuelta es proclamado electo.
 
