@@ -222,7 +222,7 @@ Este artículo establece el procedimiento común a toda iniciativa popular de es
 
 - Anuncio:
 
-La recogida de firmas debe anunciarse oficialmente ante la autoridad competente. Lo único que puede exigirse a quien anuncia es un documento de identidad oficial que permita verificar que cumple las condiciones del artículo que regula la iniciativa, además de lo que ese mismo artículo exija expresamente. Si el anuncio se rechaza por documentación inválida ó incompleta, la autoridad debe notificar por escrito los motivos y guardar una copia en un historial públicamente accesible, y el anuncio puede volver a presentarse, ante la misma ó ante cualquier otra autoridad competente, en el plazo que fije el artículo de la iniciativa. Presentada la documentación válida, la autoridad ante la que se presente debe tramitar el anuncio en el plazo que fije ese artículo; si no lo hace, incurre en la pena que ese artículo establezca. La única excepción a esta obligación es que la autoridad sufra un daño físico que requiera atención hospitalaria en menos de un día. Anunciada la recogida, cualquier ciudadano con derecho a voto puede recoger firmas para ella.
+La recogida de firmas debe anunciarse oficialmente ante la autoridad competente. El anuncio y la presentación de firmas deben hacerse en el lugar de trabajo de la autoridad y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día laborable. Lo único que puede exigirse a quien anuncia es un documento de identidad oficial que permita verificar que cumple las condiciones del artículo que regula la iniciativa, además de lo que ese mismo artículo exija expresamente. Si el anuncio se rechaza por documentación inválida ó incompleta, el motivo del rechazo debe constar en un registro público, y el anuncio puede volver a presentarse, ante la misma ó ante cualquier otra autoridad competente, en el plazo que fije el artículo de la iniciativa. Presentada la documentación válida, la autoridad ante la que se presente debe tramitar el anuncio en el plazo que fije ese artículo; si no lo hace, incurre en la pena que ese artículo establezca. La única excepción a esta obligación es que la autoridad sufra un daño físico que requiera atención hospitalaria en menos de un día. Anunciada la recogida, cualquier ciudadano con derecho a voto puede recoger firmas para ella.
 
 - Presentación:
 
@@ -356,11 +356,11 @@ El mínimo de participación del artículo 19 se aplica únicamente a la primera
 
 ---
 
-### Artículo 21: Candidaturas y Asignación de Cargos
+### ARTÍCULO 21: Candidaturas y Asignación de Cargos
 
 Puede presentarse como candidato cualquier ciudadano con derecho a voto que pertenezca al censo del distrito.
 
-La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, dentro del plazo de inscripción que establece el artículo 19. Lo único que puede exigirse al candidato es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto, que pertenece al censo del distrito y que cumple las condiciones del artículo 5; nada más puede pedírsele. Si la inscripción se rechaza por documentación inválida ó incompleta, el candidato puede volver a presentarla pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito. Presentado el documento válido, la autoridad debe inscribir la candidatura en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, dentro del plazo de inscripción que establece el artículo 19. La inscripción debe presentarse en el lugar de trabajo de la autoridad y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día del plazo de inscripción, sea laborable ó no. Lo único que puede exigirse al candidato es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto, que pertenece al censo del distrito y que cumple las condiciones del artículo 5; nada más puede pedírsele. La autoridad solo puede rechazar la inscripción por cuatro motivos: que el documento sea inválido ó incompleto, que el candidato no pertenezca al censo del distrito, que no cumpla las condiciones del artículo 5, ó que se presente fuera del plazo de inscripción. Si la rechaza, el motivo del rechazo debe constar en un registro público, y el candidato puede volver a presentarla pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito. Si no se da ninguno de esos motivos, la autoridad debe inscribir la candidatura en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 Las candidaturas son públicas desde su inscripción y quien se presenta es candidato a todos los cargos electos del distrito, incluidas las elecciones resolutorias de este artículo.
 
@@ -439,9 +439,9 @@ Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse 
 
 ### ARTÍCULO 24: Procedimiento de Elección Presidencial
 
-Este artículo se aplica a la elección del Presidente, que es elegido directamente por todos los ciudadanos con derecho a voto. El ganador se determina mediante el método de recuento del artículo 25.
+El Presidente es elegido directamente por todos los ciudadanos con derecho a voto. El ganador se determina mediante el método de recuento del artículo 25.
 
-La elección presidencial debe celebrarse 21 días después del fin del mandato del Presidente. Estos 21 días están compuestos por dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 11. Las elecciones presidenciales convocadas antes del fin del mandato deben celebrarse en los plazos de los artículos 33 y 46. Todo día en que se celebre una votación presidencial es festivo.
+La elección presidencial debe celebrarse 21 días después del fin del mandato del Presidente. Estos 21 días están compuestos por dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 11. Solamente bajo las condiciones excepcionales descritas en los artículos 33, 46 y 48 de esta Constitución, estos plazos serán sustituidos por los establecidos en dichos artículos. Todo día en que se celebre una votación presidencial es festivo.
 
 En la elección que sigue al fin del mandato, la inscripción de candidaturas queda abierta desde que comienza la campaña hasta que comienza el periodo de reflexión del artículo 11; en las demás, desde su convocatoria hasta 2 días antes de la votación.
 
@@ -457,7 +457,7 @@ Mientras dure la elección y hasta que el Presidente electo tome posesión, quie
 
 ### ARTÍCULO 25: Método de Recuento Presidencial
 
-Este artículo establece el método con el que se determina el ganador de la elección presidencial del artículo 24.
+El método de recuento de la elección presidencial es el siguiente.
 
 En la primera vuelta, si un candidato alcanza ó supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato lo alcanza, se celebrará una segunda vuelta entre los dos candidatos más votados en un plazo máximo de 7 días. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
 
@@ -467,11 +467,13 @@ El mínimo de participación del artículo 24 se aplica únicamente a la primera
 
 ### ARTÍCULO 26: Candidaturas Presidenciales
 
-Puede presentarse como candidato cualquier ciudadano con derecho a voto al que el artículo 31 no se lo impida.
+Puede presentarse como candidato cualquier ciudadano con derecho a voto que no supere la edad máxima del artículo 5 ni el límite de mandatos del artículo 31.
 
-La candidatura puede inscribirse de forma individual ante cualquier juez local del país, dentro del plazo de inscripción que establece el artículo 24. Lo único que puede exigirse al candidato es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto y que cumple las condiciones del artículo 5; nada más puede pedírsele. Si la inscripción se rechaza por documentación inválida ó incompleta, el candidato puede volver a presentarla pasadas 2 horas, ante el mismo ó ante cualquier otro juez. Presentado el documento válido, el juez debe inscribir la candidatura en menos de un día. Si no lo hace, será condenado a un año de prisión. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que el juez sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+La candidatura puede inscribirse de forma individual ante cualquier juez local del país, dentro del plazo de inscripción del artículo 24. La inscripción debe presentarse en el lugar de trabajo del juez y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día del plazo de inscripción, sea laborable ó no. Lo único que puede exigírsele al candidato es un documento de identidad oficial que permita verificar que cumple las condiciones de los artículos 5 y 31.
 
-Las candidaturas deben ser públicas desde su inscripción.
+El juez solo puede rechazar la inscripción por tres motivos: que el documento sea inválido ó incompleto, que el candidato no cumpla las condiciones de los artículos 5 y 31, ó que se presente fuera del plazo de inscripción. Si la rechaza, el motivo del rechazo debe constar en un registro público, y el candidato puede volver a presentarla pasadas 2 horas, ante el mismo ó ante cualquier otro juez. Si no se da ninguno de esos motivos, el juez debe inscribir la candidatura en menos de un día. Si no lo hace, será condenado a un año de prisión. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que el juez sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+
+Todas las candidaturas deben ser públicas desde su inscripción.
 
 ---
 
@@ -1229,6 +1231,7 @@ Los siguientes principios constitucionales son cláusulas pétreas: no pueden se
 19. Recogida y Verificación de Firmas (artículo 12): El procedimiento común de las iniciativas populares que requieren firmas no puede ser suprimido.
 20. Elección del Presidente (artículos 24 a 26): Elección directa del Presidente por todos los ciudadanos con derecho a voto.
 21. Método de Recuento (artículo 20): Método con el que se determina el ganador de cada cargo electo de distrito.
+22. Candidaturas y Asignación de Cargos (artículo 21): Quién puede presentarse como candidato en su distrito, cómo se inscribe y cómo se asignan y sustituyen los cargos.
 
 ---
 
