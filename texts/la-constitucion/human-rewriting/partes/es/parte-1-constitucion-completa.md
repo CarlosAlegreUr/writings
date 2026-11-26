@@ -103,13 +103,13 @@ Los parámetros numéricos de este artículo solo pueden modificarse mediante el
 
 ### ARTÍCULO 5: Derecho al Sufragio
 
-Todo ciudadano que alcance la edad de voto tiene derecho al sufragio. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El sufragio no puede restringirse salvo dentro de los límites de edad establecidos en este artículo.
+Solo los ciudadanos pueden tener derecho a voto, y todo ciudadano que alcance la edad de voto lo tiene. Cada ciudadano dispone de un voto con igual valor: un ciudadano, un voto. El derecho a voto de un ciudadano solo podrá restringirse por la edad de voto de este artículo y por las reglas de residencia del artículo 18.
+
+Solo los ciudadanos con derecho a voto pueden ser elegidos ó nombrados para los siguientes cargos: representantes y suplentes del Poder Legislativo; Presidente, Vicepresidente y ministros del Poder Ejecutivo; y magistrados del Tribunal Supremo. Además, no podrá ser elegido ni nombrado para ninguno de ellos quien haya superado la edad máxima de este artículo en la fecha de la elección ó del nombramiento, ni quien esté inhabilitado conforme al artículo 8.
 
 La edad de voto es de 18 años por defecto. Este valor puede ajustarse entre 18 y 25 años mediante consenso de Nivel N5 del Poder Legislativo. Los límites de este rango solo pueden modificarse mediante el procedimiento de reforma establecido en el artículo 86.
 
-Solo los ciudadanos con derecho a voto pueden ser elegidos ó nombrados para los siguientes cargos: representantes y suplentes del Poder Legislativo; Presidente, Vicepresidente y ministros del Poder Ejecutivo; y magistrados del Tribunal Supremo.
-
-Además, no podrá ser elegido ni nombrado para ninguno de ellos quien haya superado los 63 años en la fecha de la elección ó del nombramiento. Esta edad máxima puede elevarse mediante consenso de Nivel N5 del Poder Legislativo, pero nunca reducirse por debajo de 63 años. Este límite inferior solo puede modificarse mediante el procedimiento de reforma establecido en el artículo 86.
+La edad máxima para esos cargos es de 63 años por defecto. Este valor puede elevarse mediante consenso de Nivel N5 del Poder Legislativo, pero nunca reducirse por debajo de 63 años. Este límite inferior solo puede modificarse mediante el procedimiento de reforma establecido en el artículo 86.
 
 ---
 
@@ -360,7 +360,7 @@ El mínimo de participación del artículo 19 se aplica únicamente a la primera
 
 Puede presentarse como candidato cualquier ciudadano con derecho a voto que pertenezca al censo del distrito.
 
-La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, dentro del plazo de inscripción que establece el artículo 19. La inscripción debe presentarse en el lugar de trabajo de la autoridad y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día del plazo de inscripción, sea laborable ó no. Lo único que puede exigirse al candidato es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto, que pertenece al censo del distrito y que cumple las condiciones del artículo 5; nada más puede pedírsele. La autoridad solo puede rechazar la inscripción por cuatro motivos: que el documento sea inválido ó incompleto, que el candidato no pertenezca al censo del distrito, que no cumpla las condiciones del artículo 5, ó que se presente fuera del plazo de inscripción. Si la rechaza, el motivo del rechazo debe constar en un registro público, y el candidato puede volver a presentarla pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito. Si no se da ninguno de esos motivos, la autoridad debe inscribir la candidatura en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+La candidatura se inscribe de forma individual ante la autoridad competente del distrito, por defecto cualquier juez local, dentro del plazo de inscripción que establece el artículo 19. La inscripción debe presentarse en el lugar de trabajo de la autoridad y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día del plazo de inscripción, sea laborable ó no. Lo único que puede exigirse al candidato es un documento de identidad oficial que permita verificar que es ciudadano con derecho a voto, que pertenece al censo del distrito y que cumple las condiciones de los artículos 5 y 8; nada más puede pedírsele. La autoridad solo puede rechazar la inscripción por cuatro motivos: que el documento sea inválido ó incompleto, que el candidato no pertenezca al censo del distrito, que no cumpla las condiciones de los artículos 5 y 8, ó que se presente fuera del plazo de inscripción. Si la rechaza, el motivo del rechazo debe constar en un registro público, y el candidato puede volver a presentarla pasadas 2 horas, ante la misma ó ante cualquier otra autoridad competente del distrito. Si no se da ninguno de esos motivos, la autoridad debe inscribir la candidatura en menos de un día. Si no lo hace, incurre en sentencia penal de un año de prisión por defecto y dos como máximo. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que la autoridad sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 Las candidaturas son públicas desde su inscripción y quien se presenta es candidato a todos los cargos electos del distrito, incluidas las elecciones resolutorias de este artículo.
 
@@ -405,7 +405,7 @@ La recogida de firmas se rige por el artículo 12 con los siguientes parámetros
 
 Una vez convocada, la votación es abierta a todo ciudadano del censo del distrito. La votación de revocación se celebra 14 días después de la convocatoria formal de la votación. Si los votos a favor no alcanzan el umbral de revocación, la revocación no prospera y solo puede intentarse de nuevo iniciando otro procedimiento completo, desde la recogida de firmas.
 
-Si los votos a favor de la revocación alcanzan el umbral de revocación del distrito, el mandato queda extinguido y la nueva elección, conforme a los artículos 19 a 21, queda convocada ese mismo día. El elegido completa el mandato en curso.
+Si los votos a favor de la revocación alcanzan el umbral de revocación del distrito, el mandato queda extinguido y la nueva elección, conforme a los artículos 19 a 21, queda convocada ese mismo día. Hasta la toma de posesión del sucesor, el representante revocado continúa en el escaño con carácter interino. El elegido completa el mandato en curso.
 
 - Umbral de revocación:
 
@@ -439,7 +439,7 @@ Durante el Proceso de Arranque, estos parámetros numéricos pueden modificarse 
 
 ### ARTÍCULO 24: Procedimiento de Elección Presidencial
 
-El Presidente es elegido directamente por todos los ciudadanos con derecho a voto. El ganador se determina mediante el método de recuento del artículo 25.
+El Presidente es elegido directamente por todos los ciudadanos con derecho a voto. El ganador se determina mediante el método de recuento del artículo 25. Ese método debe dar siempre un único ganador, sin posibilidad de empate.
 
 La elección presidencial debe celebrarse 21 días después del fin del mandato del Presidente. Estos 21 días están compuestos por dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 11. Solamente bajo las condiciones excepcionales descritas en los artículos 33, 46 y 48 de esta Constitución, estos plazos serán sustituidos por los establecidos en dichos artículos. Todo día en que se celebre una votación presidencial es festivo.
 
@@ -453,6 +453,10 @@ Si al cierre de la inscripción no hay ningún candidato, no se celebra la votac
 
 Mientras dure la elección y hasta que el Presidente electo tome posesión, quien ejerza la Presidencia continúa en funciones con carácter interino. El Presidente electo debe tomar posesión el día siguiente a su proclamación.
 
+Si el Presidente electo fallece, renuncia ó es declarado incapaz antes de tomar posesión, la elección debe repetirse 14 días después. Estos 14 días están compuestos por una semana de campaña electoral y una semana de reflexión conforme al artículo 11.
+
+Si una elección presidencial no se celebra en su plazo, quien ejerza la Presidencia se considera usurpador del cargo y será condenado a 15 años de prisión como mínimo. La única excepción es que la elección esté pospuesta por imposibilidad física objetiva durante un estado de excepción, conforme al artículo 69.
+
 ---
 
 ### ARTÍCULO 25: Método de Recuento Presidencial
@@ -463,15 +467,20 @@ En la primera vuelta, si un candidato alcanza ó supera el 51% de los votos vál
 
 El mínimo de participación del artículo 24 se aplica únicamente a la primera vuelta. La segunda vuelta no tiene mínimo de participación.
 
+Si un empate impide determinar quién pasa a la segunda vuelta ó quién gana una vuelta, se resuelve mediante un sorteo entre los candidatos empatados. La opción "Ninguno" no entra en el sorteo y pierde todo empate.
+
+El sorteo debe ser determinista, no manipulable y públicamente verificable, y se realiza así. Se aplica una función hash criptográfica, como SHA-256 ó Keccak-256, a un dato biométrico de cada candidato empatado. El dato se selecciona según la siguiente prioridad: huella dactilar de la mano izquierda (del meñique al pulgar), de la mano derecha (del pulgar al meñique), del pie izquierdo (del meñique al pulgar), del pie derecho (del pulgar al meñique), retina del ojo izquierdo, retina del ojo derecho. Se utiliza el primer dato disponible de cada candidato; si no dispone de ninguno, se utiliza el número del documento de identidad oficial con el que se inscribió. Los candidatos empatados se ordenan de mayor a menor según el valor de los primeros 2 bytes de su hash, y el empate se resuelve a favor de los primeros de ese orden. Si esos bytes coinciden entre dos candidatos, se comparan sucesivamente sus bytes siguientes hasta que se resuelva.
+<!-- TODO (26/11/2026): este sorteo por hash está escrito también en los artículos 41 y 45; pensar si merece la pena generalizarlo en un artículo común. -->
+
 ---
 
 ### ARTÍCULO 26: Candidaturas Presidenciales
 
-Puede presentarse como candidato cualquier ciudadano con derecho a voto que no supere la edad máxima del artículo 5 ni el límite de mandatos del artículo 31.
+Puede presentarse como candidato cualquier ciudadano con derecho a voto que no supere la edad máxima del artículo 5, no esté inhabilitado por el artículo 8 y no supere el límite de mandatos del artículo 31.
 
-La candidatura puede inscribirse de forma individual ante cualquier juez local del país, dentro del plazo de inscripción del artículo 24. La inscripción debe presentarse en el lugar de trabajo del juez y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día del plazo de inscripción, sea laborable ó no. Lo único que puede exigírsele al candidato es un documento de identidad oficial que permita verificar que cumple las condiciones de los artículos 5 y 31.
+La candidatura puede inscribirse de forma individual ante cualquier juez local del país, dentro del plazo de inscripción del artículo 24. La inscripción debe presentarse en el lugar de trabajo del juez y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día del plazo de inscripción, sea laborable ó no. Lo único que puede exigírsele al candidato es un documento de identidad oficial que permita verificar que cumple las condiciones de los artículos 5, 8 y 31.
 
-El juez solo puede rechazar la inscripción por tres motivos: que el documento sea inválido ó incompleto, que el candidato no cumpla las condiciones de los artículos 5 y 31, ó que se presente fuera del plazo de inscripción. Si la rechaza, el motivo del rechazo debe constar en un registro público, y el candidato puede volver a presentarla pasadas 2 horas, ante el mismo ó ante cualquier otro juez. Si no se da ninguno de esos motivos, el juez debe inscribir la candidatura en menos de un día. Si no lo hace, será condenado a un año de prisión. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que el juez sufra un accidente físico que requiera atención hospitalaria en menos de un día.
+El juez solo puede rechazar la inscripción por tres motivos: que el documento sea inválido ó incompleto, que el candidato no cumpla las condiciones de los artículos 5, 8 y 31, ó que se presente fuera del plazo de inscripción. Si la rechaza, el motivo del rechazo debe constar en un registro público, y el candidato puede volver a presentarla pasadas 2 horas, ante el mismo ó ante cualquier otro juez. Si no se da ninguno de esos motivos, el juez debe inscribir la candidatura en menos de un día. Si no lo hace, será condenado a un año de prisión. La única excepción a esta obligación es la siguiente causa de fuerza mayor: que el juez sufra un accidente físico que requiera atención hospitalaria en menos de un día.
 
 Todas las candidaturas deben ser públicas desde su inscripción.
 
@@ -516,7 +525,8 @@ El Poder Legislativo ejercerá el monopolio de la función legislativa salvo en 
 2. Aprobar el presupuesto anual del Estado.
 3. Aprobar o rechazar el presupuesto propuesto por el Poder Judicial conforme al artículo 39.
 
-Al concluir el mandato, los representantes salientes conservan sus cargos hasta que terminan las elecciones generales conforme al artículo 19. Durante ese periodo el Poder Legislativo conserva todas sus funciones salvo las dos primeras de este artículo y la aprobación de reformas constitucionales.
+Al concluir el mandato, los representantes salientes conservan sus cargos con carácter interino hasta que terminan las elecciones generales conforme al artículo 19. Un representante interino no legisla: no puede votar leyes ni reformas constitucionales. Tampoco puede votar ningún presupuesto, ni el anual del Estado ni el del Poder Judicial.
+<!-- TODO (26/11/2026): revisar las demás funciones del Legislativo para ver si tiene sentido que un representante interino pueda ejercerlas ó no. Sobre los presupuestos, que de momento no puede votar (lo más restrictivo posible, por seguridad; ya se verá si merece la pena ampliarlo): no estoy 100% seguro de que sea la decisión correcta. Caso a pensar: un Presidente con el Legislativo a su favor que sabe que van a elegir uno en su contra y hace alguna triquiñuela para que las generales salgan mal y haya que repetirlas, mientras los interinos le aprueban el presupuesto. Pensar también si el presupuesto se aprueba una sola vez ó puede renovarse durante la legislatura (creo que no hace falta limitarlo a nivel constitucional; lo aprueba siempre el Legislativo, sea una vez ó varias), y comprobar que queda claro que el voto de un interino cuenta en contra de cualquier cambio del presupuesto. -->
 
 ---
 
@@ -525,6 +535,7 @@ Al concluir el mandato, los representantes salientes conservan sus cargos hasta 
 Todas las votaciones del Legislativo son públicas y quedan registradas en un sistema auditable por cualquier ciudadano. El voto de cada representante debe ser conocido o verificable por sus electores.
 
 En las votaciones del Poder Legislativo, los niveles de consenso se calculan sobre el número total de escaños. No existen la abstención ni el voto en blanco: un representante que no emita voto a favor se contabiliza como voto en contra. Los escaños vacantes se contabilizan igualmente como votos en contra.
+<!-- TODO (26/11/2026): mejorar la frase del voto en contra. Dice "que no emita voto a favor", pero debe cubrir también al representante que no puede votar ó al que la Constitución se lo impide (por ejemplo un interino con los presupuestos), y dejar claro que un voto emitido de manera ilegal no cuenta. -->
 
 La mayoría requerida por defecto para aprobar, modificar o derogar leyes es de consenso de Nivel N1, salvo en los casos en que esta Constitución establezca mayorías cualificadas específicas.
 
@@ -569,6 +580,7 @@ El Presidente puede delegar la preparación y propuesta de decisiones en los min
 El Presidente nombra un Vicepresidente. Su mandato coincide con el del Presidente.
 
 Si el Presidente fallece, dimite o es declarado incapaz conforme al artículo 34, el Vicepresidente asume la Presidencia con carácter interino. Se convocan nuevas elecciones presidenciales en un plazo máximo de 45 días desde la asunción interina, salvo durante estados de excepción conforme al artículo 69. El Vicepresidente interino puede presentarse como candidato. Quien asuma la Presidencia interina queda sujeto a las mismas responsabilidades, obligaciones y consecuencias que el Presidente electo. Si las elecciones no se celebran dentro del plazo establecido, quien ocupe la Presidencia interina se considera usurpador del cargo, con todas las consecuencias legales aplicables.
+<!-- TODO (26/11/2026): el artículo 24 ya fija 15 años de prisión como mínimo para el usurpador en toda elección presidencial; poner aquí lo mismo donde dice "con todas las consecuencias legales aplicables". -->
 
 Si el Presidente es cesado mediante el mecanismo de autodestrucción mutua conforme al artículo 46, el Vicepresidente asume la Presidencia con carácter interino hasta la celebración de las nuevas elecciones. Durante este periodo, el Vicepresidente interino ejerce exclusivamente funciones de mantenimiento del orden institucional: no puede aprobar nuevos presupuestos, nombrar ni cesar ministros, ni iniciar nuevas políticas.
 
@@ -1050,6 +1062,7 @@ El Poder Ejecutivo puede emitir decretos exclusivamente durante un estado de exc
 ### Artículo 69: Límite 4 - Control Parlamentario
 
 Durante cualquier estado de excepción, el Poder Legislativo funciona con normalidad. El mecanismo de autodestrucción mutua (artículos 46 y 47) queda suspendido durante el estado de excepción. Las elecciones previstas se posponen únicamente en caso de imposibilidad física objetiva conforme al artículo 71. Esta suspensión aplica también al plazo de 45 días para nuevas elecciones presidenciales establecido en el artículo 33 (sucesión presidencial); mientras dure la suspensión, la penalización por usurpación del artículo 33 no es aplicable. El Poder Legislativo determina mediante consenso de Nivel N1 cuándo ha cesado la imposibilidad física objetiva. Una vez determinado, las elecciones se celebran en un plazo máximo de 45 días conforme al artículo 33 y la penalización por usurpación se reactiva.
+<!-- TODO (26/11/2026): (1) este artículo solo cita la usurpación del artículo 33; el 24 la generaliza a toda elección presidencial y también debe citarse. (2) Analizar si el concepto de usurpación merece un artículo propio: está repartido entre el 24, el 33 y este, con muchas referencias cruzadas. (3) Discrepancia rara: el 24 es pétreo y apunta a algo importante de este artículo, que no lo es. A lo mejor este artículo debería ser pétreo, ó a lo mejor la usurpación debe ir en un artículo aparte, que tiene toda la pinta; decidirlo al llegar aquí. -->
 
 ---
 
@@ -1252,6 +1265,8 @@ La reforma requiere dos votaciones separadas:
 
 Si la segunda votación no alcanza las mayorías requeridas, la propuesta de reforma caduca y no puede presentarse de nuevo hasta transcurrido el periodo de espera.
 
+La reforma entra en vigor transcurridos 3 meses desde la segunda votación.
+
 Periodo de espera:
 <!-- ISSUE 2: Si al final se aprueba, el cooldown no deberia ser 21 años, pues una mala decision deberia ser cambiable en 2 años. No 21. El 21 es para castigar a quien comienza un cambio sin tener consenso social. Quizá, reducirlo, 21 años quiza es demasiado, pensar. -->
 <!-- ISSUE 1: El cooldown se deberia activar por via, no general, pq sino el legislativo falla a proposito y deja al pueblo sin poder empezarlo. -->
@@ -1279,7 +1294,14 @@ Cuando un artículo contiene parámetros con un nivel de protección específico
 Las sanciones que esta Constitución impone a los miembros del Poder Legislativo, aunque figuren entre los parámetros numéricos de un artículo, solo pueden modificarse conforme al artículo 86.
 <!-- TODO: osea, las sanciones pueden alterarse dentro del rango permitido, pero nunca quitarse sino es por el proceso del 85 -->
 
-La reforma ordinaria entra en vigor transcurrida una semana desde la aprobación.
+La reforma ordinaria entra en vigor transcurridos 3 meses desde la aprobación.
+
+Ninguna reforma ordinaria deberá contravenir una cláusula pétrea. Cualquier ciudadano puede impugnarla ante los tribunales por ese motivo, y se juzga como una ley conforme al artículo 50. Estos procedimientos deben tramitarse con prioridad absoluta sobre cualquier otro.
+
+La reforma declarada contraria a una cláusula pétrea es nula y queda eliminada de esta Constitución, y el texto anterior a ella recupera su vigencia. Los legisladores que votaron a favor de ella serán sancionados conforme a los artículos 51 y 52. Si se declara nula después de haber entrado en vigor, toda ley y todo acto aprobados a su amparo son nulos también y quedan eliminados del ordenamiento jurídico.
+<!-- TODO (26/11/2026): al revisar los artículos 50 a 52, decidir si es adecuado referenciarlos aquí, y cuadrar quién puede impugnar y recurrir (aquí cualquier ciudadano; en el 50, ciudadano con derecho a voto). -->
+
+Añadir un artículo a esta Constitución solo puede hacerse mediante el procedimiento del artículo 86.
 
 ---
 

@@ -46,6 +46,10 @@ Principio de redacción del articulado, a revisar en todo el texto: la Constituc
 
 Multas a cargos públicos (27/10/2026). Habrá que definir que a un cargo público multado por cosas de esta Constitución, en el mismo momento de la multa, se le prohíbe todo tipo de donaciones, transferencias, etc., hasta que no la pague. La multa solo puede venir de su salario ó de activos fiscales que hubiese comprado 4 años antes de recibirla. El multado podrá vender cualquier activo previo a esos 4 años si la multa le impide llegar a fin de mes, pero nunca para pagar la deuda proveniente de la multa; y si no, que se endeude.
 
+## 11
+
+Voto de los presos (26/11/2026). Pensar si merece la pena añadir en la parte 2, en la sección del artículo 5, una argumentación de por qué no se restringe el derecho a voto a quien está en prisión. El sufragio pasivo, el de presentarse, sí está restringido (artículo 8), pero el voto no, y habría que explicar por qué a cierto tipo de criminales sí se les debe permitir votar. Hoy esa sección solo le dedica dos frases, las que empiezan en "ha sido dada la capacidad de sufragio a aquellos que sean criminales".
+
 ## todo final: ajuste editorial de los dos puntos, este todo no cuenta en el progress_tracker
 
 Nota del 28/10/2026. En la parte 2 hay dos puntos muy frecuentes, muy de IA (ejemplo en la argumentación del art. 7: "es, por definición, un demos: un pueblo con identidad y voluntad"). En una pasada editorial futura, sustituirlos por conectores de frase ("es decir", "porque", "así que", "de modo que", ó partir la frase en dos) y dejar los dos puntos solo donde de verdad introducen una enumeración ó una cita.
