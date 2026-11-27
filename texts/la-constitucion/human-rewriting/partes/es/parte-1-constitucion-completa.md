@@ -181,7 +181,7 @@ La designación de una lengua oficial no prohíbe el uso de otras lenguas en el 
 
 ### Artículo 10: Financiación Electoral
 
-Este artículo se aplica a todas las elecciones reguladas por esta Constitución.
+Estas reglas de financiación se aplican a todas las elecciones reguladas por esta Constitución.
 
 - Financiación pública:
 
@@ -206,27 +206,41 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 ---
 
 ### Artículo 11: Publicidad Electoral
+<!-- TODO (27/11/2026): artículo a medio revisar. Falta confirmar si son dos plazos de 3 días (uno para denunciar y otro para que el juez declare) ó uno solo para todo, y releer el artículo entero. -->
 
-Durante los 7 días previos a la primera vuelta de las elecciones generales y de la elección presidencial, y, en las demás elecciones de distrito, desde su convocatoria hasta la votación, queda prohibida toda forma de campaña electoral. Durante este periodo, los candidatos solo pueden dirigirse al electorado mediante actos públicos en espacios previamente acordados, con la misma cantidad de tiempo y las mismas condiciones para cada candidato. La ley electoral debe establecer los detalles organizativos y las sanciones por infringir estos límites. Dichas sanciones deberán incluir como mínimo 1 año de prisión.
+Durante los 7 días previos a la primera vuelta de las elecciones generales y de la elección presidencial, y, en las demás elecciones de distrito, desde su convocatoria hasta la votación, queda prohibida toda forma de campaña electoral. Es campaña electoral publicar ó difundir al público cualquier mensaje sobre las opciones de la votación, sea a favor, en contra ó neutro, mediante cualquier tecnología que lo lleve más allá de la propia voz. La conversación en persona y la comunicación privada no lo son.
+
+Durante este periodo, los candidatos solo pueden dirigirse al electorado mediante actos públicos en espacios previamente acordados, con la misma cantidad de tiempo y las mismas condiciones para cada candidato. Estos actos y su retransmisión íntegra y en directo son la única campaña electoral permitida.
+
+Quien haga campaña electoral fuera de los límites de esta Constitución, ó cobre ó pague por ella, podrá y deberá ser condenado a 1 año de prisión como mínimo si alguien lo denuncia dentro de los 3 días siguientes. Pasado ese plazo sin denuncia, ya no puede ser perseguido por ello.
+
+El candidato que la haga él mismo pierde además su candidatura ó, si ya ha sido elegido, el cargo. Deberá declararlo un juez en el plazo máximo de 3 días desde la denuncia, y el motivo deberá constar en un registro público. Si pierde el cargo, la nueva elección queda convocada ese mismo día, en el plazo del artículo 33 si es la presidencial y en el del artículo 19 si es de distrito. Esta pérdida no conlleva la inhabilitación del artículo 8.
+
+La ley electoral debe establecer los detalles organizativos.
 
 - Configurabilidad:
 
-Los parámetros numéricos de este artículo pueden modificarse mediante consenso de Nivel N6, salvo la pena mínima de prisión, que solo puede modificarse mediante el procedimiento del artículo 86. Estos son: 7 días de periodo de reflexión previo a la primera vuelta de las elecciones generales y de la elección presidencial.
+La pena mínima de prisión de este artículo solo puede modificarse mediante el procedimiento del artículo 86. Los demás parámetros numéricos pueden modificarse mediante consenso de Nivel N6. Estos son: 7 días de periodo de reflexión previo a la primera vuelta de las elecciones generales y de la elección presidencial, 3 días para denunciar y 3 días máximo para declarar la pérdida de la candidatura ó del cargo.
 
 ---
 
-<!-- TODO: revisar parte I y II de los 2 subtitulos. Es probable que todos, excepto lo dep residente esten muy bien ya. -->
 ### ARTÍCULO 12: Recogida y Verificación de Firmas
 
-Este artículo establece el procedimiento común a toda iniciativa popular de esta Constitución que requiera firmas. Cada artículo que remita a este debe fijar su umbral de firmas requeridas para la aceptación, su plazo de recogida, la autoridad competente ante la que se tramita, quién puede iniciarla y los plazos y penas de tramitación y verificación.
+El procedimiento común a toda iniciativa popular de esta Constitución que requiera firmas es el siguiente. Cada artículo que remita a este debe fijar su umbral de firmas requeridas para la aceptación, su plazo de recogida, la autoridad competente ante la que se tramita, quién puede iniciarla y los plazos y penas de tramitación y verificación.
 
 - Anuncio:
 
-La recogida de firmas debe anunciarse oficialmente ante la autoridad competente. El anuncio y la presentación de firmas deben hacerse en el lugar de trabajo de la autoridad y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día laborable. Lo único que puede exigirse a quien anuncia es un documento de identidad oficial que permita verificar que cumple las condiciones del artículo que regula la iniciativa, además de lo que ese mismo artículo exija expresamente. Si el anuncio se rechaza por documentación inválida ó incompleta, el motivo del rechazo debe constar en un registro público, y el anuncio puede volver a presentarse, ante la misma ó ante cualquier otra autoridad competente, en el plazo que fije el artículo de la iniciativa. Presentada la documentación válida, la autoridad ante la que se presente debe tramitar el anuncio en el plazo que fije ese artículo; si no lo hace, incurre en la pena que ese artículo establezca. La única excepción a esta obligación es que la autoridad sufra un daño físico que requiera atención hospitalaria en menos de un día. Anunciada la recogida, cualquier ciudadano con derecho a voto puede recoger firmas para ella.
+La recogida de firmas debe anunciarse oficialmente ante la autoridad competente. El anuncio y la presentación de firmas deben hacerse en el lugar de trabajo de la autoridad y dentro de su horario de atención, que no puede ser inferior a 4 horas cada día laborable.
+
+Lo único que puede exigirse a quien anuncia es un documento de identidad oficial que permita verificar que cumple las condiciones del artículo que regula la iniciativa, además de lo que ese mismo artículo exija expresamente. La autoridad solo puede rechazar el anuncio si esa documentación es inválida ó incompleta. Si lo rechaza, el motivo del rechazo debe constar en un registro público, y el anuncio puede volver a presentarse, ante la misma ó ante cualquier otra autoridad competente, en el plazo que fije el artículo de la iniciativa.
+
+Si la documentación es válida y completa, la autoridad ante la que se presente debe tramitar el anuncio en el plazo que fije ese artículo; si no lo hace, incurre en la pena que ese artículo establezca. La única excepción a esta obligación es que la autoridad sufra un daño físico que requiera atención hospitalaria en menos de un día.
+
+Anunciada la recogida, cualquier ciudadano con derecho a voto puede recoger firmas para ella.
 
 - Presentación:
 
-Las firmas deben presentarse de una sola vez, dentro del plazo de recogida, ante la autoridad competente. Una presentación no puede contener más firmas que una vez y media el umbral de aceptación; si las supera, debe rechazarse como documentación inválida. La presentación debe registrarse con las mismas reglas, plazos y penas que el anuncio, y toda presentación debe quedar guardada y ser públicamente accesible.
+Las firmas deben presentarse de una sola vez, dentro del plazo de recogida, ante la autoridad competente. Una presentación no puede contener más firmas que una vez y media el umbral de aceptación; si las supera, debe rechazarse como documentación inválida. La presentación debe registrarse con las mismas reglas, plazos y penas que el anuncio, y solo puede rechazarse por los mismos motivos ó por hacerse fuera del plazo de recogida. Toda presentación debe quedar guardada y ser públicamente accesible.
 
 - Verificación:
 
@@ -328,7 +342,7 @@ Mientras se espere hueco, quien venía de otro distrito sigue perteneciendo al c
 
 ### Artículo 19: Procedimiento de Elección en Distritos
 
-Este artículo aplica a las elecciones de representantes por distrito que conformarán el Poder Legislativo. El ganador de cada cargo se determina mediante el método de recuento del artículo 20.
+Las elecciones de representantes de distrito del Poder Legislativo se rigen por estas reglas. El ganador de cada cargo se determina mediante el método de recuento del artículo 20. Ese método debe dar siempre un único ganador, sin posibilidad de empate.
 
 Las elecciones generales se celebran el mismo día en todos los distritos, 21 días después del fin del mandato del Poder Legislativo. Estos 21 días están compuestos por dos semanas de campaña electoral desde que concluye el mandato y una semana de reflexión conforme al artículo 11. Terminan cuando todos los distritos cuentan con representante, incluidas las elecciones resolutorias del artículo 21. Todo día en que se celebre una elección es festivo en los distritos que votan en ella, incluidas las elecciones resolutorias. En las elecciones generales se vota también el umbral de revocación del distrito conforme al artículo 23.
 
@@ -348,11 +362,16 @@ Los parámetros numéricos de este artículo pueden modificarse mediante consens
 
 ### ARTÍCULO 20: Método de Recuento
 
-Este artículo establece el método con el que se determina el ganador de cada cargo electo de distrito en las elecciones del artículo 19.
+El método de recuento de las elecciones de distrito es el siguiente.
 
 En la primera vuelta, si un candidato alcanza ó supera el 51% de los votos válidos, es proclamado electo directamente. Si ningún candidato lo alcanza, se celebra una segunda vuelta entre los dos candidatos más votados en un plazo máximo de 7 días. El candidato que obtenga más votos en la segunda vuelta es proclamado electo.
 
 El mínimo de participación del artículo 19 se aplica únicamente a la primera vuelta. La segunda vuelta no tiene mínimo de participación.
+
+Si un empate impide determinar quién pasa a la segunda vuelta ó quién gana una vuelta, se resuelve mediante un sorteo entre los candidatos empatados. La opción "Ninguno" no entra en el sorteo y pierde todo empate.
+
+El sorteo debe ser determinista, no manipulable y públicamente verificable, y se realiza así. Se aplica una función hash criptográfica, como SHA-256 ó Keccak-256, a un dato biométrico de cada candidato empatado. El dato se selecciona según la siguiente prioridad: huella dactilar de la mano izquierda (del meñique al pulgar), de la mano derecha (del pulgar al meñique), del pie izquierdo (del meñique al pulgar), del pie derecho (del pulgar al meñique), retina del ojo izquierdo, retina del ojo derecho. Se utiliza el primer dato disponible de cada candidato; si no dispone de ninguno, se utiliza el número del documento de identidad oficial con el que se inscribió. Los candidatos empatados se ordenan de mayor a menor según el valor de los primeros 2 bytes de su hash, y el empate se resuelve a favor de los primeros de ese orden. Si esos bytes coinciden entre dos candidatos, se comparan sucesivamente sus bytes siguientes hasta que se resuelva.
+<!-- TODO (27/11/2026): este sorteo por hash está escrito también en los artículos 25, 41 y 45; pensar si merece la pena generalizarlo en un artículo común. -->
 
 ---
 
@@ -382,7 +401,7 @@ Los representantes del Poder Legislativo serán siempre revocables directamente 
 
 ### ARTÍCULO 23: Procedimiento de Revocación
 
-Este artículo establece el procedimiento por defecto para la revocación de representantes del Poder Legislativo conforme al artículo 22.
+El procedimiento por defecto para revocar a un representante del Poder Legislativo, conforme al artículo 22, es el siguiente.
 
 - Iniciativa:
 
@@ -470,7 +489,7 @@ El mínimo de participación del artículo 24 se aplica únicamente a la primera
 Si un empate impide determinar quién pasa a la segunda vuelta ó quién gana una vuelta, se resuelve mediante un sorteo entre los candidatos empatados. La opción "Ninguno" no entra en el sorteo y pierde todo empate.
 
 El sorteo debe ser determinista, no manipulable y públicamente verificable, y se realiza así. Se aplica una función hash criptográfica, como SHA-256 ó Keccak-256, a un dato biométrico de cada candidato empatado. El dato se selecciona según la siguiente prioridad: huella dactilar de la mano izquierda (del meñique al pulgar), de la mano derecha (del pulgar al meñique), del pie izquierdo (del meñique al pulgar), del pie derecho (del pulgar al meñique), retina del ojo izquierdo, retina del ojo derecho. Se utiliza el primer dato disponible de cada candidato; si no dispone de ninguno, se utiliza el número del documento de identidad oficial con el que se inscribió. Los candidatos empatados se ordenan de mayor a menor según el valor de los primeros 2 bytes de su hash, y el empate se resuelve a favor de los primeros de ese orden. Si esos bytes coinciden entre dos candidatos, se comparan sucesivamente sus bytes siguientes hasta que se resuelva.
-<!-- TODO (26/11/2026): este sorteo por hash está escrito también en los artículos 41 y 45; pensar si merece la pena generalizarlo en un artículo común. -->
+<!-- TODO (26/11/2026): este sorteo por hash está escrito también en los artículos 20, 41 y 45; pensar si merece la pena generalizarlo en un artículo común. -->
 
 ---
 
